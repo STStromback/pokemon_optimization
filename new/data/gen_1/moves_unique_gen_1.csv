@@ -1,0 +1,90 @@
+move,type,power,accuracy,crit
+Absorb,Grass,20,1,FALSE
+Acid,Poison,40,1,FALSE
+Aurora Beam,Ice,65,1,FALSE
+Barrage,Normal,45,0.85,FALSE
+Bind,Normal,15,0.75,FALSE
+Bite,Normal,60,1,FALSE
+Blizzard,Ice,120,0.9,FALSE
+Body Slam,Normal,85,1,FALSE
+Bone Club,Ground,65,0.85,FALSE
+Bonemerang,Ground,100,0.9,FALSE
+Bubble,Water,20,1,FALSE
+BubbleBeam,Water,65,1,FALSE
+Clamp,Water,35,0.75,FALSE
+Comet Punch,Normal,54,0.85,FALSE
+Confusion,Psychic,50,1,FALSE
+Constrict,Normal,10,1,FALSE
+Crabhammer,Water,90,0.85,TRUE
+Cut,Normal,50,0.95,FALSE
+Dig,Ground,100,1,FALSE
+Dizzy Punch,Normal,70,1,FALSE
+Double Kick,Fighting,60,1,FALSE
+DoubleSlap,Normal,45,0.85,FALSE
+Drill Peck,Flying,80,1,FALSE
+Earthquake,Ground,100,1,FALSE
+Egg Bomb,Normal,100,0.75,FALSE
+Ember,Fire,40,1,FALSE
+Fire Blast,Fire,120,0.85,FALSE
+Fire Punch,Fire,75,1,FALSE
+Fire Spin,Fire,15,0.7,FALSE
+Flamethrower,Fire,95,1,FALSE
+Fly,Flying,70,0.95,FALSE
+Fury Attack,Normal,45,0.85,FALSE
+Fury Swipes,Normal,54,0.8,FALSE
+Gust,Normal,40,1,FALSE
+Headbutt,Normal,70,1,FALSE
+Hi Jump Kick,Fighting,85,0.9,FALSE
+Horn Attack,Normal,65,1,FALSE
+Hydro Pump,Water,120,0.8,FALSE
+Hyper Beam,Normal,75,0.9,FALSE
+Hyper Fang,Normal,80,0.9,FALSE
+Ice Beam,Ice,95,1,FALSE
+Ice Punch,Ice,75,1,FALSE
+Jump Kick,Fighting,70,0.95,FALSE
+Karate Chop,Normal,50,1,TRUE
+Leech Life,Bug,20,1,FALSE
+Lick,Ghost,20,1,FALSE
+Low Kick,Fighting,50,0.9,FALSE
+Mega Drain,Grass,40,1,FALSE
+Mega Kick,Normal,120,0.75,FALSE
+Mega Punch,Normal,80,0.85,FALSE
+Pay Day,Normal,40,1,FALSE
+Peck,Flying,35,1,FALSE
+Petal Dance,Grass,70,1,FALSE
+Pin Missile,Bug,44,0.85,FALSE
+Poison Sting,Poison,15,1,FALSE
+Pound,Normal,40,1,FALSE
+Psybeam,Psychic,65,1,FALSE
+Psychic,Psychic,90,1,FALSE
+Quick Attack,Normal,40,1,FALSE
+Rage,Normal,20,1,FALSE
+Razor Leaf,Grass,55,0.95,TRUE
+Rock Slide,Rock,75,0.9,FALSE
+Rock Throw,Rock,50,0.65,FALSE
+Rolling Kick,Fighting,60,0.85,FALSE
+Scratch,Normal,40,1,FALSE
+Slam,Normal,80,0.75,FALSE
+Slash,Normal,70,1,TRUE
+Sludge,Poison,65,1,FALSE
+Smog,Poison,20,0.7,FALSE
+Spike Cannon,Normal,60,1,FALSE
+Stomp,Normal,65,1,FALSE
+Strength,Normal,80,1,FALSE
+Struggle,Normal,1,1,FALSE
+Surf,Water,95,1,FALSE
+Swift,Normal,60,1,FALSE
+Tackle,Normal,35,0.95,FALSE
+Thrash,Normal,90,1,FALSE
+Thunder,Electric,120,0.7,FALSE
+ThunderPunch,Electric,75,1,FALSE
+ThunderShock,Electric,40,1,FALSE
+Thunderbolt,Electric,95,1,FALSE
+Tri Attack,Normal,80,1,FALSE
+Twineedle,Bug,50,1,FALSE
+ViceGrip,Normal,55,1,FALSE
+Vine Whip,Grass,35,1,FALSE
+Water Gun,Water,40,1,FALSE
+Waterfall,Water,80,1,FALSE
+Wing Attack,Flying,35,1,FALSE
+Wrap,Normal,15,0.85,FALSE

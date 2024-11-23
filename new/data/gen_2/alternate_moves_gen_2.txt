@@ -1,0 +1,1326 @@
+$gym_leader_Falkner
+
+Spr 2c 016.png
+Types:
+Normal	Flying
+Held item:
+None
+Pidgey♂ Lv.7
+Tackle
+Normal
+Mud-Slap
+Ground
+ 	--	 
+ 	 
+ 	--	 
+ 	 
+Spr 2c 017.png
+Types:
+Normal	Flying
+Held item:
+None
+Pidgeotto♂ Lv.9
+Tackle
+Normal
+Gust
+Flying
+Mud-Slap
+Ground
+ 	--	 
+ 	 
+$gym_leader_Bugsy
+
+Spr 2c 011.png
+Type:
+Bug
+Held item:
+None
+Metapod♂ Lv.14
+Tackle
+Normal
+String Shot
+Bug
+Harden
+Normal
+ 	--	 
+ 	 
+Spr 2c 014.png
+Types:
+Bug	Poison
+Held item:
+None
+Kakuna♂ Lv.14
+Poison Sting
+Poison
+String Shot
+Bug
+Harden
+Normal
+ 	--	 
+ 	 
+Spr 2c 123.png
+Types:
+Bug	Flying
+Held item:
+None
+Scyther♂ Lv.16
+Fury Cutter
+Bug
+Quick Attack
+Normal
+Leer
+Normal
+ 	--	 
+ 	 
+$gym_leader_Whitney
+
+Spr 2c 035.png
+Type:
+Normal
+Held item:
+None
+Clefairy♀ Lv.18
+Encore
+Normal
+Mimic
+Normal
+DoubleSlap
+Normal
+Metronome
+Normal
+Spr 2c 241.png
+Type:
+Normal
+Held item:
+None
+Miltank♀ Lv.20
+Stomp
+Normal
+Attract
+Normal
+Milk Drink
+Normal
+Rollout
+Rock
+
+$gym_leader_Morty
+
+Spr 2c 092.png
+Types:
+Ghost	Poison
+Held item:
+None
+Gastly♂ Lv.21
+Lick
+Ghost
+Spite
+Ghost
+Mean Look
+Normal
+Curse
+???
+Spr 2c 093.png
+Types:
+Ghost	Poison
+Held item:
+None
+Haunter♂ Lv.21
+Hypnosis
+Psychic
+Curse
+???
+Mimic
+Normal
+Night Shade
+Ghost
+Spr 2c 094.png
+Types:
+Ghost	Poison
+Held item:
+None
+Gengar♂ Lv.25
+Shadow Ball
+Ghost
+Mean Look
+Normal
+Hypnosis
+Psychic
+Dream Eater
+Psychic
+Spr 2c 093.png
+Types:
+Ghost	Poison
+Held item:
+None
+Haunter♂ Lv.23
+Spite
+Ghost
+Mean Look
+Normal
+Mimic
+Normal
+Night Shade
+Ghost
+
+$gym_leader_Chuck
+
+Spr 2c 057.png
+Type:
+Fighting
+Held item:
+None
+Primeape♂ Lv.27
+Leer
+Normal
+Rage
+Normal
+Karate Chop
+Fighting
+Fury Swipes
+Normal
+Spr 2c 062.png
+Types:
+Water	Fighting
+Held item:
+None
+Poliwrath♂ Lv.30
+Hypnosis
+Psychic
+Mind Reader
+Normal
+Surf
+Water
+DynamicPunch
+Fighting
+
+$gym_leader_Jasmine
+
+Spr 2c 081.png
+Types:
+Electric	Steel
+Held item:
+None
+Magnemite Lv.30
+Thunderbolt
+Electric
+Supersonic
+Normal
+SonicBoom
+Normal
+Thunder Wave
+Electric
+Spr 2c 081.png
+Types:
+Electric	Steel
+Held item:
+None
+Magnemite Lv.30
+Thunderbolt
+Electric
+Supersonic
+Normal
+SonicBoom
+Normal
+Thunder Wave
+Electric
+Spr 2c 208.png
+Types:
+Steel	Ground
+Held item:
+None
+Steelix♂ Lv.35
+Iron Tail
+Steel
+Rock Throw
+Rock
+Sunny Day
+Fire
+Screech
+Normal
+
+$gym_leader_Pryce
+
+Spr 2c 086.png
+Type:
+Water
+Held item:
+None
+Seel♂ Lv.27
+Headbutt
+Normal
+Icy Wind
+Ice
+Aurora Beam
+Ice
+Rest
+Psychic
+Spr 2c 087.png
+Types:
+Water	Ice
+Held item:
+None
+Dewgong♂ Lv.29
+Headbutt
+Normal
+Icy Wind
+Ice
+Aurora Beam
+Ice
+Rest
+Psychic
+Spr 2c 221.png
+Types:
+Ice	Ground
+Held item:
+None
+Piloswine♂ Lv.31
+Icy Wind
+Ice
+Fury Attack
+Normal
+Mist
+Ice
+Blizzard
+Ice
+
+$gym_leader_Clair
+
+Spr 2c 148.png
+Type:
+Dragon
+Held item:
+None
+Dragonair♀ Lv.37
+Surf
+Water
+Slam
+Normal
+Thunder Wave
+Electric
+DragonBreath
+Dragon
+Spr 2c 148.png
+Type:
+Dragon
+Held item:
+None
+Dragonair♀ Lv.37
+Thunderbolt
+Electric
+Slam
+Normal
+Thunder Wave
+Electric
+DragonBreath
+Dragon
+Spr 2c 148.png
+Type:
+Dragon
+Held item:
+None
+Dragonair♀ Lv.37
+Ice Beam
+Ice
+Slam
+Normal
+Thunder Wave
+Electric
+DragonBreath
+Dragon
+Spr 2c 230.png
+Types:
+Water	Dragon
+Held item:
+None
+Kingdra♀ Lv.40
+Surf
+Water
+DragonBreath
+Dragon
+SmokeScreen
+Normal
+Hyper Beam
+Normal
+
+$gym_leader_Brock
+
+Spr 2c 075.png
+Types:
+Rock	Ground
+Held item:
+None
+Graveler♂ Lv.41
+Defense Curl
+Normal
+Rock Slide
+Rock
+Rollout
+Rock
+Earthquake
+Ground
+Spr 2c 111.png
+Types:
+Ground	Rock
+Held item:
+None
+Rhyhorn♂ Lv.41
+Fury Attack
+Normal
+Scary Face
+Normal
+Earthquake
+Ground
+Horn Drill
+Normal
+Spr 2c 139.png
+Types:
+Rock	Water
+Held item:
+None
+Omastar♂ Lv.42
+Bite
+Dark
+Surf
+Water
+Protect
+Normal
+Spike Cannon
+Normal
+Spr 2c 141.png
+Types:
+Rock	Water
+Held item:
+None
+Kabutops♂ Lv.42
+Slash
+Normal
+Surf
+Water
+Endure
+Normal
+Giga Drain
+Grass
+Spr 2c 095.png
+Types:
+Rock	Ground
+Held item:
+None
+Onix♂ Lv.44
+Bind
+Normal
+Rock Slide
+Rock
+Bide
+Normal
+Sandstorm
+Rock
+
+$gym_leader_Misty
+
+Spr 2c 055.png
+Type:
+Water
+Held item:
+None
+Golduck♀ Lv.42
+Surf
+Water
+Disable
+Normal
+Psych Up
+Normal
+Psychic
+Psychic
+Spr 2c 195.png
+Types:
+Water	Ground
+Held item:
+None
+Quagsire♀ Lv.42
+Surf
+Water
+Amnesia
+Psychic
+Earthquake
+Ground
+Rain Dance
+Water
+Spr 2c 131.png
+Types:
+Water	Ice
+Held item:
+None
+Lapras♀ Lv.44
+Surf
+Water
+Perish Song
+Normal
+Blizzard
+Ice
+Rain Dance
+Water
+Spr 2c 121.png
+Types:
+Water	Psychic
+Held item:
+None
+Starmie Lv.47
+Surf
+Water
+Confuse Ray
+Ghost
+Recover
+Normal
+Ice Beam
+Ice
+
+$gym_leader_Lt. Surge
+
+Spr 2c 026.png
+Type:
+Electric
+Held item:
+None
+Raichu♂ Lv.44
+Thunderbolt
+Electric
+Thunder
+Electric
+Thunder Wave
+Electric
+Quick Attack
+Normal
+Spr 2c 101.png
+Type:
+Electric
+Held item:
+None
+Electrode Lv.40
+Screech
+Normal
+Double Team
+Normal
+Swift
+Normal
+Explosion
+Normal
+Spr 2c 101.png
+Type:
+Electric
+Held item:
+None
+Electrode Lv.40
+Screech
+Normal
+Double Team
+Normal
+Swift
+Normal
+Explosion
+Normal
+Spr 2c 082.png
+Types:
+Electric	Steel
+Held item:
+None
+Magneton Lv.40
+Zap Cannon
+Electric
+Lock-On
+Normal
+Double Team
+Normal
+Swift
+Normal
+Spr 2c 125.png
+Type:
+Electric
+Held item:
+None
+Electabuzz♂ Lv.46
+ThunderPunch
+Electric
+Thunder
+Electric
+Light Screen
+Psychic
+Quick Attack
+Normal
+
+$gym_leader_Erika
+
+
+Spr 2c 114.png
+Type:
+Grass
+Held item:
+None
+Tangela♀ Lv.42
+Vine Whip
+Grass
+Bind
+Normal
+Giga Drain
+Grass
+Sleep Powder
+Grass
+Spr 2c 071.png
+Types:
+Grass	Poison
+Held item:
+None
+Victreebel♀ Lv.46
+Sunny Day
+Fire
+Synthesis
+Grass
+Acid
+Poison
+Razor Leaf
+Grass
+Spr 2c 189.png
+Types:
+Grass	Flying
+Held item:
+None
+Jumpluff♀ Lv.41
+Mega Drain
+Grass
+Leech Seed
+Grass
+Cotton Spore
+Grass
+Giga Drain
+Grass
+Spr 2c 182.png
+Type:
+Grass
+Held item:
+None
+Bellossom♀ Lv.46
+Sunny Day
+Fire
+Synthesis
+Grass
+Petal Dance
+Grass
+SolarBeam
+Grass
+
+$gym_leader_Janine
+
+Spr 2c 169.png
+Types:
+Poison	Flying
+Held item:
+None
+Crobat♂ Lv.36
+Wing Attack
+Flying
+Confuse Ray
+Ghost
+Supersonic
+Normal
+Screech
+Normal
+Spr 2c 110.png
+Type:
+Poison
+Held item:
+None
+Weezing♂ Lv.36
+Sludge Bomb
+Poison
+Smog
+Poison
+Toxic
+Poison
+Explosion
+Normal
+Spr 2c 110.png
+Type:
+Poison
+Held item:
+None
+Weezing♂ Lv.36
+Sludge Bomb
+Poison
+Smog
+Poison
+Toxic
+Poison
+Explosion
+Normal
+Spr 2c 168.png
+Types:
+Bug	Poison
+Held item:
+None
+Ariados♂ Lv.33
+String Shot
+Bug
+Night Shade
+Ghost
+Giga Drain
+Grass
+Scary Face
+Normal
+Spr 2c 049.png
+Types:
+Bug	Poison
+Held item:
+None
+Venomoth♂ Lv.39
+Toxic
+Poison
+Psychic
+Psychic
+Double Team
+Normal
+Supersonic
+Normal
+
+$gym_leader_Sabrina
+
+Spr 2c 196.png
+Type:
+Psychic
+Held item:
+None
+Espeon♂ Lv.46
+Sand-Attack
+Ground
+Quick Attack
+Normal
+Swift
+Normal
+Psychic
+Psychic
+Spr 2c 122.png
+Type:
+Psychic
+Held item:
+None
+Mr. Mime♀ Lv.46
+Barrier
+Psychic
+Reflect
+Psychic
+Baton Pass
+Normal
+Psychic
+Psychic
+Spr 2c 065.png
+Type:
+Psychic
+Held item:
+None
+Alakazam♂ Lv.48
+Recover
+Normal
+Future Sight
+Psychic
+Psychic
+Psychic
+Reflect
+Psychic
+
+$gym_leader_Blaine
+
+Spr 2c 219.png
+Types:
+Fire	Rock
+Held item:
+None
+Magcargo♂ Lv.45
+Curse
+???
+Smog
+Poison
+Flamethrower
+Fire
+Rock Slide
+Rock
+Spr 2c 126.png
+Type:
+Fire
+Held item:
+None
+Magmar♂ Lv.45
+ThunderPunch
+Electric
+Fire Punch
+Fire
+Sunny Day
+Fire
+Confuse Ray
+Ghost
+Spr 2c 078.png
+Type:
+Fire
+Held item:
+None
+Rapidash♂ Lv.50
+Quick Attack
+Normal
+Fire Spin
+Fire
+Fury Attack
+Normal
+Fire Blast
+Fire
+
+$gym_leader_Blue
+
+Spr 2c 018.png
+Types:
+Normal	Flying
+Held item:
+None
+Pidgeot♂ Lv.56
+Quick Attack
+Normal
+Whirlwind
+Normal
+Wing Attack
+Flying
+Mirror Move
+Flying
+Spr 2c 065.png
+Type:
+Psychic
+Held item:
+None
+Alakazam♂ Lv.54
+Disable
+Normal
+Recover
+Normal
+Psychic
+Psychic
+Reflect
+Psychic
+Spr 2c 112.png
+Types:
+Ground	Rock
+Held item:
+None
+Rhydon♂ Lv.56
+Fury Attack
+Normal
+Sandstorm
+Rock
+Rock Slide
+Rock
+Earthquake
+Ground
+Spr 2c 130.png
+Types:
+Water	Flying
+Held item:
+None
+Gyarados♂ Lv.58
+Twister
+Dragon
+Hydro Pump
+Water
+Rain Dance
+Water
+Hyper Beam
+Normal
+Spr 2c 103.png
+Types:
+Grass	Psychic
+Held item:
+None
+Exeggutor♂ Lv.58
+Sunny Day
+Fire
+Leech Seed
+Grass
+Egg Bomb
+Normal
+SolarBeam
+Grass
+Spr 2c 059.png
+Type:
+Fire
+Held item:
+None
+Arcanine♂ Lv.58
+Roar
+Normal
+Swift
+Normal
+Flamethrower
+Fire
+ExtremeSpeed
+Normal
+
+$kanto_elite_four_Will
+
+
+Spr 2c 178.png
+Types:
+Psychic	Flying
+Held item:
+None
+Xatu♂ Lv.40
+Quick Attack
+Normal
+Future Sight
+Psychic
+Psychic
+Psychic
+Confuse Ray
+Ghost
+Spr 2c 103.png
+Types:
+Grass	Psychic
+Held item:
+None
+Exeggutor♂ Lv.41
+Reflect
+Psychic
+Egg Bomb
+Normal
+Psychic
+Psychic
+Leech Seed
+Grass
+Spr 2c 080.png
+Types:
+Water	Psychic
+Held item:
+None
+Slowbro♂ Lv.41
+Curse
+???
+Amnesia
+Psychic
+Body Slam
+Normal
+Psychic
+Psychic
+Spr 2c 124.png
+Types:
+Ice	Psychic
+Held item:
+None
+Jynx♀ Lv.41
+Ice Punch
+Ice
+DoubleSlap
+Normal
+Psychic
+Psychic
+Lovely Kiss
+Normal
+Spr 2c 178.png
+Types:
+Psychic	Flying
+Held item:
+None
+Xatu♂ Lv.42
+Quick Attack
+Normal
+Future Sight
+Psychic
+Psychic
+Psychic
+Confuse Ray
+Ghost
+
+$kanto_elite_four_Koga
+
+Spr 2c 168.png
+Types:
+Bug	Poison
+Held item:
+None
+Ariados♂ Lv.40
+Spider Web
+Bug
+Double Team
+Normal
+Baton Pass
+Normal
+Giga Drain
+Grass
+Spr 2c 049.png
+Types:
+Bug	Poison
+Held item:
+None
+Venomoth♂ Lv.41
+Psychic
+Psychic
+Gust
+Flying
+Supersonic
+Normal
+Toxic
+Poison
+Spr 2c 205.png
+Types:
+Bug	Steel
+Held item:
+None
+Forretress♂ Lv.43
+Protect
+Normal
+Spikes
+Ground
+Swift
+Normal
+Explosion
+Normal
+Spr 2c 089.png
+Type:
+Poison
+Held item:
+None
+Muk♂ Lv.42
+Sludge Bomb
+Poison
+Acid Armor
+Poison
+Minimize
+Normal
+Toxic
+Poison
+Spr 2c 169.png
+Types:
+Poison	Flying
+Held item:
+None
+Crobat♂ Lv.44
+Double Team
+Normal
+Wing Attack
+Flying
+Quick Attack
+Normal
+Toxic
+Poison
+
+$kanto_elite_four_Bruno
+
+Spr 2c 237.png
+Type:
+Fighting
+Held item:
+None
+Hitmontop♂ Lv.42
+Quick Attack
+Normal
+Dig
+Ground
+Detect
+Fighting
+Pursuit
+Dark
+Spr 2c 106.png
+Type:
+Fighting
+Held item:
+None
+Hitmonlee♂ Lv.42
+Double Kick
+Fighting
+Foresight
+Normal
+Hi Jump Kick
+Fighting
+Swagger
+Normal
+Spr 2c 107.png
+Type:
+Fighting
+Held item:
+None
+Hitmonchan♂ Lv.42
+Ice Punch
+Ice
+Fire Punch
+Fire
+ThunderPunch
+Electric
+Mach Punch
+Fighting
+Spr 2c 095.png
+Types:
+Rock	Ground
+Held item:
+None
+Onix♂ Lv.43
+Rock Slide
+Rock
+Sandstorm
+Rock
+Earthquake
+Ground
+Bind
+Normal
+Spr 2c 068.png
+Type:
+Fighting
+Held item:
+None
+Machamp♂ Lv.46
+Rock Slide
+Rock
+Foresight
+Normal
+Cross Chop
+Fighting
+Vital Throw
+Fighting
+
+$kanto_elite_four_Karen
+
+Spr 2c 197.png
+Type:
+Dark
+Held item:
+None
+Umbreon♂ Lv.42
+Faint Attack
+Dark
+Confuse Ray
+Ghost
+Mean Look
+Normal
+Sand-Attack
+Ground
+Spr 2c 045.png
+Types:
+Grass	Poison
+Held item:
+None
+Vileplume♀ Lv.42
+Stun Spore
+Grass
+Acid
+Poison
+Petal Dance
+Grass
+Moonlight
+Normal
+Spr 2c 198.png
+Types:
+Dark	Flying
+Held item:
+None
+Murkrow♀ Lv.44
+Faint Attack
+Dark
+Whirlwind
+Normal
+Pursuit
+Dark
+Quick Attack
+Normal
+Spr 2c 094.png
+Types:
+Ghost	Poison
+Held item:
+None
+Gengar♀ Lv.45
+Lick
+Ghost
+Spite
+Ghost
+Curse
+???
+Destiny Bond
+Ghost
+Spr 2c 229.png
+Types:
+Dark	Fire
+Held item:
+None
+Houndoom♀ Lv.47
+Crunch
+Dark
+Flamethrower
+Fire
+Roar
+Normal
+Pursuit
+Dark
+
+$kanto_elite_four_Lance
+
+Spr 2c 130.png
+Types:
+Water	Flying
+Held item:
+None
+Gyarados♂ Lv.44
+Rain Dance
+Water
+Surf
+Water
+Flail
+Normal
+Hyper Beam
+Normal
+Spr 2c 149.png
+Types:
+Dragon	Flying
+Held item:
+None
+Dragonite♂ Lv.47
+Twister
+Dragon
+Thunder Wave
+Electric
+Blizzard
+Ice
+Hyper Beam
+Normal
+Spr 2c 006.png
+Types:
+Fire	Flying
+Held item:
+None
+Charizard♂ Lv.46
+Flamethrower
+Fire
+Wing Attack
+Flying
+Slash
+Normal
+Hyper Beam
+Normal
+Spr 2c 142.png
+Types:
+Rock	Flying
+Held item:
+None
+Aerodactyl♂ Lv.46
+Rock Slide
+Rock
+AncientPower
+Rock
+Wing Attack
+Flying
+Hyper Beam
+Normal
+Spr 2c 149.png
+Types:
+Dragon	Flying
+Held item:
+None
+Dragonite♂ Lv.47
+Twister
+Dragon
+Thunder Wave
+Electric
+Thunder
+Electric
+Hyper Beam
+Normal
+Spr 2c 149.png
+Types:
+Dragon	Flying
+Held item:
+None
+Dragonite♂ Lv.50
+Safeguard
+Normal
+Outrage
+Dragon
+Fire Blast
+Fire
+Hyper Beam
+Normal
+
+$pokemon_trainer_Red
+
+
+Spr 2c 025.png
+Type:
+Electric
+Held item:
+None
+Pikachu♂ Lv.81
+Charm
+Normal
+Quick Attack
+Normal
+Thunderbolt
+Electric
+Thunder
+Electric
+Spr 2c 196.png
+Type:
+Psychic
+Held item:
+None
+Espeon♂ Lv.73
+Mud-Slap
+Ground
+Swift
+Normal
+Reflect
+Psychic
+Psychic
+Psychic
+Spr 2c 143.png
+Type:
+Normal
+Held item:
+None
+Snorlax♂ Lv.75
+Amnesia
+Psychic
+Snore
+Normal
+Rest
+Psychic
+Body Slam
+Normal
+Spr 2c 003.png
+Types:
+Grass	Poison
+Held item:
+None
+Venusaur♂ Lv.77
+Sunny Day
+Fire
+Giga Drain
+Grass
+Synthesis
+Grass
+SolarBeam
+Grass
+Spr 2c 006.png
+Types:
+Fire	Flying
+Held item:
+None
+Charizard♂ Lv.77
+Flamethrower
+Fire
+Wing Attack
+Flying
+Slash
+Normal
+Fire Spin
+Fire
+Spr 2c 009.png
+Type:
+Water
+Held item:
+None
+Blastoise♂ Lv.77
+Rain Dance
+Water
+Blizzard
+Ice
+Surf
+Water
+Whirlpool
+Water

@@ -1,0 +1,400 @@
+evo_id,pokemon,hp,atk,def,spatk,spdef,spd,types,evo_lvl,evo_item,evo_stage,exp_type
+1,Bulbasaur,45,49,49,65,65,45,Grass/Poison,0,,,Medium Slow
+1,Ivysaur,60,62,63,80,80,60,Grass/Poison,16,,,Medium Slow
+1,Venusaur,80,82,83,100,100,80,Grass/Poison,32,,,Medium Slow
+2,Charmander,39,52,43,60,50,65,Fire,0,,,Medium Slow
+2,Charmeleon,58,64,58,80,65,80,Fire,16,,,Medium Slow
+2,Charizard,78,84,78,109,85,100,Fire/Flying,36,,,Medium Slow
+3,Squirtle,44,48,65,50,64,43,Water,0,,,Medium Slow
+3,Wartortle,59,63,80,65,80,58,Water,16,,,Medium Slow
+3,Blastoise,79,83,100,85,105,78,Water,36,,,Medium Slow
+4,Caterpie,45,30,35,20,20,45,Bug,0,,,Medium Fast
+4,Metapod,50,20,55,25,25,30,Bug,7,,,Medium Fast
+4,Butterfree,60,45,50,80,80,70,Bug/Flying,10,,,Medium Fast
+5,Weedle,40,35,30,20,20,50,Bug/Poison,0,,,Medium Fast
+5,Kakuna,45,25,50,25,25,35,Bug/Poison,7,,,Medium Fast
+5,Beedrill,65,80,40,45,80,75,Bug/Poison,10,,,Medium Fast
+6,Pidgey,40,45,40,35,35,56,Flying/Normal,0,,,Medium Slow
+6,Pidgeotto,63,60,55,50,50,71,Flying/Normal,18,,,Medium Slow
+6,Pidgeot,83,80,75,70,70,91,Flying/Normal,36,,,Medium Slow
+7,Rattata,30,56,35,25,35,72,Normal,0,,,Medium Fast
+7,Raticate,55,81,60,50,70,97,Normal,20,,,Medium Fast
+8,Spearow,40,60,30,31,31,70,Flying/Normal,0,,,Medium Fast
+8,Fearow,65,90,65,61,61,100,Flying/Normal,20,,,Medium Fast
+9,Ekans,35,60,44,40,54,55,Poison,0,,,Medium Fast
+9,Arbok,60,85,69,65,79,80,Poison,22,,,Medium Fast
+10,Pikachu,35,55,30,50,40,90,Electric,0,,,Medium Fast
+10,Raichu,60,90,55,90,80,100,Electric,0,thunderstone,,Medium Fast
+10,Pichu,20,40,15,35,35,60,Electric,0,,,Medium Fast
+11,Sandshrew,50,75,85,20,30,40,Ground,0,,,Medium Fast
+11,Sandslash,75,100,110,45,55,65,Ground,22,,,Medium Fast
+12,Nidoran_f,55,47,52,40,40,41,Poison,0,,,Medium Slow
+12,Nidorina,70,62,67,55,55,56,Poison,16,,,Medium Slow
+12,Nidoqueen,90,82,87,75,85,76,Ground/Poison,16,moonstone,,Medium Slow
+13,Nidoran_m,46,57,40,40,40,50,Poison,0,,,Medium Slow
+13,Nidorino,61,72,57,55,55,65,Poison,16,,,Medium Slow
+13,Nidoking,81,92,77,85,75,85,Ground/Poison,16,moonstone,,Medium Slow
+14,Clefairy,70,45,48,60,65,35,Normal,0,,,Fast
+14,Clefable,95,70,73,85,90,60,Normal,0,moonstone,,Fast
+14,Cleffa,50,25,28,45,55,15,Normal,0,,,Fast
+15,Vulpix,38,41,40,50,65,65,Fire,0,,,Medium Fast
+15,Ninetales,73,76,75,81,100,100,Fire,0,firestone,,Medium Fast
+16,Jigglypuff,115,45,20,45,25,20,Normal,0,,,Fast
+16,Wigglytuff,140,70,45,75,50,45,Normal,0,moonstone,,Fast
+16,Igglybuff,90,30,15,40,20,15,Normal,0,,,Fast
+17,Zubat,40,45,35,30,40,55,Flying/Poison,0,,,Medium Fast
+17,Golbat,75,80,70,65,75,90,Flying/Poison,22,,,Medium Fast
+17,Crobat,85,90,80,70,80,130,Flying/Poison,22,,,Medium Fast
+18,Oddish,45,50,55,75,65,30,Grass/Poison,0,,,Medium Slow
+18,Gloom,60,65,70,85,75,40,Grass/Poison,21,,,Medium Slow
+18,Vileplume,75,80,85,100,90,50,Grass/Poison,21,leafstone,,Medium Slow
+19,Paras,35,70,55,45,55,25,Bug/Grass,0,,,Medium Fast
+19,Parasect,60,95,80,60,80,30,Bug/Grass,24,,,Medium Fast
+20,Venonat,60,55,50,40,55,45,Bug/Poison,0,,,Medium Fast
+20,Venomoth,70,65,60,90,75,90,Bug/Poison,31,,,Medium Fast
+21,Diglett,10,55,25,35,45,95,Ground,0,,,Medium Fast
+21,Dugtrio,35,80,50,50,70,120,Ground,26,,,Medium Fast
+22,Meowth,40,45,35,40,40,90,Normal,0,,,Medium Fast
+22,Persian,65,70,60,65,65,115,Normal,28,,,Medium Fast
+23,Psyduck,50,52,48,65,50,55,Water,0,,,Medium Fast
+23,Golduck,80,82,78,95,80,85,Water,33,,,Medium Fast
+24,Mankey,40,80,35,35,45,70,Fighting,0,,,Medium Fast
+24,Primeape,65,105,60,60,70,95,Fighting,28,,,Medium Fast
+25,Growlithe,55,70,45,70,50,60,Fire,0,,,Slow
+25,Arcanine,90,110,80,100,80,95,Fire,0,firestone,,Slow
+26,Poliwag,40,50,40,40,40,90,Water,0,,,Medium Slow
+26,Poliwhirl,65,65,65,50,50,90,Water,25,,,Medium Slow
+26,Poliwrath,90,85,95,70,90,70,Fighting/Water,25,waterstone,,Medium Slow
+27,Abra,25,20,15,105,55,90,Psychic,0,,,Medium Slow
+27,Kadabra,40,35,30,120,70,105,Psychic,16,,,Medium Slow
+27,Alakazam,55,50,45,135,85,120,Psychic,16,trade,,Medium Slow
+28,Machop,70,80,50,35,35,35,Fighting,0,,,Medium Slow
+28,Machoke,80,100,70,50,60,45,Fighting,28,,,Medium Slow
+28,Machamp,90,130,80,65,85,55,Fighting,28,trade,,Medium Slow
+29,Bellsprout,50,75,35,70,30,40,Grass/Poison,0,,,Medium Slow
+29,Weepinbell,65,90,50,85,45,55,Grass/Poison,21,,,Medium Slow
+29,Victreebel,80,105,65,100,60,70,Grass/Poison,21,leafstone,,Medium Slow
+30,Tentacool,40,40,35,50,100,70,Poison/Water,0,,,Slow
+30,Tentacruel,80,70,65,80,120,100,Poison/Water,30,,,Slow
+31,Geodude,40,80,100,30,30,20,Ground/Rock,0,,,Medium Slow
+31,Graveler,55,95,115,45,45,35,Ground/Rock,25,,,Medium Slow
+31,Golem,80,110,130,55,65,45,Ground/Rock,25,trade,,Medium Slow
+32,Ponyta,50,85,55,65,65,90,Fire,0,,,Medium Fast
+32,Rapidash,65,100,70,80,80,105,Fire,40,,,Medium Fast
+33,Slowpoke,90,65,65,40,40,15,Psychic/Water,0,,,Medium Fast
+33,Slowbro,95,75,110,100,80,30,Psychic/Water,37,,,Medium Fast
+34,Magnemite,25,35,70,95,55,45,Electric,0,,,Medium Fast
+34,Magneton,50,60,95,120,70,70,Electric,30,,,Medium Fast
+35,Farfetchd,52,65,55,58,62,60,Flying/Normal,0,,,Medium Fast
+36,Doduo,35,85,45,35,35,75,Flying/Normal,0,,,Medium Fast
+36,Dodrio,60,110,70,60,60,100,Flying/Normal,31,,,Medium Fast
+37,Seel,65,45,55,45,70,45,Water,0,,,Medium Fast
+37,Dewgong,90,70,80,70,95,70,Ice/Water,34,,,Medium Fast
+38,Grimer,80,80,50,40,50,25,Poison,0,,,Medium Fast
+38,Muk,105,105,75,65,100,50,Poison,38,,,Medium Fast
+39,Shellder,30,65,100,45,25,40,Water,0,,,Slow
+39,Cloyster,50,95,180,85,45,70,Ice/Water,0,waterstone,,Slow
+40,Gastly,30,35,30,100,35,80,Ghost/Poison,0,,,Medium Slow
+40,Haunter,45,50,45,115,55,95,Ghost/Poison,25,,,Medium Slow
+40,Gengar,60,65,60,130,75,110,Ghost/Poison,25,trade,,Medium Slow
+41,Onix,35,45,160,30,45,70,Ground/Rock,0,,,Medium Fast
+41,Steelix,75,85,200,55,65,30,Ground/Steel,0,metalcoat,,Medium Fast
+42,Drowzee,60,48,45,43,90,42,Psychic,0,,,Medium Fast
+42,Hypno,85,73,70,73,115,67,Psychic,26,,,Medium Fast
+43,Krabby,30,105,90,25,25,50,Water,0,,,Medium Fast
+43,Kingler,55,130,115,50,50,75,Water,28,,,Medium Fast
+44,Voltorb,40,30,50,55,55,100,Electric,0,,,Medium Fast
+44,Electrode,60,50,70,80,80,140,Electric,30,,,Medium Fast
+45,Exeggcute,60,40,80,60,45,40,Grass/Psychic,0,,,Slow
+45,Exeggutor,95,95,85,125,65,55,Grass/Psychic,0,leafstone,,Slow
+46,Cubone,50,50,95,40,50,35,Ground,0,,,Medium Fast
+46,Marowak,60,80,110,50,80,45,Ground,28,,,Medium Fast
+47,Hitmonlee,50,120,53,35,110,87,Fighting,20,,,Medium Fast
+47,Tyrogue,35,35,35,35,35,35,Fighting,0,,,Medium Fast
+48,Hitmonchan,50,105,79,35,110,76,Fighting,20,,,Medium Fast
+48,Tyrogue,35,35,35,35,35,35,Fighting,0,,,Medium Fast
+49,Lickitung,90,55,75,60,75,30,Normal,0,,,Medium Fast
+50,Koffing,40,65,95,60,45,35,Poison,0,,,Medium Fast
+50,Weezing,65,90,120,85,70,60,Poison,35,,,Medium Fast
+51,Rhyhorn,80,85,95,30,30,25,Ground/Rock,0,,,Slow
+51,Rhydon,105,130,120,45,45,40,Ground/Rock,42,,,Slow
+52,Chansey,250,5,5,35,105,50,Normal,0,,,Fast
+52,Blissey,255,10,10,75,135,55,Normal,0,,,Fast
+53,Tangela,65,55,115,100,40,60,Grass,0,,,Medium Fast
+54,Kangaskhan,105,95,80,40,80,90,Normal,0,,,Medium Fast
+55,Horsea,30,40,70,70,25,60,Water,0,,,Medium Fast
+55,Seadra,55,65,95,95,45,85,Water,32,,,Medium Fast
+55,Kingdra,75,95,95,95,95,85,Dragon/Water,32,dragonscale,,Medium Fast
+56,Goldeen,45,67,60,35,50,63,Water,0,,,Medium Fast
+56,Seaking,80,92,65,65,80,68,Water,33,,,Medium Fast
+57,Staryu,30,45,55,70,55,85,Water,0,,,Slow
+57,Starmie,60,75,85,100,85,115,Psychic/Water,0,waterstone,,Slow
+58,Mr_Mime,40,45,65,100,120,90,Psychic,0,,,Medium Fast
+59,Scyther,70,110,80,55,80,105,Bug/Flying,0,,,Medium Fast
+59,Scizor,70,130,100,55,80,65,Bug/Steel,0,metalcoat,,Medium Fast
+60,Jynx,65,50,35,115,95,95,Ice/Psychic,30,,,Medium Fast
+60,Smoochum,45,30,15,85,65,65,Ice/Psychic,0,,,Medium Fast
+61,Electabuzz,65,83,57,95,85,105,Electric,30,,,Medium Fast
+61,Elekid,45,63,37,65,55,95,Electric,0,,,Medium Fast
+62,Magmar,65,95,57,100,85,93,Fire,30,,,Medium Fast
+62,Magby,45,75,37,70,55,83,Fire,0,,,Medium Fast
+63,Pinsir,65,125,100,55,70,85,Bug,0,,,Slow
+64,Tauros,75,100,95,40,70,110,Normal,0,,,Slow
+65,Magikarp,20,10,55,15,20,80,Water,0,,,Slow
+65,Gyarados,95,125,79,60,100,81,Flying/Water,20,,,Slow
+66,Lapras,130,85,80,85,95,60,Ice/Water,0,,,Slow
+67,Ditto,48,48,48,48,48,48,Normal,0,,,Medium Fast
+68,Eevee,55,55,50,45,65,55,Normal,0,,,Medium Fast
+68,Vaporeon,130,65,60,110,95,65,Water,0,waterstone,,Medium Fast
+69,Eevee,55,55,50,45,65,55,Normal,0,,,Medium Fast
+69,Jolteon,65,65,60,110,95,130,Electric,0,thunderstone,,Medium Fast
+70,Eevee,55,55,50,45,65,55,Normal,0,,,Medium Fast
+70,Flareon,65,130,60,95,110,65,Fire,0,firestone,,Medium Fast
+71,Porygon,65,60,70,85,75,40,Normal,0,,,Medium Fast
+71,Porygon2,85,80,90,105,95,60,Normal,0,upgrade,,Medium Fast
+72,Omanyte,35,40,100,90,55,35,Rock/Water,0,,,Medium Fast
+72,Omastar,70,60,125,115,70,55,Rock/Water,40,,,Medium Fast
+73,Kabuto,30,80,90,55,45,55,Rock/Water,0,,,Medium Fast
+73,Kabutops,60,115,105,65,70,80,Rock/Water,40,,,Medium Fast
+74,Aerodactyl,80,105,65,60,75,130,Flying/Rock,0,,,Slow
+75,Snorlax,160,110,65,65,110,30,Normal,0,,,Slow
+76,Articuno,90,85,100,95,125,85,Flying/Ice,0,,,Slow
+77,Zapdos,90,90,85,125,90,100,Electric/Flying,0,,,Slow
+78,Moltres,90,100,90,125,85,90,Fire/Flying,0,,,Slow
+79,Dratini,41,64,45,50,50,50,Dragon,0,,,Slow
+79,Dragonair,61,84,65,70,70,70,Dragon,30,,,Slow
+79,Dragonite,91,134,95,100,100,80,Dragon/Flying,55,,,Slow
+80,Mewtwo,106,110,90,154,90,130,Psychic,0,,,Slow
+81,Mew,100,100,100,100,100,100,Psychic,0,,,Medium Slow
+82,Chikorita,45,49,65,49,65,45,Grass,0,,,Medium Slow
+82,Bayleef,60,62,80,63,80,60,Grass,16,,,Medium Slow
+82,Meganium,80,82,100,83,100,80,Grass,32,,,Medium Slow
+83,Cyndaquil,39,52,43,60,50,65,Fire,0,,,Medium Slow
+83,Quilava,58,64,58,80,65,80,Fire,14,,,Medium Slow
+83,Typhlosion,78,84,78,109,85,100,Fire,36,,,Medium Slow
+84,Totodile,50,65,64,44,48,43,Water,0,,,Medium Slow
+84,Croconaw,65,80,80,59,63,58,Water,18,,,Medium Slow
+84,Feraligatr,85,105,100,79,83,78,Water,30,,,Medium Slow
+85,Sentret,35,46,34,35,45,20,Normal,0,,,Medium Fast
+85,Furret,85,76,64,45,55,90,Normal,15,,,Medium Fast
+86,Hoothoot,60,30,30,36,56,50,Flying/Normal,0,,,Medium Fast
+86,Noctowl,100,50,50,76,96,70,Flying/Normal,20,,,Medium Fast
+87,Ledyba,40,20,30,40,80,55,Bug/Flying,0,,,Fast
+87,Ledian,55,35,50,55,110,85,Bug/Flying,18,,,Fast
+88,Spinarak,40,60,40,40,40,30,Bug/Poison,0,,,Fast
+88,Ariados,70,90,70,60,60,40,Bug/Poison,22,,,Fast
+89,Chinchou,75,38,38,56,56,67,Electric/Water,0,,,Slow
+89,Lanturn,125,58,58,76,76,67,Electric/Water,27,,,Slow
+90,Togepi,35,20,65,40,65,20,Normal,0,,,Fast
+90,Togetic,55,40,85,80,105,40,Flying,0,,,Fast
+91,Natu,40,50,45,70,45,70,Flying/Psychic,0,,,Medium Fast
+91,Xatu,65,75,70,95,70,95,Flying/Psychic,25,,,Medium Fast
+92,Mareep,55,40,40,65,45,35,Electric,0,,,Medium Slow
+92,Flaaffy,70,55,55,80,60,45,Electric,15,,,Medium Slow
+92,Ampharos,90,75,75,115,90,55,Electric,30,,,Medium Slow
+93,Oddish,45,50,55,75,75,30,Grass/Poison,0,,,Medium Slow
+93,Gloom,60,65,70,85,85,40,Grass/Poison,21,,,Medium Slow
+93,Bellossom,75,80,85,90,100,50,Grass,21,sunstone,,Medium Slow
+94,Marill,70,20,50,20,50,40,Water,0,,,Fast
+94,Azumarill,100,50,80,50,80,50,Water,18,,,Fast
+95,Sudowoodo,70,100,115,30,65,30,Rock,0,,,Medium Fast
+96,Poliwag,40,50,40,40,40,90,Water,0,,,Medium Slow
+96,Poliwhirl,65,65,65,50,50,90,Water,25,,,Medium Slow
+96,Politoed,90,75,75,90,100,70,Water,25,kingsrock,,Medium Slow
+97,Hoppip,35,35,40,35,55,50,Flying/Grass,0,,,Medium Slow
+97,Skiploom,55,45,50,45,65,80,Flying/Grass,18,,,Medium Slow
+97,Jumpluff,75,55,70,55,85,110,Flying/Grass,27,,,Medium Slow
+98,Aipom,55,70,55,40,55,85,Normal,0,,,Fast
+99,Sunkern,30,30,30,30,30,30,Grass,0,,,Medium Slow
+99,Sunflora,75,75,55,105,85,30,Grass,0,sunstone,,Medium Slow
+100,Yanma,65,65,45,75,45,95,Bug/Flying,0,,,Medium Fast
+101,Wooper,55,45,45,25,25,15,Ground/Water,0,,,Medium Fast
+101,Quagsire,95,85,85,65,65,35,Ground/Water,20,,,Medium Fast
+102,Eevee,55,55,50,65,65,55,Normal,0,,,Medium Fast
+102,Espeon,65,65,60,130,95,110,Psychic,0,,,Medium Fast
+103,Eevee,55,55,50,65,65,55,Normal,0,,,Medium Fast
+103,Umbreon,95,65,110,60,130,65,Dark,0,,,Medium Fast
+104,Murkrow,60,85,42,85,42,91,Dark/Flying,0,,,Medium Slow
+105,Slowpoke,90,65,65,40,40,15,Psychic/Water,0,,,Medium Fast
+105,Slowbro,95,75,110,80,80,30,Psychic/Water,37,,,Medium Fast
+105,Slowking,95,75,80,100,110,30,Psychic/Water,37,kingsrock,,Medium Fast
+106,Misdreavus,60,60,60,85,85,85,Ghost,0,,,Fast
+107,Unown,48,72,48,72,48,48,Psychic,0,,,Medium Fast
+108,Wobbuffet,190,33,58,33,58,33,Psychic,0,,,Medium Fast
+109,Girafarig,70,80,65,90,65,85,Normal/Psychic,0,,,Medium Fast
+110,Pineco,50,65,90,35,35,15,Bug,0,,,Medium Fast
+110,Forretress,75,90,140,60,60,40,Bug/Steel,31,,,Medium Fast
+111,Dunsparce,100,70,70,65,65,45,Normal,0,,,Medium Fast
+112,Gligar,65,75,105,35,65,85,Flying/Ground,0,,,Medium Slow
+113,Snubbull,60,80,50,40,40,30,Normal,0,,,Fast
+113,Granbull,90,120,75,60,60,45,Normal,23,,,Fast
+114,Qwilfish,65,95,75,55,55,85,Poison/Water,0,,,Medium Fast
+115,Shuckle,20,10,230,10,230,5,Bug/Rock,0,,,Medium Slow
+116,Heracross,80,125,75,40,95,85,Bug/Fighting,0,,,Slow
+117,Sneasel,55,95,55,35,75,115,Dark/Ice,0,,,Medium Slow
+118,Teddiursa,60,80,50,50,50,40,Normal,0,,,Medium Fast
+118,Ursaring,90,130,75,75,75,55,Normal,30,,,Medium Fast
+119,Slugma,40,40,40,70,40,20,Fire,0,,,Medium Fast
+119,Magcargo,50,50,120,80,80,30,Fire/Rock,38,,,Medium Fast
+120,Swinub,50,50,40,30,30,50,Ground/Ice,0,,,Slow
+120,Piloswine,100,100,80,60,60,50,Ground/Ice,33,,,Slow
+121,Corsola,55,55,85,65,85,35,Rock/Water,0,,,Fast
+122,Remoraid,35,65,35,65,35,65,Water,0,,,Medium Fast
+122,Octillery,75,105,75,105,75,45,Water,25,,,Medium Fast
+123,Delibird,45,55,45,65,45,75,Flying/Ice,0,,,Fast
+124,Mantine,65,40,70,80,140,70,Flying/Water,0,,,Slow
+125,Skarmory,65,80,140,40,70,70,Flying/Steel,0,,,Slow
+126,Houndour,45,60,30,80,50,65,Dark/Fire,0,,,Slow
+126,Houndoom,75,90,50,110,80,95,Dark/Fire,24,,,Slow
+127,Phanpy,90,60,60,40,40,40,Ground,0,,,Medium Fast
+127,Donphan,90,120,120,60,60,50,Ground,25,,,Medium Fast
+128,Stantler,73,95,62,85,65,85,Normal,0,,,Slow
+129,Smeargle,55,20,35,20,45,75,Normal,0,,,Fast
+130,Tyrogue,35,35,35,35,35,35,Fighting,0,,,Medium Fast
+130,Hitmontop,50,95,95,35,110,70,Fighting,20,,,Medium Fast
+131,Miltank,95,80,105,40,70,100,Normal,0,,,Slow
+132,Raikou,90,85,75,115,100,115,Electric,0,,,Slow
+133,Entei,115,115,85,90,75,100,Fire,0,,,Slow
+134,Suicune,100,75,115,90,115,85,Water,0,,,Slow
+135,Larvitar,50,64,50,45,50,41,Ground/Rock,0,,,Slow
+135,Pupitar,70,84,70,65,70,51,Ground/Rock,30,,,Slow
+135,Tyranitar,100,134,110,95,100,61,Dark/Rock,55,,,Slow
+136,Lugia,106,90,130,90,154,110,Flying/Psychic,0,,,Slow
+137,Ho_Oh,106,130,90,110,154,90,Fire/Flying,0,,,Slow
+138,Celebi,100,100,100,100,100,100,Grass/Psychic,0,,,Medium Slow
+139,Treecko,40,45,35,65,55,70,Grass,0,,,Medium Slow
+139,Grovyle,50,65,45,85,65,95,Grass,16,,,Medium Slow
+139,Sceptile,70,85,65,105,85,120,Grass,36,,,Medium Slow
+140,Torchic,45,60,40,70,50,45,Fire,0,,,Medium Slow
+140,Combusken,60,85,60,85,60,55,Fighting/Fire,16,,,Medium Slow
+140,Blaziken,80,120,70,110,70,80,Fighting/Fire,36,,,Medium Slow
+141,Mudkip,50,70,50,50,50,40,Water,0,,,Medium Slow
+141,Marshtomp,70,85,70,60,70,50,Ground/Water,16,,,Medium Slow
+141,Swampert,100,110,90,85,90,60,Ground/Water,36,,,Medium Slow
+142,Poochyena,35,55,35,30,30,35,Dark,0,,,Medium Fast
+142,Mightyena,70,90,70,60,60,70,Dark,18,,,Medium Fast
+143,Zigzagoon,38,30,41,30,41,60,Normal,0,,,Medium Fast
+143,Linoone,78,70,61,50,61,100,Normal,20,,,Medium Fast
+144,Wurmple,45,45,35,20,30,20,Bug,0,,,Medium Fast
+144,Silcoon,50,35,55,25,25,15,Bug,7,,,Medium Fast
+144,Beautifly,60,70,50,90,50,65,Bug/Flying,10,,,Medium Fast
+145,Wurmple,45,45,35,20,30,20,Bug,0,,,Medium Fast
+145,Cascoon,50,35,55,25,25,15,Bug,7,,,Medium Fast
+145,Dustox,60,50,70,50,90,65,Bug/Poison,10,,,Medium Fast
+146,Lotad,40,30,30,40,50,30,Grass/Water,0,,,Medium Slow
+146,Lombre,60,50,50,60,70,50,Grass/Water,14,,,Medium Slow
+146,Ludicolo,80,70,70,90,100,70,Grass/Water,0,waterstone,,Medium Slow
+147,Seedot,40,40,50,30,30,30,Grass,0,,,Medium Slow
+147,Nuzleaf,70,70,40,60,40,60,Dark/Grass,14,,,Medium Slow
+147,Shiftry,90,100,60,90,60,80,Dark/Grass,0,leafstone,,Medium Slow
+148,Taillow,40,55,30,30,30,85,Flying/Normal,0,,,Medium Slow
+148,Swellow,60,85,60,50,50,125,Flying/Normal,22,,,Medium Slow
+149,Wingull,40,30,30,55,30,85,Flying/Water,0,,,Medium Fast
+149,Pelipper,60,50,100,85,70,65,Flying/Water,25,,,Medium Fast
+150,Ralts,28,25,25,45,35,40,Fairy/Psychic,0,,,Slow
+150,Kirlia,38,35,35,65,55,50,Fairy/Psychic,20,,,Slow
+150,Gardevoir,68,65,65,125,115,80,Fairy/Psychic,30,,,Slow
+151,Surskit,40,30,32,50,52,65,Bug/Water,0,,,Medium Fast
+151,Masquerain,70,60,62,80,82,60,Bug/Flying,22,,,Medium Fast
+152,Shroomish,60,40,60,40,60,35,Grass,0,,,Fluctuating
+152,Breloom,60,130,80,60,60,70,Fighting/Grass,23,,,Fluctuating
+153,Slakoth,60,60,60,35,35,30,Normal,0,,,Slow
+153,Vigoroth,80,80,80,55,55,90,Normal,18,,,Slow
+153,Slaking,150,160,100,95,65,100,Normal,36,,,Slow
+154,Nincada,31,45,90,30,30,40,Bug/Ground,0,,,Erratic
+154,Ninjask,61,90,45,50,50,160,Bug/Flying,20,,,Erratic
+155,Nincada,31,45,90,30,30,40,Bug/Ground,0,,,Erratic
+155,Shedinja,1,90,45,30,30,40,Bug/Ghost,20,,,Erratic
+156,Whismur,64,51,23,51,23,28,Normal,0,,,Medium Slow
+156,Loudred,84,71,43,71,43,48,Normal,20,,,Medium Slow
+156,Exploud,104,91,63,91,63,68,Normal,40,,,Medium Slow
+157,Makuhita,72,60,30,20,30,25,Fighting,0,,,Fluctuating
+157,Hariyama,144,120,60,40,60,50,Fighting,24,,,Fluctuating
+158,Nosepass,30,45,135,45,90,30,Rock,0,,,Medium Fast
+159,Skitty,50,45,45,35,35,50,Normal,0,,,Fast
+159,Delcatty,70,65,65,55,55,70,Normal,0,moonstone,,Fast
+160,Sableye,50,75,75,65,65,50,Dark/Ghost,0,,,Medium Slow
+160,Mawile,50,85,85,55,55,50,Fairy/Steel,0,,,Fast
+161,Aron,50,70,100,40,40,30,Rock/Steel,0,,,Slow
+161,Lairon,60,90,140,50,50,40,Rock/Steel,32,,,Slow
+161,Aggron,70,110,180,60,60,50,Rock/Steel,42,,,Slow
+162,Meditite,30,40,55,40,55,60,Fighting/Psychic,0,,,Medium Fast
+162,Medicham,60,60,75,60,75,80,Fighting/Psychic,37,,,Medium Fast
+163,Electrike,40,45,40,65,40,65,Electric,0,,,Slow
+163,Manectric,70,75,60,105,60,105,Electric,26,,,Slow
+164,Plusle,60,50,40,85,75,95,Electric,0,,,Medium Fast
+165,Minun,60,40,50,75,85,95,Electric,0,,,Medium Fast
+166,Volbeat,65,73,55,47,75,85,Bug,0,,,Erratic
+167,Illumise,65,47,55,73,75,85,Bug,0,,,Fluctuating
+168,Roselia,50,60,45,100,80,65,Grass/Poison,0,,,Medium Slow
+169,Gulpin,70,43,53,43,53,40,Poison,0,,,Fluctuating
+169,Swalot,100,73,83,73,83,55,Poison,26,,,Fluctuating
+170,Carvanha,45,90,20,65,20,65,Dark/Water,0,,,Slow
+170,Sharpedo,70,120,40,95,40,95,Dark/Water,30,,,Slow
+171,Wailmer,130,70,35,70,35,60,Water,0,,,Fluctuating
+171,Wailord,170,90,45,90,45,60,Water,40,,,Fluctuating
+172,Numel,60,60,40,65,45,35,Fire/Ground,0,,,Medium Fast
+172,Camerupt,70,100,70,105,75,40,Fire/Ground,33,,,Medium Fast
+173,Torkoal,70,85,140,85,70,20,Fire,0,,,Medium Fast
+174,Spoink,60,25,35,70,80,60,Psychic,0,,,Fast
+174,Grumpig,80,45,65,90,110,80,Psychic,32,,,Fast
+175,Spinda,60,60,60,60,60,60,Normal,0,,,Fast
+176,Trapinch,45,100,45,45,45,10,Ground,0,,,Medium Slow
+176,Vibrava,50,70,50,50,50,70,Dragon/Ground,35,,,Medium Slow
+176,Flygon,80,100,80,80,80,100,Dragon/Ground,45,,,Medium Slow
+177,Cacnea,50,85,40,85,40,35,Grass,0,,,Medium Slow
+177,Cacturne,70,115,60,115,60,55,Dark/Grass,32,,,Medium Slow
+178,Swablu,45,40,60,40,75,50,Flying/Normal,0,,,Erratic
+178,Altaria,75,70,90,70,105,80,Dragon/Flying,35,,,Erratic
+179,Zangoose,73,115,60,60,60,90,Normal,0,,,Erratic
+180,Seviper,73,100,60,100,60,65,Poison,0,,,Fluctuating
+181,Lunatone,70,55,65,95,85,70,Psychic/Rock,0,,,Fast
+182,Solrock,70,95,85,55,65,70,Psychic/Rock,0,,,Fast
+183,Barboach,50,48,43,46,41,60,Ground/Water,0,,,Medium Fast
+183,Whiscash,110,78,73,76,71,60,Ground/Water,30,,,Medium Fast
+184,Corphish,43,80,65,50,35,35,Water,0,,,Fluctuating
+184,Crawdaunt,63,120,85,90,55,55,Dark/Water,30,,,Fluctuating
+185,Baltoy,40,40,55,40,70,55,Ground/Psychic,0,,,Medium Fast
+185,Claydol,60,70,105,70,120,75,Ground/Psychic,36,,,Medium Fast
+186,Lileep,66,41,77,61,87,23,Grass/Rock,0,,,Erratic
+186,Cradily,86,81,97,81,107,43,Grass/Rock,40,,,Erratic
+187,Anorith,45,95,50,40,50,75,Bug/Rock,0,,,Erratic
+187,Armaldo,75,125,100,70,80,45,Bug/Rock,40,,,Erratic
+188,Feebas,20,15,20,10,55,80,Water,0,,,Erratic
+188,Milotic,95,60,79,100,125,81,Water,0,,,Erratic
+189,Castform,70,70,70,70,70,70,Normal,0,,,Medium Fast
+190,Kecleon,60,90,70,60,120,40,Normal,0,,,Medium Slow
+191,Shuppet,44,75,35,63,33,45,Ghost,0,,,Fast
+191,Banette,64,115,65,83,63,65,Ghost,37,,,Fast
+192,Duskull,20,40,90,30,90,25,Ghost,0,,,Fast
+192,Dusclops,40,70,130,60,130,25,Ghost,37,,,Fast
+193,Tropius,99,68,83,72,87,51,Flying/Grass,0,,,Slow
+194,Chimecho,65,50,70,95,80,65,Psychic,0,,,Fast
+195,Absol,65,130,60,75,60,75,Dark,0,,,Medium Slow
+196,Snorunt,50,50,50,50,50,50,Ice,0,,,Medium Fast
+196,Glalie,80,80,80,80,80,80,Ice,42,,,Medium Fast
+197,Spheal,70,40,50,55,50,25,Ice/Water,0,,,Medium Slow
+197,Sealeo,90,60,70,75,70,45,Ice/Water,32,,,Medium Slow
+197,Walrein,110,80,90,95,90,65,Ice/Water,44,,,Medium Slow
+198,Clamperl,35,64,85,74,55,32,Water,0,,,Erratic
+198,Huntail,55,104,105,94,75,52,Water,0,,,Erratic
+199,Clamperl,35,64,85,74,55,32,Water,0,,,Erratic
+199,Gorebyss,55,84,105,114,75,52,Water,0,,,Erratic
+200,Relicanth,100,90,130,45,65,55,Rock/Water,0,,,Slow
+201,Luvdisc,43,30,55,40,65,97,Water,0,,,Fast
+202,Bagon,45,75,60,40,30,50,Dragon,0,,,Slow
+202,Shelgon,65,95,100,60,50,50,Dragon,30,,,Slow
+202,Salamence,95,135,80,110,80,100,Dragon/Flying,50,,,Slow
+203,Beldum,40,55,80,35,60,30,Psychic/Steel,0,,,Slow
+203,Metang,60,75,100,55,80,50,Psychic/Steel,20,,,Slow
+203,Metagross,80,135,130,95,90,70,Psychic/Steel,45,,,Slow
+204,Regirock,80,100,200,50,100,50,Rock,0,,,Slow
+205,Regice,80,50,100,100,200,50,Ice,0,,,Slow
+206,Registeel,80,75,150,75,150,50,Steel,0,,,Slow
+207,Latias,80,80,90,110,130,110,Dragon/Psychic,0,,,Slow
+208,Latios,80,90,80,130,110,110,Dragon/Psychic,0,,,Slow
+209,Kyogre,100,100,90,150,140,90,Water,0,,,Slow
+210,Groudon,100,150,140,100,90,90,Ground,0,,,Slow
+211,Rayquaza,105,150,90,150,90,95,Dragon/Flying,0,,,Slow
+212,Jirachi,100,100,100,100,100,100,Psychic/Steel,0,,,Slow
+213,Deoxys,50,150,50,150,50,150,Psychic,0,,,Slow
