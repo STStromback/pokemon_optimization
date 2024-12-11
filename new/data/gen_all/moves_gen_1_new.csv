@@ -1,0 +1,1650 @@
+pokemon,lvl,move,type,power,accuracy,crit
+Bulbasaur,1.0,Tackle,Normal,35,0.95,False
+Bulbasaur,13.0,Vine Whip,Grass,35,1.0,False
+Bulbasaur,27.0,Razor Leaf,Grass,55,0.95,True
+Bulbasaur,,Cut,Normal,50,0.95,False
+Bulbasaur,,Body Slam,Normal,85,1.0,False
+Bulbasaur,,Rage,Normal,20,1.0,False
+Bulbasaur,,Mega Drain,Grass,40,1.0,False
+Ivysaur,1.0,Tackle,Normal,35,0.95,False
+Ivysaur,13.0,Vine Whip,Grass,35,1.0,False
+Ivysaur,30.0,Razor Leaf,Grass,55,0.95,True
+Ivysaur,,Cut,Normal,50,0.95,False
+Ivysaur,,Body Slam,Normal,85,1.0,False
+Ivysaur,,Rage,Normal,20,1.0,False
+Ivysaur,,Mega Drain,Grass,40,1.0,False
+Venusaur,1.0,Tackle,Normal,35,0.95,False
+Venusaur,1.0,Vine Whip,Grass,35,1.0,False
+Venusaur,30.0,Razor Leaf,Grass,55,0.95,True
+Venusaur,,Cut,Normal,50,0.95,False
+Venusaur,,Body Slam,Normal,85,1.0,False
+Venusaur,,Hyper Beam,Normal,75,0.9,False
+Venusaur,,Rage,Normal,20,1.0,False
+Venusaur,,Mega Drain,Grass,40,1.0,False
+Charmander,1.0,Scratch,Normal,40,1.0,False
+Charmander,9.0,Ember,Fire,40,1.0,False
+Charmander,22.0,Rage,Normal,20,1.0,False
+Charmander,30.0,Slash,Normal,70,1.0,True
+Charmander,38.0,Flamethrower,Fire,95,1.0,False
+Charmander,46.0,Fire Spin,Fire,15,0.7,False
+Charmander,,Cut,Normal,50,0.95,False
+Charmander,,Strength,Normal,80,1.0,False
+Charmander,,Mega Punch,Normal,80,0.85,False
+Charmander,,Mega Kick,Normal,120,0.75,False
+Charmander,,Body Slam,Normal,85,1.0,False
+Charmander,,Dig,Ground,100,1.0,False
+Charmander,,Fire Blast,Fire,120,0.85,False
+Charmander,,Swift,Normal,60,1.0,False
+Charmeleon,1.0,Ember,Fire,40,1.0,False
+Charmeleon,1.0,Scratch,Normal,40,1.0,False
+Charmeleon,24.0,Rage,Normal,20,1.0,False
+Charmeleon,33.0,Slash,Normal,70,1.0,True
+Charmeleon,42.0,Flamethrower,Fire,95,1.0,False
+Charmeleon,56.0,Fire Spin,Fire,15,0.7,False
+Charmeleon,,Cut,Normal,50,0.95,False
+Charmeleon,,Strength,Normal,80,1.0,False
+Charmeleon,,Mega Punch,Normal,80,0.85,False
+Charmeleon,,Mega Kick,Normal,120,0.75,False
+Charmeleon,,Body Slam,Normal,85,1.0,False
+Charmeleon,,Dig,Ground,100,1.0,False
+Charmeleon,,Fire Blast,Fire,120,0.85,False
+Charmeleon,,Swift,Normal,60,1.0,False
+Charizard,1.0,Ember,Fire,40,1.0,False
+Charizard,1.0,Scratch,Normal,40,1.0,False
+Charizard,24.0,Rage,Normal,20,1.0,False
+Charizard,36.0,Slash,Normal,70,1.0,True
+Charizard,46.0,Flamethrower,Fire,95,1.0,False
+Charizard,55.0,Fire Spin,Fire,15,0.7,False
+Charizard,,Cut,Normal,50,0.95,False
+Charizard,,Strength,Normal,80,1.0,False
+Charizard,,Mega Punch,Normal,80,0.85,False
+Charizard,,Mega Kick,Normal,120,0.75,False
+Charizard,,Body Slam,Normal,85,1.0,False
+Charizard,,Hyper Beam,Normal,75,0.9,False
+Charizard,,Earthquake,Ground,100,1.0,False
+Charizard,,Dig,Ground,100,1.0,False
+Charizard,,Fire Blast,Fire,120,0.85,False
+Charizard,,Swift,Normal,60,1.0,False
+Charizard,,Fly,Flying,70,0.95,False
+Squirtle,1.0,Tackle,Normal,35,0.95,False
+Squirtle,8.0,Bubble,Water,20,1.0,False
+Squirtle,15.0,Water Gun,Water,40,1.0,False
+Squirtle,22.0,Bite,Normal,60,1.0,False
+Squirtle,42.0,Hydro Pump,Water,120,0.8,False
+Squirtle,,Surf,Water,95,1.0,False
+Squirtle,,Strength,Normal,80,1.0,False
+Squirtle,,Mega Punch,Normal,80,0.85,False
+Squirtle,,Mega Kick,Normal,120,0.75,False
+Squirtle,,Body Slam,Normal,85,1.0,False
+Squirtle,,BubbleBeam,Water,65,1.0,False
+Squirtle,,Ice Beam,Ice,95,1.0,False
+Squirtle,,Blizzard,Ice,120,0.9,False
+Squirtle,,Rage,Normal,20,1.0,False
+Squirtle,,Dig,Ground,100,1.0,False
+Wartortle,1.0,Bubble,Water,20,1.0,False
+Wartortle,1.0,Tackle,Normal,35,0.95,False
+Wartortle,15.0,Water Gun,Water,40,1.0,False
+Wartortle,24.0,Bite,Normal,60,1.0,False
+Wartortle,47.0,Hydro Pump,Water,120,0.8,False
+Wartortle,,Surf,Water,95,1.0,False
+Wartortle,,Strength,Normal,80,1.0,False
+Wartortle,,Mega Punch,Normal,80,0.85,False
+Wartortle,,Mega Kick,Normal,120,0.75,False
+Wartortle,,Body Slam,Normal,85,1.0,False
+Wartortle,,BubbleBeam,Water,65,1.0,False
+Wartortle,,Ice Beam,Ice,95,1.0,False
+Wartortle,,Blizzard,Ice,120,0.9,False
+Wartortle,,Rage,Normal,20,1.0,False
+Wartortle,,Dig,Ground,100,1.0,False
+Blastoise,1.0,Bubble,Water,20,1.0,False
+Blastoise,1.0,Tackle,Normal,35,0.95,False
+Blastoise,1.0,Water Gun,Water,40,1.0,False
+Blastoise,24.0,Bite,Normal,60,1.0,False
+Blastoise,52.0,Hydro Pump,Water,120,0.8,False
+Blastoise,,Surf,Water,95,1.0,False
+Blastoise,,Strength,Normal,80,1.0,False
+Blastoise,,Mega Punch,Normal,80,0.85,False
+Blastoise,,Mega Kick,Normal,120,0.75,False
+Blastoise,,Body Slam,Normal,85,1.0,False
+Blastoise,,BubbleBeam,Water,65,1.0,False
+Blastoise,,Ice Beam,Ice,95,1.0,False
+Blastoise,,Blizzard,Ice,120,0.9,False
+Blastoise,,Hyper Beam,Normal,75,0.9,False
+Blastoise,,Rage,Normal,20,1.0,False
+Blastoise,,Earthquake,Ground,100,1.0,False
+Blastoise,,Dig,Ground,100,1.0,False
+Caterpie,1.0,Tackle,Normal,35,0.95,False
+Metapod,0.0,Struggle,Normal,1,1.0,False
+Butterfree,1.0,Confusion,Psychic,50,1.0,False
+Butterfree,32.0,Psybeam,Psychic,65,1.0,False
+Butterfree,,Hyper Beam,Normal,75,0.9,False
+Butterfree,,Rage,Normal,20,1.0,False
+Butterfree,,Mega Drain,Grass,40,1.0,False
+Butterfree,,Psychic,Psychic,90,1.0,False
+Butterfree,,Swift,Normal,60,1.0,False
+Butterfree,28.0,Gust,Normal,40,1.0,False
+Weedle,1.0,Poison Sting,Poison,15,1.0,False
+Kakuna,0.0,Struggle,Normal,1,1.0,False
+Beedrill,1.0,Fury Attack,Normal,45,0.85,False
+Beedrill,20.0,Twineedle,Bug,25,1.0,False
+Beedrill,25.0,Rage,Normal,20,1.0,False
+Beedrill,30.0,Pin Missile,Bug,42,0.85,False
+Beedrill,,Cut,Normal,50,0.95,False
+Beedrill,,Hyper Beam,Normal,75,0.9,False
+Beedrill,,Mega Drain,Grass,40,1.0,False
+Beedrill,,Swift,Normal,60,1.0,False
+Pidgey,1.0,Gust,Normal,40,1.0,False
+Pidgey,12.0,Quick Attack,Normal,40,1.0,False
+Pidgey,28.0,Wing Attack,Flying,35,1.0,False
+Pidgey,,Fly,Flying,70,0.95,False
+Pidgey,,Rage,Normal,20,1.0,False
+Pidgey,,Swift,Normal,60,1.0,False
+Pidgeotto,1.0,Gust,Normal,40,1.0,False
+Pidgeotto,12.0,Quick Attack,Normal,40,1.0,False
+Pidgeotto,31.0,Wing Attack,Flying,35,1.0,False
+Pidgeotto,,Fly,Flying,70,0.95,False
+Pidgeotto,,Rage,Normal,20,1.0,False
+Pidgeotto,,Swift,Normal,60,1.0,False
+Pidgeot,1.0,Gust,Normal,40,1.0,False
+Pidgeot,1.0,Quick Attack,Normal,40,1.0,False
+Pidgeot,31.0,Wing Attack,Flying,35,1.0,False
+Pidgeot,,Fly,Flying,70,0.95,False
+Pidgeot,,Hyper Beam,Normal,75,0.9,False
+Pidgeot,,Rage,Normal,20,1.0,False
+Pidgeot,,Swift,Normal,60,1.0,False
+Rattata,1.0,Tackle,Normal,35,0.95,False
+Rattata,7.0,Quick Attack,Normal,40,1.0,False
+Rattata,14.0,Hyper Fang,Normal,80,0.9,False
+Rattata,,Body Slam,Normal,85,1.0,False
+Rattata,,BubbleBeam,Water,65,1.0,False
+Rattata,,Water Gun,Water,40,1.0,False
+Rattata,,Blizzard,Ice,120,0.9,False
+Rattata,,Rage,Normal,20,1.0,False
+Rattata,,Thunderbolt,Electric,95,1.0,False
+Rattata,,Thunder,Electric,120,0.7,False
+Rattata,,Dig,Ground,100,1.0,False
+Rattata,,Swift,Normal,60,1.0,False
+Raticate,1.0,Quick Attack,Normal,40,1.0,False
+Raticate,1.0,Tackle,Normal,35,0.95,False
+Raticate,14.0,Hyper Fang,Normal,80,0.9,False
+Raticate,,Body Slam,Normal,85,1.0,False
+Raticate,,BubbleBeam,Water,65,1.0,False
+Raticate,,Water Gun,Water,40,1.0,False
+Raticate,,Ice Beam,Ice,95,1.0,False
+Raticate,,Blizzard,Ice,120,0.9,False
+Raticate,,Hyper Beam,Normal,75,0.9,False
+Raticate,,Rage,Normal,20,1.0,False
+Raticate,,Thunderbolt,Electric,95,1.0,False
+Raticate,,Thunder,Electric,120,0.7,False
+Raticate,,Dig,Ground,100,1.0,False
+Raticate,,Swift,Normal,60,1.0,False
+Spearow,1.0,Peck,Flying,35,1.0,False
+Spearow,15.0,Fury Attack,Normal,45,0.85,False
+Spearow,29.0,Drill Peck,Flying,80,1.0,False
+Spearow,,Fly,Flying,70,0.95,False
+Spearow,,Rage,Normal,20,1.0,False
+Spearow,,Swift,Normal,60,1.0,False
+Fearow,1.0,Peck,Flying,35,1.0,False
+Fearow,15.0,Fury Attack,Normal,45,0.85,False
+Fearow,34.0,Drill Peck,Flying,80,1.0,False
+Fearow,,Fly,Flying,70,0.95,False
+Fearow,,Hyper Beam,Normal,75,0.9,False
+Fearow,,Rage,Normal,20,1.0,False
+Fearow,,Swift,Normal,60,1.0,False
+Ekans,1.0,Wrap,Normal,15,0.85,False
+Ekans,10.0,Poison Sting,Poison,15,1.0,False
+Ekans,17.0,Bite,Normal,60,1.0,False
+Ekans,38.0,Acid,Poison,40,1.0,False
+Ekans,,Strength,Normal,80,1.0,False
+Ekans,,Body Slam,Normal,85,1.0,False
+Ekans,,Rage,Normal,20,1.0,False
+Ekans,,Mega Drain,Grass,40,1.0,False
+Ekans,,Earthquake,Ground,100,1.0,False
+Ekans,,Dig,Ground,100,1.0,False
+Ekans,,Rock Slide,Rock,75,0.9,False
+Arbok,1.0,Poison Sting,Poison,15,1.0,False
+Arbok,1.0,Wrap,Normal,15,0.85,False
+Arbok,17.0,Bite,Normal,60,1.0,False
+Arbok,47.0,Acid,Poison,40,1.0,False
+Arbok,,Strength,Normal,80,1.0,False
+Arbok,,Body Slam,Normal,85,1.0,False
+Arbok,,Hyper Beam,Normal,75,0.9,False
+Arbok,,Rage,Normal,20,1.0,False
+Arbok,,Mega Drain,Grass,40,1.0,False
+Arbok,,Earthquake,Ground,100,1.0,False
+Arbok,,Dig,Ground,100,1.0,False
+Arbok,,Rock Slide,Rock,75,0.9,False
+Pikachu,1.0,ThunderShock,Electric,40,1.0,False
+Pikachu,16.0,Quick Attack,Normal,40,1.0,False
+Pikachu,26.0,Swift,Normal,60,1.0,False
+Pikachu,43.0,Thunder,Electric,120,0.7,False
+Pikachu,,Mega Punch,Normal,80,0.85,False
+Pikachu,,Mega Kick,Normal,120,0.75,False
+Pikachu,,Body Slam,Normal,85,1.0,False
+Pikachu,,Pay Day,Normal,40,1.0,False
+Pikachu,,Rage,Normal,20,1.0,False
+Pikachu,,Thunderbolt,Electric,95,1.0,False
+Pikachu,20.0,Slam,Normal,80,0.75,False
+Raichu,1.0,ThunderShock,Electric,40,1.0,False
+Raichu,,Mega Punch,Normal,80,0.85,False
+Raichu,,Mega Kick,Normal,120,0.75,False
+Raichu,,Body Slam,Normal,85,1.0,False
+Raichu,,Hyper Beam,Normal,75,0.9,False
+Raichu,,Pay Day,Normal,40,1.0,False
+Raichu,,Rage,Normal,20,1.0,False
+Raichu,,Thunderbolt,Electric,95,1.0,False
+Raichu,,Thunder,Electric,120,0.7,False
+Raichu,,Swift,Normal,60,1.0,False
+Sandshrew,1.0,Scratch,Normal,40,1.0,False
+Sandshrew,17.0,Slash,Normal,70,1.0,True
+Sandshrew,24.0,Poison Sting,Poison,15,1.0,False
+Sandshrew,31.0,Swift,Normal,60,1.0,False
+Sandshrew,38.0,Fury Swipes,Normal,54,0.8,False
+Sandshrew,,Cut,Normal,50,0.95,False
+Sandshrew,,Strength,Normal,80,1.0,False
+Sandshrew,,Body Slam,Normal,85,1.0,False
+Sandshrew,,Rage,Normal,20,1.0,False
+Sandshrew,,Earthquake,Ground,100,1.0,False
+Sandshrew,,Dig,Ground,100,1.0,False
+Sandshrew,,Rock Slide,Rock,75,0.9,False
+Sandslash,1.0,Scratch,Normal,40,1.0,False
+Sandslash,17.0,Slash,Normal,70,1.0,True
+Sandslash,27.0,Poison Sting,Poison,15,1.0,False
+Sandslash,36.0,Swift,Normal,60,1.0,False
+Sandslash,47.0,Fury Swipes,Normal,54,0.8,False
+Sandslash,,Cut,Normal,50,0.95,False
+Sandslash,,Strength,Normal,80,1.0,False
+Sandslash,,Body Slam,Normal,85,1.0,False
+Sandslash,,Hyper Beam,Normal,75,0.9,False
+Sandslash,,Rage,Normal,20,1.0,False
+Sandslash,,Earthquake,Ground,100,1.0,False
+Sandslash,,Dig,Ground,100,1.0,False
+Sandslash,,Rock Slide,Rock,75,0.9,False
+Nidoran_f,1.0,Tackle,Normal,35,0.95,False
+Nidoran_f,8.0,Scratch,Normal,40,1.0,False
+Nidoran_f,14.0,Poison Sting,Poison,15,1.0,False
+Nidoran_f,29.0,Bite,Normal,60,1.0,False
+Nidoran_f,36.0,Fury Swipes,Normal,54,0.8,False
+Nidoran_f,43.0,Double Kick,Fighting,60,1.0,False
+Nidoran_f,,Body Slam,Normal,85,1.0,False
+Nidoran_f,,Blizzard,Ice,120,0.9,False
+Nidoran_f,,Rage,Normal,20,1.0,False
+Nidoran_f,,Thunderbolt,Electric,95,1.0,False
+Nidoran_f,,Thunder,Electric,120,0.7,False
+Nidorina,1.0,Scratch,Normal,40,1.0,False
+Nidorina,1.0,Tackle,Normal,35,0.95,False
+Nidorina,14.0,Poison Sting,Poison,15,1.0,False
+Nidorina,32.0,Bite,Normal,60,1.0,False
+Nidorina,41.0,Fury Swipes,Normal,54,0.8,False
+Nidorina,50.0,Double Kick,Fighting,60,1.0,False
+Nidorina,,Body Slam,Normal,85,1.0,False
+Nidorina,,BubbleBeam,Water,65,1.0,False
+Nidorina,,Water Gun,Water,40,1.0,False
+Nidorina,,Ice Beam,Ice,95,1.0,False
+Nidorina,,Blizzard,Ice,120,0.9,False
+Nidorina,,Rage,Normal,20,1.0,False
+Nidorina,,Thunderbolt,Electric,95,1.0,False
+Nidorina,,Thunder,Electric,120,0.7,False
+Nidoqueen,1.0,Body Slam,Normal,85,1.0,False
+Nidoqueen,1.0,Scratch,Normal,40,1.0,False
+Nidoqueen,1.0,Tackle,Normal,35,0.95,False
+Nidoqueen,14.0,Poison Sting,Poison,15,1.0,False
+Nidoqueen,,Surf,Water,95,1.0,False
+Nidoqueen,,Strength,Normal,80,1.0,False
+Nidoqueen,,Mega Punch,Normal,80,0.85,False
+Nidoqueen,,Mega Kick,Normal,120,0.75,False
+Nidoqueen,,BubbleBeam,Water,65,1.0,False
+Nidoqueen,,Water Gun,Water,40,1.0,False
+Nidoqueen,,Ice Beam,Ice,95,1.0,False
+Nidoqueen,,Blizzard,Ice,120,0.9,False
+Nidoqueen,,Hyper Beam,Normal,75,0.9,False
+Nidoqueen,,Pay Day,Normal,40,1.0,False
+Nidoqueen,,Rage,Normal,20,1.0,False
+Nidoqueen,,Thunderbolt,Electric,95,1.0,False
+Nidoqueen,,Thunder,Electric,120,0.7,False
+Nidoqueen,,Earthquake,Ground,100,1.0,False
+Nidoqueen,,Fire Blast,Fire,120,0.85,False
+Nidoqueen,,Rock Slide,Rock,75,0.9,False
+Nidoqueen,12.0,Double Kick,Fighting,60,1.0,False
+Nidoran_m,1.0,Tackle,Normal,35,0.95,False
+Nidoran_m,8.0,Horn Attack,Normal,65,1.0,False
+Nidoran_m,14.0,Poison Sting,Poison,15,1.0,False
+Nidoran_m,29.0,Fury Attack,Normal,45,0.85,False
+Nidoran_m,43.0,Double Kick,Fighting,60,1.0,False
+Nidoran_m,,Body Slam,Normal,85,1.0,False
+Nidoran_m,,Blizzard,Ice,120,0.9,False
+Nidoran_m,,Rage,Normal,20,1.0,False
+Nidoran_m,,Thunderbolt,Electric,95,1.0,False
+Nidoran_m,,Thunder,Electric,120,0.7,False
+Nidorino,1.0,Horn Attack,Normal,65,1.0,False
+Nidorino,1.0,Tackle,Normal,35,0.95,False
+Nidorino,14.0,Poison Sting,Poison,15,1.0,False
+Nidorino,32.0,Fury Attack,Normal,45,0.85,False
+Nidorino,50.0,Double Kick,Fighting,60,1.0,False
+Nidorino,,Body Slam,Normal,85,1.0,False
+Nidorino,,BubbleBeam,Water,65,1.0,False
+Nidorino,,Water Gun,Water,40,1.0,False
+Nidorino,,Ice Beam,Ice,95,1.0,False
+Nidorino,,Blizzard,Ice,120,0.9,False
+Nidorino,,Rage,Normal,20,1.0,False
+Nidorino,,Thunderbolt,Electric,95,1.0,False
+Nidorino,,Thunder,Electric,120,0.7,False
+Nidoking,1.0,Horn Attack,Normal,65,1.0,False
+Nidoking,1.0,Poison Sting,Poison,15,1.0,False
+Nidoking,1.0,Tackle,Normal,35,0.95,False
+Nidoking,1.0,Thrash,Normal,90,1.0,False
+Nidoking,,Surf,Water,95,1.0,False
+Nidoking,,Strength,Normal,80,1.0,False
+Nidoking,,Mega Punch,Normal,80,0.85,False
+Nidoking,,Mega Kick,Normal,120,0.75,False
+Nidoking,,Body Slam,Normal,85,1.0,False
+Nidoking,,BubbleBeam,Water,65,1.0,False
+Nidoking,,Water Gun,Water,40,1.0,False
+Nidoking,,Ice Beam,Ice,95,1.0,False
+Nidoking,,Blizzard,Ice,120,0.9,False
+Nidoking,,Hyper Beam,Normal,75,0.9,False
+Nidoking,,Pay Day,Normal,40,1.0,False
+Nidoking,,Rage,Normal,20,1.0,False
+Nidoking,,Thunderbolt,Electric,95,1.0,False
+Nidoking,,Thunder,Electric,120,0.7,False
+Nidoking,,Earthquake,Ground,100,1.0,False
+Nidoking,,Fire Blast,Fire,120,0.85,False
+Nidoking,,Rock Slide,Rock,75,0.9,False
+Nidoking,12.0,Double Kick,Fighting,60,1.0,False
+Clefairy,1.0,Pound,Normal,40,1.0,False
+Clefairy,18.0,DoubleSlap,Normal,15,0.85,False
+Clefairy,,Strength,Normal,80,1.0,False
+Clefairy,,Mega Punch,Normal,80,0.85,False
+Clefairy,,Mega Kick,Normal,120,0.75,False
+Clefairy,,Body Slam,Normal,85,1.0,False
+Clefairy,,BubbleBeam,Water,65,1.0,False
+Clefairy,,Water Gun,Water,40,1.0,False
+Clefairy,,Ice Beam,Ice,95,1.0,False
+Clefairy,,Blizzard,Ice,120,0.9,False
+Clefairy,,Rage,Normal,20,1.0,False
+Clefairy,,Thunderbolt,Electric,95,1.0,False
+Clefairy,,Thunder,Electric,120,0.7,False
+Clefairy,,Psychic,Psychic,90,1.0,False
+Clefairy,,Fire Blast,Fire,120,0.85,False
+Clefairy,,Tri Attack,Normal,80,1.0,False
+Clefable,1.0,DoubleSlap,Normal,15,0.85,False
+Clefable,,Strength,Normal,80,1.0,False
+Clefable,,Mega Punch,Normal,80,0.85,False
+Clefable,,Mega Kick,Normal,120,0.75,False
+Clefable,,Body Slam,Normal,85,1.0,False
+Clefable,,BubbleBeam,Water,65,1.0,False
+Clefable,,Water Gun,Water,40,1.0,False
+Clefable,,Ice Beam,Ice,95,1.0,False
+Clefable,,Blizzard,Ice,120,0.9,False
+Clefable,,Hyper Beam,Normal,75,0.9,False
+Clefable,,Rage,Normal,20,1.0,False
+Clefable,,Thunderbolt,Electric,95,1.0,False
+Clefable,,Thunder,Electric,120,0.7,False
+Clefable,,Psychic,Psychic,90,1.0,False
+Clefable,,Fire Blast,Fire,120,0.85,False
+Clefable,,Tri Attack,Normal,80,1.0,False
+Vulpix,1.0,Ember,Fire,40,1.0,False
+Vulpix,16.0,Quick Attack,Normal,40,1.0,False
+Vulpix,35.0,Flamethrower,Fire,95,1.0,False
+Vulpix,42.0,Fire Spin,Fire,15,0.7,False
+Vulpix,,Body Slam,Normal,85,1.0,False
+Vulpix,,Rage,Normal,20,1.0,False
+Vulpix,,Dig,Ground,100,1.0,False
+Vulpix,,Fire Blast,Fire,120,0.85,False
+Vulpix,,Swift,Normal,60,1.0,False
+Ninetales,1.0,Ember,Fire,40,1.0,False
+Ninetales,1.0,Quick Attack,Normal,40,1.0,False
+Ninetales,,Body Slam,Normal,85,1.0,False
+Ninetales,,Hyper Beam,Normal,75,0.9,False
+Ninetales,,Rage,Normal,20,1.0,False
+Ninetales,,Dig,Ground,100,1.0,False
+Ninetales,,Fire Blast,Fire,120,0.85,False
+Ninetales,,Swift,Normal,60,1.0,False
+Jigglypuff,9.0,Pound,Normal,40,1.0,False
+Jigglypuff,24.0,DoubleSlap,Normal,15,0.85,False
+Jigglypuff,34.0,Body Slam,Normal,85,1.0,False
+Jigglypuff,,Strength,Normal,80,1.0,False
+Jigglypuff,,Mega Punch,Normal,80,0.85,False
+Jigglypuff,,Mega Kick,Normal,120,0.75,False
+Jigglypuff,,BubbleBeam,Water,65,1.0,False
+Jigglypuff,,Water Gun,Water,40,1.0,False
+Jigglypuff,,Ice Beam,Ice,95,1.0,False
+Jigglypuff,,Blizzard,Ice,120,0.9,False
+Jigglypuff,,Rage,Normal,20,1.0,False
+Jigglypuff,,Thunderbolt,Electric,95,1.0,False
+Jigglypuff,,Thunder,Electric,120,0.7,False
+Jigglypuff,,Psychic,Psychic,90,1.0,False
+Jigglypuff,,Fire Blast,Fire,120,0.85,False
+Jigglypuff,,Tri Attack,Normal,80,1.0,False
+Wigglytuff,1.0,DoubleSlap,Normal,15,0.85,False
+Wigglytuff,,Strength,Normal,80,1.0,False
+Wigglytuff,,Mega Punch,Normal,80,0.85,False
+Wigglytuff,,Mega Kick,Normal,120,0.75,False
+Wigglytuff,,Body Slam,Normal,85,1.0,False
+Wigglytuff,,BubbleBeam,Water,65,1.0,False
+Wigglytuff,,Water Gun,Water,40,1.0,False
+Wigglytuff,,Ice Beam,Ice,95,1.0,False
+Wigglytuff,,Blizzard,Ice,120,0.9,False
+Wigglytuff,,Hyper Beam,Normal,75,0.9,False
+Wigglytuff,,Rage,Normal,20,1.0,False
+Wigglytuff,,Thunderbolt,Electric,95,1.0,False
+Wigglytuff,,Thunder,Electric,120,0.7,False
+Wigglytuff,,Psychic,Psychic,90,1.0,False
+Wigglytuff,,Fire Blast,Fire,120,0.85,False
+Wigglytuff,,Tri Attack,Normal,80,1.0,False
+Zubat,1.0,Leech Life,Bug,20,1.0,False
+Zubat,15.0,Bite,Normal,60,1.0,False
+Zubat,28.0,Wing Attack,Flying,35,1.0,False
+Zubat,,Rage,Normal,20,1.0,False
+Zubat,,Mega Drain,Grass,40,1.0,False
+Zubat,,Swift,Normal,60,1.0,False
+Golbat,1.0,Bite,Normal,60,1.0,False
+Golbat,1.0,Leech Life,Bug,20,1.0,False
+Golbat,32.0,Wing Attack,Flying,35,1.0,False
+Golbat,,Hyper Beam,Normal,75,0.9,False
+Golbat,,Rage,Normal,20,1.0,False
+Golbat,,Mega Drain,Grass,40,1.0,False
+Golbat,,Swift,Normal,60,1.0,False
+Oddish,1.0,Absorb,Grass,20,1.0,False
+Oddish,24.0,Acid,Poison,40,1.0,False
+Oddish,33.0,Petal Dance,Grass,70,1.0,False
+Oddish,,Cut,Normal,50,0.95,False
+Oddish,,Rage,Normal,20,1.0,False
+Oddish,,Mega Drain,Grass,40,1.0,False
+Gloom,1.0,Absorb,Grass,20,1.0,False
+Gloom,28.0,Acid,Poison,40,1.0,False
+Gloom,38.0,Petal Dance,Grass,70,1.0,False
+Gloom,,Cut,Normal,50,0.95,False
+Gloom,,Rage,Normal,20,1.0,False
+Gloom,,Mega Drain,Grass,40,1.0,False
+Vileplume,1.0,Acid,Poison,40,1.0,False
+Vileplume,1.0,Petal Dance,Grass,70,1.0,False
+Vileplume,,Cut,Normal,50,0.95,False
+Vileplume,,Body Slam,Normal,85,1.0,False
+Vileplume,,Hyper Beam,Normal,75,0.9,False
+Vileplume,,Rage,Normal,20,1.0,False
+Vileplume,,Mega Drain,Grass,40,1.0,False
+Paras,1.0,Scratch,Normal,40,1.0,False
+Paras,20.0,Leech Life,Bug,20,1.0,False
+Paras,34.0,Slash,Normal,70,1.0,True
+Paras,,Cut,Normal,50,0.95,False
+Paras,,Body Slam,Normal,85,1.0,False
+Paras,,Rage,Normal,20,1.0,False
+Paras,,Mega Drain,Grass,40,1.0,False
+Paras,,Dig,Ground,100,1.0,False
+Parasect,1.0,Leech Life,Bug,20,1.0,False
+Parasect,1.0,Scratch,Normal,40,1.0,False
+Parasect,39.0,Slash,Normal,70,1.0,True
+Parasect,,Cut,Normal,50,0.95,False
+Parasect,,Body Slam,Normal,85,1.0,False
+Parasect,,Hyper Beam,Normal,75,0.9,False
+Parasect,,Rage,Normal,20,1.0,False
+Parasect,,Mega Drain,Grass,40,1.0,False
+Parasect,,Dig,Ground,100,1.0,False
+Venonat,1.0,Tackle,Normal,35,0.95,False
+Venonat,27.0,Leech Life,Bug,20,1.0,False
+Venonat,35.0,Psybeam,Psychic,65,1.0,False
+Venonat,43.0,Psychic,Psychic,90,1.0,False
+Venonat,,Rage,Normal,20,1.0,False
+Venonat,,Mega Drain,Grass,40,1.0,False
+Venonat,19.0,Confusion,Psychic,50,1.0,False
+Venomoth,1.0,Leech Life,Bug,20,1.0,False
+Venomoth,1.0,Tackle,Normal,35,0.95,False
+Venomoth,38.0,Psybeam,Psychic,65,1.0,False
+Venomoth,50.0,Psychic,Psychic,90,1.0,False
+Venomoth,,Hyper Beam,Normal,75,0.9,False
+Venomoth,,Rage,Normal,20,1.0,False
+Venomoth,,Mega Drain,Grass,40,1.0,False
+Venomoth,,Swift,Normal,60,1.0,False
+Venomoth,1.0,Confusion,Psychic,50,1.0,False
+Diglett,1.0,Scratch,Normal,40,1.0,False
+Diglett,19.0,Dig,Ground,100,1.0,False
+Diglett,31.0,Slash,Normal,70,1.0,True
+Diglett,40.0,Earthquake,Ground,100,1.0,False
+Diglett,,Body Slam,Normal,85,1.0,False
+Diglett,,Rage,Normal,20,1.0,False
+Diglett,,Rock Slide,Rock,75,0.9,False
+Diglett,,Cut,Normal,50,0.95,False
+Dugtrio,1.0,Dig,Ground,100,1.0,False
+Dugtrio,1.0,Scratch,Normal,40,1.0,False
+Dugtrio,35.0,Slash,Normal,70,1.0,True
+Dugtrio,47.0,Earthquake,Ground,100,1.0,False
+Dugtrio,,Body Slam,Normal,85,1.0,False
+Dugtrio,,Hyper Beam,Normal,75,0.9,False
+Dugtrio,,Rage,Normal,20,1.0,False
+Dugtrio,,Rock Slide,Rock,75,0.9,False
+Dugtrio,,Cut,Normal,50,0.95,False
+Meowth,1.0,Scratch,Normal,40,1.0,False
+Meowth,12.0,Bite,Normal,60,1.0,False
+Meowth,17.0,Pay Day,Normal,40,1.0,False
+Meowth,33.0,Fury Swipes,Normal,54,0.8,False
+Meowth,44.0,Slash,Normal,70,1.0,True
+Meowth,,Body Slam,Normal,85,1.0,False
+Meowth,,BubbleBeam,Water,65,1.0,False
+Meowth,,Water Gun,Water,40,1.0,False
+Meowth,,Rage,Normal,20,1.0,False
+Meowth,,Thunderbolt,Electric,95,1.0,False
+Meowth,,Thunder,Electric,120,0.7,False
+Meowth,,Swift,Normal,60,1.0,False
+Persian,1.0,Bite,Normal,60,1.0,False
+Persian,1.0,Scratch,Normal,40,1.0,False
+Persian,17.0,Pay Day,Normal,40,1.0,False
+Persian,37.0,Fury Swipes,Normal,54,0.8,False
+Persian,51.0,Slash,Normal,70,1.0,True
+Persian,,Body Slam,Normal,85,1.0,False
+Persian,,BubbleBeam,Water,65,1.0,False
+Persian,,Water Gun,Water,40,1.0,False
+Persian,,Hyper Beam,Normal,75,0.9,False
+Persian,,Rage,Normal,20,1.0,False
+Persian,,Thunderbolt,Electric,95,1.0,False
+Persian,,Thunder,Electric,120,0.7,False
+Persian,,Swift,Normal,60,1.0,False
+Psyduck,1.0,Scratch,Normal,40,1.0,False
+Psyduck,36.0,Confusion,Psychic,50,1.0,False
+Psyduck,43.0,Fury Swipes,Normal,54,0.8,False
+Psyduck,52.0,Hydro Pump,Water,120,0.8,False
+Psyduck,,Surf,Water,95,1.0,False
+Psyduck,,Strength,Normal,80,1.0,False
+Psyduck,,Mega Punch,Normal,80,0.85,False
+Psyduck,,Mega Kick,Normal,120,0.75,False
+Psyduck,,Body Slam,Normal,85,1.0,False
+Psyduck,,BubbleBeam,Water,65,1.0,False
+Psyduck,,Water Gun,Water,40,1.0,False
+Psyduck,,Ice Beam,Ice,95,1.0,False
+Psyduck,,Blizzard,Ice,120,0.9,False
+Psyduck,,Pay Day,Normal,40,1.0,False
+Psyduck,,Rage,Normal,20,1.0,False
+Psyduck,,Dig,Ground,100,1.0,False
+Psyduck,,Swift,Normal,60,1.0,False
+Golduck,1.0,Scratch,Normal,40,1.0,False
+Golduck,39.0,Confusion,Psychic,50,1.0,False
+Golduck,48.0,Fury Swipes,Normal,54,0.8,False
+Golduck,59.0,Hydro Pump,Water,120,0.8,False
+Golduck,,Surf,Water,95,1.0,False
+Golduck,,Strength,Normal,80,1.0,False
+Golduck,,Mega Punch,Normal,80,0.85,False
+Golduck,,Mega Kick,Normal,120,0.75,False
+Golduck,,Body Slam,Normal,85,1.0,False
+Golduck,,BubbleBeam,Water,65,1.0,False
+Golduck,,Water Gun,Water,40,1.0,False
+Golduck,,Ice Beam,Ice,95,1.0,False
+Golduck,,Blizzard,Ice,120,0.9,False
+Golduck,,Hyper Beam,Normal,75,0.9,False
+Golduck,,Pay Day,Normal,40,1.0,False
+Golduck,,Rage,Normal,20,1.0,False
+Golduck,,Dig,Ground,100,1.0,False
+Golduck,,Swift,Normal,60,1.0,False
+Mankey,1.0,Scratch,Normal,40,1.0,False
+Mankey,15.0,Karate Chop,Normal,50,1.0,True
+Mankey,21.0,Fury Swipes,Normal,54,0.8,False
+Mankey,39.0,Thrash,Normal,90,1.0,False
+Mankey,,Strength,Normal,80,1.0,False
+Mankey,,Mega Punch,Normal,80,0.85,False
+Mankey,,Mega Kick,Normal,120,0.75,False
+Mankey,,Body Slam,Normal,85,1.0,False
+Mankey,,Pay Day,Normal,40,1.0,False
+Mankey,,Rage,Normal,20,1.0,False
+Mankey,,Thunderbolt,Electric,95,1.0,False
+Mankey,,Thunder,Electric,120,0.7,False
+Mankey,,Dig,Ground,100,1.0,False
+Mankey,,Swift,Normal,60,1.0,False
+Mankey,,Rock Slide,Rock,75,0.9,False
+Mankey,9.0,Low Kick,Fighting,50,0.9,False
+Primeape,1.0,Fury Swipes,Normal,54,0.8,False
+Primeape,1.0,Karate Chop,Normal,50,1.0,True
+Primeape,1.0,Scratch,Normal,40,1.0,False
+Primeape,46.0,Thrash,Normal,90,1.0,False
+Primeape,,Strength,Normal,80,1.0,False
+Primeape,,Mega Punch,Normal,80,0.85,False
+Primeape,,Mega Kick,Normal,120,0.75,False
+Primeape,,Body Slam,Normal,85,1.0,False
+Primeape,,Hyper Beam,Normal,75,0.9,False
+Primeape,,Pay Day,Normal,40,1.0,False
+Primeape,,Rage,Normal,20,1.0,False
+Primeape,,Thunderbolt,Electric,95,1.0,False
+Primeape,,Thunder,Electric,120,0.7,False
+Primeape,,Dig,Ground,100,1.0,False
+Primeape,,Swift,Normal,60,1.0,False
+Primeape,,Rock Slide,Rock,75,0.9,False
+Primeape,1.0,Low Kick,Fighting,50,0.9,False
+Growlithe,1.0,Bite,Normal,60,1.0,False
+Growlithe,18.0,Ember,Fire,40,1.0,False
+Growlithe,50.0,Flamethrower,Fire,95,1.0,False
+Growlithe,,Body Slam,Normal,85,1.0,False
+Growlithe,,Rage,Normal,20,1.0,False
+Growlithe,,Dig,Ground,100,1.0,False
+Growlithe,,Fire Blast,Fire,120,0.85,False
+Growlithe,,Swift,Normal,60,1.0,False
+Arcanine,1.0,Ember,Fire,40,1.0,False
+Arcanine,,Body Slam,Normal,85,1.0,False
+Arcanine,,Hyper Beam,Normal,75,0.9,False
+Arcanine,,Rage,Normal,20,1.0,False
+Arcanine,,Dig,Ground,100,1.0,False
+Arcanine,,Fire Blast,Fire,120,0.85,False
+Arcanine,,Swift,Normal,60,1.0,False
+Poliwag,1.0,Bubble,Water,20,1.0,False
+Poliwag,19.0,Water Gun,Water,40,1.0,False
+Poliwag,25.0,DoubleSlap,Normal,15,0.85,False
+Poliwag,31.0,Body Slam,Normal,85,1.0,False
+Poliwag,45.0,Hydro Pump,Water,120,0.8,False
+Poliwag,,Surf,Water,95,1.0,False
+Poliwag,,BubbleBeam,Water,65,1.0,False
+Poliwag,,Ice Beam,Ice,95,1.0,False
+Poliwag,,Blizzard,Ice,120,0.9,False
+Poliwag,,Rage,Normal,20,1.0,False
+Poliwag,,Psychic,Psychic,90,1.0,False
+Poliwhirl,1.0,Bubble,Water,20,1.0,False
+Poliwhirl,1.0,Water Gun,Water,40,1.0,False
+Poliwhirl,26.0,DoubleSlap,Normal,15,0.85,False
+Poliwhirl,33.0,Body Slam,Normal,85,1.0,False
+Poliwhirl,49.0,Hydro Pump,Water,120,0.8,False
+Poliwhirl,,Surf,Water,95,1.0,False
+Poliwhirl,,Strength,Normal,80,1.0,False
+Poliwhirl,,Mega Punch,Normal,80,0.85,False
+Poliwhirl,,Mega Kick,Normal,120,0.75,False
+Poliwhirl,,BubbleBeam,Water,65,1.0,False
+Poliwhirl,,Ice Beam,Ice,95,1.0,False
+Poliwhirl,,Blizzard,Ice,120,0.9,False
+Poliwhirl,,Rage,Normal,20,1.0,False
+Poliwhirl,,Earthquake,Ground,100,1.0,False
+Poliwhirl,,Psychic,Psychic,90,1.0,False
+Poliwrath,1.0,Body Slam,Normal,85,1.0,False
+Poliwrath,1.0,DoubleSlap,Normal,15,0.85,False
+Poliwrath,1.0,Water Gun,Water,40,1.0,False
+Poliwrath,,Surf,Water,95,1.0,False
+Poliwrath,,Strength,Normal,80,1.0,False
+Poliwrath,,Mega Punch,Normal,80,0.85,False
+Poliwrath,,Mega Kick,Normal,120,0.75,False
+Poliwrath,,BubbleBeam,Water,65,1.0,False
+Poliwrath,,Ice Beam,Ice,95,1.0,False
+Poliwrath,,Blizzard,Ice,120,0.9,False
+Poliwrath,,Hyper Beam,Normal,75,0.9,False
+Poliwrath,,Rage,Normal,20,1.0,False
+Poliwrath,,Earthquake,Ground,100,1.0,False
+Poliwrath,,Psychic,Psychic,90,1.0,False
+Abra,,Mega Punch,Normal,80,0.85,False
+Abra,,Mega Kick,Normal,120,0.75,False
+Abra,,Body Slam,Normal,85,1.0,False
+Abra,,Rage,Normal,20,1.0,False
+Abra,,Psychic,Psychic,90,1.0,False
+Abra,,Tri Attack,Normal,80,1.0,False
+Kadabra,1.0,Confusion,Psychic,50,1.0,False
+Kadabra,27.0,Psybeam,Psychic,65,1.0,False
+Kadabra,38.0,Psychic,Psychic,90,1.0,False
+Kadabra,,Mega Punch,Normal,80,0.85,False
+Kadabra,,Mega Kick,Normal,120,0.75,False
+Kadabra,,Body Slam,Normal,85,1.0,False
+Kadabra,,Rage,Normal,20,1.0,False
+Kadabra,,Dig,Ground,100,1.0,False
+Kadabra,,Tri Attack,Normal,80,1.0,False
+Alakazam,1.0,Confusion,Psychic,50,1.0,False
+Alakazam,27.0,Psybeam,Psychic,65,1.0,False
+Alakazam,38.0,Psychic,Psychic,90,1.0,False
+Alakazam,,Mega Punch,Normal,80,0.85,False
+Alakazam,,Mega Kick,Normal,120,0.75,False
+Alakazam,,Body Slam,Normal,85,1.0,False
+Alakazam,,Hyper Beam,Normal,75,0.9,False
+Alakazam,,Rage,Normal,20,1.0,False
+Alakazam,,Dig,Ground,100,1.0,False
+Alakazam,,Tri Attack,Normal,80,1.0,False
+Machop,1.0,Karate Chop,Normal,50,1.0,True
+Machop,20.0,Low Kick,Fighting,50,0.9,False
+Machop,,Strength,Normal,80,1.0,False
+Machop,,Mega Punch,Normal,80,0.85,False
+Machop,,Mega Kick,Normal,120,0.75,False
+Machop,,Body Slam,Normal,85,1.0,False
+Machop,,Rage,Normal,20,1.0,False
+Machop,,Earthquake,Ground,100,1.0,False
+Machop,,Dig,Ground,100,1.0,False
+Machop,,Fire Blast,Fire,120,0.85,False
+Machop,,Rock Slide,Rock,75,0.9,False
+Machoke,1.0,Karate Chop,Normal,50,1.0,True
+Machoke,1.0,Low Kick,Fighting,50,0.9,False
+Machoke,,Strength,Normal,80,1.0,False
+Machoke,,Mega Punch,Normal,80,0.85,False
+Machoke,,Mega Kick,Normal,120,0.75,False
+Machoke,,Body Slam,Normal,85,1.0,False
+Machoke,,Rage,Normal,20,1.0,False
+Machoke,,Earthquake,Ground,100,1.0,False
+Machoke,,Dig,Ground,100,1.0,False
+Machoke,,Fire Blast,Fire,120,0.85,False
+Machoke,,Rock Slide,Rock,75,0.9,False
+Machamp,1.0,Karate Chop,Normal,50,1.0,True
+Machamp,1.0,Low Kick,Fighting,50,0.9,False
+Machamp,,Strength,Normal,80,1.0,False
+Machamp,,Mega Punch,Normal,80,0.85,False
+Machamp,,Mega Kick,Normal,120,0.75,False
+Machamp,,Body Slam,Normal,85,1.0,False
+Machamp,,Hyper Beam,Normal,75,0.9,False
+Machamp,,Rage,Normal,20,1.0,False
+Machamp,,Earthquake,Ground,100,1.0,False
+Machamp,,Dig,Ground,100,1.0,False
+Machamp,,Fire Blast,Fire,120,0.85,False
+Machamp,,Rock Slide,Rock,75,0.9,False
+Bellsprout,1.0,Vine Whip,Grass,35,1.0,False
+Bellsprout,13.0,Wrap,Normal,15,0.85,False
+Bellsprout,26.0,Acid,Poison,40,1.0,False
+Bellsprout,33.0,Razor Leaf,Grass,55,0.95,True
+Bellsprout,42.0,Slam,Normal,80,0.75,False
+Bellsprout,,Cut,Normal,50,0.95,False
+Bellsprout,,Rage,Normal,20,1.0,False
+Bellsprout,,Mega Drain,Grass,40,1.0,False
+Weepinbell,1.0,Vine Whip,Grass,35,1.0,False
+Weepinbell,1.0,Wrap,Normal,15,0.85,False
+Weepinbell,29.0,Acid,Poison,40,1.0,False
+Weepinbell,38.0,Razor Leaf,Grass,55,0.95,True
+Weepinbell,49.0,Slam,Normal,80,0.75,False
+Weepinbell,,Cut,Normal,50,0.95,False
+Weepinbell,,Rage,Normal,20,1.0,False
+Weepinbell,,Mega Drain,Grass,40,1.0,False
+Victreebel,1.0,Acid,Poison,40,1.0,False
+Victreebel,1.0,Razor Leaf,Grass,55,0.95,True
+Victreebel,13.0,Wrap,Normal,15,0.85,False
+Victreebel,,Cut,Normal,50,0.95,False
+Victreebel,,Body Slam,Normal,85,1.0,False
+Victreebel,,Hyper Beam,Normal,75,0.9,False
+Victreebel,,Rage,Normal,20,1.0,False
+Victreebel,,Mega Drain,Grass,40,1.0,False
+Tentacool,1.0,Acid,Poison,40,1.0,False
+Tentacool,13.0,Wrap,Normal,15,0.85,False
+Tentacool,18.0,Poison Sting,Poison,15,1.0,False
+Tentacool,22.0,Water Gun,Water,40,1.0,False
+Tentacool,27.0,Constrict,Normal,10,1.0,False
+Tentacool,48.0,Hydro Pump,Water,120,0.8,False
+Tentacool,,Cut,Normal,50,0.95,False
+Tentacool,,Surf,Water,95,1.0,False
+Tentacool,,BubbleBeam,Water,65,1.0,False
+Tentacool,,Ice Beam,Ice,95,1.0,False
+Tentacool,,Blizzard,Ice,120,0.9,False
+Tentacool,,Rage,Normal,20,1.0,False
+Tentacool,,Mega Drain,Grass,40,1.0,False
+Tentacruel,1.0,Acid,Poison,40,1.0,False
+Tentacruel,1.0,Wrap,Normal,15,0.85,False
+Tentacruel,18.0,Poison Sting,Poison,15,1.0,False
+Tentacruel,22.0,Water Gun,Water,40,1.0,False
+Tentacruel,27.0,Constrict,Normal,10,1.0,False
+Tentacruel,50.0,Hydro Pump,Water,120,0.8,False
+Tentacruel,,Cut,Normal,50,0.95,False
+Tentacruel,,Surf,Water,95,1.0,False
+Tentacruel,,BubbleBeam,Water,65,1.0,False
+Tentacruel,,Ice Beam,Ice,95,1.0,False
+Tentacruel,,Blizzard,Ice,120,0.9,False
+Tentacruel,,Hyper Beam,Normal,75,0.9,False
+Tentacruel,,Rage,Normal,20,1.0,False
+Tentacruel,,Mega Drain,Grass,40,1.0,False
+Geodude,1.0,Tackle,Normal,35,0.95,False
+Geodude,16.0,Rock Throw,Rock,50,0.65,False
+Geodude,31.0,Earthquake,Ground,100,1.0,False
+Geodude,,Strength,Normal,80,1.0,False
+Geodude,,Mega Punch,Normal,80,0.85,False
+Geodude,,Body Slam,Normal,85,1.0,False
+Geodude,,Rage,Normal,20,1.0,False
+Geodude,,Dig,Ground,100,1.0,False
+Geodude,,Fire Blast,Fire,120,0.85,False
+Geodude,,Rock Slide,Rock,75,0.9,False
+Graveler,1.0,Tackle,Normal,35,0.95,False
+Graveler,16.0,Rock Throw,Rock,50,0.65,False
+Graveler,36.0,Earthquake,Ground,100,1.0,False
+Graveler,,Strength,Normal,80,1.0,False
+Graveler,,Mega Punch,Normal,80,0.85,False
+Graveler,,Body Slam,Normal,85,1.0,False
+Graveler,,Rage,Normal,20,1.0,False
+Graveler,,Dig,Ground,100,1.0,False
+Graveler,,Fire Blast,Fire,120,0.85,False
+Graveler,,Rock Slide,Rock,75,0.9,False
+Golem,1.0,Tackle,Normal,35,0.95,False
+Golem,16.0,Rock Throw,Rock,50,0.65,False
+Golem,36.0,Earthquake,Ground,100,1.0,False
+Golem,,Strength,Normal,80,1.0,False
+Golem,,Mega Punch,Normal,80,0.85,False
+Golem,,Mega Kick,Normal,120,0.75,False
+Golem,,Body Slam,Normal,85,1.0,False
+Golem,,Hyper Beam,Normal,75,0.9,False
+Golem,,Rage,Normal,20,1.0,False
+Golem,,Dig,Ground,100,1.0,False
+Golem,,Fire Blast,Fire,120,0.85,False
+Golem,,Rock Slide,Rock,75,0.9,False
+Ponyta,1.0,Ember,Fire,40,1.0,False
+Ponyta,32.0,Stomp,Normal,65,1.0,False
+Ponyta,39.0,Fire Spin,Fire,15,0.7,False
+Ponyta,,Body Slam,Normal,85,1.0,False
+Ponyta,,Rage,Normal,20,1.0,False
+Ponyta,,Fire Blast,Fire,120,0.85,False
+Ponyta,,Swift,Normal,60,1.0,False
+Rapidash,1.0,Ember,Fire,40,1.0,False
+Rapidash,1.0,Stomp,Normal,65,1.0,False
+Rapidash,39.0,Fire Spin,Fire,15,0.7,False
+Rapidash,,Body Slam,Normal,85,1.0,False
+Rapidash,,Hyper Beam,Normal,75,0.9,False
+Rapidash,,Rage,Normal,20,1.0,False
+Rapidash,,Fire Blast,Fire,120,0.85,False
+Rapidash,,Swift,Normal,60,1.0,False
+Slowpoke,1.0,Confusion,Psychic,50,1.0,False
+Slowpoke,22.0,Headbutt,Normal,70,1.0,False
+Slowpoke,33.0,Water Gun,Water,40,1.0,False
+Slowpoke,48.0,Psychic,Psychic,90,1.0,False
+Slowpoke,,Surf,Water,95,1.0,False
+Slowpoke,,Strength,Normal,80,1.0,False
+Slowpoke,,Body Slam,Normal,85,1.0,False
+Slowpoke,,BubbleBeam,Water,65,1.0,False
+Slowpoke,,Ice Beam,Ice,95,1.0,False
+Slowpoke,,Blizzard,Ice,120,0.9,False
+Slowpoke,,Pay Day,Normal,40,1.0,False
+Slowpoke,,Rage,Normal,20,1.0,False
+Slowpoke,,Earthquake,Ground,100,1.0,False
+Slowpoke,,Dig,Ground,100,1.0,False
+Slowpoke,,Fire Blast,Fire,120,0.85,False
+Slowpoke,,Swift,Normal,60,1.0,False
+Slowpoke,,Tri Attack,Normal,80,1.0,False
+Slowbro,1.0,Confusion,Psychic,50,1.0,False
+Slowbro,1.0,Headbutt,Normal,70,1.0,False
+Slowbro,33.0,Water Gun,Water,40,1.0,False
+Slowbro,55.0,Psychic,Psychic,90,1.0,False
+Slowbro,,Surf,Water,95,1.0,False
+Slowbro,,Strength,Normal,80,1.0,False
+Slowbro,,Mega Punch,Normal,80,0.85,False
+Slowbro,,Mega Kick,Normal,120,0.75,False
+Slowbro,,Body Slam,Normal,85,1.0,False
+Slowbro,,BubbleBeam,Water,65,1.0,False
+Slowbro,,Ice Beam,Ice,95,1.0,False
+Slowbro,,Blizzard,Ice,120,0.9,False
+Slowbro,,Hyper Beam,Normal,75,0.9,False
+Slowbro,,Pay Day,Normal,40,1.0,False
+Slowbro,,Rage,Normal,20,1.0,False
+Slowbro,,Earthquake,Ground,100,1.0,False
+Slowbro,,Dig,Ground,100,1.0,False
+Slowbro,,Fire Blast,Fire,120,0.85,False
+Slowbro,,Swift,Normal,60,1.0,False
+Slowbro,,Tri Attack,Normal,80,1.0,False
+Magnemite,1.0,Tackle,Normal,35,0.95,False
+Magnemite,25.0,ThunderShock,Electric,40,1.0,False
+Magnemite,41.0,Swift,Normal,60,1.0,False
+Magnemite,,Rage,Normal,20,1.0,False
+Magnemite,,Thunderbolt,Electric,95,1.0,False
+Magnemite,,Thunder,Electric,120,0.7,False
+Magneton,1.0,Tackle,Normal,35,0.95,False
+Magneton,1.0,ThunderShock,Electric,40,1.0,False
+Magneton,46.0,Swift,Normal,60,1.0,False
+Magneton,,Hyper Beam,Normal,75,0.9,False
+Magneton,,Rage,Normal,20,1.0,False
+Magneton,,Thunderbolt,Electric,95,1.0,False
+Magneton,,Thunder,Electric,120,0.7,False
+Farfetchd,1.0,Peck,Flying,35,1.0,False
+Farfetchd,15.0,Fury Attack,Normal,45,0.85,False
+Farfetchd,39.0,Slash,Normal,70,1.0,True
+Farfetchd,,Cut,Normal,50,0.95,False
+Farfetchd,,Fly,Flying,70,0.95,False
+Farfetchd,,Body Slam,Normal,85,1.0,False
+Farfetchd,,Rage,Normal,20,1.0,False
+Farfetchd,,Swift,Normal,60,1.0,False
+Doduo,1.0,Peck,Flying,35,1.0,False
+Doduo,24.0,Fury Attack,Normal,45,0.85,False
+Doduo,30.0,Drill Peck,Flying,80,1.0,False
+Doduo,36.0,Rage,Normal,20,1.0,False
+Doduo,40.0,Tri Attack,Normal,80,1.0,False
+Doduo,,Fly,Flying,70,0.95,False
+Doduo,,Body Slam,Normal,85,1.0,False
+Dodrio,1.0,Fury Attack,Normal,45,0.85,False
+Dodrio,1.0,Peck,Flying,35,1.0,False
+Dodrio,30.0,Drill Peck,Flying,80,1.0,False
+Dodrio,39.0,Rage,Normal,20,1.0,False
+Dodrio,45.0,Tri Attack,Normal,80,1.0,False
+Dodrio,,Fly,Flying,70,0.95,False
+Dodrio,,Body Slam,Normal,85,1.0,False
+Dodrio,,Hyper Beam,Normal,75,0.9,False
+Seel,1.0,Headbutt,Normal,70,1.0,False
+Seel,35.0,Aurora Beam,Ice,65,1.0,False
+Seel,50.0,Ice Beam,Ice,95,1.0,False
+Seel,,Surf,Water,95,1.0,False
+Seel,,Strength,Normal,80,1.0,False
+Seel,,Body Slam,Normal,85,1.0,False
+Seel,,BubbleBeam,Water,65,1.0,False
+Seel,,Water Gun,Water,40,1.0,False
+Seel,,Blizzard,Ice,120,0.9,False
+Seel,,Pay Day,Normal,40,1.0,False
+Seel,,Rage,Normal,20,1.0,False
+Dewgong,1.0,Aurora Beam,Ice,65,1.0,False
+Dewgong,1.0,Headbutt,Normal,70,1.0,False
+Dewgong,56.0,Ice Beam,Ice,95,1.0,False
+Dewgong,,Surf,Water,95,1.0,False
+Dewgong,,Strength,Normal,80,1.0,False
+Dewgong,,Body Slam,Normal,85,1.0,False
+Dewgong,,BubbleBeam,Water,65,1.0,False
+Dewgong,,Water Gun,Water,40,1.0,False
+Dewgong,,Blizzard,Ice,120,0.9,False
+Dewgong,,Hyper Beam,Normal,75,0.9,False
+Dewgong,,Pay Day,Normal,40,1.0,False
+Dewgong,,Rage,Normal,20,1.0,False
+Grimer,1.0,Pound,Normal,40,1.0,False
+Grimer,37.0,Sludge,Poison,65,1.0,False
+Grimer,,Body Slam,Normal,85,1.0,False
+Grimer,,Rage,Normal,20,1.0,False
+Grimer,,Mega Drain,Grass,40,1.0,False
+Grimer,,Thunderbolt,Electric,95,1.0,False
+Grimer,,Thunder,Electric,120,0.7,False
+Grimer,,Fire Blast,Fire,120,0.85,False
+Muk,1.0,Pound,Normal,40,1.0,False
+Muk,37.0,Sludge,Poison,65,1.0,False
+Muk,,Body Slam,Normal,85,1.0,False
+Muk,,Hyper Beam,Normal,75,0.9,False
+Muk,,Rage,Normal,20,1.0,False
+Muk,,Mega Drain,Grass,40,1.0,False
+Muk,,Thunderbolt,Electric,95,1.0,False
+Muk,,Thunder,Electric,120,0.7,False
+Muk,,Fire Blast,Fire,120,0.85,False
+Shellder,1.0,Tackle,Normal,35,0.95,False
+Shellder,23.0,Clamp,Water,35,0.75,False
+Shellder,30.0,Aurora Beam,Ice,65,1.0,False
+Shellder,50.0,Ice Beam,Ice,95,1.0,False
+Shellder,,Surf,Water,95,1.0,False
+Shellder,,BubbleBeam,Water,65,1.0,False
+Shellder,,Water Gun,Water,40,1.0,False
+Shellder,,Blizzard,Ice,120,0.9,False
+Shellder,,Rage,Normal,20,1.0,False
+Shellder,,Swift,Normal,60,1.0,False
+Shellder,,Tri Attack,Normal,80,1.0,False
+Cloyster,1.0,Aurora Beam,Ice,65,1.0,False
+Cloyster,1.0,Clamp,Water,35,0.75,False
+Cloyster,50.0,Spike Cannon,Normal,60,1.0,False
+Cloyster,,Surf,Water,95,1.0,False
+Cloyster,,BubbleBeam,Water,65,1.0,False
+Cloyster,,Water Gun,Water,40,1.0,False
+Cloyster,,Ice Beam,Ice,95,1.0,False
+Cloyster,,Blizzard,Ice,120,0.9,False
+Cloyster,,Hyper Beam,Normal,75,0.9,False
+Cloyster,,Rage,Normal,20,1.0,False
+Cloyster,,Swift,Normal,60,1.0,False
+Cloyster,,Tri Attack,Normal,80,1.0,False
+Gastly,1.0,Lick,Ghost,20,1.0,False
+Gastly,,Rage,Normal,20,1.0,False
+Gastly,,Mega Drain,Grass,40,1.0,False
+Gastly,,Thunderbolt,Electric,95,1.0,False
+Gastly,,Thunder,Electric,120,0.7,False
+Gastly,,Psychic,Psychic,90,1.0,False
+Haunter,1.0,Lick,Ghost,20,1.0,False
+Haunter,,Rage,Normal,20,1.0,False
+Haunter,,Mega Drain,Grass,40,1.0,False
+Haunter,,Thunderbolt,Electric,95,1.0,False
+Haunter,,Thunder,Electric,120,0.7,False
+Haunter,,Psychic,Psychic,90,1.0,False
+Gengar,1.0,Lick,Ghost,20,1.0,False
+Gengar,,Strength,Normal,80,1.0,False
+Gengar,,Mega Punch,Normal,80,0.85,False
+Gengar,,Mega Kick,Normal,120,0.75,False
+Gengar,,Body Slam,Normal,85,1.0,False
+Gengar,,Hyper Beam,Normal,75,0.9,False
+Gengar,,Rage,Normal,20,1.0,False
+Gengar,,Mega Drain,Grass,40,1.0,False
+Gengar,,Thunderbolt,Electric,95,1.0,False
+Gengar,,Thunder,Electric,120,0.7,False
+Gengar,,Psychic,Psychic,90,1.0,False
+Onix,1.0,Tackle,Normal,35,0.95,False
+Onix,15.0,Bind,Normal,15,0.75,False
+Onix,19.0,Rock Throw,Rock,50,0.65,False
+Onix,25.0,Rage,Normal,20,1.0,False
+Onix,33.0,Slam,Normal,80,0.75,False
+Onix,,Strength,Normal,80,1.0,False
+Onix,,Body Slam,Normal,85,1.0,False
+Onix,,Earthquake,Ground,100,1.0,False
+Onix,,Dig,Ground,100,1.0,False
+Onix,,Rock Slide,Rock,75,0.9,False
+Drowzee,1.0,Pound,Normal,40,1.0,False
+Drowzee,17.0,Confusion,Psychic,50,1.0,False
+Drowzee,24.0,Headbutt,Normal,70,1.0,False
+Drowzee,32.0,Psychic,Psychic,90,1.0,False
+Drowzee,,Mega Punch,Normal,80,0.85,False
+Drowzee,,Mega Kick,Normal,120,0.75,False
+Drowzee,,Body Slam,Normal,85,1.0,False
+Drowzee,,Rage,Normal,20,1.0,False
+Drowzee,,Tri Attack,Normal,80,1.0,False
+Hypno,1.0,Confusion,Psychic,50,1.0,False
+Hypno,1.0,Pound,Normal,40,1.0,False
+Hypno,24.0,Headbutt,Normal,70,1.0,False
+Hypno,37.0,Psychic,Psychic,90,1.0,False
+Hypno,,Mega Punch,Normal,80,0.85,False
+Hypno,,Mega Kick,Normal,120,0.75,False
+Hypno,,Body Slam,Normal,85,1.0,False
+Hypno,,Hyper Beam,Normal,75,0.9,False
+Hypno,,Rage,Normal,20,1.0,False
+Hypno,,Tri Attack,Normal,80,1.0,False
+Krabby,1.0,Bubble,Water,20,1.0,False
+Krabby,20.0,ViceGrip,Normal,55,1.0,False
+Krabby,30.0,Stomp,Normal,65,1.0,False
+Krabby,35.0,Crabhammer,Water,90,0.85,True
+Krabby,,Cut,Normal,50,0.95,False
+Krabby,,Surf,Water,95,1.0,False
+Krabby,,Strength,Normal,80,1.0,False
+Krabby,,Body Slam,Normal,85,1.0,False
+Krabby,,BubbleBeam,Water,65,1.0,False
+Krabby,,Water Gun,Water,40,1.0,False
+Krabby,,Ice Beam,Ice,95,1.0,False
+Krabby,,Blizzard,Ice,120,0.9,False
+Krabby,,Rage,Normal,20,1.0,False
+Kingler,1.0,Bubble,Water,20,1.0,False
+Kingler,1.0,ViceGrip,Normal,55,1.0,False
+Kingler,34.0,Stomp,Normal,65,1.0,False
+Kingler,42.0,Crabhammer,Water,90,0.85,True
+Kingler,,Cut,Normal,50,0.95,False
+Kingler,,Surf,Water,95,1.0,False
+Kingler,,Strength,Normal,80,1.0,False
+Kingler,,Body Slam,Normal,85,1.0,False
+Kingler,,BubbleBeam,Water,65,1.0,False
+Kingler,,Water Gun,Water,40,1.0,False
+Kingler,,Ice Beam,Ice,95,1.0,False
+Kingler,,Blizzard,Ice,120,0.9,False
+Kingler,,Hyper Beam,Normal,75,0.9,False
+Kingler,,Rage,Normal,20,1.0,False
+Voltorb,1.0,Tackle,Normal,35,0.95,False
+Voltorb,36.0,Swift,Normal,60,1.0,False
+Voltorb,,Rage,Normal,20,1.0,False
+Voltorb,,Thunderbolt,Electric,95,1.0,False
+Voltorb,,Thunder,Electric,120,0.7,False
+Electrode,1.0,Tackle,Normal,35,0.95,False
+Electrode,40.0,Swift,Normal,60,1.0,False
+Electrode,,Hyper Beam,Normal,75,0.9,False
+Electrode,,Rage,Normal,20,1.0,False
+Electrode,,Thunderbolt,Electric,95,1.0,False
+Electrode,,Thunder,Electric,120,0.7,False
+Exeggcute,1.0,Barrage,Normal,45,0.85,False
+Exeggcute,,Rage,Normal,20,1.0,False
+Exeggcute,,Psychic,Psychic,90,1.0,False
+Exeggcute,,Egg Bomb,Normal,100,0.75,False
+Exeggutor,1.0,Barrage,Normal,45,0.85,False
+Exeggutor,28.0,Stomp,Normal,65,1.0,False
+Exeggutor,,Strength,Normal,80,1.0,False
+Exeggutor,,Hyper Beam,Normal,75,0.9,False
+Exeggutor,,Rage,Normal,20,1.0,False
+Exeggutor,,Mega Drain,Grass,40,1.0,False
+Exeggutor,,Psychic,Psychic,90,1.0,False
+Exeggutor,,Egg Bomb,Normal,100,0.75,False
+Cubone,1.0,Bone Club,Ground,65,0.85,False
+Cubone,38.0,Thrash,Normal,90,1.0,False
+Cubone,43.0,Bonemerang,Ground,100,0.9,False
+Cubone,46.0,Rage,Normal,20,1.0,False
+Cubone,,Strength,Normal,80,1.0,False
+Cubone,,Mega Punch,Normal,80,0.85,False
+Cubone,,Mega Kick,Normal,120,0.75,False
+Cubone,,Body Slam,Normal,85,1.0,False
+Cubone,,BubbleBeam,Water,65,1.0,False
+Cubone,,Water Gun,Water,40,1.0,False
+Cubone,,Ice Beam,Ice,95,1.0,False
+Cubone,,Blizzard,Ice,120,0.9,False
+Cubone,,Earthquake,Ground,100,1.0,False
+Cubone,,Dig,Ground,100,1.0,False
+Cubone,,Fire Blast,Fire,120,0.85,False
+Cubone,18.0,Headbutt,Normal,70,1.0,False
+Marowak,1.0,Bone Club,Ground,65,0.85,False
+Marowak,41.0,Thrash,Normal,90,1.0,False
+Marowak,48.0,Bonemerang,Ground,100,0.9,False
+Marowak,55.0,Rage,Normal,20,1.0,False
+Marowak,,Strength,Normal,80,1.0,False
+Marowak,,Mega Punch,Normal,80,0.85,False
+Marowak,,Mega Kick,Normal,120,0.75,False
+Marowak,,Body Slam,Normal,85,1.0,False
+Marowak,,BubbleBeam,Water,65,1.0,False
+Marowak,,Water Gun,Water,40,1.0,False
+Marowak,,Ice Beam,Ice,95,1.0,False
+Marowak,,Blizzard,Ice,120,0.9,False
+Marowak,,Hyper Beam,Normal,75,0.9,False
+Marowak,,Earthquake,Ground,100,1.0,False
+Marowak,,Dig,Ground,100,1.0,False
+Marowak,,Fire Blast,Fire,120,0.85,False
+Marowak,18.0,Headbutt,Normal,70,1.0,False
+Hitmonlee,1.0,Double Kick,Fighting,60,1.0,False
+Hitmonlee,33.0,Rolling Kick,Fighting,60,0.85,False
+Hitmonlee,38.0,Jump Kick,Fighting,70,0.95,False
+Hitmonlee,48.0,Hi Jump Kick,Fighting,85,0.9,False
+Hitmonlee,53.0,Mega Kick,Normal,120,0.75,False
+Hitmonlee,,Strength,Normal,80,1.0,False
+Hitmonlee,,Mega Punch,Normal,80,0.85,False
+Hitmonlee,,Body Slam,Normal,85,1.0,False
+Hitmonlee,,Rage,Normal,20,1.0,False
+Hitmonlee,,Swift,Normal,60,1.0,False
+Hitmonchan,1.0,Comet Punch,Normal,54,0.85,False
+Hitmonchan,33.0,Fire Punch,Fire,75,1.0,False
+Hitmonchan,38.0,Ice Punch,Ice,75,1.0,False
+Hitmonchan,43.0,ThunderPunch,Electric,75,1.0,False
+Hitmonchan,48.0,Mega Punch,Normal,80,0.85,False
+Hitmonchan,,Strength,Normal,80,1.0,False
+Hitmonchan,,Mega Kick,Normal,120,0.75,False
+Hitmonchan,,Body Slam,Normal,85,1.0,False
+Hitmonchan,,Rage,Normal,20,1.0,False
+Hitmonchan,,Swift,Normal,60,1.0,False
+Lickitung,1.0,Wrap,Normal,15,0.85,False
+Lickitung,7.0,Stomp,Normal,65,1.0,False
+Lickitung,31.0,Slam,Normal,80,0.75,False
+Lickitung,,Cut,Normal,50,0.95,False
+Lickitung,,Surf,Water,95,1.0,False
+Lickitung,,Strength,Normal,80,1.0,False
+Lickitung,,Mega Punch,Normal,80,0.85,False
+Lickitung,,Mega Kick,Normal,120,0.75,False
+Lickitung,,Body Slam,Normal,85,1.0,False
+Lickitung,,BubbleBeam,Water,65,1.0,False
+Lickitung,,Water Gun,Water,40,1.0,False
+Lickitung,,Ice Beam,Ice,95,1.0,False
+Lickitung,,Blizzard,Ice,120,0.9,False
+Lickitung,,Hyper Beam,Normal,75,0.9,False
+Lickitung,,Rage,Normal,20,1.0,False
+Lickitung,,Thunderbolt,Electric,95,1.0,False
+Lickitung,,Thunder,Electric,120,0.7,False
+Lickitung,,Earthquake,Ground,100,1.0,False
+Lickitung,,Fire Blast,Fire,120,0.85,False
+Koffing,1.0,Smog,Poison,20,0.7,False
+Koffing,1.0,Tackle,Normal,35,0.95,False
+Koffing,32.0,Sludge,Poison,65,1.0,False
+Koffing,,Rage,Normal,20,1.0,False
+Koffing,,Thunderbolt,Electric,95,1.0,False
+Koffing,,Thunder,Electric,120,0.7,False
+Koffing,,Fire Blast,Fire,120,0.85,False
+Weezing,1.0,Sludge,Poison,65,1.0,False
+Weezing,1.0,Smog,Poison,20,0.7,False
+Weezing,1.0,Tackle,Normal,35,0.95,False
+Weezing,,Hyper Beam,Normal,75,0.9,False
+Weezing,,Rage,Normal,20,1.0,False
+Weezing,,Thunderbolt,Electric,95,1.0,False
+Weezing,,Thunder,Electric,120,0.7,False
+Weezing,,Fire Blast,Fire,120,0.85,False
+Rhyhorn,1.0,Horn Attack,Normal,65,1.0,False
+Rhyhorn,30.0,Stomp,Normal,65,1.0,False
+Rhyhorn,40.0,Fury Attack,Normal,45,0.85,False
+Rhyhorn,,Strength,Normal,80,1.0,False
+Rhyhorn,,Body Slam,Normal,85,1.0,False
+Rhyhorn,,Rage,Normal,20,1.0,False
+Rhyhorn,,Thunderbolt,Electric,95,1.0,False
+Rhyhorn,,Thunder,Electric,120,0.7,False
+Rhyhorn,,Earthquake,Ground,100,1.0,False
+Rhyhorn,,Dig,Ground,100,1.0,False
+Rhyhorn,,Fire Blast,Fire,120,0.85,False
+Rhyhorn,,Rock Slide,Rock,75,0.9,False
+Rhydon,1.0,Fury Attack,Normal,45,0.85,False
+Rhydon,1.0,Horn Attack,Normal,65,1.0,False
+Rhydon,1.0,Stomp,Normal,65,1.0,False
+Rhydon,,Surf,Water,95,1.0,False
+Rhydon,,Strength,Normal,80,1.0,False
+Rhydon,,Mega Punch,Normal,80,0.85,False
+Rhydon,,Mega Kick,Normal,120,0.75,False
+Rhydon,,Body Slam,Normal,85,1.0,False
+Rhydon,,BubbleBeam,Water,65,1.0,False
+Rhydon,,Water Gun,Water,40,1.0,False
+Rhydon,,Ice Beam,Ice,95,1.0,False
+Rhydon,,Blizzard,Ice,120,0.9,False
+Rhydon,,Hyper Beam,Normal,75,0.9,False
+Rhydon,,Pay Day,Normal,40,1.0,False
+Rhydon,,Rage,Normal,20,1.0,False
+Rhydon,,Thunderbolt,Electric,95,1.0,False
+Rhydon,,Thunder,Electric,120,0.7,False
+Rhydon,,Earthquake,Ground,100,1.0,False
+Rhydon,,Dig,Ground,100,1.0,False
+Rhydon,,Fire Blast,Fire,120,0.85,False
+Rhydon,,Rock Slide,Rock,75,0.9,False
+Chansey,1.0,DoubleSlap,Normal,15,0.85,False
+Chansey,1.0,Pound,Normal,40,1.0,False
+Chansey,,Strength,Normal,80,1.0,False
+Chansey,,Mega Punch,Normal,80,0.85,False
+Chansey,,Mega Kick,Normal,120,0.75,False
+Chansey,,Body Slam,Normal,85,1.0,False
+Chansey,,BubbleBeam,Water,65,1.0,False
+Chansey,,Water Gun,Water,40,1.0,False
+Chansey,,Ice Beam,Ice,95,1.0,False
+Chansey,,Blizzard,Ice,120,0.9,False
+Chansey,,Hyper Beam,Normal,75,0.9,False
+Chansey,,Rage,Normal,20,1.0,False
+Chansey,,Thunderbolt,Electric,95,1.0,False
+Chansey,,Thunder,Electric,120,0.7,False
+Chansey,,Psychic,Psychic,90,1.0,False
+Chansey,,Egg Bomb,Normal,100,0.75,False
+Chansey,,Fire Blast,Fire,120,0.85,False
+Chansey,,Tri Attack,Normal,80,1.0,False
+Tangela,1.0,Bind,Normal,15,0.75,False
+Tangela,1.0,Constrict,Normal,10,1.0,False
+Tangela,29.0,Absorb,Grass,20,1.0,False
+Tangela,45.0,Slam,Normal,80,0.75,False
+Tangela,,Cut,Normal,50,0.95,False
+Tangela,,Body Slam,Normal,85,1.0,False
+Tangela,,Hyper Beam,Normal,75,0.9,False
+Tangela,,Rage,Normal,20,1.0,False
+Tangela,,Mega Drain,Grass,40,1.0,False
+Tangela,29.0,Vine Whip,Grass,35,1.0,False
+Kangaskhan,1.0,Comet Punch,Normal,54,0.85,False
+Kangaskhan,1.0,Rage,Normal,20,1.0,False
+Kangaskhan,26.0,Bite,Normal,60,1.0,False
+Kangaskhan,36.0,Mega Punch,Normal,80,0.85,False
+Kangaskhan,46.0,Dizzy Punch,Normal,70,1.0,False
+Kangaskhan,,Surf,Water,95,1.0,False
+Kangaskhan,,Strength,Normal,80,1.0,False
+Kangaskhan,,Mega Kick,Normal,120,0.75,False
+Kangaskhan,,Body Slam,Normal,85,1.0,False
+Kangaskhan,,BubbleBeam,Water,65,1.0,False
+Kangaskhan,,Water Gun,Water,40,1.0,False
+Kangaskhan,,Ice Beam,Ice,95,1.0,False
+Kangaskhan,,Blizzard,Ice,120,0.9,False
+Kangaskhan,,Hyper Beam,Normal,75,0.9,False
+Kangaskhan,,Thunderbolt,Electric,95,1.0,False
+Kangaskhan,,Thunder,Electric,120,0.7,False
+Kangaskhan,,Earthquake,Ground,100,1.0,False
+Kangaskhan,,Fire Blast,Fire,120,0.85,False
+Kangaskhan,,Rock Slide,Rock,75,0.9,False
+Horsea,1.0,Bubble,Water,20,1.0,False
+Horsea,30.0,Water Gun,Water,40,1.0,False
+Horsea,45.0,Hydro Pump,Water,120,0.8,False
+Horsea,,Surf,Water,95,1.0,False
+Horsea,,BubbleBeam,Water,65,1.0,False
+Horsea,,Ice Beam,Ice,95,1.0,False
+Horsea,,Blizzard,Ice,120,0.9,False
+Horsea,,Rage,Normal,20,1.0,False
+Horsea,,Swift,Normal,60,1.0,False
+Seadra,1.0,Bubble,Water,20,1.0,False
+Seadra,30.0,Water Gun,Water,40,1.0,False
+Seadra,52.0,Hydro Pump,Water,120,0.8,False
+Seadra,,Surf,Water,95,1.0,False
+Seadra,,BubbleBeam,Water,65,1.0,False
+Seadra,,Ice Beam,Ice,95,1.0,False
+Seadra,,Blizzard,Ice,120,0.9,False
+Seadra,,Hyper Beam,Normal,75,0.9,False
+Seadra,,Rage,Normal,20,1.0,False
+Seadra,,Swift,Normal,60,1.0,False
+Goldeen,1.0,Peck,Flying,35,1.0,False
+Goldeen,24.0,Horn Attack,Normal,65,1.0,False
+Goldeen,30.0,Fury Attack,Normal,45,0.85,False
+Goldeen,37.0,Waterfall,Water,80,1.0,False
+Goldeen,,Surf,Water,95,1.0,False
+Goldeen,,BubbleBeam,Water,65,1.0,False
+Goldeen,,Water Gun,Water,40,1.0,False
+Goldeen,,Ice Beam,Ice,95,1.0,False
+Goldeen,,Blizzard,Ice,120,0.9,False
+Goldeen,,Rage,Normal,20,1.0,False
+Goldeen,,Swift,Normal,60,1.0,False
+Seaking,1.0,Peck,Flying,35,1.0,False
+Seaking,24.0,Horn Attack,Normal,65,1.0,False
+Seaking,30.0,Fury Attack,Normal,45,0.85,False
+Seaking,39.0,Waterfall,Water,80,1.0,False
+Seaking,,Surf,Water,95,1.0,False
+Seaking,,BubbleBeam,Water,65,1.0,False
+Seaking,,Water Gun,Water,40,1.0,False
+Seaking,,Ice Beam,Ice,95,1.0,False
+Seaking,,Blizzard,Ice,120,0.9,False
+Seaking,,Hyper Beam,Normal,75,0.9,False
+Seaking,,Rage,Normal,20,1.0,False
+Seaking,,Swift,Normal,60,1.0,False
+Staryu,1.0,Tackle,Normal,35,0.95,False
+Staryu,17.0,Water Gun,Water,40,1.0,False
+Staryu,32.0,Swift,Normal,60,1.0,False
+Staryu,47.0,Hydro Pump,Water,120,0.8,False
+Staryu,,Surf,Water,95,1.0,False
+Staryu,,BubbleBeam,Water,65,1.0,False
+Staryu,,Ice Beam,Ice,95,1.0,False
+Staryu,,Blizzard,Ice,120,0.9,False
+Staryu,,Rage,Normal,20,1.0,False
+Staryu,,Thunderbolt,Electric,95,1.0,False
+Staryu,,Thunder,Electric,120,0.7,False
+Staryu,,Psychic,Psychic,90,1.0,False
+Staryu,,Tri Attack,Normal,80,1.0,False
+Starmie,1.0,Tackle,Normal,35,0.95,False
+Starmie,1.0,Water Gun,Water,40,1.0,False
+Starmie,,Surf,Water,95,1.0,False
+Starmie,,BubbleBeam,Water,65,1.0,False
+Starmie,,Ice Beam,Ice,95,1.0,False
+Starmie,,Blizzard,Ice,120,0.9,False
+Starmie,,Hyper Beam,Normal,75,0.9,False
+Starmie,,Rage,Normal,20,1.0,False
+Starmie,,Thunderbolt,Electric,95,1.0,False
+Starmie,,Thunder,Electric,120,0.7,False
+Starmie,,Psychic,Psychic,90,1.0,False
+Starmie,,Swift,Normal,60,1.0,False
+Starmie,,Tri Attack,Normal,80,1.0,False
+Mr_Mime,1.0,Confusion,Psychic,50,1.0,False
+Mr_Mime,31.0,DoubleSlap,Normal,15,0.85,False
+Mr_Mime,,Mega Punch,Normal,80,0.85,False
+Mr_Mime,,Mega Kick,Normal,120,0.75,False
+Mr_Mime,,Body Slam,Normal,85,1.0,False
+Mr_Mime,,Hyper Beam,Normal,75,0.9,False
+Mr_Mime,,Rage,Normal,20,1.0,False
+Mr_Mime,,Thunderbolt,Electric,95,1.0,False
+Mr_Mime,,Thunder,Electric,120,0.7,False
+Mr_Mime,,Psychic,Psychic,90,1.0,False
+Scyther,1.0,Quick Attack,Normal,40,1.0,False
+Scyther,29.0,Slash,Normal,70,1.0,True
+Scyther,,Cut,Normal,50,0.95,False
+Scyther,,Hyper Beam,Normal,75,0.9,False
+Scyther,,Rage,Normal,20,1.0,False
+Scyther,,Swift,Normal,60,1.0,False
+Scyther,50.0,Wing Attack,Flying,35,1.0,False
+Jynx,1.0,Pound,Normal,40,1.0,False
+Jynx,18.0,Lick,Ghost,20,1.0,False
+Jynx,23.0,DoubleSlap,Normal,15,0.85,False
+Jynx,31.0,Ice Punch,Ice,75,1.0,False
+Jynx,39.0,Body Slam,Normal,85,1.0,False
+Jynx,47.0,Thrash,Normal,90,1.0,False
+Jynx,58.0,Blizzard,Ice,120,0.9,False
+Jynx,,Mega Punch,Normal,80,0.85,False
+Jynx,,Mega Kick,Normal,120,0.75,False
+Jynx,,BubbleBeam,Water,65,1.0,False
+Jynx,,Water Gun,Water,40,1.0,False
+Jynx,,Ice Beam,Ice,95,1.0,False
+Jynx,,Hyper Beam,Normal,75,0.9,False
+Jynx,,Rage,Normal,20,1.0,False
+Jynx,,Psychic,Psychic,90,1.0,False
+Electabuzz,1.0,Quick Attack,Normal,40,1.0,False
+Electabuzz,34.0,ThunderShock,Electric,40,1.0,False
+Electabuzz,42.0,ThunderPunch,Electric,75,1.0,False
+Electabuzz,54.0,Thunder,Electric,120,0.7,False
+Electabuzz,,Strength,Normal,80,1.0,False
+Electabuzz,,Mega Punch,Normal,80,0.85,False
+Electabuzz,,Mega Kick,Normal,120,0.75,False
+Electabuzz,,Body Slam,Normal,85,1.0,False
+Electabuzz,,Hyper Beam,Normal,75,0.9,False
+Electabuzz,,Rage,Normal,20,1.0,False
+Electabuzz,,Thunderbolt,Electric,95,1.0,False
+Electabuzz,,Psychic,Psychic,90,1.0,False
+Electabuzz,,Swift,Normal,60,1.0,False
+Magmar,1.0,Ember,Fire,40,1.0,False
+Magmar,43.0,Fire Punch,Fire,75,1.0,False
+Magmar,52.0,Smog,Poison,20,0.7,False
+Magmar,55.0,Flamethrower,Fire,95,1.0,False
+Magmar,,Strength,Normal,80,1.0,False
+Magmar,,Mega Punch,Normal,80,0.85,False
+Magmar,,Mega Kick,Normal,120,0.75,False
+Magmar,,Body Slam,Normal,85,1.0,False
+Magmar,,Hyper Beam,Normal,75,0.9,False
+Magmar,,Rage,Normal,20,1.0,False
+Magmar,,Psychic,Psychic,90,1.0,False
+Magmar,,Fire Blast,Fire,120,0.85,False
+Pinsir,1.0,ViceGrip,Normal,55,1.0,False
+Pinsir,49.0,Slash,Normal,70,1.0,True
+Pinsir,,Cut,Normal,50,0.95,False
+Pinsir,,Strength,Normal,80,1.0,False
+Pinsir,,Body Slam,Normal,85,1.0,False
+Pinsir,,Hyper Beam,Normal,75,0.9,False
+Pinsir,,Rage,Normal,20,1.0,False
+Pinsir,21.0,Bind,Normal,15,0.75,False
+Tauros,1.0,Tackle,Normal,35,0.95,False
+Tauros,21.0,Stomp,Normal,65,1.0,False
+Tauros,44.0,Rage,Normal,20,1.0,False
+Tauros,,Strength,Normal,80,1.0,False
+Tauros,,Body Slam,Normal,85,1.0,False
+Tauros,,Ice Beam,Ice,95,1.0,False
+Tauros,,Blizzard,Ice,120,0.9,False
+Tauros,,Hyper Beam,Normal,75,0.9,False
+Tauros,,Thunderbolt,Electric,95,1.0,False
+Tauros,,Thunder,Electric,120,0.7,False
+Tauros,,Earthquake,Ground,100,1.0,False
+Tauros,,Fire Blast,Fire,120,0.85,False
+Magikarp,15.0,Tackle,Normal,35,0.95,False
+Gyarados,1.0,Bite,Normal,60,1.0,False
+Gyarados,1.0,Hydro Pump,Water,120,0.8,False
+Gyarados,52.0,Hyper Beam,Normal,75,0.9,False
+Gyarados,,Surf,Water,95,1.0,False
+Gyarados,,Strength,Normal,80,1.0,False
+Gyarados,,Body Slam,Normal,85,1.0,False
+Gyarados,,BubbleBeam,Water,65,1.0,False
+Gyarados,,Water Gun,Water,40,1.0,False
+Gyarados,,Ice Beam,Ice,95,1.0,False
+Gyarados,,Blizzard,Ice,120,0.9,False
+Gyarados,,Rage,Normal,20,1.0,False
+Gyarados,,Thunderbolt,Electric,95,1.0,False
+Gyarados,,Thunder,Electric,120,0.7,False
+Gyarados,,Fire Blast,Fire,120,0.85,False
+Gyarados,1.0,Tackle,Normal,35,0.95,False
+Lapras,1.0,Water Gun,Water,40,1.0,False
+Lapras,25.0,Body Slam,Normal,85,1.0,False
+Lapras,38.0,Ice Beam,Ice,95,1.0,False
+Lapras,46.0,Hydro Pump,Water,120,0.8,False
+Lapras,,Surf,Water,95,1.0,False
+Lapras,,Strength,Normal,80,1.0,False
+Lapras,,BubbleBeam,Water,65,1.0,False
+Lapras,,Blizzard,Ice,120,0.9,False
+Lapras,,Hyper Beam,Normal,75,0.9,False
+Lapras,,Rage,Normal,20,1.0,False
+Lapras,,Thunderbolt,Electric,95,1.0,False
+Lapras,,Thunder,Electric,120,0.7,False
+Lapras,,Psychic,Psychic,90,1.0,False
+Ditto,0.0,Struggle,Normal,1,1.0,False
+Eevee,1.0,Tackle,Normal,35,0.95,False
+Eevee,27.0,Quick Attack,Normal,40,1.0,False
+Eevee,37.0,Bite,Normal,60,1.0,False
+Eevee,,Body Slam,Normal,85,1.0,False
+Eevee,,Rage,Normal,20,1.0,False
+Eevee,,Swift,Normal,60,1.0,False
+Vaporeon,1.0,Quick Attack,Normal,40,1.0,False
+Vaporeon,1.0,Tackle,Normal,35,0.95,False
+Vaporeon,1.0,Water Gun,Water,40,1.0,False
+Vaporeon,40.0,Bite,Normal,60,1.0,False
+Vaporeon,54.0,Hydro Pump,Water,120,0.8,False
+Vaporeon,,Surf,Water,95,1.0,False
+Vaporeon,,Body Slam,Normal,85,1.0,False
+Vaporeon,,BubbleBeam,Water,65,1.0,False
+Vaporeon,,Ice Beam,Ice,95,1.0,False
+Vaporeon,,Blizzard,Ice,120,0.9,False
+Vaporeon,,Hyper Beam,Normal,75,0.9,False
+Vaporeon,,Rage,Normal,20,1.0,False
+Vaporeon,,Swift,Normal,60,1.0,False
+Vaporeon,36.0,Aurora Beam,Ice,65,1.0,False
+Eevee,1.0,Tackle,Normal,35,0.95,False
+Eevee,27.0,Quick Attack,Normal,40,1.0,False
+Eevee,37.0,Bite,Normal,60,1.0,False
+Eevee,,Body Slam,Normal,85,1.0,False
+Eevee,,Rage,Normal,20,1.0,False
+Eevee,,Swift,Normal,60,1.0,False
+Jolteon,1.0,Quick Attack,Normal,40,1.0,False
+Jolteon,1.0,Tackle,Normal,35,0.95,False
+Jolteon,1.0,ThunderShock,Electric,40,1.0,False
+Jolteon,42.0,Double Kick,Fighting,60,1.0,False
+Jolteon,48.0,Pin Missile,Bug,42,0.85,False
+Jolteon,54.0,Thunder,Electric,120,0.7,False
+Jolteon,,Body Slam,Normal,85,1.0,False
+Jolteon,,Hyper Beam,Normal,75,0.9,False
+Jolteon,,Rage,Normal,20,1.0,False
+Jolteon,,Thunderbolt,Electric,95,1.0,False
+Jolteon,,Swift,Normal,60,1.0,False
+Eevee,1.0,Tackle,Normal,35,0.95,False
+Eevee,27.0,Quick Attack,Normal,40,1.0,False
+Eevee,37.0,Bite,Normal,60,1.0,False
+Eevee,,Body Slam,Normal,85,1.0,False
+Eevee,,Rage,Normal,20,1.0,False
+Eevee,,Swift,Normal,60,1.0,False
+Flareon,1.0,Ember,Fire,40,1.0,False
+Flareon,1.0,Quick Attack,Normal,40,1.0,False
+Flareon,1.0,Tackle,Normal,35,0.95,False
+Flareon,40.0,Bite,Normal,60,1.0,False
+Flareon,44.0,Fire Spin,Fire,15,0.7,False
+Flareon,48.0,Rage,Normal,20,1.0,False
+Flareon,54.0,Flamethrower,Fire,95,1.0,False
+Flareon,,Body Slam,Normal,85,1.0,False
+Flareon,,Hyper Beam,Normal,75,0.9,False
+Flareon,,Fire Blast,Fire,120,0.85,False
+Flareon,,Swift,Normal,60,1.0,False
+Flareon,42.0,Smog,Poison,20,0.7,False
+Porygon,1.0,Tackle,Normal,35,0.95,False
+Porygon,23.0,Psybeam,Psychic,65,1.0,False
+Porygon,42.0,Tri Attack,Normal,80,1.0,False
+Porygon,,Ice Beam,Ice,95,1.0,False
+Porygon,,Blizzard,Ice,120,0.9,False
+Porygon,,Hyper Beam,Normal,75,0.9,False
+Porygon,,Rage,Normal,20,1.0,False
+Porygon,,Thunderbolt,Electric,95,1.0,False
+Porygon,,Thunder,Electric,120,0.7,False
+Porygon,,Psychic,Psychic,90,1.0,False
+Porygon,,Swift,Normal,60,1.0,False
+Omanyte,1.0,Water Gun,Water,40,1.0,False
+Omanyte,34.0,Horn Attack,Normal,65,1.0,False
+Omanyte,46.0,Spike Cannon,Normal,60,1.0,False
+Omanyte,53.0,Hydro Pump,Water,120,0.8,False
+Omanyte,,Surf,Water,95,1.0,False
+Omanyte,,Body Slam,Normal,85,1.0,False
+Omanyte,,BubbleBeam,Water,65,1.0,False
+Omanyte,,Ice Beam,Ice,95,1.0,False
+Omanyte,,Blizzard,Ice,120,0.9,False
+Omanyte,,Rage,Normal,20,1.0,False
+Omastar,1.0,Horn Attack,Normal,65,1.0,False
+Omastar,1.0,Water Gun,Water,40,1.0,False
+Omastar,44.0,Spike Cannon,Normal,60,1.0,False
+Omastar,49.0,Hydro Pump,Water,120,0.8,False
+Omastar,,Surf,Water,95,1.0,False
+Omastar,,Body Slam,Normal,85,1.0,False
+Omastar,,BubbleBeam,Water,65,1.0,False
+Omastar,,Ice Beam,Ice,95,1.0,False
+Omastar,,Blizzard,Ice,120,0.9,False
+Omastar,,Hyper Beam,Normal,75,0.9,False
+Omastar,,Rage,Normal,20,1.0,False
+Kabuto,1.0,Scratch,Normal,40,1.0,False
+Kabuto,34.0,Absorb,Grass,20,1.0,False
+Kabuto,39.0,Slash,Normal,70,1.0,True
+Kabuto,49.0,Hydro Pump,Water,120,0.8,False
+Kabuto,,Surf,Water,95,1.0,False
+Kabuto,,Body Slam,Normal,85,1.0,False
+Kabuto,,BubbleBeam,Water,65,1.0,False
+Kabuto,,Water Gun,Water,40,1.0,False
+Kabuto,,Ice Beam,Ice,95,1.0,False
+Kabuto,,Blizzard,Ice,120,0.9,False
+Kabuto,,Rage,Normal,20,1.0,False
+Kabutops,1.0,Absorb,Grass,20,1.0,False
+Kabutops,1.0,Scratch,Normal,40,1.0,False
+Kabutops,39.0,Slash,Normal,70,1.0,True
+Kabutops,53.0,Hydro Pump,Water,120,0.8,False
+Kabutops,,Surf,Water,95,1.0,False
+Kabutops,,Mega Kick,Normal,120,0.75,False
+Kabutops,,Body Slam,Normal,85,1.0,False
+Kabutops,,BubbleBeam,Water,65,1.0,False
+Kabutops,,Water Gun,Water,40,1.0,False
+Kabutops,,Ice Beam,Ice,95,1.0,False
+Kabutops,,Blizzard,Ice,120,0.9,False
+Kabutops,,Hyper Beam,Normal,75,0.9,False
+Kabutops,,Rage,Normal,20,1.0,False
+Kabutops,,Cut,Normal,50,0.95,False
+Aerodactyl,1.0,Wing Attack,Flying,35,1.0,False
+Aerodactyl,38.0,Bite,Normal,60,1.0,False
+Aerodactyl,54.0,Hyper Beam,Normal,75,0.9,False
+Aerodactyl,,Fly,Flying,70,0.95,False
+Aerodactyl,,Rage,Normal,20,1.0,False
+Aerodactyl,,Fire Blast,Fire,120,0.85,False
+Aerodactyl,,Swift,Normal,60,1.0,False
+Snorlax,1.0,Headbutt,Normal,70,1.0,False
+Snorlax,35.0,Body Slam,Normal,85,1.0,False
+Snorlax,56.0,Hyper Beam,Normal,75,0.9,False
+Snorlax,,Surf,Water,95,1.0,False
+Snorlax,,Strength,Normal,80,1.0,False
+Snorlax,,Mega Punch,Normal,80,0.85,False
+Snorlax,,Mega Kick,Normal,120,0.75,False
+Snorlax,,BubbleBeam,Water,65,1.0,False
+Snorlax,,Water Gun,Water,40,1.0,False
+Snorlax,,Ice Beam,Ice,95,1.0,False
+Snorlax,,Blizzard,Ice,120,0.9,False
+Snorlax,,Pay Day,Normal,40,1.0,False
+Snorlax,,Rage,Normal,20,1.0,False
+Snorlax,,Thunderbolt,Electric,95,1.0,False
+Snorlax,,Thunder,Electric,120,0.7,False
+Snorlax,,Earthquake,Ground,100,1.0,False
+Snorlax,,Psychic,Psychic,90,1.0,False
+Snorlax,,Fire Blast,Fire,120,0.85,False
+Snorlax,,Rock Slide,Rock,75,0.9,False
+Articuno,1.0,Ice Beam,Ice,95,1.0,False
+Articuno,1.0,Peck,Flying,35,1.0,False
+Articuno,51.0,Blizzard,Ice,120,0.9,False
+Articuno,,Fly,Flying,70,0.95,False
+Articuno,,BubbleBeam,Water,65,1.0,False
+Articuno,,Water Gun,Water,40,1.0,False
+Articuno,,Hyper Beam,Normal,75,0.9,False
+Articuno,,Rage,Normal,20,1.0,False
+Articuno,,Swift,Normal,60,1.0,False
+Zapdos,1.0,Drill Peck,Flying,80,1.0,False
+Zapdos,1.0,ThunderShock,Electric,40,1.0,False
+Zapdos,51.0,Thunder,Electric,120,0.7,False
+Zapdos,,Fly,Flying,70,0.95,False
+Zapdos,,Hyper Beam,Normal,75,0.9,False
+Zapdos,,Rage,Normal,20,1.0,False
+Zapdos,,Thunderbolt,Electric,95,1.0,False
+Zapdos,,Swift,Normal,60,1.0,False
+Moltres,1.0,Fire Spin,Fire,15,0.7,False
+Moltres,1.0,Peck,Flying,35,1.0,False
+Moltres,,Fly,Flying,70,0.95,False
+Moltres,,Hyper Beam,Normal,75,0.9,False
+Moltres,,Rage,Normal,20,1.0,False
+Moltres,,Fire Blast,Fire,120,0.85,False
+Moltres,,Swift,Normal,60,1.0,False
+Dratini,1.0,Wrap,Normal,15,0.85,False
+Dratini,30.0,Slam,Normal,80,0.75,False
+Dratini,50.0,Hyper Beam,Normal,75,0.9,False
+Dratini,,Surf,Water,95,1.0,False
+Dratini,,Body Slam,Normal,85,1.0,False
+Dratini,,BubbleBeam,Water,65,1.0,False
+Dratini,,Water Gun,Water,40,1.0,False
+Dratini,,Ice Beam,Ice,95,1.0,False
+Dratini,,Blizzard,Ice,120,0.9,False
+Dratini,,Rage,Normal,20,1.0,False
+Dratini,,Thunderbolt,Electric,95,1.0,False
+Dratini,,Thunder,Electric,120,0.7,False
+Dratini,,Fire Blast,Fire,120,0.85,False
+Dratini,,Swift,Normal,60,1.0,False
+Dragonair,1.0,Wrap,Normal,15,0.85,False
+Dragonair,35.0,Slam,Normal,80,0.75,False
+Dragonair,55.0,Hyper Beam,Normal,75,0.9,False
+Dragonair,,Surf,Water,95,1.0,False
+Dragonair,,Body Slam,Normal,85,1.0,False
+Dragonair,,BubbleBeam,Water,65,1.0,False
+Dragonair,,Water Gun,Water,40,1.0,False
+Dragonair,,Ice Beam,Ice,95,1.0,False
+Dragonair,,Blizzard,Ice,120,0.9,False
+Dragonair,,Rage,Normal,20,1.0,False
+Dragonair,,Thunderbolt,Electric,95,1.0,False
+Dragonair,,Thunder,Electric,120,0.7,False
+Dragonair,,Fire Blast,Fire,120,0.85,False
+Dragonair,,Swift,Normal,60,1.0,False
+Dragonite,1.0,Wrap,Normal,15,0.85,False
+Dragonite,35.0,Slam,Normal,80,0.75,False
+Dragonite,60.0,Hyper Beam,Normal,75,0.9,False
+Dragonite,,Surf,Water,95,1.0,False
+Dragonite,,Strength,Normal,80,1.0,False
+Dragonite,,Body Slam,Normal,85,1.0,False
+Dragonite,,BubbleBeam,Water,65,1.0,False
+Dragonite,,Water Gun,Water,40,1.0,False
+Dragonite,,Ice Beam,Ice,95,1.0,False
+Dragonite,,Blizzard,Ice,120,0.9,False
+Dragonite,,Rage,Normal,20,1.0,False
+Dragonite,,Thunderbolt,Electric,95,1.0,False
+Dragonite,,Thunder,Electric,120,0.7,False
+Dragonite,,Fire Blast,Fire,120,0.85,False
+Dragonite,,Swift,Normal,60,1.0,False
+Mewtwo,1.0,Confusion,Psychic,50,1.0,False
+Mewtwo,1.0,Psychic,Psychic,90,1.0,False
+Mewtwo,1.0,Swift,Normal,60,1.0,False
+Mewtwo,,Strength,Normal,80,1.0,False
+Mewtwo,,Mega Punch,Normal,80,0.85,False
+Mewtwo,,Mega Kick,Normal,120,0.75,False
+Mewtwo,,Body Slam,Normal,85,1.0,False
+Mewtwo,,BubbleBeam,Water,65,1.0,False
+Mewtwo,,Water Gun,Water,40,1.0,False
+Mewtwo,,Ice Beam,Ice,95,1.0,False
+Mewtwo,,Blizzard,Ice,120,0.9,False
+Mewtwo,,Hyper Beam,Normal,75,0.9,False
+Mewtwo,,Pay Day,Normal,40,1.0,False
+Mewtwo,,Rage,Normal,20,1.0,False
+Mewtwo,,Thunderbolt,Electric,95,1.0,False
+Mewtwo,,Thunder,Electric,120,0.7,False
+Mewtwo,,Fire Blast,Fire,120,0.85,False
+Mewtwo,,Tri Attack,Normal,80,1.0,False
+Mew,1.0,Pound,Normal,40,1.0,False
+Mew,20.0,Mega Punch,Normal,80,0.85,False
+Mew,40.0,Psychic,Psychic,90,1.0,False
+Mew,,Cut,Normal,50,0.95,False
+Mew,,Fly,Flying,70,0.95,False
+Mew,,Surf,Water,95,1.0,False
+Mew,,Strength,Normal,80,1.0,False
+Mew,,Mega Kick,Normal,120,0.75,False
+Mew,,Body Slam,Normal,85,1.0,False
+Mew,,BubbleBeam,Water,65,1.0,False
+Mew,,Water Gun,Water,40,1.0,False
+Mew,,Ice Beam,Ice,95,1.0,False
+Mew,,Blizzard,Ice,120,0.9,False
+Mew,,Hyper Beam,Normal,75,0.9,False
+Mew,,Pay Day,Normal,40,1.0,False
+Mew,,Rage,Normal,20,1.0,False
+Mew,,Mega Drain,Grass,40,1.0,False
+Mew,,Thunderbolt,Electric,95,1.0,False
+Mew,,Thunder,Electric,120,0.7,False
+Mew,,Earthquake,Ground,100,1.0,False
+Mew,,Dig,Ground,100,1.0,False
+Mew,,Egg Bomb,Normal,100,0.75,False
+Mew,,Fire Blast,Fire,120,0.85,False
+Mew,,Swift,Normal,60,1.0,False
+Mew,,Rock Slide,Rock,75,0.9,False
+Mew,,Tri Attack,Normal,80,1.0,False

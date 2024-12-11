@@ -1,0 +1,39 @@
+Results for Party Size 6:
+Best Team Fitness (EHL): 4.739739009242863
+Variant ID: 2.0 (Charizard), Encounter Value: 12058.089226852295
+Variant ID: 368.0 (Gengar), Encounter Value: 13050.029091929553
+Variant ID: 379.0 (Hitmonlee), Encounter Value: 38072.387300825765
+Variant ID: 481.0 (Kangaskhan), Encounter Value: 10039.719085220016
+Variant ID: 501.0 (Tauros), Encounter Value: 6062.022248485046
+Variant ID: 558.0 (Snorlax), Encounter Value: 23195.65621056067
+
+Results for Party Size 5:
+Best Team Fitness (EHL): 4.837463682404988
+Variant ID: 2.0 (Charizard), Encounter Value: 12058.089226852295
+Variant ID: 365.0 (Gengar), Encounter Value: 13050.029091929553
+Variant ID: 379.0 (Hitmonlee), Encounter Value: 38072.387300825765
+Variant ID: 457.0 (Kangaskhan), Encounter Value: 10039.719085220016
+Variant ID: 491.0 (Scyther), Encounter Value: 10090.387317553195
+
+Results for Party Size 4:
+Best Team Fitness (EHL): 5.3049708756275145
+Variant ID: 2.0 (Charizard), Encounter Value: 12058.089226852295
+Variant ID: 368.0 (Gengar), Encounter Value: 13050.029091929553
+Variant ID: 379.0 (Hitmonlee), Encounter Value: 38072.387300825765
+Variant ID: 491.0 (Scyther), Encounter Value: 10090.387317553195
+
+Results for Party Size 3:
+Best Team Fitness (EHL): 7.787722772343806
+Variant ID: 368.0 (Gengar), Encounter Value: 13050.029091929553
+Variant ID: 379.0 (Hitmonlee), Encounter Value: 38072.387300825765
+Variant ID: 582.0 (Snorlax), Encounter Value: 23195.65621056067
+
+Results for Party Size 2:
+Best Team Fitness (EHL): 18.542687989637663
+Variant ID: 208.0 (Nidoking), Encounter Value: 4027.110495061038
+Variant ID: 491.0 (Scyther), Encounter Value: 10090.387317553195
+
+Results for Party Size 1:
+Best Team Fitness (EHL): 4027.110495061038
+Variant ID: 208.0 (Nidoking), Encounter Value: 4027.110495061038
+
