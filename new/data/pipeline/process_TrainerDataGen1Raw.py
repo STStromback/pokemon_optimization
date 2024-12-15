@@ -205,28 +205,27 @@ def get_top_moves_for_pokemon(pokemon, level, moves_mapping):
 
 
 # Function to calculate actual stats based on formulas
-def calculate_stats(base_stats, level):
+def calculate_stats(base_stats, level, gen):
     iv = 8
     iv_attack = 9
     calculated_stats = {}
 
-    # Calculate HP
-    calculated_stats['hp_enc'] = int(np.floor((base_stats['base_hp'] + iv) * 2 * level / 100) + level + 10)
-
-    # Calculate Attack
-    calculated_stats['attack_enc'] = int(np.floor((base_stats['base_attack'] + iv_attack) * 2 * level / 100) + 5)
-
-    # Calculate Defense
-    calculated_stats['defense_enc'] = int(np.floor((base_stats['base_defense'] + iv) * 2 * level / 100) + 5)
-
-    # Calculate Special Attack
-    calculated_stats['sp_attack_enc'] = int(np.floor((base_stats['base_sp_attack'] + iv) * 2 * level / 100) + 5)
-
-    # Calculate Special Defense
-    calculated_stats['sp_defense_enc'] = int(np.floor((base_stats['base_sp_defense'] + iv) * 2 * level / 100) + 5)
-
-    # Calculate Speed
-    calculated_stats['speed_enc'] = int(np.floor((base_stats['base_speed'] + iv) * 2 * level / 100) + 5)
+    if gen <= 2:
+        calculated_stats['hp'] = int(np.floor((base_stats['base_hp'] + iv) * 2 * level / 100) + level + 10)
+        calculated_stats['attack'] = int(np.floor((base_stats['base_attack'] + iv_attack) * 2 * level / 100) + 5)
+        calculated_stats['defense'] = int(np.floor((base_stats['base_defense'] + iv) * 2 * level / 100) + 5)
+        calculated_stats['sp_attack'] = int(np.floor((base_stats['base_sp_attack'] + iv) * 2 * level / 100) + 5)
+        calculated_stats['sp_defense'] = int(np.floor((base_stats['base_sp_defense'] + iv) * 2 * level / 100) + 5)
+        calculated_stats['speed'] = int(np.floor((base_stats['base_speed'] + iv) * 2 * level / 100) + 5)
+        return calculated_stats
+    else:
+        calculated_stats['hp'] = int(np.floor((2 * base_stats['base_hp'] + iv) * level / 100) + level + 10)
+        calculated_stats['attack'] = int(np.floor((2 * base_stats['base_attack'] + iv_attack) * level / 100) + 5)
+        calculated_stats['defense'] = int(np.floor((2 * base_stats['base_defense'] + iv) * level / 100) + 5)
+        calculated_stats['sp_attack'] = int(np.floor((2 * base_stats['base_sp_attack'] + iv) * level / 100) + 5)
+        calculated_stats['sp_defense'] = int(np.floor((2 * base_stats['base_sp_defense'] + iv) * level / 100) + 5)
+        calculated_stats['speed'] = int(np.floor((2 * base_stats['base_speed'] + iv) * level / 100) + 5)
+        return calculated_stats
 
     return calculated_stats
 
@@ -256,7 +255,7 @@ def add_stats_and_exp_and_moves_to_pokemon_data(result, stats_mapping, exp_table
             stats = stats_mapping[pokemon]
 
             # Calculate actual stats using the provided formulas
-            calculated_stats = calculate_stats(stats, level)
+            calculated_stats = calculate_stats(stats, level, gen)
             entry.update(calculated_stats)
 
             entry['types_enc'] = stats['types']

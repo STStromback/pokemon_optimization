@@ -25,7 +25,7 @@ def read_csv_files(gen):
     moves_df = pd.merge(moves_df, stats_df[['pokemon', 'evo_id']], on='pokemon', how='left')
 
     # DEBUG
-    # variants_df = variants_df[variants_df.variant_id == 263]
+    # variants_df = variants_df[variants_df.variant_id == 1]
 
     stats_df = stats_df.rename(columns={
         'hp': 'base_hp',
@@ -108,17 +108,27 @@ def merge_and_calculate_levels(cross_join_df, stats_df, exp_table_melted, gen):
     return merged_df
 
 
-def calculate_stats(base_stats, level):
+def calculate_stats(base_stats, level, gen):
     iv = 8
     iv_attack = 9
     calculated_stats = {}
-    calculated_stats['hp'] = int(np.floor((base_stats['base_hp'] + iv) * 2 * level / 100) + level + 10)
-    calculated_stats['attack'] = int(np.floor((base_stats['base_attack'] + iv_attack) * 2 * level / 100) + 5)
-    calculated_stats['defense'] = int(np.floor((base_stats['base_defense'] + iv) * 2 * level / 100) + 5)
-    calculated_stats['sp_attack'] = int(np.floor((base_stats['base_sp_attack'] + iv) * 2 * level / 100) + 5)
-    calculated_stats['sp_defense'] = int(np.floor((base_stats['base_sp_defense'] + iv) * 2 * level / 100) + 5)
-    calculated_stats['speed'] = int(np.floor((base_stats['base_speed'] + iv) * 2 * level / 100) + 5)
-    return calculated_stats
+
+    if gen <= 2:
+        calculated_stats['hp'] = int(np.floor((base_stats['base_hp'] + iv) * 2 * level / 100) + level + 10)
+        calculated_stats['attack'] = int(np.floor((base_stats['base_attack'] + iv_attack) * 2 * level / 100) + 5)
+        calculated_stats['defense'] = int(np.floor((base_stats['base_defense'] + iv) * 2 * level / 100) + 5)
+        calculated_stats['sp_attack'] = int(np.floor((base_stats['base_sp_attack'] + iv) * 2 * level / 100) + 5)
+        calculated_stats['sp_defense'] = int(np.floor((base_stats['base_sp_defense'] + iv) * 2 * level / 100) + 5)
+        calculated_stats['speed'] = int(np.floor((base_stats['base_speed'] + iv) * 2 * level / 100) + 5)
+        return calculated_stats
+    else:
+        calculated_stats['hp'] = int(np.floor((2 * base_stats['base_hp'] + iv) * level / 100) + level + 10)
+        calculated_stats['attack'] = int(np.floor((2 * base_stats['base_attack'] + iv_attack) * level / 100) + 5)
+        calculated_stats['defense'] = int(np.floor((2 * base_stats['base_defense'] + iv) * level / 100) + 5)
+        calculated_stats['sp_attack'] = int(np.floor((2 * base_stats['base_sp_attack'] + iv) * level / 100) + 5)
+        calculated_stats['sp_defense'] = int(np.floor((2 * base_stats['base_sp_defense'] + iv) * level / 100) + 5)
+        calculated_stats['speed'] = int(np.floor((2 * base_stats['base_speed'] + iv) * level / 100) + 5)
+        return calculated_stats
 
 
 def determine_pokemon_by_level(stats_df, merged_df):
@@ -170,7 +180,7 @@ def determine_pokemon_by_level(stats_df, merged_df):
             'base_sp_defense': row['base_sp_defense'],
             'base_speed': row['base_speed']
         }
-        calculated_stats = calculate_stats(base_stats, row['player_level'])
+        calculated_stats = calculate_stats(base_stats, row['player_level'], gen)
         merged_df.at[index, 'hp'] = calculated_stats['hp']
         merged_df.at[index, 'attack'] = calculated_stats['attack']
         merged_df.at[index, 'defense'] = calculated_stats['defense']
@@ -216,6 +226,7 @@ def prepare_moves_df(moves_df, stages_df):
 
 
 def calculate_expected_damage(move, base_speed):
+    # TODO: Add gen 2 and 3 logic to this
     crit_binary = 1 if move.crit else 0
     expected_damage = move.power * move.accuracy * ((1 + 7 * crit_binary) * (base_speed / 2))
     return expected_damage
@@ -241,9 +252,7 @@ def assign_best_moves(row, moves_df):
         type_moves = valid_moves[valid_moves['move_type'] == move_type]
         if not type_moves.empty:
             type_moves = type_moves.copy()
-            type_moves['expected_damage'] = type_moves.apply(
-                lambda m: calculate_expected_damage(m, base_speed), axis=1
-            )
+            type_moves['expected_damage'] = type_moves.apply(lambda m: calculate_expected_damage(m, base_speed), axis=1)
             best_move = type_moves.loc[type_moves['expected_damage'].idxmax()]
             best_moves[move_type] = best_move
 
@@ -347,9 +356,78 @@ def calc_se(df, gen):
         df[f'move{i}_se'] = df.apply(lambda row: get_effectiveness(row[f'move{i}_type'], row['types']), axis=1)
         df[f'move{i}_se_enc'] = df.apply(lambda row: get_effectiveness(row[f'move{i}_type_enc'], row['types_enc']), axis=1)
 
+    # Get badge type boosts and held item boosts for gen 2 only
+    # TODO: Add Gen 3 dictionaries and logic
+    def get_boosts(original, move_type, enc_stage, pokemon):
+        # Values represent the stage at which the boost is gained (so if stage is 5, then benefit is for stage > 5)
+        badge_boost_dict = {
+            'Flying': 5,
+            'Bug': 9,
+            'Normal': 12,
+            'Ghost': 17,
+            'Fighting': 23,
+            'Steel': 24,
+            'Ice': 31,
+            'Dragon': 38,
+            'Electric': 50,
+            'Psychic': 52,
+            'Water': 62,
+            'Grass': 65,
+            'Poison': 69,
+            'Rock': 77,
+            'Fire': 87,
+            'Ground': 89
+        }
+
+        held_item_dict = {
+            'Fighting': 29,
+            'Dark': 17,
+            'Fire': 9,
+            'Dragon': 39,
+            'Rock': 15,
+            'Electric': 16,
+            'Steel': 18,
+            'Grass': 6,
+            'Water': 17,
+            'Ice': 36,
+            'Normal': 5,
+            'Poison': 6,
+            'Flying': 21,
+            'Bug': 10,
+            'Ground': 11,
+            'Ghost': 37
+        }
+
+        if enc_stage > badge_boost_dict.get(move_type):  # If we have the requested badge type boost for the move type
+            original = original * 1.125
+        else:
+            original = original
+
+        if enc_stage > held_item_dict.get(move_type):  # If we have the requested badge type boost for the move type
+            original = original * 1.1
+        else:
+            original = original
+
+        # Custom logic for pokemon-specific held items
+        # TODO: Add gen 3 unique items (possibly offensive ability effects here too?)
+        if pokemon == 'Farfetchd':
+            original = original * 1.172168
+
+        if (pokemon == 'Cubone' or pokemon == 'Marowak') and move_type in ['Normal','Fighting','Flying','Poison','Ground','Rock','Bug','Ghost','Steel']:
+            original = original * 2
+
+        return original
+
+    if gen == 2:
+        for i in range(1, 5):
+            df[f'move{i}_se'] = df.apply(lambda row: get_boosts(row[f'move{i}_se'], row[f'move{i}_type'], row[f'stage_enc'], row['pokemon']))
+
     return df
 
+
 def calc_ehl(row):
+    # config = pd.read_csv('../config/config.csv')
+    # gen = int(config[config.rule == 'gen'].value.values[0])
 
     phys_types = ['Normal', 'Fighting', 'Flying', 'Poison', 'Ground', 'Rock', 'Bug', 'Ghost', 'Steel']
     enc_stage = row['stage_enc']
@@ -366,37 +444,66 @@ def calc_ehl(row):
     hp_calc_enc = hp_enc
     # speed_calc = (((speed + 8) * 2 * level) / 100) + 5
     speed_calc = speed
-    if enc_stage > 26:
+    if enc_stage > 27:
         speed_calc *= 1.125
     speed_calc_enc = speed_enc
 
-    def calc_stats(move_type, atk, defense, crit, power, acc, stab, se, level, enc_stage, phys_spec, speed):
+
+    def calc_stats(move_type, atk, defense, crit, power, acc, stab, se, level, enc_stage, phys_spec, speed, gen):
         if power != '-':
             dv_atk = 9 if phys_spec == 'physical' else 8
             # atk_calc = ((atk + dv_atk) * 2 * level / 100) + 5
             atk_calc = atk
-            if phys_spec == 'physical' and enc_stage > 5:
-                atk_calc *= 1.125
-            if phys_spec == 'special' and enc_stage > 32:
-                atk_calc *= 1.125
             # def_calc = ((defense + 8) * 2 * level / 100) + 5
             def_calc = defense
-            if phys_spec == 'physical' and enc_stage > 14:
-                def_calc *= 1.125
-            if phys_spec == 'special' and enc_stage > 32:
-                def_calc *= 1.125
-            if crit:
-                crit = ((min(8 * speed / 2, 255) / 256) + 1)
-            else:
-                crit = (((speed / 2) / 256) + 1)
-            calc_dam = (((((2 * float(level) * (float(crit) + 1) / 5) + 2) * float(power) * float(atk_calc) / float(def_calc)) / 50) + 2) * float(stab) * float(se) * float(acc)
+
+            # Apply badge stat bonuses
+            if gen == 1:
+                if phys_spec == 'physical' and enc_stage > 5:
+                    atk_calc *= 1.125
+                if phys_spec == 'special' and enc_stage > 33:
+                    atk_calc *= 1.125
+                if phys_spec == 'physical' and enc_stage > 14:
+                    def_calc *= 1.125
+                if phys_spec == 'special' and enc_stage > 33:
+                    def_calc *= 1.125
+            elif gen == 2: # TODO: Add Gen 3
+                if phys_spec == 'physical' and enc_stage > 5:
+                    atk_calc *= 1.125
+                if phys_spec == 'special' and enc_stage > 31:
+                    atk_calc *= 1.125
+                if phys_spec == 'physical' and enc_stage > 24:
+                    def_calc *= 1.125
+                if phys_spec == 'special' and enc_stage > 31:
+                    def_calc *= 1.125
+
+            # Different crit formulas and multiplers for different gens
+            if gen == 1:
+                if crit:
+                    crit = ((min(8 * speed / 2, 255) / 256) + 1)
+                else:
+                    crit = (((speed / 2) / 256) + 1)
+                calc_dam = (((((2 * float(level) * (float(crit)) / 5) + 2) * float(power) * float(atk_calc) / float(def_calc)) / 50) + 2) * float(stab) * float(se) * float(acc)
+            elif gen == 2:
+                if crit:
+                    crit = 1.25
+                else:
+                    crit = 1.0664
+                calc_dam = ((((((2 * float(level) / 5) + 2) * float(power) * float(atk_calc) / float(def_calc)) / 50)) * float(crit) + 2) * float(stab) * float(se) * float(acc)
+            else: # Gen >= 3
+                if crit:
+                    crit = 1.125
+                else:
+                    crit = 1.0664
+
+            # Calculate damage
+            # calc_dam = (((((2 * float(level) * (float(crit)) / 5) + 2) * float(power) * float(atk_calc) / float(def_calc)) / 50) + 2) * float(stab) * float(se) * float(acc)
             return np.nan_to_num(calc_dam, nan=0)
         else:
             return 0
 
     def get_stab(move_type, pokemon_type1, pokemon_type2):
         return 1.5 if move_type == pokemon_type1 or move_type == pokemon_type2 else 1
-
 
     moves = [(row[f'move{i}_power'], row[f'move{i}_accuracy'], row[f'move{i}_crit'], row[f'move{i}_type'], row[f'move{i}_power_enc'], row[f'move{i}_accuracy_enc'], row[f'move{i}_crit_enc'], row[f'move{i}_type_enc'], row[f'move{i}_se'], row[f'move{i}_se_enc']) for i in range(1, 5)]
     max_dam, max_dam_enc = 0, 0
@@ -411,8 +518,8 @@ def calc_ehl(row):
         atk_enc = row['attack_enc'] if phys_spec_enc == 'physical' else row['sp_attack_enc']
         defense = row['defense'] if phys_spec_enc == 'physical' else row['sp_defense']
 
-        calc_dam = calc_stats(move_type, atk, defense_enc, crit, power, acc, stab, se, level, enc_stage, phys_spec, speed)
-        calc_dam_enc = calc_stats(move_type_enc, atk_enc, defense, crit_enc, power_enc, acc_enc, stab_enc, se_enc, level_enc, enc_stage, phys_spec_enc, speed_enc)
+        calc_dam = calc_stats(move_type, atk, defense_enc, crit, power, acc, stab, se, level, enc_stage, phys_spec, speed, gen)
+        calc_dam_enc = calc_stats(move_type_enc, atk_enc, defense, crit_enc, power_enc, acc_enc, stab_enc, se_enc, level_enc, enc_stage, phys_spec_enc, speed_enc, gen)
 
         max_dam = max(max_dam, calc_dam)
         max_dam_enc = max(max_dam_enc, calc_dam_enc)
