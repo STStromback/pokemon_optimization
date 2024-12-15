@@ -1,77 +1,225 @@
 pokemon,wild_level,wild_location,wild_item,wild_version,wild_method,wild_location_stage,evo_id
-Abra,5,,,,,0,27
-Aerodactyl,5,,,,,0,74
-Bellsprout,5,,,,,0,29
-Bulbasaur,5,,,,,0,1
-Caterpie,5,,,,,0,4
-Chansey,5,,,,,0,52
-Charmander,5,,,,,0,2
-Clefairy,5,,,,,0,14
-Cubone,5,,,,,0,46
-Diglett,5,,,,,0,21
-Ditto,5,,,,,0,67
-Doduo,5,,,,,0,36
-Dratini,5,,,,,0,79
-Drowzee,5,,,,,0,42
-Eevee,5,,,,,0,68
-Eevee,5,,,,,0,69
-Eevee,5,,,,,0,70
-Ekans,5,,,,,0,9
-Electabuzz,5,,,,,0,61
-Exeggcute,5,,,,,0,45
-Farfetchd,5,,,,,0,35
-Gastly,5,,,,,0,40
-Geodude,5,,,,,0,31
-Goldeen,5,,,,,0,56
-Grimer,5,,,,,0,38
-Growlithe,5,,,,,0,25
-Hitmonchan,5,,,,,0,48
-Hitmonlee,5,,,,,0,47
-Horsea,5,,,,,0,55
-Jigglypuff,5,,,,,0,16
-Jynx,5,,,,,0,60
-Kabuto,5,,,,,0,73
-Kangaskhan,5,,,,,0,54
-Koffing,5,,,,,0,50
-Krabby,5,,,,,0,43
-Lapras,5,,,,,0,66
-Lickitung,5,,,,,0,49
-Machop,5,,,,,0,28
-Magikarp,5,,,,,0,65
-Magmar,5,,,,,0,62
-Magnemite,5,,,,,0,34
-Mankey,5,,,,,0,24
-Meowth,5,,,,,0,22
-Mr_Mime,5,,,,,0,58
-Nidoran_f,5,,,,,0,12
-Nidoran_m,5,,,,,0,13
-Oddish,5,,,,,0,18
-Omanyte,5,,,,,0,72
-Onix,5,,,,,0,41
-Paras,5,,,,,0,19
-Pidgey,5,,,,,0,6
-Pikachu,5,,,,,0,10
-Pinsir,5,,,,,0,63
-Poliwag,5,,,,,0,26
-Ponyta,5,,,,,0,32
-Porygon,5,,,,,0,71
-Psyduck,5,,,,,0,23
-Rattata,5,,,,,0,7
-Rhyhorn,5,,,,,0,51
-Sandshrew,5,,,,,0,11
-Scyther,5,,,,,0,59
-Seel,5,,,,,0,37
-Shellder,5,,,,,0,39
-Slowpoke,5,,,,,0,33
-Snorlax,5,,,,,0,75
-Spearow,5,,,,,0,8
-Squirtle,5,,,,,0,3
-Staryu,5,,,,,0,57
-Tangela,5,,,,,0,53
-Tauros,5,,,,,0,64
-Tentacool,5,,,,,0,30
-Venonat,5,,,,,0,20
-Voltorb,5,,,,,0,44
-Vulpix,5,,,,,0,15
-Weedle,5,,,,,0,5
-Zubat,5,,,,,0,17
+Bulbasaur,5,pallet_town,None,r,event,0,1
+Charmander,5,pallet_town,None,r,event,0,2
+Squirtle,5,pallet_town,None,r,event,0,3
+Rattata,4,route_1,None,r,Tall grass,1,7
+Pidgey,5,route_1,None,r,Tall grass,1,6
+Nidoran_f,4,route_22,None,r,Tall grass,3,12
+Nidoran_m,4,route_22,None,r,Tall grass,3,13
+Pidgey,5,route_2,None,r,Tall grass,3,6
+Rattata,5,route_2,None,r,Tall grass,3,7
+Spearow,5,route_22,None,r,Tall grass,3,8
+Weedle,5,route_2,None,r,Tall grass,3,5
+Caterpie,3,viridian_forest,None,r,Tall grass,4,4
+Metapod,4,viridian_forest,None,r,Tall grass,4,4
+Pikachu,5,viridian_forest,None,r,Tall grass,4,10
+Weedle,5,viridian_forest,None,r,Tall grass,4,5
+Kakuna,6,viridian_forest,None,r,Tall grass,4,5
+Jigglypuff,7,route_3,None,r,Tall grass,6,16
+Pidgey,8,route_3,None,r,Tall grass,6,6
+Spearow,8,route_3,None,r,Tall grass,6,8
+Geodude,10,mt_moon,None,r,Cave,7,31
+Clefairy,12,mt_moon,None,r,Cave,7,14
+Paras,12,mt_moon,None,r,Cave,7,19
+Zubat,12,mt_moon,None,r,Cave,7,17
+Magikarp,5,route_4,None,r,event,8,65
+Ekans,12,route_4,None,r,Tall grass,8,9
+Rattata,12,route_4,None,r,Tall grass,8,7
+Spearow,12,route_4,None,r,Tall grass,8,8
+Mr_Mime,5,trade,None,r,trade,10,58
+Weedle,7,route_24,None,r,Tall grass,10,5
+Kakuna,8,route_24,None,r,Tall grass,10,5
+Abra,12,route_24,None,r,Tall grass,10,27
+Mankey,16,route_5,None,r,Tall grass,10,24
+Oddish,16,route_5,None,r,Tall grass,10,18
+Pidgey,16,route_5,None,r,Tall grass,10,6
+Metapod,7,route_25,None,r,Tall grass,11,4
+Caterpie,8,route_25,None,r,Tall grass,11,4
+Weedle,8,route_25,None,r,Tall grass,11,5
+Kakuna,9,route_25,None,r,Tall grass,11,5
+Abra,12,route_25,None,r,Tall grass,11,27
+Psyduck,15,route_6,None,r,Surfing,11,23
+Mankey,16,route_6,None,r,Tall grass,11,24
+Oddish,16,route_6,None,r,Tall grass,11,18
+Pidgey,16,route_6,None,r,Tall grass,11,6
+Golduck,20,route_6,None,r,Surfing,11,23
+Farfetchd,5,trade,None,r,trade,12,35
+Magikarp,5,pallet_town,Old Rod,r,Fishing,12,65
+Drowzee,15,route_11,None,r,Tall grass,13,42
+Ekans,15,route_11,None,r,Tall grass,13,9
+Spearow,17,route_11,None,r,Tall grass,13,8
+Diglett,22,diglet_cave,None,r,Cave,13,21
+Dugtrio,31,diglet_cave,None,r,Cave,13,21
+Ekans,17,route_9,None,r,Tall grass,15,9
+Rattata,17,route_9,None,r,Tall grass,15,7
+Spearow,17,route_9,None,r,Tall grass,15,8
+Magikarp,5,route_10,Old Rod,r,Fishing,16,65
+Ekans,17,route_10,None,r,Tall grass,16,9
+Spearow,17,route_10,None,r,Tall grass,16,8
+Voltorb,17,route_10,None,r,Tall grass,16,44
+Machop,17,rock_tunnel,None,r,Cave,17,28
+Onix,17,rock_tunnel,None,r,Cave,17,41
+Geodude,18,rock_tunnel,None,r,Cave,17,31
+Zubat,18,rock_tunnel,None,r,Cave,17,17
+Cubone,24,pokemon_tower,None,r,Cave,19,46
+Gastly,24,pokemon_tower,None,r,Cave,19,40
+Haunter,30,pokemon_tower,None,r,Cave,19,40
+Growlithe,18,route_8,None,r,Tall grass,20,25
+Ekans,19,route_8,None,r,Tall grass,20,9
+Mankey,20,route_8,None,r,Tall grass,20,24
+Pidgey,20,route_8,None,r,Tall grass,20,6
+Growlithe,20,route_7,None,r,Tall grass,21,25
+Mankey,20,route_7,None,r,Tall grass,21,24
+Oddish,22,route_7,None,r,Tall grass,21,18
+Pidgey,22,route_7,None,r,Tall grass,21,6
+Magikarp,5,celadon_city,Old Rod,r,Fishing,22,65
+Eevee,25,celadon_city,None,r,event,22,68
+Eevee,25,celadon_city,None,r,event,22,69
+Eevee,25,celadon_city,None,r,event,22,70
+Lapras,15,silph_co,None,r,event,23,66
+Hitmonchan,30,saffron_city,None,r,event,23,48
+Hitmonlee,30,saffron_city,None,r,event,23,47
+Jynx,5,trade,None,r,trade,25,60
+Lickitung,5,trade,None,r,trade,25,49
+Dratini,15,safari_zone,Super Rod,r,Fishing,25,79
+Goldeen,15,route_22,Super Rod,r,Fishing,25,56
+Krabby,15,route_4,Super Rod,r,Fishing,25,43
+Magikarp,15,route_12,Super Rod,r,Fishing,25,65
+Poliwag,15,pallet_town,Super Rod,r,Fishing,25,26
+Psyduck,15,route_4,Super Rod,r,Fishing,25,23
+Shellder,15,route_6,Super Rod,r,Fishing,25,39
+Slowpoke,15,route_10,Super Rod,r,Fishing,25,33
+Tentacool,15,pallet_town,Super Rod,r,Fishing,25,30
+Slowbro,20,route_12,None,r,Surfing,25,33
+Rattata,22,route_16,None,r,Tall grass,25,7
+Spearow,22,route_16,None,r,Tall grass,25,8
+Paras,23,safari_zone,None,r,Tall grass,25,19
+Poliwhirl,23,route_10,Super Rod,r,Fishing,25,26
+Seaking,23,fuchsia_city,Super Rod,r,Fishing,25,56
+Nidoran_f,25,safari_zone,None,r,Tall grass,25,12
+Nidoran_m,25,safari_zone,None,r,Tall grass,25,13
+Chansey,26,safari_zone,None,r,Tall grass,25,52
+Ditto,26,route_15,None,r,Tall grass,25,67
+Oddish,26,route_12,None,r,Tall grass,25,18
+Rhyhorn,26,safari_zone,None,r,Tall grass,25,51
+Exeggcute,27,safari_zone,None,r,Tall grass,25,45
+Pidgey,27,route_12,None,r,Tall grass,25,6
+Doduo,28,route_17,None,r,Tall grass,25,36
+Kangaskhan,28,safari_zone,None,r,Tall grass,25,54
+Scyther,28,safari_zone,None,r,Tall grass,25,59
+Tauros,28,safari_zone,None,r,Tall grass,25,64
+Venonat,28,route_15,None,r,Tall grass,25,20
+Fearow,29,route_18,None,r,Tall grass,25,8
+Raticate,29,route_17,None,r,Tall grass,25,7
+Gloom,30,route_12,None,r,Tall grass,25,18
+Parasect,30,safari_zone,None,r,Tall grass,25,19
+Pidgeotto,30,route_14,None,r,Tall grass,25,6
+Snorlax,30,route_12,None,r,event,25,75
+Nidorina,31,safari_zone,None,r,Tall grass,25,12
+Venomoth,32,safari_zone,None,r,Tall grass,25,20
+Nidorino,33,safari_zone,None,r,Tall grass,25,13
+Magnemite,23,power_plant,None,r,Cave,28,34
+Voltorb,23,power_plant,None,r,Cave,28,44
+Pikachu,24,power_plant,None,r,Cave,28,10
+Magneton,35,power_plant,None,r,Cave,28,34
+Electabuzz,36,power_plant,None,r,Cave,28,61
+Zapdos,50,power_plant,None,r,event,28,77
+Magikarp,5,route_19,Old Rod,r,Fishing,29,65
+Poliwag,10,route_19,Good Rod,r,Fishing,29,26
+Goldeen,15,route_19,Super Rod,r,Fishing,29,56
+Horsea,15,route_19,Super Rod,r,Fishing,29,55
+Shellder,15,route_19,Super Rod,r,Fishing,29,39
+Staryu,15,route_19,Super Rod,r,Fishing,29,57
+Tentacool,40,route_19,None,r,Surfing,29,30
+Magikarp,5,route_20,Old Rod,r,Fishing,30,65
+Poliwag,10,route_20,Good Rod,r,Fishing,30,26
+Goldeen,15,route_20,Super Rod,r,Fishing,30,56
+Horsea,15,route_20,Super Rod,r,Fishing,30,55
+Shellder,15,route_20,Super Rod,r,Fishing,30,39
+Staryu,15,route_20,Super Rod,r,Fishing,30,57
+Tentacool,40,route_20,None,r,Surfing,30,30
+Magikarp,5,seafoam_islands,Old Rod,r,Fishing,31,65
+Poliwag,10,seafoam_islands,Good Rod,r,Fishing,31,26
+Goldeen,15,seafoam_islands,Super Rod,r,Fishing,31,56
+Zubat,21,seafoam_islands,None,r,Cave,31,17
+Pidgey,23,route_21,None,r,Tall grass,31,6
+Rattata,23,route_21,None,r,Tall grass,31,7
+Psyduck,28,seafoam_islands,None,r,Cave,31,23
+Raticate,30,route_21,None,r,Tall grass,31,7
+Staryu,30,seafoam_islands,None,r,Cave,31,57
+Golbat,32,seafoam_islands,None,r,Cave,31,17
+Pidgeotto,32,route_21,None,r,Tall grass,31,6
+Tangela,32,route_21,None,r,Tall grass,31,53
+Horsea,33,seafoam_islands,None,r,Cave,31,55
+Seel,33,seafoam_islands,None,r,Cave,31,37
+Shellder,33,seafoam_islands,None,r,Cave,31,39
+Slowpoke,33,seafoam_islands,None,r,Cave,31,33
+Dewgong,38,seafoam_islands,None,r,Cave,31,37
+Golduck,38,seafoam_islands,None,r,Cave,31,23
+Seadra,39,seafoam_islands,None,r,Cave,31,55
+Slowbro,39,seafoam_islands,None,r,Cave,31,33
+Tentacool,40,seafoam_islands,None,r,Surfing,31,30
+Articuno,50,seafoam_islands,None,r,event,31,76
+Magikarp,5,cinnabar_island,Old Rod,r,Fishing,32,65
+Poliwag,10,cinnabar_island,Good Rod,r,Fishing,32,26
+Goldeen,15,cinnabar_island,Super Rod,r,Fishing,32,56
+Horsea,15,cinnabar_island,Super Rod,r,Fishing,32,55
+Shellder,15,cinnabar_island,Super Rod,r,Fishing,32,39
+Staryu,15,cinnabar_island,Super Rod,r,Fishing,32,57
+Aerodactyl,30,cinnabar_island,None,r,event,32,74
+Kabuto,30,cinnabar_island,None,r,event,32,73
+Omanyte,30,cinnabar_island,None,r,event,32,72
+Grimer,35,pokemon_mansion,None,r,Cave,33,38
+Growlithe,35,pokemon_mansion,None,r,Cave,33,25
+Koffing,35,pokemon_mansion,None,r,Cave,33,50
+Ponyta,36,pokemon_mansion,None,r,Cave,33,32
+Muk,42,pokemon_mansion,None,r,Cave,33,38
+Weezing,42,pokemon_mansion,None,r,Cave,33,50
+Magikarp,5,route_23,Old Rod,r,Fishing,35,65
+Goldeen,10,route_23,Good Rod,r,Fishing,35,56
+Poliwag,10,route_23,Good Rod,r,Fishing,35,26
+Kingler,23,route_23,Super Rod,r,Fishing,35,43
+Seadra,23,route_23,Super Rod,r,Fishing,35,55
+Seaking,23,route_23,Super Rod,r,Fishing,35,56
+Slowbro,23,route_23,Super Rod,r,Fishing,35,33
+Ekans,26,route_23,None,r,Tall grass,35,9
+Spearow,26,route_23,None,r,Tall grass,35,8
+Arbok,41,route_23,None,r,Tall grass,35,9
+Ditto,43,route_23,None,r,Tall grass,35,67
+Fearow,43,route_23,None,r,Tall grass,35,8
+Machop,24,victory_road,None,r,Cave,36,28
+Geodude,26,victory_road,None,r,Cave,36,31
+Zubat,26,victory_road,None,r,Cave,36,17
+Venomoth,40,victory_road,None,r,Cave,36,20
+Golbat,41,victory_road,None,r,Cave,36,17
+Graveler,43,victory_road,None,r,Cave,36,31
+Marowak,43,victory_road,None,r,Cave,36,46
+Machoke,45,victory_road,None,r,Cave,36,28
+Onix,45,victory_road,None,r,Cave,36,41
+Moltres,50,victory_road,None,r,event,36,78
+Magikarp,5,indigo_plateau,Old Rod,r,Fishing,37,65
+Goldeen,10,indigo_plateau,Good Rod,r,Fishing,37,56
+Poliwag,10,indigo_plateau,Good Rod,r,Fishing,37,26
+Magikarp,5,cerulean_cave,Old Rod,r,Fishing,38,65
+Goldeen,10,cerulean_cave,Good Rod,r,Fishing,38,56
+Poliwag,10,cerulean_cave,Good Rod,r,Fishing,38,26
+Kingler,23,cerulean_cave,Super Rod,r,Fishing,38,43
+Seadra,23,cerulean_cave,Super Rod,r,Fishing,38,55
+Seaking,23,cerulean_cave,Super Rod,r,Fishing,38,56
+Slowbro,23,cerulean_cave,Super Rod,r,Fishing,38,33
+Golbat,46,cerulean_cave,None,r,Cave,38,17
+Hypno,46,cerulean_cave,None,r,Cave,38,42
+Magneton,46,cerulean_cave,None,r,Cave,38,34
+Dodrio,51,cerulean_cave,None,r,Cave,38,36
+Kadabra,51,cerulean_cave,None,r,Cave,38,27
+Venomoth,51,cerulean_cave,None,r,Cave,38,20
+Wigglytuff,54,cerulean_cave,None,r,Cave,38,16
+Electrode,55,cerulean_cave,None,r,Cave,38,44
+Marowak,55,cerulean_cave,None,r,Cave,38,46
+Rhydon,55,cerulean_cave,None,r,Cave,38,51
+Arbok,57,cerulean_cave,None,r,Cave,38,9
+Chansey,64,cerulean_cave,None,r,Cave,38,52
+Parasect,64,cerulean_cave,None,r,Cave,38,19
+Raichu,64,cerulean_cave,None,r,Cave,38,10
+Ditto,67,cerulean_cave,None,r,Cave,38,67
+Mewtwo,70,cerulean_cave,None,r,event,38,80

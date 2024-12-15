@@ -221,7 +221,7 @@ else:
         # We'll create entries with default values
         new_entries = pd.DataFrame({
             'pokemon': pokemon_in_not_in_df['pokemon'],
-            'level': 0,  # Level is unknown from trade data; set to 0 or any default
+            'level': 5,  # Level is unknown from trade data; set to 0 or any default
             'wild_location': 'trade',
             'item': 'None',
             'version': 'r',

@@ -1,6 +1,6 @@
 rule,value
 gen,1
-all_starters,y
+all_starters,n
 legendaries,n
 trade_evos,y
 restrictions,n

@@ -211,20 +211,20 @@ def calculate_stats(base_stats, level, gen):
     calculated_stats = {}
 
     if gen <= 2:
-        calculated_stats['hp'] = int(np.floor((base_stats['base_hp'] + iv) * 2 * level / 100) + level + 10)
-        calculated_stats['attack'] = int(np.floor((base_stats['base_attack'] + iv_attack) * 2 * level / 100) + 5)
-        calculated_stats['defense'] = int(np.floor((base_stats['base_defense'] + iv) * 2 * level / 100) + 5)
-        calculated_stats['sp_attack'] = int(np.floor((base_stats['base_sp_attack'] + iv) * 2 * level / 100) + 5)
-        calculated_stats['sp_defense'] = int(np.floor((base_stats['base_sp_defense'] + iv) * 2 * level / 100) + 5)
-        calculated_stats['speed'] = int(np.floor((base_stats['base_speed'] + iv) * 2 * level / 100) + 5)
+        calculated_stats['hp_enc'] = int(np.floor((base_stats['base_hp'] + iv) * 2 * level / 100) + level + 10)
+        calculated_stats['attack_enc'] = int(np.floor((base_stats['base_attack'] + iv_attack) * 2 * level / 100) + 5)
+        calculated_stats['defense_enc'] = int(np.floor((base_stats['base_defense'] + iv) * 2 * level / 100) + 5)
+        calculated_stats['sp_attack_enc'] = int(np.floor((base_stats['base_sp_attack'] + iv) * 2 * level / 100) + 5)
+        calculated_stats['sp_defense_enc'] = int(np.floor((base_stats['base_sp_defense'] + iv) * 2 * level / 100) + 5)
+        calculated_stats['speed_enc'] = int(np.floor((base_stats['base_speed'] + iv) * 2 * level / 100) + 5)
         return calculated_stats
     else:
-        calculated_stats['hp'] = int(np.floor((2 * base_stats['base_hp'] + iv) * level / 100) + level + 10)
-        calculated_stats['attack'] = int(np.floor((2 * base_stats['base_attack'] + iv_attack) * level / 100) + 5)
-        calculated_stats['defense'] = int(np.floor((2 * base_stats['base_defense'] + iv) * level / 100) + 5)
-        calculated_stats['sp_attack'] = int(np.floor((2 * base_stats['base_sp_attack'] + iv) * level / 100) + 5)
-        calculated_stats['sp_defense'] = int(np.floor((2 * base_stats['base_sp_defense'] + iv) * level / 100) + 5)
-        calculated_stats['speed'] = int(np.floor((2 * base_stats['base_speed'] + iv) * level / 100) + 5)
+        calculated_stats['hp_enc'] = int(np.floor((2 * base_stats['base_hp'] + iv) * level / 100) + level + 10)
+        calculated_stats['attack_enc'] = int(np.floor((2 * base_stats['base_attack'] + iv_attack) * level / 100) + 5)
+        calculated_stats['defense_enc'] = int(np.floor((2 * base_stats['base_defense'] + iv) * level / 100) + 5)
+        calculated_stats['sp_attack_enc'] = int(np.floor((2 * base_stats['base_sp_attack'] + iv) * level / 100) + 5)
+        calculated_stats['sp_defense_enc'] = int(np.floor((2 * base_stats['base_sp_defense'] + iv) * level / 100) + 5)
+        calculated_stats['speed_enc'] = int(np.floor((2 * base_stats['base_speed'] + iv) * level / 100) + 5)
         return calculated_stats
 
     return calculated_stats
