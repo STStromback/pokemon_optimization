@@ -91,9 +91,13 @@ def load_stage_mapping(csv_filename):
     # Open the CSV file
     with open(csv_filename, mode='r') as csvfile:
         reader = csv.DictReader(csvfile)  # Read the CSV into a dictionary
+
         for row in reader:
             # Extract 'location' and 'location_stage'
-            location = row['location'].strip().lower().replace(' ', '_')
+            if gen == 2:
+                location = row['ï»¿location'].strip().lower().replace(' ', '_')
+            else:
+                location = row['location'].strip().lower().replace(' ', '_')
             location_stage = int(row['location_stage'].strip())
             # Add to the stage mapping dictionary
             stage_mapping[location] = location_stage

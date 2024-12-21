@@ -225,14 +225,22 @@ def prepare_moves_df(moves_df, stages_df):
 
 
 
-def calculate_expected_damage(move, base_speed):
-    # TODO: Add gen 2 and 3 logic to this
+def calculate_expected_damage(move, base_speed, gen):
     crit_binary = 1 if move.crit else 0
-    expected_damage = move.power * move.accuracy * ((1 + 7 * crit_binary) * (base_speed / 2))
+
+    if gen == 1:
+        expected_damage = move.power * move.accuracy * ((1 + (7 * crit_binary)) * (base_speed / 2))
+    elif gen == 2:
+        expected_damage = move.power * move.accuracy * (1 + (crit_binary * 0.1721680))
+    elif gen == 3:
+        expected_damage = move.power * move.accuracy * (1 + (crit_binary * 0.0549512))
+    else:
+        expected_damage = move.power * move.accuracy * ((1 + (7 * crit_binary)) * (base_speed / 2))
+
     return expected_damage
 
 
-def assign_best_moves(row, moves_df):
+def assign_best_moves(row, moves_df, gen):
     base_speed = row['base_speed']
     variant_types = [
         row[f'move_type_{i}']
@@ -252,7 +260,7 @@ def assign_best_moves(row, moves_df):
         type_moves = valid_moves[valid_moves['move_type'] == move_type]
         if not type_moves.empty:
             type_moves = type_moves.copy()
-            type_moves['expected_damage'] = type_moves.apply(lambda m: calculate_expected_damage(m, base_speed), axis=1)
+            type_moves['expected_damage'] = type_moves.apply(lambda m: calculate_expected_damage(m, base_speed, gen), axis=1)
             best_move = type_moves.loc[type_moves['expected_damage'].idxmax()]
             best_moves[move_type] = best_move
 
@@ -298,7 +306,7 @@ new_columns = {
 }
 
 
-def process_variants(merged_df, moves_df):
+def process_variants(merged_df, moves_df, gen):
     total_variants = merged_df['variant_id'].nunique()
     logging.info(f"Total variants to process: {total_variants}")
 
@@ -319,7 +327,7 @@ def process_variants(merged_df, moves_df):
 
     with ProgressBar():
         results = merged_ddf.map_partitions(
-            lambda df: df.apply(assign_best_moves, moves_df=moves_df, axis=1),
+            lambda df: df.apply(assign_best_moves, moves_df=moves_df, gen=gen, axis=1),
             meta=output_meta
         ).compute(scheduler='processes')
 
@@ -645,7 +653,7 @@ def main():
     merged_df = determine_pokemon_by_level(stats_df, merged_df)
     moves_df = prepare_moves_df(moves_df, stages_df)
     merged_df['base_speed'] = merged_df['speed']
-    merged_df = process_variants(merged_df, moves_df)
+    merged_df = process_variants(merged_df, moves_df, gen)
     merged_df = calc_se(merged_df, gen)
     logging.info(f"Calculating EHL values...")
     merged_df['ehl'] = merged_df.apply(calc_ehl, axis=1)

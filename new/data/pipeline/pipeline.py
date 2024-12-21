@@ -16,7 +16,11 @@ if generation == 1:
     ]
 
 elif generation == 2:
-    scripts = []
+    scripts = ["process_TrainerDataGen1Raw.py",
+               "process_wild_locations_gen_2_raw_v2.py",
+               "create_variants_gen_1.py",
+               "calculate_ehl_gen_1_v2.py",
+               "evaluate_combinations_gen_1_v6"]
 
 elif generation == 3:
     scripts = []

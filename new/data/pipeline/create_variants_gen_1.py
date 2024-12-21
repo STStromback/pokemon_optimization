@@ -47,7 +47,16 @@ def main():
     for pokemon_id, group in grouped:
         types = group['move_type'].tolist()
         all_variants = generate_variants(types)
-        unique_variants = [v for v in all_variants if not is_subset(v, all_variants)]
+
+        # Originally used to filter strictly worse variants.
+        # However, if we are using invalid combinations then we can't do this
+        # Now we only process if restrictions are not being used
+
+        unique_variants = all_variants
+        restrictions = config[config.rule == 'restrictions'].value.values[0].lower()
+        if restrictions != 'y':
+            unique_variants = [v for v in all_variants if not is_subset(v, all_variants)]
+
 
         for variant in unique_variants:
             unique_variants_list.append({

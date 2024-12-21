@@ -204,7 +204,7 @@ def run_genetic_algorithm(file_path, stats_file, variants_file, restriction_file
     toolbox.register("select", tools.selTournament, tournsize=3)
 
     # Run the genetic algorithm
-    population_size = 1000  # Adjust population size as needed
+    population_size = 5000  # Adjust population size as needed
     generations = 100  # Adjust the number of generations as needed
     mutation_rate = 0.2  # Adjust mutation rate as needed
 
