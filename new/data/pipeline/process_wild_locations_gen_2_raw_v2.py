@@ -5,207 +5,244 @@ import time
 import warnings
 warnings.filterwarnings("ignore", category=FutureWarning, module="pandas")
 
-SITEMAP_URL = "https://pokemondb.net/static/sitemaps/pokemondb.xml"
-BASE_URL = "https://pokemondb.net"
-CRAWL_DELAY = 2  # Respecting the crawl-delay from robots.txt
+config = pd.read_csv('../config/config.csv')
+all_starters = True if config[config.rule == 'all_starters'].value.values[0].lower() == 'y' else False
+legendaries = True if config[config.rule == 'legendaries'].value.values[0].lower() == 'y' else False
+gen = int(config[config.rule == 'gen'].value.values[0])
 
-# Step 1: Parse the sitemap and get all /location/johto URLs
-response = requests.get(SITEMAP_URL)
-response.raise_for_status()
+if all_starters:
+    stats = pd.read_csv(f'../data_raw/data_raw_gen_{gen}/stats_gen_{gen}.csv')
+    stats = stats.groupby('evo_id').first().reset_index()
+    df = pd.DataFrame()
+    df['pokemon'] = stats.pokemon
+    df['wild_level'] = 5
+    df['wild_location'] = None
+    df['wild_item'] = None
+    df['wild_location'] = None
+    df['wild_version'] = None
+    df['wild_method'] = None
+    df['wild_location'] = None
+    df['wild_location_stage'] = 0
+    df['evo_id'] = stats.evo_id
 
-soup = BeautifulSoup(response.text, 'lxml')
-urls = [loc.get_text() for loc in soup.find_all("loc")]
+    if not legendaries:
+        df = df[~df.pokemon.isin(['Mewtwo','Mew','Zapdos','Moltres','Articuno'])]
 
-johto_urls = [url for url in urls if "/location/johto" in url]
-url_count = len(johto_urls)
+    final_df = df.sort_values(by=['wild_location_stage', 'wild_level', 'pokemon'])
 
-# DEBUG
-# johto_urls = [johto_urls[0]]
+else:
 
-all_tables = []
-n = 0
+    SITEMAP_URL = "https://pokemondb.net/static/sitemaps/pokemondb.xml"
+    BASE_URL = "https://pokemondb.net"
+    CRAWL_DELAY = 2  # Respecting the crawl-delay from robots.txt
 
-for loc_url in johto_urls:
-    n += 1
-    print(f'searching url {n}/{url_count}: {loc_url}')
-    time.sleep(CRAWL_DELAY)
-    resp = requests.get(loc_url)
-    resp.raise_for_status()
+    # Step 1: Parse the sitemap and get all /location/johto URLs
+    response = requests.get(SITEMAP_URL)
+    response.raise_for_status()
 
-    page_soup = BeautifulSoup(resp.text, 'lxml')
+    soup = BeautifulSoup(response.text, 'lxml')
+    urls = [loc.get_text() for loc in soup.find_all("loc")]
 
-    # Find the H2 that contains "Generation 2"
-    h2_tags = page_soup.find_all('h2')
-    gen2_h2 = None
-    for h2 in h2_tags:
-        if "Generation 2" in h2.get_text():
-            gen2_h2 = h2
-            break
+    johto_urls = [url for url in urls if "/location/johto" in url]
+    url_count = len(johto_urls)
 
-    if gen2_h2 is None:
-        # If no Gen 2 data, skip this page
-        continue
+    # DEBUG
+    johto_urls = [johto_urls[0]]
 
-    # Traverse siblings after gen2_h2 to find h3 (methods) and tables
-    next_sibling = gen2_h2.find_next_sibling()
-    method = None
+    all_tables = []
+    n = 0
 
-    while next_sibling:
-        # Stop if we hit another h2 (end of Gen 2 section)
-        if next_sibling.name == 'h2':
-            break
+    for loc_url in johto_urls:
+        n += 1
+        print(f'searching url {n}/{url_count}: {loc_url}')
+        time.sleep(CRAWL_DELAY)
+        resp = requests.get(loc_url)
+        resp.raise_for_status()
 
-        if next_sibling.name == 'h3':
-            # This defines a new method
-            method = next_sibling.get_text(strip=True)
+        page_soup = BeautifulSoup(resp.text, 'lxml')
 
-        # If we find a div with class resp-scroll, extract tables inside it
-        if next_sibling.name == 'div' and 'resp-scroll' in (next_sibling.get('class') or []):
-            tables = next_sibling.find_all('table', class_='data-table')
-            for tbl in tables:
-                with warnings.catch_warnings():
-                    warnings.simplefilter("ignore", category=FutureWarning)
-                    # Parse the table into a DataFrame
-                    df = pd.read_html(str(tbl))[0]
-                # Add identifying columns
-                df['Method'] = method
-                df['Location'] = loc_url
-                all_tables.append(df)
+        # Find the H2 that contains "Generation 2"
+        h2_tags = page_soup.find_all('h2')
+        gen2_h2 = None
+        for h2 in h2_tags:
+            if "Generation 2" in h2.get_text():
+                gen2_h2 = h2
+                break
 
-        next_sibling = next_sibling.find_next_sibling()
+        if gen2_h2 is None:
+            # If no Gen 2 data, skip this page
+            continue
 
-# Combine all DataFrames
-if not all_tables:
-    print("No tables found.")
-    exit()
+        # Traverse siblings after gen2_h2 to find h3 (methods) and tables
+        next_sibling = gen2_h2.find_next_sibling()
+        method = None
 
-final_df = pd.concat(all_tables, ignore_index=True)
+        while next_sibling:
+            # Stop if we hit another h2 (end of Gen 2 section)
+            if next_sibling.name == 'h2':
+                break
 
-# ---------------------------
-# Post-processing steps
-# ---------------------------
+            if next_sibling.name == 'h3':
+                # This defines a new method
+                method = next_sibling.get_text(strip=True)
 
-# Post-processing steps
-if 'Pokemon' in final_df.columns:
-    final_df = final_df.dropna(subset=['Pokemon'])
-    final_df = final_df[final_df['Pokemon'] != 'Swarm']
+            # If we find a div with class resp-scroll, extract tables inside it
+            if next_sibling.name == 'div' and 'resp-scroll' in (next_sibling.get('class') or []):
+                tables = next_sibling.find_all('table', class_='data-table')
+                for tbl in tables:
+                    with warnings.catch_warnings():
+                        warnings.simplefilter("ignore", category=FutureWarning)
+                        # Parse the table into a DataFrame
+                        df = pd.read_html(str(tbl))[0]
+                    # Add identifying columns
+                    df['Method'] = method
+                    df['Location'] = loc_url
+                    all_tables.append(df)
 
-if 'Pokémon' in final_df.columns:
-    final_df.rename(columns={'Pokémon': 'Pokemon'}, inplace=True)
+            next_sibling = next_sibling.find_next_sibling()
 
-if 'Pokemon' in final_df.columns:
-    final_df['Pokemon'] = (
-        final_df['Pokemon']
-        .str.replace('é', 'e', regex=False)
-        .str.replace('♀', '_f', regex=False)
-        .str.replace('♂', '_m', regex=False)
-    )
+    # Combine all DataFrames
+    if not all_tables:
+        print("No tables found.")
+        exit()
 
-if 'Levels' in final_df.columns:
-    def fix_level(val):
-        val = str(val).strip()
-        if '-' in val:
-            return val.split('-')[-1].strip()
-        return val
+    final_df = pd.concat(all_tables, ignore_index=True)
 
-    final_df['Levels'] = final_df['Levels'].apply(fix_level)
-    final_df['Levels'] = pd.to_numeric(final_df['Levels'], errors='coerce').fillna(5)
+    # ---------------------------
+    # Post-processing steps
+    # ---------------------------
 
-def fix_locations(val):
-    if '/location/johto-' in val:
-        val = val.split('/location/johto-')[1]
-    return val.replace('-', '_')
+    # Post-processing steps
+    if 'Pokemon' in final_df.columns:
+        final_df = final_df.dropna(subset=['Pokemon'])
+        final_df = final_df[final_df['Pokemon'] != 'Swarm']
 
-if 'Location' in final_df.columns:
-    final_df['Location'] = final_df['Location'].apply(fix_locations)
+    if 'Pokémon' in final_df.columns:
+        final_df.rename(columns={'Pokémon': 'Pokemon'}, inplace=True)
 
-columns_to_drop = ['Games', 'Games.1', 'Games.2', 'Times', 'Rarity']
-final_df = final_df.drop(columns=[col for col in columns_to_drop if col in final_df.columns])
+    if 'Pokemon' in final_df.columns:
+        final_df['Pokemon'] = (
+            final_df['Pokemon']
+            .str.replace('é', 'e', regex=False)
+            .str.replace('♀', '_f', regex=False)
+            .str.replace('♂', '_m', regex=False)
+        )
 
-column_rename_map = {
-    'Pokemon': 'pokemon',
-    'Levels': 'wild_level',
-    'Details': 'details',
-    'Method': 'wild_method',
-    'Location': 'wild_location'
-}
-final_df = final_df.rename(columns={k: v for k, v in column_rename_map.items() if k in final_df.columns})
+    if 'Levels' in final_df.columns:
+        def fix_level(val):
+            val = str(val).strip()
+            if '-' in val:
+                return val.split('-')[-1].strip()
+            return val
 
-# Load stages data
-stages_df = pd.read_csv('../data_raw/data_raw_gen_2/stages_gen_2.csv')
-stages_df['location'] = stages_df['location'].str.lower().str.replace(' ', '_', regex=False)
+        final_df['Levels'] = final_df['Levels'].apply(fix_level)
+        final_df['Levels'] = pd.to_numeric(final_df['Levels'], errors='coerce').fillna(5)
 
-final_df['wild_location'] = final_df['wild_location'].str.lower()
-final_df = final_df.merge(stages_df[['location', 'location_stage']],
-                          how='left', left_on='wild_location', right_on='location')
-final_df.drop(columns='location', inplace=True)
+    def fix_locations(val):
+        if '/location/johto-' in val:
+            val = val.split('/location/johto-')[1]
+        return val.replace('-', '_')
 
-# Incorporate Unique Data
-unique_df = pd.read_csv('../data_raw/data_raw_gen_2/wild_locations_unique_gen_2_raw.csv')
-unique_df['location'] = unique_df['location'].str.lower().str.replace(' ', '_', regex=False)
-# unique_df = unique_df.rename(columns={
-#     'pokemon': 'Pokemon',
-#     'location': 'wild_location',
-#     'level': 'Levels',
-#     'method': 'Method'
-# })
-unique_df = unique_df.rename(columns={
-    'level': 'wild_level',
-    'method': 'wild_method'
-})
-unique_df['details'] = ''
-unique_df = unique_df.merge(stages_df[['location', 'location_stage']],
-                            how='left', on='location')
-unique_df.drop(columns='location', inplace=True)
-# unique_df = unique_df[['pokemon', 'level', 'details', 'method', 'location_stage']]
-unique_df = unique_df[['pokemon', 'wild_level', 'details', 'wild_method', 'location_stage']]
-final_df = pd.concat([final_df, unique_df], ignore_index=True)
+    if 'Location' in final_df.columns:
+        final_df['Location'] = final_df['Location'].apply(fix_locations)
 
-# Incorporate Trades Data
-trades_df = pd.read_csv('../data_raw/data_raw_gen_2/wild_locations_trades_gen_2_raw.csv')
-trades_df['location'] = trades_df['location'].str.lower().str.replace(' ', '_', regex=False)
+    # Drop legendaries from main df (get them from unique df instead)
+    final_df = final_df[~final_df['Pokemon'].isin(['Raikou','Entei','Suicune','Lugia','Ho_Oh','Celebi'])]
 
-trade_rows = []
-for _, row in trades_df.iterrows():
-    trade_loc = row['location']
-    loc_stage = stages_df.loc[stages_df['location'] == trade_loc, 'location_stage']
-    loc_stage = loc_stage.iloc[0] if not loc_stage.empty else 0
+    columns_to_drop = ['Games', 'Games.1', 'Games.2', 'Times', 'Rarity']
+    final_df = final_df.drop(columns=[col for col in columns_to_drop if col in final_df.columns])
 
-    matches = final_df.loc[final_df['pokemon'].str.lower() == row['pokemon_in'].lower(), 'location_stage']
-    pokemon_in_stage = matches.min() if not matches.empty else 0
-    final_stage = max(loc_stage, pokemon_in_stage)
+    column_rename_map = {
+        'Pokemon': 'pokemon',
+        'Levels': 'wild_level',
+        'Details': 'details',
+        'Method': 'wild_method',
+        'Location': 'wild_location'
+    }
+    final_df = final_df.rename(columns={k: v for k, v in column_rename_map.items() if k in final_df.columns})
 
-    trade_rows.append({
-        'Pokemon': row['pokemon_in'],
-        'Levels': 5,
-        'Details': '',
-        'Method': 'Trade',
-        'wild_location': trade_loc,
-        'location_stage': final_stage
-    })
+    # Load stages data
+    stages_df = pd.read_csv('../data_raw/data_raw_gen_2/stages_gen_2.csv')
+    stages_df['location'] = stages_df['location'].str.lower().str.replace(' ', '_', regex=False)
 
-if trade_rows:
-    trade_df = pd.DataFrame(trade_rows)
-    trade_df = trade_df[['Pokemon', 'Levels', 'Details', 'Method', 'wild_location', 'location_stage']]#.rename(columns={'Pokemon':'pokemon','Levels':'level',''})
-    trade_df = trade_df.rename(columns={'Pokemon': 'pokemon', 'Levels':'wild_level', 'Details':'details', 'Method':'wild_method'})
-    final_df = pd.concat([final_df, trade_df], ignore_index=True)
+    final_df['wild_location'] = final_df['wild_location'].str.lower()
+    final_df = final_df.merge(stages_df[['location', 'location_stage']],how='left', left_on='wild_location', right_on='location')
+    final_df.drop(columns='location', inplace=True)
 
-# final_df.rename(columns={
-#     'Pokemon': 'pokemon',
-#     'Levels': 'wild_level',
-#     'Details': 'details',
-#     'Method': 'wild_method',
-#     'wild_location': 'wild_location'
-# }, inplace=True)
+    # Incorporate Unique Data
+    unique_df = pd.read_csv('../data_raw/data_raw_gen_2/wild_locations_unique_gen_2_raw.csv')
+    unique_df['location'] = unique_df['location'].str.lower().str.replace(' ', '_', regex=False)
+    # unique_df = unique_df.rename(columns={
+    #     'pokemon': 'Pokemon',
+    #     'location': 'wild_location',
+    #     'level': 'Levels',
+    #     'method': 'Method'
+    # })
+    unique_df = unique_df.rename(columns={'level': 'wild_level', 'method': 'wild_method'})
+    unique_df['details'] = ''
+    unique_df = unique_df.merge(stages_df[['location', 'location_stage']],how='left', on='location')
+    unique_df.drop(columns='location', inplace=True)
+    # unique_df = unique_df[['pokemon', 'level', 'details', 'method', 'location_stage']]
+    unique_df = unique_df[['pokemon', 'wild_level', 'details', 'wild_method', 'location_stage']]
+    final_df = pd.concat([final_df, unique_df], ignore_index=True)
 
-# Wild method (items) logic
-final_df['wild_method'].replace({'Headbutt (Special)':'Heatbutt','Surfing':'Surf'})
-temp_stages = stages_df[['key_items','location_stage']].rename(columns={'location_stage':'location_stage_item'})
-temp_stages = temp_stages[temp_stages.key_items.notna()].drop_duplicates()
-final_df = final_df.merge(temp_stages, left_on='wild_method', right_on='key_items', how='left')
-final_df['location_stage_item'] = final_df['location_stage_item'].fillna(0)
-final_df['location_stage'] = final_df[['location_stage','location_stage_item']].max()
-final_df.drop('location_stage_item', axis=1, inplace=True)
+    # Incorporate Trades Data
+    trades_df = pd.read_csv('../data_raw/data_raw_gen_2/wild_locations_trades_gen_2_raw.csv')
+    trades_df['location'] = trades_df['location'].str.lower().str.replace(' ', '_', regex=False)
+
+    trade_rows = []
+    for _, row in trades_df.iterrows():
+        trade_loc = row['location']
+        loc_stage = stages_df.loc[stages_df['location'] == trade_loc, 'location_stage']
+        loc_stage = loc_stage.iloc[0] if not loc_stage.empty else 0
+
+        matches = final_df.loc[final_df['pokemon'].str.lower() == row['pokemon_in'].lower(), 'location_stage']
+        pokemon_in_stage = matches.min() if not matches.empty else 0
+        final_stage = max(loc_stage, pokemon_in_stage)
+
+        trade_rows.append({
+            'Pokemon': row['pokemon_in'],
+            'Levels': 5,
+            'Details': '',
+            'Method': 'Trade',
+            'wild_location': trade_loc,
+            'location_stage': final_stage
+        })
+
+    if trade_rows:
+        trade_df = pd.DataFrame(trade_rows)
+        trade_df = trade_df[['Pokemon', 'Levels', 'Details', 'Method', 'wild_location', 'location_stage']]#.rename(columns={'Pokemon':'pokemon','Levels':'level',''})
+        trade_df = trade_df.rename(columns={'Pokemon': 'pokemon', 'Levels':'wild_level', 'Details':'details', 'Method':'wild_method'})
+        final_df = pd.concat([final_df, trade_df], ignore_index=True)
+
+    # final_df.rename(columns={
+    #     'Pokemon': 'pokemon',
+    #     'Levels': 'wild_level',
+    #     'Details': 'details',
+    #     'Method': 'wild_method',
+    #     'wild_location': 'wild_location'
+    # }, inplace=True)
+
+    # Wild method (items) logic
+    final_df['wild_method'].replace({'Headbutt (Special)':'Headbutt','Surfing':'Surf'}, inplace=True)
+    temp_stages = stages_df[['key_items','location_stage']].rename(columns={'location_stage':'location_stage_item'})
+    temp_stages['key_items'] = temp_stages['key_items'].replace({' ': '_'},regex=True).str.lower()
+    temp_stages = temp_stages[temp_stages.key_items.notna()].drop_duplicates()
+    final_df['wild_method'] = final_df['wild_method'].replace({' ': '_'},regex=True).str.lower()
+    final_df = final_df.merge(temp_stages, left_on='wild_method', right_on='key_items', how='left')
+    final_df['location_stage_item'] = final_df['location_stage_item'].fillna(0)
+    final_df['location_stage'] = final_df[['location_stage', 'location_stage_item']].fillna(0).max(axis=1)
+    final_df.drop('location_stage_item', axis=1, inplace=True)
+    final_df.rename(columns={'location_stage': 'wild_location_stage'}, inplace=True)
+
+    stats_df = pd.read_csv('../data_raw/data_raw_gen_2/stats_gen_2.csv')
+    final_df = pd.merge(final_df, stats_df[['pokemon', 'evo_id']], on='pokemon', how='left')
+    final_df = final_df[final_df.evo_id.notna()]
+    final_df['evo_id'] = final_df['evo_id'].astype(int)
+    final_df['wild_location_stage'] = final_df['wild_location_stage'].astype(int)
+
+    if not legendaries:
+        final_df = final_df[~final_df.pokemon.isin('Mewtwo','Mew','Zapdos','Moltres','Articuno','Entei','Raikou','Suicune','Lugia','Ho_Oh','Celebi')]
 
 final_df.to_csv('../data_curated/data_curated_gen_2/wild_locations_gen_2.csv', index=False)
 print("Data saved to wild_locations_gen_2.csv")

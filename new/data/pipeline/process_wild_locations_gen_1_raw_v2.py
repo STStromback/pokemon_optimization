@@ -283,6 +283,9 @@ else:
     # # Convert the filtered rows back into a DataFrame
     # df = pd.DataFrame(filtered_rows)
 
+    if not legendaries:
+        df = df[~df.pokemon.isin(['Mewtwo','Mew','Zapdos','Moltres','Articuno'])]
+
     # Sort the final DataFrame for clean output
     df = df.sort_values(by=['wild_location_stage', 'level', 'pokemon'])
 

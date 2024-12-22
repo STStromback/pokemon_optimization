@@ -220,7 +220,7 @@ union_cave,magikarp,good rod
 union_cave,goldeen,super rod
 union_cave,magikarp,super rod
 union_cave,seaking,super rod
-union_cave,lapras,friday event
+union_cave,lapras,surfing
 union_cave,geodude,walking
 union_cave,golbat,walking
 union_cave,onix,walking
@@ -359,8 +359,8 @@ route_35,snubbull,grass
 route_35,yanma,grass
 route_35,ditto,swarm: grass
 route_35,hoothoot,swarm: grass
-route_35,nidoran♀,swarm: grass
-route_35,nidoran♂,swarm: grass
+route_35,nidoran_f,swarm: grass
+route_35,nidoran_m,swarm: grass
 route_35,pidgey,swarm: grass
 route_35,yanma,swarm: grass
 route_35,exeggcute,headbutt (common)
@@ -381,8 +381,8 @@ route_35,poliwag,super rod
 route_35,poliwhirl,super rod
 national_park,caterpie,grass (no contest)
 national_park,ledyba,grass (no contest)
-national_park,nidoran♀,grass (no contest)
-national_park,nidoran♂,grass (no contest)
+national_park,nidoran_f,grass (no contest)
+national_park,nidoran_m,grass (no contest)
 national_park,pidgey,grass (no contest)
 national_park,psyduck,grass (no contest)
 national_park,spinarak,grass (no contest)
@@ -426,8 +426,6 @@ ecruteak_city,poliwag,good rod
 ecruteak_city,magikarp,super rod
 ecruteak_city,poliwag,super rod
 ecruteak_city,poliwhirl,super rod
-burned_tower,raikou,event
-burned_tower,entei,event
 burned_tower,koffing,walking (1f)
 burned_tower,raticate,walking (1f)
 burned_tower,rattata,walking (1f)
@@ -600,7 +598,7 @@ mt_mortar,magikarp,good rod
 mt_mortar,goldeen,super rod
 mt_mortar,magikarp,super rod
 mt_mortar,seaking,super rod
-route_43,farfetch'd,grass
+route_43,farfetchd,grass
 route_43,furret,grass
 route_43,noctowl,grass
 route_43,pidgeotto,grass
@@ -621,7 +619,7 @@ route_43,magikarp,good rod
 route_43,poliwag,good rod
 route_43,magikarp,super rod
 route_43,poliwag,super rod
-lake_of_rage,shiny gyarados,story event
+lake_of_rage,shiny gyarados,surfing
 lake_of_rage,exeggcute,headbutt (common)
 lake_of_rage,hoothoot,headbutt (common)
 lake_of_rage,venonat,headbutt (common)
@@ -687,7 +685,6 @@ whirl_islands,horsea,super rod
 whirl_islands,kingler,super rod
 whirl_islands,krabby,super rod
 whirl_islands,seadra,super rod
-route_44,suicune,event
 route_44,bellsprout,grass
 route_44,lickitung,grass
 route_44,poliwag,grass
@@ -1042,7 +1039,7 @@ pallet_town,chinchou,super rod
 pallet_town,lanturn,super rod
 pallet_town,shellder,super rod
 pallet_town,tentacruel,super rod
-route_21,mr mime,grass
+route_21,mr_mime,grass
 route_21,raticate,grass
 route_21,rattata,grass
 route_21,tangela,grass
@@ -1097,7 +1094,6 @@ route_22,poliwag,good rod
 route_22,magikarp,super rod
 route_22,poliwag,super rod
 route_22,poliwhirl,super rod
-route_3,lugia,event
 route_3,arbok,grass
 route_3,clefairy,grass
 route_3,ekans,grass

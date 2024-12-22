@@ -277,10 +277,15 @@ column_rename_map = {
     'Levels': 'wild_level',
     'Details': 'details',
     'Method': 'wild_method',
-    'wild_location': 'wild_location'  # already correct, but here for clarity
+    'wild_location': 'wild_location',  # already correct, but here for clarity
+    'location_stage': 'wild_location_stage'
 }
 
 final_df = final_df.rename(columns=column_rename_map)
+
+stats_df = pd.read_csv('../data_raw/data_raw_gen_2/stats_gen_2.csv')
+final_df = pd.merge(final_df, stats_df[['pokemon', 'evo_id']], on='pokemon', how='left')
+
 
 # Save the final dataframe
 final_df.to_csv('../data_curated/data_curated_gen_2/wild_locations_gen_2.csv', index=False)

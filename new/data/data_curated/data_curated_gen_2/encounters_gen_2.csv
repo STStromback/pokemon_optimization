@@ -1,1 +1,792 @@
 enc_id,trainer_name_enc,location_enc,pokemon_enc,level_enc,stage_enc,hp_enc,attack_enc,defense_enc,sp_attack_enc,sp_defense_enc,speed_enc,types_enc,exp_type_enc,exp_enc,move1_name_enc,move1_type_enc,move1_power_enc,move1_accuracy_enc,move1_crit_enc,move2_name_enc,move2_type_enc,move2_power_enc,move2_accuracy_enc,move2_crit_enc,move3_name_enc,move3_type_enc,move3_power_enc,move3_accuracy_enc,move3_crit_enc,move4_name_enc,move4_type_enc,move4_power_enc,move4_accuracy_enc,move4_crit_enc
+1,-,cherrygrove_city,totodile,5,2,21,12,12,10,11,10,Water,Medium Slow,135,Scratch,Normal,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2,-,cherrygrove_city,chikorita,5,2,21,12,12,10,11,10,Grass,Medium Slow,135,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3,-,cherrygrove_city,cyndaquil,5,2,21,12,12,10,11,10,Fire,Medium Slow,135,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+4,Youngster Mikey,route_30,pidgey,2,3,13,7,6,6,6,7,Flying/Normal,Medium Slow,9,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+5,Bug Catcher Don,route_30,caterpie,3,3,16,7,7,6,6,8,Bug,Medium Fast,27,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+6,Bug Catcher Don,route_30,caterpie,3,3,16,7,7,6,6,8,Bug,Medium Fast,27,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+7,Youngster Joey,route_30,rattata,4,3,17,10,8,7,8,11,Normal,Medium Fast,64,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+8,Youngster Mikey,route_30,rattata,4,3,17,10,8,7,8,11,Normal,Medium Fast,64,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+9,Bug Catcher Wade,route_31,caterpie,2,4,14,6,6,6,6,7,Bug,Medium Fast,8,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+10,Bug Catcher Wade,route_31,caterpie,2,4,14,6,6,6,6,7,Bug,Medium Fast,8,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+11,Bug Catcher Wade,route_31,caterpie,2,4,14,6,6,6,6,7,Bug,Medium Fast,8,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+12,Bug Catcher Wade,route_31,weedle,3,4,15,7,7,6,6,8,Bug/Poison,Medium Fast,27,Poison Sting,Poison,15.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+13,Sage Nico,sprout_tower,bellsprout,3,5,16,10,7,9,7,7,Grass/Poison,Medium Slow,57,Vine Whip,Grass,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+14,Sage Nico,sprout_tower,bellsprout,3,5,16,10,7,9,7,7,Grass/Poison,Medium Slow,57,Vine Whip,Grass,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+15,Sage Nico,sprout_tower,bellsprout,3,5,16,10,7,9,7,7,Grass/Poison,Medium Slow,57,Vine Whip,Grass,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+16,Sage Chow,sprout_tower,bellsprout,3,5,16,10,7,9,7,7,Grass/Poison,Medium Slow,57,Vine Whip,Grass,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+17,Sage Chow,sprout_tower,bellsprout,3,5,16,10,7,9,7,7,Grass/Poison,Medium Slow,57,Vine Whip,Grass,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+18,Sage Chow,sprout_tower,bellsprout,3,5,16,10,7,9,7,7,Grass/Poison,Medium Slow,57,Vine Whip,Grass,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+19,Sage Edmond,sprout_tower,bellsprout,3,5,16,10,7,9,7,7,Grass/Poison,Medium Slow,57,Vine Whip,Grass,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+20,Sage Edmond,sprout_tower,bellsprout,3,5,16,10,7,9,7,7,Grass/Poison,Medium Slow,57,Vine Whip,Grass,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+21,Sage Edmond,sprout_tower,bellsprout,3,5,16,10,7,9,7,7,Grass/Poison,Medium Slow,57,Vine Whip,Grass,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+22,Sage Neal,sprout_tower,bellsprout,6,5,22,15,10,14,9,10,Grass/Poison,Medium Slow,179,Vine Whip,Grass,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+23,Sage Troy,sprout_tower,bellsprout,7,5,25,16,11,15,10,11,Grass/Poison,Medium Slow,236,Vine Whip,Grass,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+24,Sage Li,sprout_tower,bellsprout,7,5,25,16,11,15,10,11,Grass/Poison,Medium Slow,236,Vine Whip,Grass,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+25,Sage Li,sprout_tower,bellsprout,7,5,25,16,11,15,10,11,Grass/Poison,Medium Slow,236,Vine Whip,Grass,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+26,Bird Keeper Rod,violet_city_gym,pidgey,7,5,23,12,11,11,11,13,Flying/Normal,Medium Slow,236,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+27,Bird Keeper Rod,violet_city_gym,pidgey,7,5,23,12,11,11,11,13,Flying/Normal,Medium Slow,236,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+28,Gym Leader Falkner,violet_city_gym,pidgey,7,5,24,12,12,10,10,13,Flying/Normal,Medium Slow,236,Tackle,Normal,35.0,0.95,False,Mud-Slap,Ground,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+29,Sage Troy,sprout_tower,hoothoot,7,5,26,10,10,11,13,13,Flying/Normal,Medium Fast,343,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+30,Gym Leader Falkner,violet_city_gym,pidgeotto,9,5,32,17,16,15,15,19,Flying/Normal,Medium Slow,419,Tackle,Normal,35.0,0.95,False,Mud-Slap,Ground,20.0,1.0,False,Gust,Flying,40.0,1.0,False,-,-,-,-,-
+31,Bird Keeper Abe,violet_city_gym,spearow,9,5,27,17,11,12,12,19,Flying/Normal,Medium Fast,729,Peck,Flying,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+32,Sage Li,sprout_tower,hoothoot,10,5,33,12,12,13,17,16,Flying/Normal,Medium Fast,1000,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+33,Fisher Justin,route_32,magikarp,5,6,17,6,11,7,7,13,Water,Slow,156,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+34,Fisher Justin,route_32,magikarp,5,6,17,6,11,7,7,13,Water,Slow,156,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+35,Fisher Justin,route_32,magikarp,5,6,17,6,11,7,7,13,Water,Slow,156,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+36,Bird Keeper Peter,route_32,pidgey,6,6,21,11,10,10,10,12,Flying/Normal,Medium Slow,179,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+37,Bird Keeper Peter,route_32,pidgey,6,6,21,11,10,10,10,12,Flying/Normal,Medium Slow,179,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+38,Youngster Albert,route_32,rattata,6,6,20,12,10,8,10,14,Normal,Medium Fast,216,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+39,Fisher Henry,route_32,poliwag,8,6,25,14,12,12,12,20,Water,Medium Slow,314,Bubble,Water,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+40,Fisher Henry,route_32,poliwag,8,6,25,14,12,12,12,20,Water,Medium Slow,314,Bubble,Water,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+41,Picnicker Liz,route_32,nidoran_f,9,6,28,14,16,13,13,14,Poison,Medium Slow,419,-,-,-,-,-,Tackle,Normal,35.0,0.95,False,Scratch,Normal,40.0,1.0,False,-,-,-,-,-
+42,Camper Roland,route_32,nidoran_m,9,6,28,16,13,13,13,15,Poison,Medium Slow,419,-,-,-,-,-,Tackle,Normal,35.0,0.95,False,Horn Attack,Normal,65.0,1.0,False,-,-,-,-,-
+43,Youngster Albert,route_32,zubat,8,6,25,13,11,11,12,15,Flying/Poison,Medium Fast,512,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+44,Bird Keeper Peter,route_32,spearow,8,6,25,16,11,11,11,17,Flying/Normal,Medium Fast,512,Peck,Flying,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+45,Youngster Gordon,route_32,wooper,10,6,32,15,15,11,11,9,Ground/Water,Medium Fast,1000,Water Gun,Water,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+46,Fisher Ralph,route_32,goldeen,10,6,30,20,18,13,16,19,Water,Medium Fast,1000,Peck,Flying,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+47,Fisher Justin,route_32,magikarp,15,6,33,10,23,11,13,31,Water,Slow,4218,-,-,-,-,-,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-
+48,Hiker Russel,union_cave,geodude,4,7,17,12,13,8,8,7,Ground/Rock,Medium Slow,96,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+49,Hiker Russel,union_cave,geodude,6,7,20,15,17,9,9,8,Ground/Rock,Medium Slow,179,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+50,Firebreather Bill,union_cave,koffing,6,7,21,13,17,13,11,10,Poison,Medium Fast,216,-,-,-,-,-,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-
+51,Firebreather Bill,union_cave,koffing,6,7,21,13,17,13,11,10,Poison,Medium Fast,216,-,-,-,-,-,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-
+52,Hiker Russel,union_cave,geodude,8,7,24,19,22,11,11,9,Ground/Rock,Medium Slow,314,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+53,Firebreather Ray,union_cave,vulpix,9,7,27,14,13,15,18,18,Fire,Medium Fast,729,Ember,Fire,40.0,1.0,False,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-
+54,Pokemaniac Larry,union_cave,slowpoke,10,7,39,19,19,14,14,9,Psychic/Water,Medium Fast,1000,-,-,-,-,-,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-
+55,Hiker Daniel,union_cave,onix,11,7,28,17,41,13,16,22,Ground/Rock,Medium Fast,1331,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Bind,Normal,15.0,0.75,False,-,-,-,-,-
+56,Hiker Anthony,route_33,geodude,11,8,29,24,28,13,13,11,Ground/Rock,Medium Slow,742,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Rock Throw,Rock,50.0,0.9,False,-,-,-,-,-
+57,Hiker Anthony,route_33,machop,11,8,36,24,17,14,14,14,Fighting,Medium Slow,742,Low Kick,Fighting,50.0,0.9,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+58,Rocket Grunt 3,slowpoke_well,rattata,7,9,22,14,11,9,11,16,Normal,Medium Fast,343,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-
+59,Bug Catcher Benny,azalea_town_gym,weedle,7,9,23,11,10,8,8,13,Bug/Poison,Medium Fast,343,Poison Sting,Poison,15.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+60,Rocket Grunt 1,slowpoke_well,rattata,9,9,25,17,12,10,12,19,Normal,Medium Fast,729,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-
+61,Rocket Grunt 1,slowpoke_well,rattata,9,9,25,17,12,10,12,19,Normal,Medium Fast,729,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-
+62,Rocket Grunt 2,slowpoke_well,zubat,9,9,27,14,13,11,13,16,Flying/Poison,Medium Fast,729,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+63,Rocket Grunt 3,slowpoke_well,zubat,9,9,27,15,12,11,13,16,Flying/Poison,Medium Fast,729,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+64,Rocket Grunt 3,slowpoke_well,zubat,9,9,27,15,12,11,13,16,Flying/Poison,Medium Fast,729,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+65,Bug Catcher Benny,azalea_town_gym,kakuna,9,9,28,11,15,10,10,12,Bug/Poison,Medium Fast,729,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+66,Twins Amy  May,azalea_town_gym,spinarak,10,9,28,18,14,14,14,13,Bug/Poison,Fast,800,Poison Sting,Poison,15.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+67,Twins Amy  May,azalea_town_gym,ledyba,10,9,28,10,12,14,6,18,Bug/Flying,Fast,800,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+68,Rival Silver,azalea_town,gastly,12,9,32,16,15,32,16,27,Ghost/Poison,Medium Slow,973,-,-,-,-,-,Lick,Ghost,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+69,Rocket Grunt 2,slowpoke_well,ekans,11,9,30,19,17,15,18,19,Poison,Medium Fast,1331,Wrap,Normal,15.0,0.85,False,-,-,-,-,-,Poison Sting,Poison,15.0,1.0,False,-,-,-,-,-
+70,Bug Catcher Al,azalea_town_gym,caterpie,12,9,34,14,15,11,11,17,Bug,Medium Fast,1728,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+71,Bug Catcher Al,azalea_town_gym,weedle,12,9,33,15,14,11,11,18,Bug/Poison,Medium Fast,1728,Poison Sting,Poison,15.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+72,Bug Catcher Benny,azalea_town_gym,beedrill,12,9,39,26,16,17,26,24,Bug/Poison,Medium Fast,1728,Fury Attack,Normal,45.0,0.85,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+73,Bug Catcher Josh,azalea_town_gym,paras,13,9,34,25,21,18,21,13,Bug/Grass,Medium Fast,2197,Scratch,Normal,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+74,Rival Silver,azalea_town,croconaw,16,9,51,34,34,28,29,27,Water,Medium Slow,2535,Scratch,Normal,40.0,1.0,False,-,-,-,-,-,Rage,Normal,20.0,1.0,False,Water Gun,Water,40.0,1.0,False
+75,Rival Silver,azalea_town,bayleef,16,9,51,34,34,28,29,27,Grass,Medium Slow,2535,-,-,-,-,-,Razor Leaf,Grass,55.0,0.95,True,-,-,-,-,-,-,-,-,-,-
+76,Rival Silver,azalea_town,quilava,16,9,51,34,34,28,29,27,Fire,Medium Slow,2535,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,Ember,Fire,40.0,1.0,False
+77,Rocket Grunt 4,slowpoke_well,koffing,14,9,37,26,33,24,19,17,Poison,Medium Fast,2744,-,-,-,-,-,Tackle,Normal,35.0,0.95,False,Smog,Poison,20.0,0.7,False,-,-,-,-,-
+78,Gym Leader Bugsy,azalea_town_gym,metapod,14,9,40,13,22,14,14,15,Bug,Medium Fast,2744,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+79,Gym Leader Bugsy,azalea_town_gym,kakuna,14,9,38,14,21,14,14,17,Bug/Poison,Medium Fast,2744,Poison Sting,Poison,15.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+80,Rival Silver,azalea_town,zubat,14,9,39,21,18,17,19,24,Flying/Poison,Medium Fast,2744,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-,Bite,Dark,60.0,1.0,False,-,-,-,-,-
+81,Gym Leader Bugsy,azalea_town_gym,scyther,16,9,50,43,33,25,33,41,Bug/Flying,Medium Fast,4096,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-,Fury Cutter,Bug,10.0,0.95,False,-,-,-,-,-
+82,Bug Catcher Wayne,ilex_forest,ledyba,8,10,25,9,11,12,19,15,Bug/Flying,Fast,409,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+83,Bug Catcher Wayne,ilex_forest,paras,10,10,28,20,17,15,17,11,Bug/Grass,Medium Fast,1000,Scratch,Normal,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+84,Youngster Samuel,route_34,rattata,7,11,22,14,11,9,11,16,Normal,Medium Fast,343,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-
+85,Picnicker Gina,route_34,hoppip,9,11,25,12,14,12,16,15,Flying/Grass,Medium Slow,419,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+86,Picnicker Gina,route_34,hoppip,9,11,25,12,14,12,16,15,Flying/Grass,Medium Slow,419,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+87,Youngster Samuel,route_34,spearow,8,11,25,16,11,11,11,17,Flying/Normal,Medium Fast,512,Peck,Flying,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+88,Youngster Samuel,route_34,spearow,8,11,25,16,11,11,11,17,Flying/Normal,Medium Fast,512,Peck,Flying,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+89,Picnicker Gina,route_34,bulbasaur,12,11,32,18,19,22,22,18,Grass/Poison,Medium Slow,973,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,Vine Whip,Grass,35.0,1.0,False
+90,Youngster Samuel,route_34,sandshrew,10,11,31,21,23,10,12,14,Ground,Medium Fast,1000,Scratch,Normal,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+91,Youngster Ian,route_34,mankey,10,11,29,22,13,13,15,20,Fighting,Medium Fast,1000,Scratch,Normal,40.0,1.0,False,-,-,-,-,-,Low Kick,Fighting,50.0,0.9,False,-,-,-,-,-
+92,Youngster Ian,route_34,diglett,12,11,26,20,12,15,17,29,Ground,Medium Fast,1728,Scratch,Normal,40.0,1.0,False,-,-,-,-,-,Magnitude,Ground,71.0,1.0,False,-,-,-,-,-
+93,Pokefan Brandon,route_34,snubbull,13,11,40,28,20,17,17,14,Normal,Fast,1757,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Bite,Dark,60.0,1.0,False
+94,Camper Todd,route_34,psyduck,14,11,40,22,20,25,21,22,Water,Medium Fast,2744,Scratch,Normal,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+95,Officer Keith,route_34,growlithe,17,11,48,31,23,31,24,28,Fire,Slow,6141,Bite,Dark,60.0,1.0,False,-,-,-,-,-,Ember,Fire,40.0,1.0,False,-,-,-,-,-
+96,Super Nerd Teru,goldenrod_underground,magnemite,7,12,21,11,15,19,13,12,Electric,Medium Fast,343,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+97,Super Nerd Teru,goldenrod_underground,magnemite,7,12,21,11,15,19,13,12,Electric,Medium Fast,343,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+98,Super Nerd Teru,goldenrod_underground,magnemite,9,12,24,12,19,23,16,14,Electric,Medium Fast,729,Tackle,Normal,35.0,0.95,False,Mega Punch,Normal,80.0,0.85,False,-,-,-,-,-,-,-,-,-,-
+99,Beauty Victoria,goldenrod_city_gym,sentret,9,12,26,14,12,12,14,10,Normal,Medium Fast,729,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+100,Pokemaniac Donald,goldenrod_underground,slowpoke,10,12,39,19,19,14,14,9,Psychic/Water,Medium Fast,1000,-,-,-,-,-,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-
+101,Pokemaniac Donald,goldenrod_underground,slowpoke,10,12,39,19,19,14,14,9,Psychic/Water,Medium Fast,1000,-,-,-,-,-,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-
+102,Super Nerd Eric,goldenrod_underground,grimer,11,12,40,24,17,15,17,12,Poison,Medium Fast,1331,-,-,-,-,-,Pound,Normal,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+103,Super Nerd Eric,goldenrod_underground,grimer,11,12,40,24,17,15,17,12,Poison,Medium Fast,1331,-,-,-,-,-,Pound,Normal,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+104,Super Nerd Teru,goldenrod_underground,voltorb,11,12,31,13,17,18,18,28,Electric,Medium Fast,1331,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+105,Pokemaniac Issac,goldenrod_underground,lickitung,12,12,45,20,24,21,24,14,Normal,Medium Fast,1728,Lick,Ghost,20.0,1.0,False,-,-,-,-,-,Cut,Normal,50.0,0.95,False,-,-,-,-,-
+106,Beauty Victoria,goldenrod_city_gym,sentret,13,12,33,18,16,16,18,13,Normal,Medium Fast,2197,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-
+107,Lass Bridget,goldenrod_city_gym,jigglypuff,15,12,61,20,13,20,14,13,Normal,Fast,2700,-,-,-,-,-,-,-,-,-,-,Pound,Normal,40.0,1.0,False,-,-,-,-,-
+108,Lass Bridget,goldenrod_city_gym,jigglypuff,15,12,61,20,13,20,14,13,Normal,Fast,2700,-,-,-,-,-,-,-,-,-,-,Pound,Normal,40.0,1.0,False,-,-,-,-,-
+109,Lass Bridget,goldenrod_city_gym,jigglypuff,15,12,61,20,13,20,14,13,Normal,Fast,2700,-,-,-,-,-,-,-,-,-,-,Pound,Normal,40.0,1.0,False,-,-,-,-,-
+110,Beauty Sammantha,goldenrod_city_gym,meowth,16,12,40,21,19,20,20,37,Normal,Medium Fast,4096,Scratch,Normal,40.0,1.0,False,-,-,-,-,-,Bite,Dark,60.0,1.0,False,Pay Day,Normal,40.0,1.0,False
+111,Beauty Sammantha,goldenrod_city_gym,meowth,16,12,40,21,19,20,20,37,Normal,Medium Fast,4096,Scratch,Normal,40.0,1.0,False,-,-,-,-,-,Bite,Dark,60.0,1.0,False,Pay Day,Normal,40.0,1.0,False
+112,Lass Carrie,goldenrod_city_gym,snubbull,18,12,52,35,25,22,22,18,Normal,Fast,4665,-,-,-,-,-,-,-,-,-,-,Bite,Dark,60.0,1.0,False,Lick,Ghost,20.0,1.0,False
+113,Gym Leader Whitney,goldenrod_city_gym,clefairy,18,12,53,24,25,29,31,20,Normal,Fast,4665,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+114,Beauty Victoria,goldenrod_city_gym,sentret,17,12,40,22,19,19,23,15,Normal,Medium Fast,4913,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Fury Swipes,Normal,54.0,0.8,False
+115,Gym Leader Whitney,goldenrod_city_gym,miltank,20,12,68,40,50,24,36,48,Normal,Slow,10000,Rollout,Rock,30.0,0.9,False,-,-,-,-,-,Stomp,Normal,65.0,1.0,False,-,-,-,-,-
+116,Juggler Irwin,route_35,voltorb,2,13,13,6,7,7,7,9,Electric,Medium Fast,8,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+117,Juggler Irwin,route_35,voltorb,6,13,21,9,11,12,12,17,Electric,Medium Fast,216,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+118,Bird Keeper Bryan,route_35,pidgey,12,13,33,17,16,15,15,20,Flying/Normal,Medium Slow,973,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Gust,Flying,40.0,1.0,False,-,-,-,-,-
+119,Camper Ivan,route_35,diglett,10,13,23,17,11,13,15,25,Ground,Medium Fast,1000,Scratch,Normal,40.0,1.0,False,-,-,-,-,-,Magnitude,Ground,71.0,1.0,False,-,-,-,-,-
+120,Camper Ivan,route_35,zubat,10,13,29,15,13,12,14,17,Flying/Poison,Medium Fast,1000,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+121,Juggler Irwin,route_35,voltorb,10,13,29,12,16,17,17,26,Electric,Medium Fast,1000,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+122,Firebreather Walt,route_35,magmar,11,13,37,27,19,28,25,27,Fire,Medium Fast,1331,Ember,Fire,40.0,1.0,False,-,-,-,-,-,Smog,Poison,20.0,0.7,False,Fire Punch,Fire,75.0,1.0,False
+123,Bird Keeper Bryan,route_35,pidgeotto,14,13,43,24,22,21,21,27,Flying/Normal,Medium Slow,1612,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Gust,Flying,40.0,1.0,False,-,-,-,-,-
+124,Camper Elliot,route_35,sandshrew,13,13,38,26,29,12,14,17,Ground,Medium Fast,2197,Scratch,Normal,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+125,Firebreather Walt,route_35,magmar,13,13,41,32,21,33,29,31,Fire,Medium Fast,2197,Ember,Fire,40.0,1.0,False,-,-,-,-,-,Smog,Poison,20.0,0.7,False,Fire Punch,Fire,75.0,1.0,False
+126,Camper Elliot,route_35,marill,15,13,48,13,22,13,22,19,Water,Fast,2700,-,-,-,-,-,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Rollout,Rock,30.0,0.9,False
+127,Camper Ivan,route_35,diglett,14,13,29,22,14,17,19,33,Ground,Medium Fast,2744,Scratch,Normal,40.0,1.0,False,-,-,-,-,-,Magnitude,Ground,71.0,1.0,False,-,-,-,-,-
+128,Juggler Irwin,route_35,voltorb,14,13,37,15,21,22,22,35,Electric,Medium Fast,2744,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+129,Picnicker Kim,route_35,vulpix,15,13,36,19,20,22,26,27,Fire,Medium Fast,3375,Ember,Fire,40.0,1.0,False,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-
+130,Bug Catcher Arnie,route_35,venonat,15,13,45,24,22,19,23,20,Bug/Poison,Medium Fast,3375,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+131,Officer Dirk,route_35,growlithe,14,13,41,27,19,26,21,24,Fire,Slow,3430,Bite,Dark,60.0,1.0,False,-,-,-,-,-,Ember,Fire,40.0,1.0,False,-,-,-,-,-
+132,Officer Dirk,route_35,growlithe,14,13,41,27,19,26,21,24,Fire,Slow,3430,Bite,Dark,60.0,1.0,False,-,-,-,-,-,Ember,Fire,40.0,1.0,False,-,-,-,-,-
+133,Picnicker Brooke,route_35,pikachu,16,13,37,24,17,23,20,37,Electric,Medium Fast,4096,-,-,-,-,-,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-
+134,Lass Krisse,national_park,oddish,12,14,34,18,20,24,22,14,Grass/Poison,Medium Slow,973,Absorb,Grass,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+135,Schoolboy Jack,national_park,oddish,12,14,34,19,20,24,22,14,Grass/Poison,Medium Slow,973,Absorb,Grass,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+136,Pokefan Beverly,national_park,snubbull,14,14,41,29,22,18,18,15,Normal,Fast,2195,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Bite,Dark,60.0,1.0,False
+137,Pokefan William,national_park,raichu,14,14,43,32,22,32,29,35,Electric,Medium Fast,2744,-,-,-,-,-,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Thunderbolt,Electric,95.0,1.0,False
+138,Lass Krisse,national_park,cubone,15,14,42,21,35,19,22,17,Ground,Medium Fast,3375,-,-,-,-,-,-,-,-,-,-,Bone Club,Ground,65.0,0.85,False,Headbutt,Normal,70.0,1.0,False
+139,Schoolboy Jack,national_park,voltorb,15,14,39,16,22,23,23,37,Electric,Medium Fast,3375,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+140,Psychic Mark,route_36,abra,13,15,31,12,10,34,21,30,Psychic,Medium Slow,1261,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+141,Psychic Mark,route_36,abra,13,15,31,12,10,34,21,30,Psychic,Medium Slow,1261,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+142,Psychic Mark,route_36,kadabra,15,15,39,18,16,43,28,38,Psychic,Medium Slow,2035,-,-,-,-,-,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False,-,-,-,-,-
+143,Schoolboy Alan,route_36,tangela,16,15,49,25,44,39,20,26,Grass,Medium Fast,4096,Constrict,Normal,10.0,1.0,False,-,-,-,-,-,Absorb,Grass,20.0,1.0,False,-,-,-,-,-
+144,Twins Ann  Anne,route_37,clefairy,16,16,48,21,22,26,28,19,Normal,Fast,3276,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+145,Twins Ann  Anne,route_37,jigglypuff,16,16,62,21,13,21,15,14,Normal,Fast,3276,-,-,-,-,-,-,-,-,-,-,Pound,Normal,40.0,1.0,False,-,-,-,-,-
+146,Psychic Greg,route_37,drowzee,17,16,50,24,23,22,38,22,Psychic,Medium Fast,4913,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+147,Sage Ping,ecruteak_city_gym,gastly,16,17,38,19,17,39,18,33,Ghost/Poison,Medium Slow,2535,Lick,Ghost,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+148,Sage Ping,ecruteak_city_gym,gastly,16,17,38,19,17,39,18,33,Ghost/Poison,Medium Slow,2535,Lick,Ghost,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+149,Sage Ping,ecruteak_city_gym,gastly,16,17,38,19,17,39,18,33,Ghost/Poison,Medium Slow,2535,Lick,Ghost,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+150,Sage Ping,ecruteak_city_gym,gastly,16,17,38,19,17,39,18,33,Ghost/Poison,Medium Slow,2535,Lick,Ghost,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+151,Sage Ping,ecruteak_city_gym,gastly,16,17,38,19,17,39,18,33,Ghost/Poison,Medium Slow,2535,Lick,Ghost,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+152,Medium Martha,ecruteak_city_gym,gastly,18,17,41,20,18,43,20,36,Ghost/Poison,Medium Slow,3798,Lick,Ghost,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+153,Kimono Girl Naoko,ecruteak_city,flareon,17,17,49,51,28,40,45,29,Fire,Medium Fast,4913,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,Ember,Fire,40.0,1.0,False
+154,Kimono Girl Sayo,ecruteak_city,espeon,17,17,49,29,28,52,40,45,Psychic,Medium Fast,4913,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False
+155,Kimono Girl Zuki,ecruteak_city,umbreon,17,17,59,29,45,28,52,29,Dark,Medium Fast,4913,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,Pursuit,Dark,40.0,1.0,False
+156,Kimono Girl Kuni,ecruteak_city,vaporeon,17,17,71,29,28,45,40,29,Water,Medium Fast,4913,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,Water Gun,Water,40.0,1.0,False
+157,Kimono Girl Miki,ecruteak_city,jolteon,17,17,49,29,28,45,40,51,Electric,Medium Fast,4913,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+158,Rival Silver,burned_tower,haunter,20,17,54,30,28,56,32,48,Ghost/Poison,Medium Slow,5460,Lick,Ghost,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+159,Medium Grace,ecruteak_city_gym,haunter,20,17,51,27,26,54,30,46,Ghost/Poison,Medium Slow,5460,Lick,Ghost,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+160,Medium Grace,ecruteak_city_gym,haunter,20,17,51,27,26,54,30,46,Ghost/Poison,Medium Slow,5460,Lick,Ghost,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+161,Medium Martha,ecruteak_city_gym,haunter,20,17,51,27,26,54,30,46,Ghost/Poison,Medium Slow,5460,Lick,Ghost,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+162,Medium Martha,ecruteak_city_gym,gastly,20,17,45,21,20,48,22,40,Ghost/Poison,Medium Slow,5460,Lick,Ghost,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+163,Rival Silver,burned_tower,magnemite,18,17,42,22,34,43,29,25,Electric,Medium Fast,5832,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+164,Gym Leader Morty,ecruteak_city_gym,gastly,21,17,46,23,20,50,23,41,Ghost/Poison,Medium Slow,6458,Lick,Ghost,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+165,Gym Leader Morty,ecruteak_city_gym,haunter,21,17,53,29,27,56,31,48,Ghost/Poison,Medium Slow,6458,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+166,Rival Silver,burned_tower,croconaw,22,17,67,45,45,36,38,36,Water,Medium Slow,7577,-,-,-,-,-,Rage,Normal,20.0,1.0,False,Water Gun,Water,40.0,1.0,False,Bite,Dark,60.0,1.0,False
+167,Rival Silver,burned_tower,quilava,22,17,67,45,45,36,38,36,Fire,Medium Slow,7577,-,-,-,-,-,-,-,-,-,-,Ember,Fire,40.0,1.0,False,Quick Attack,Normal,40.0,1.0,False
+168,Rival Silver,burned_tower,bayleef,22,17,67,45,45,36,38,36,Grass,Medium Slow,7577,-,-,-,-,-,Razor Leaf,Grass,55.0,0.95,True,-,-,-,-,-,-,-,-,-,-
+169,Rival Silver,burned_tower,zubat,20,17,52,28,24,22,26,32,Flying/Poison,Medium Fast,8000,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-,Bite,Dark,60.0,1.0,False,-,-,-,-,-
+170,Gym Leader Morty,ecruteak_city_gym,haunter,23,17,57,32,29,61,33,52,Ghost/Poison,Medium Slow,8825,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+171,Hiker Leonard,union_cave_b,geodude,23,17,51,46,54,22,22,17,Ground/Rock,Medium Slow,8825,-,-,-,-,-,Rock Throw,Rock,50.0,0.9,False,Magnitude,Ground,71.0,1.0,False,-,-,-,-,-
+172,Hiker Phillip,union_cave_b,geodude,23,17,51,46,54,22,22,17,Ground/Rock,Medium Slow,8825,-,-,-,-,-,Rock Throw,Rock,50.0,0.9,False,Magnitude,Ground,71.0,1.0,False,-,-,-,-,-
+173,Hiker Phillip,union_cave_b,geodude,23,17,51,46,54,22,22,17,Ground/Rock,Medium Slow,8825,-,-,-,-,-,Rock Throw,Rock,50.0,0.9,False,Magnitude,Ground,71.0,1.0,False,-,-,-,-,-
+174,Hiker Phillip,union_cave_b,graveler,23,17,58,53,61,29,29,24,Ground/Rock,Medium Slow,8825,-,-,-,-,-,Rock Throw,Rock,50.0,0.9,False,Magnitude,Ground,71.0,1.0,False,-,-,-,-,-
+175,Cooltrainer Gwen,union_cave_b,flareon,22,17,64,65,36,50,56,38,Fire,Medium Fast,10648,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,Ember,Fire,40.0,1.0,False
+176,Cooltrainer Gwen,union_cave_b,vaporeon,22,17,92,36,36,56,50,38,Water,Medium Fast,10648,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,Water Gun,Water,40.0,1.0,False
+177,Cooltrainer Gwen,union_cave_b,jolteon,22,17,64,36,36,56,50,67,Electric,Medium Fast,10648,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+178,Gym Leader Morty,ecruteak_city_gym,gengar,25,17,69,42,39,74,46,64,Ghost/Poison,Medium Slow,11735,-,-,-,-,-,Shadow Ball,Ghost,80.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+179,Hiker Leonard,union_cave_b,machop,25,17,70,50,50,26,26,26,Fighting,Medium Slow,11735,-,-,-,-,-,Karate Chop,Fighting,50.0,1.0,True,-,-,-,-,-,-,-,-,-,-
+180,Cooltrainer Nick,union_cave_b,charmander,26,17,60,38,31,40,35,45,Fire,Medium Slow,13411,Ember,Fire,40.0,1.0,False,-,-,-,-,-,Rage,Normal,20.0,1.0,False,-,-,-,-,-
+181,Cooltrainer Nick,union_cave_b,squirtle,26,17,63,36,42,35,42,33,Water,Medium Slow,13411,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False,Bite,Dark,60.0,1.0,False,-,-,-,-,-
+182,Cooltrainer Nick,union_cave_b,bulbasaur,26,17,63,37,34,42,42,34,Grass/Poison,Medium Slow,13411,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Razor Leaf,Grass,55.0,0.95,True
+183,Pokemaniac Andrew,union_cave_b,marowak,24,17,66,47,61,32,47,30,Ground,Medium Fast,13824,Bone Club,Ground,65.0,0.85,False,Headbutt,Normal,70.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+184,Pokemaniac Andrew,union_cave_b,marowak,24,17,66,47,61,32,47,30,Ground,Medium Fast,13824,Bone Club,Ground,65.0,0.85,False,Headbutt,Normal,70.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+185,Cooltrainer Emma,union_cave_b,poliwhirl,28,17,78,45,48,37,37,62,Water,Medium Slow,17242,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+186,Pokemaniac Calvin,union_cave_b,kangaskhan,26,17,94,59,50,29,50,55,Normal,Medium Fast,17576,-,-,-,-,-,Bite,Dark,60.0,1.0,False,-,-,-,-,-,Mega Punch,Normal,80.0,0.85,False
+187,Cooltrainer Gwen,union_cave_b,eevee,26,17,68,37,37,32,42,39,Normal,Medium Fast,17576,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False
+188,Beauty Valerie,route_38,hoppip,17,18,52,18,21,19,26,26,Flying/Grass,Medium Slow,3120,-,-,-,-,-,-,-,-,-,-,Tackle,Normal,35.0,0.95,False,-,-,-,-,-
+189,Beauty Valerie,route_38,skiploom,17,18,47,22,25,23,29,36,Flying/Grass,Medium Slow,3120,-,-,-,-,-,-,-,-,-,-,Tackle,Normal,35.0,0.95,False,-,-,-,-,-
+190,Bird Keeper Toby,route_38,doduo,15,18,37,33,20,17,17,29,Flying/Normal,Medium Fast,3375,Peck,Flying,35.0,1.0,False,-,-,-,-,-,Pursuit,Dark,40.0,1.0,False,Fury Attack,Normal,45.0,0.85,False
+191,Lass Dana,route_38,flaaffy,18,18,56,26,27,36,29,24,Electric,Medium Slow,3798,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+192,Bird Keeper Toby,route_38,doduo,16,18,39,35,21,18,18,31,Flying/Normal,Medium Fast,4096,Peck,Flying,35.0,1.0,False,-,-,-,-,-,Pursuit,Dark,40.0,1.0,False,Fury Attack,Normal,45.0,0.85,False
+193,Bird Keeper Toby,route_38,doduo,17,18,41,36,23,19,19,33,Flying/Normal,Medium Fast,4913,Peck,Flying,35.0,1.0,False,-,-,-,-,-,Pursuit,Dark,40.0,1.0,False,Fury Attack,Normal,45.0,0.85,False
+194,Beauty Olivia,route_38,corsola,19,18,51,28,40,32,40,22,Rock/Water,Fast,5487,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Bubble,Water,20.0,1.0,False,-,-,-,-,-
+195,Lass Dana,route_38,psyduck,18,18,48,25,25,31,25,27,Water,Medium Fast,5832,Scratch,Normal,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False
+196,Sailor Harry,route_38,wooper,19,18,52,25,25,17,17,13,Ground/Water,Medium Fast,6859,Water Gun,Water,40.0,1.0,False,-,-,-,-,-,Slam,Normal,80.0,0.75,False,-,-,-,-,-
+197,Schoolboy Chad,route_38,mr_mime,19,18,47,25,32,46,53,42,Psychic,Medium Fast,6859,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+198,Cooltrainer Irene,route_34_surf,goldeen,22,18,55,37,36,23,30,38,Water,Medium Fast,10648,Peck,Flying,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Horn Attack,Normal,65.0,1.0,False
+199,Cooltrainer Irene,route_34_surf,seaking,24,18,76,52,41,40,47,43,Water,Medium Fast,13824,-,-,-,-,-,-,-,-,-,-,Horn Attack,Normal,65.0,1.0,False,-,-,-,-,-
+200,Cooltrainer Jenn,route_34_surf,staryu,24,18,52,29,37,42,35,51,Water,Slow,17280,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Rapid Spin,Normal,20.0,1.0,False,-,-,-,-,-
+201,Psychic Nathan,ruins_of_alph,girafarig,26,18,76,51,42,55,42,53,Normal/Psychic,Medium Fast,17576,-,-,-,-,-,-,-,-,-,-,Stomp,Normal,65.0,1.0,False,-,-,-,-,-
+202,Cooltrainer Jenn,route_34_surf,starmie,26,18,71,47,55,61,53,71,Psychic/Water,Slow,21970,Tackle,Normal,35.0,0.95,False,Rapid Spin,Normal,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+203,Cooltrainer Kate,route_34_surf,shellder,26,18,55,42,63,32,22,32,Water,Slow,21970,-,-,-,-,-,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+204,Cooltrainer Kate,route_34_surf,cloyster,28,18,70,62,112,57,34,50,Ice/Water,Slow,27440,-,-,-,-,-,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+205,Sailor Eugene,route_39,poliwhirl,17,19,51,30,29,24,24,38,Water,Medium Slow,3120,Bubble,Water,20.0,1.0,False,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,-,-,-,-,-
+206,Pokefan Jaime,route_39,meowth,16,19,40,21,20,20,20,36,Normal,Medium Fast,4096,Scratch,Normal,40.0,1.0,False,-,-,-,-,-,Bite,Dark,60.0,1.0,False,-,-,-,-,-
+207,Psychic Norman,route_39,slowpoke,17,19,60,30,29,21,21,12,Psychic/Water,Medium Fast,4913,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,-,-,-,-,-
+208,Pokefan Ruth,route_39,pikachu,17,19,40,25,19,24,21,38,Electric,Medium Fast,4913,-,-,-,-,-,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-
+209,Pokefan Derek,route_39,pikachu,17,19,41,26,17,24,21,38,Electric,Medium Fast,4913,-,-,-,-,-,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-
+210,Sailor Eugene,route_39,raticate,17,19,48,35,28,24,31,40,Normal,Medium Fast,4913,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False
+211,Sailor Eugene,route_39,krabby,19,19,43,48,42,17,17,27,Water,Medium Fast,6859,Bubble,Water,20.0,1.0,False,-,-,-,-,-,ViceGrip,Normal,55.0,1.0,False,-,-,-,-,-
+212,Psychic Norman,route_39,slowpoke,20,19,69,34,34,24,24,14,Psychic/Water,Medium Fast,8000,-,-,-,-,-,Body Slam,Normal,85.0,1.0,False,Water Gun,Water,40.0,1.0,False,Confusion,Psychic,50.0,1.0,False
+213,Bird Keeper Theo,glitter_lighthouse,pidgey,15,20,39,21,19,17,17,24,Flying/Normal,Medium Slow,2035,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Gust,Flying,40.0,1.0,False,Quick Attack,Normal,40.0,1.0,False
+214,Bird Keeper Theo,glitter_lighthouse,pidgey,15,20,39,21,19,17,17,24,Flying/Normal,Medium Slow,2035,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Gust,Flying,40.0,1.0,False,Quick Attack,Normal,40.0,1.0,False
+215,Bird Keeper Theo,glitter_lighthouse,pidgey,15,20,39,21,19,17,17,24,Flying/Normal,Medium Slow,2035,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Gust,Flying,40.0,1.0,False,Quick Attack,Normal,40.0,1.0,False
+216,Bird Keeper Theo,glitter_lighthouse,pidgey,17,20,43,23,21,19,19,26,Flying/Normal,Medium Slow,3120,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Gust,Flying,40.0,1.0,False,Quick Attack,Normal,40.0,1.0,False
+217,Sailor Huey,glitter_lighthouse,poliwag,18,20,45,26,22,22,22,40,Water,Medium Slow,3798,Bubble,Water,20.0,1.0,False,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,-,-,-,-,-
+218,Sailor Huey,glitter_lighthouse,poliwhirl,18,20,54,31,31,25,25,40,Water,Medium Slow,3798,Bubble,Water,20.0,1.0,False,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,-,-,-,-,-
+219,Sailor Ernest,glitter_lighthouse,machop,18,20,56,37,25,20,20,20,Fighting,Medium Slow,3798,Low Kick,Fighting,50.0,0.9,False,-,-,-,-,-,-,-,-,-,-,Karate Chop,Fighting,50.0,1.0,True
+220,Sailor Ernest,glitter_lighthouse,machop,18,20,56,37,25,20,20,20,Fighting,Medium Slow,3798,Low Kick,Fighting,50.0,0.9,False,-,-,-,-,-,-,-,-,-,-,Karate Chop,Fighting,50.0,1.0,True
+221,Sailor Ernest,glitter_lighthouse,poliwhirl,18,20,54,31,31,25,25,40,Water,Medium Slow,3798,Bubble,Water,20.0,1.0,False,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,-,-,-,-,-
+222,Bird Keeper Theo,glitter_lighthouse,pidgey,19,20,47,25,23,21,21,29,Flying/Normal,Medium Slow,4575,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Gust,Flying,40.0,1.0,False,Quick Attack,Normal,40.0,1.0,False
+223,Sailor Terrell,glitter_lighthouse,poliwhirl,20,20,59,34,34,28,28,44,Water,Medium Slow,5460,Bubble,Water,20.0,1.0,False,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,-,-,-,-,-
+224,Sailor Kent,glitter_lighthouse,krabby,18,20,41,46,40,16,16,25,Water,Medium Fast,5832,Bubble,Water,20.0,1.0,False,-,-,-,-,-,ViceGrip,Normal,55.0,1.0,False,-,-,-,-,-
+225,Bird Keeper Denis,glitter_lighthouse,spearow,18,20,45,29,18,19,19,33,Flying/Normal,Medium Fast,5832,Peck,Flying,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Fury Attack,Normal,45.0,0.85,False
+226,Bird Keeper Denis,glitter_lighthouse,spearow,18,20,45,29,18,19,19,33,Flying/Normal,Medium Fast,5832,Peck,Flying,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Fury Attack,Normal,45.0,0.85,False
+227,Gentleman Preston,glitter_lighthouse,growlithe,18,20,50,33,24,33,25,29,Fire,Slow,7290,Bite,Dark,60.0,1.0,False,-,-,-,-,-,Ember,Fire,40.0,1.0,False,-,-,-,-,-
+228,Gentleman Preston,glitter_lighthouse,growlithe,18,20,50,33,24,33,25,29,Fire,Slow,7290,Bite,Dark,60.0,1.0,False,-,-,-,-,-,Ember,Fire,40.0,1.0,False,-,-,-,-,-
+229,Lass Connie,glitter_lighthouse,marill,21,20,63,15,29,16,29,25,Water,Fast,7408,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Rollout,Rock,30.0,0.9,False,-,-,-,-,-
+230,Gentleman Alfred,glitter_lighthouse,noctowl,20,20,73,28,28,38,46,36,Flying/Normal,Medium Fast,8000,-,-,-,-,-,-,-,-,-,-,Peck,Flying,35.0,1.0,False,-,-,-,-,-
+231,Sailor Kent,glitter_lighthouse,krabby,20,20,45,50,44,18,18,28,Water,Medium Fast,8000,-,-,-,-,-,-,-,-,-,-,ViceGrip,Normal,55.0,1.0,False,-,-,-,-,-
+232,Bird Keeper Denis,glitter_lighthouse,fearow,20,20,59,44,34,32,32,48,Flying/Normal,Medium Fast,8000,Peck,Flying,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Fury Attack,Normal,45.0,0.85,False
+233,Swimmer9794 Randall,route_40,wartortle,20,21,56,33,40,34,40,31,Water,Medium Slow,5460,Bubble,Water,20.0,1.0,False,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Bite,Dark,60.0,1.0,False
+234,Swimmer9792 Paula,route_40,grimer,19,21,43,24,28,34,28,40,Poison,Medium Fast,6859,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Rapid Spin,Normal,20.0,1.0,False,-,-,-,-,-
+235,Swimmer9794 Randall,route_40,shellder,18,21,41,31,43,24,16,22,Water,Slow,7290,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False
+236,Swimmer9794 Randall,route_40,shellder,18,21,41,31,43,24,16,22,Water,Slow,7290,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False
+237,Swimmer9792 Paula,route_40,shellder,19,21,43,32,46,25,17,23,Water,Slow,8573,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False
+238,Swimmer9794 Simon,route_40,tentacool,20,21,49,24,22,28,48,36,Poison/Water,Slow,10000,Poison Sting,Poison,15.0,1.0,False,-,-,-,-,-,Constrict,Normal,10.0,1.0,False,Acid,Poison,40.0,1.0,False
+239,Swimmer9794 Simon,route_40,tentacool,20,21,49,24,22,28,48,36,Poison/Water,Slow,10000,Poison Sting,Poison,15.0,1.0,False,-,-,-,-,-,Constrict,Normal,10.0,1.0,False,Acid,Poison,40.0,1.0,False
+240,Swimmer9792 Elaine,route_40,staryu,21,21,46,26,31,37,31,44,Water,Slow,11576,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Flamethrower,Fire,95.0,1.0,False,-,-,-,-,-
+241,Swimmer9794 George,route_41,tentacool,16,22,41,20,18,23,39,29,Poison/Water,Slow,5120,Poison Sting,Poison,15.0,1.0,False,-,-,-,-,-,Constrict,Normal,10.0,1.0,False,-,-,-,-,-
+242,Swimmer9794 George,route_41,tentacool,16,22,41,20,18,23,39,29,Poison/Water,Slow,5120,Poison Sting,Poison,15.0,1.0,False,-,-,-,-,-,Constrict,Normal,10.0,1.0,False,-,-,-,-,-
+243,Swimmer9792 Kaylee,route_41,goldeen,18,22,47,31,29,20,25,30,Water,Medium Fast,5832,Peck,Flying,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Horn Attack,Normal,65.0,1.0,False
+244,Swimmer9794 George,route_41,tentacool,17,22,43,21,19,24,41,31,Poison/Water,Slow,6141,Poison Sting,Poison,15.0,1.0,False,-,-,-,-,-,Constrict,Normal,10.0,1.0,False,-,-,-,-,-
+245,Swimmer9794 George,route_41,tentacool,17,22,43,21,19,24,41,31,Poison/Water,Slow,6141,Poison Sting,Poison,15.0,1.0,False,-,-,-,-,-,Constrict,Normal,10.0,1.0,False,-,-,-,-,-
+246,Swimmer9794 George,route_41,remoraid,19,22,45,33,21,32,21,32,Water,Medium Fast,6859,Water Gun,Water,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+247,Swimmer9792 Susie,route_41,psyduck,20,22,53,28,27,34,28,30,Water,Medium Fast,8000,Scratch,Normal,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False
+248,Swimmer9792 Kaylee,route_41,goldeen,20,22,51,34,32,22,28,33,Water,Medium Fast,8000,Peck,Flying,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Horn Attack,Normal,65.0,1.0,False
+249,Swimmer9792 Kaylee,route_41,seaking,20,22,65,44,34,34,40,35,Water,Medium Fast,8000,Peck,Flying,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Horn Attack,Normal,65.0,1.0,False
+250,Swimmer9794 Charlie,route_41,tentacool,19,22,47,23,21,27,46,34,Poison/Water,Slow,8573,Poison Sting,Poison,15.0,1.0,False,-,-,-,-,-,Constrict,Normal,10.0,1.0,False,Acid,Poison,40.0,1.0,False
+251,Swimmer9794 Charlie,route_41,tentacruel,19,22,62,35,32,38,53,46,Poison/Water,Slow,8573,Poison Sting,Poison,15.0,1.0,False,-,-,-,-,-,Constrict,Normal,10.0,1.0,False,Acid,Poison,40.0,1.0,False
+252,Swimmer9794 George,route_41,staryu,19,22,43,25,28,34,28,40,Water,Slow,8573,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Rapid Spin,Normal,20.0,1.0,False,-,-,-,-,-
+253,Swimmer9792 Wendy,route_41,horsea,21,22,46,24,37,37,18,33,Water,Medium Fast,9261,Bubble,Water,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Water Gun,Water,40.0,1.0,False
+254,Swimmer9792 Wendy,route_41,horsea,21,22,46,24,37,37,18,33,Water,Medium Fast,9261,Bubble,Water,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Water Gun,Water,40.0,1.0,False
+255,Swimmer9792 Kara,route_41,staryu,20,22,45,25,30,36,30,42,Water,Slow,10000,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Rapid Spin,Normal,20.0,1.0,False,-,-,-,-,-
+256,Swimmer9792 Kara,route_41,starmie,20,22,57,37,42,48,42,54,Psychic/Water,Slow,10000,Tackle,Normal,35.0,0.95,False,Rapid Spin,Normal,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+257,Swimmer9794 Kirk,route_41,gyarados,20,22,71,58,39,32,48,40,Flying/Water,Slow,10000,Thrash,Normal,90.0,1.0,False,Bite,Dark,60.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+258,Swimmer9794 Kirk,route_41,gyarados,20,22,71,58,39,32,48,40,Flying/Water,Slow,10000,Thrash,Normal,90.0,1.0,False,Bite,Dark,60.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+259,Swimmer9792 Denise,route_41,seel,22,22,64,27,32,28,39,28,Water,Medium Fast,10648,Headbutt,Normal,70.0,1.0,False,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+260,Swimmer9792 Susie,route_41,goldeen,22,22,55,37,34,23,30,36,Water,Medium Fast,10648,Peck,Flying,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Horn Attack,Normal,65.0,1.0,False
+261,Swimmer9794 Charlie,route_41,shellder,21,22,46,36,50,27,18,25,Water,Slow,11576,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False
+262,Swimmer9794 Matthew,route_41,krabby,23,22,50,57,50,20,20,31,Water,Medium Fast,12167,-,-,-,-,-,ViceGrip,Normal,55.0,1.0,False,-,-,-,-,-,Stomp,Normal,65.0,1.0,False
+263,Swimmer9794 Berke,route_41,qwilfish,23,22,66,52,43,33,33,47,Poison/Water,Medium Fast,12167,Poison Sting,Poison,15.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Water Gun,Water,40.0,1.0,False
+264,MysticalMan Eusine,cianwood_city,haunter,23,23,57,32,29,61,33,55,Ghost/Poison,Medium Slow,8825,Lick,Ghost,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+265,Blackbelt Nob,cianwood_city_gym,machop,25,23,74,49,34,26,26,26,Fighting,Medium Slow,11735,-,-,-,-,-,-,-,-,-,-,Karate Chop,Fighting,50.0,1.0,True,-,-,-,-,-
+266,Blackbelt Nob,cianwood_city_gym,machoke,25,23,79,59,44,34,39,31,Fighting,Medium Slow,11735,-,-,-,-,-,Karate Chop,Fighting,50.0,1.0,True,-,-,-,-,-,Rock Slide,Rock,75.0,0.9,False
+267,MysticalMan Eusine,cianwood_city,drowzee,23,23,64,31,29,28,50,28,Psychic,Medium Fast,12167,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False
+268,Blackbelt Lung,cianwood_city_gym,mankey,23,23,55,45,24,24,29,40,Fighting,Medium Fast,12167,-,-,-,-,-,Low Kick,Fighting,50.0,0.9,False,Karate Chop,Fighting,50.0,1.0,True,Fury Swipes,Normal,54.0,0.8,False
+269,Blackbelt Lung,cianwood_city_gym,mankey,23,23,55,45,24,24,29,40,Fighting,Medium Fast,12167,-,-,-,-,-,Low Kick,Fighting,50.0,0.9,False,Karate Chop,Fighting,50.0,1.0,True,Fury Swipes,Normal,54.0,0.8,False
+270,MysticalMan Eusine,cianwood_city,electrode,25,23,69,34,44,49,49,79,Electric,Medium Fast,15625,-,-,-,-,-,-,-,-,-,-,Thunder,Electric,120.0,0.7,False,Rollout,Rock,30.0,0.9,False
+271,Blackbelt Lung,cianwood_city_gym,primeape,25,23,71,62,39,39,44,56,Fighting,Medium Fast,15625,Low Kick,Fighting,50.0,0.9,False,Rage,Normal,20.0,1.0,False,Karate Chop,Fighting,50.0,1.0,True,Fury Swipes,Normal,54.0,0.8,False
+272,Blackbelt Yoshi,cianwood_city_gym,hitmonlee,27,23,68,74,37,28,68,56,Fighting,Medium Fast,19683,Double Kick,Fighting,60.0,1.0,False,-,-,-,-,-,Jump Kick,Fighting,70.0,0.95,False,-,-,-,-,-
+273,Blackbelt Lao,cianwood_city_gym,hitmonchan,27,23,68,66,51,28,68,50,Fighting,Medium Fast,19683,Comet Punch,Normal,54.0,0.85,False,ThunderPunch,Electric,75.0,1.0,False,Ice Punch,Ice,75.0,1.0,False,Fire Punch,Fire,75.0,1.0,False
+274,Gym Leader Chuck,cianwood_city_gym,primeape,27,23,76,66,41,41,47,60,Fighting,Medium Fast,19683,-,-,-,-,-,Rage,Normal,20.0,1.0,False,Karate Chop,Fighting,50.0,1.0,True,Fury Swipes,Normal,54.0,0.8,False
+275,Gym Leader Chuck,cianwood_city_gym,poliwrath,30,23,98,61,66,51,63,51,Fighting/Water,Medium Slow,21760,-,-,-,-,-,-,-,-,-,-,Surf,Water,95.0,1.0,False,DynamicPunch,Fighting,100.0,0.5,False
+276,Gym Leader Jasmine,olivine_city_gym,magnemite,30,24,59,31,50,66,42,36,Electric,Medium Fast,27000,Thunderbolt,Electric,95.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+277,Gym Leader Jasmine,olivine_city_gym,magnemite,30,24,59,31,50,66,42,36,Electric,Medium Fast,27000,Thunderbolt,Electric,95.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+278,Gym Leader Jasmine,olivine_city_gym,steelix,35,24,103,70,150,49,56,31,Ground/Steel,Medium Fast,42875,-,-,-,-,-,-,-,-,-,-,Rock Throw,Rock,50.0,0.9,False,Iron Tail,Steel,100.0,0.75,False
+279,Hiker Benjamin,route_42,geodude,14,25,35,30,35,15,15,12,Ground/Rock,Medium Slow,1612,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Rock Throw,Rock,50.0,0.9,False,-,-,-,-,-
+280,Pokemaniac Shane,route_42,nidorina,16,25,50,27,29,25,25,25,Poison,Medium Slow,2535,-,-,-,-,-,Tackle,Normal,35.0,0.95,False,Scratch,Normal,40.0,1.0,False,Double Kick,Fighting,60.0,1.0,False
+281,Pokemaniac Shane,route_42,nidorino,16,25,48,30,25,25,25,28,Poison,Medium Slow,2535,-,-,-,-,-,Tackle,Normal,35.0,0.95,False,Horn Attack,Normal,65.0,1.0,False,Double Kick,Fighting,60.0,1.0,False
+282,Hiker Benjamin,route_42,diglett,14,25,26,23,14,17,19,33,Ground,Medium Fast,2744,Scratch,Normal,40.0,1.0,False,-,-,-,-,-,Magnitude,Ground,71.0,1.0,False,-,-,-,-,-
+283,Hiker Benjamin,route_42,dugtrio,16,25,37,33,23,23,29,45,Ground,Medium Fast,4096,Tri Attack,Normal,80.0,1.0,False,Scratch,Normal,40.0,1.0,False,-,-,-,-,-,Magnitude,Ground,71.0,1.0,False
+284,Fisher Tully,route_42,qwilfish,18,25,54,42,34,27,27,38,Poison/Water,Medium Fast,5832,Tackle,Normal,35.0,0.95,False,Poison Sting,Poison,15.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+285,Fisher Marvin,route_43,magikarp,10,28,25,8,17,9,10,22,Water,Slow,1250,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+286,Fisher Marvin,route_43,gyarados,10,28,40,31,22,18,26,22,Flying/Water,Slow,1250,Thrash,Normal,90.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+287,Fisher Marvin,route_43,magikarp,15,28,33,10,23,11,13,15,Water,Slow,4218,-,-,-,-,-,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-
+288,Fisher Marvin,route_43,gyarados,15,28,55,45,31,25,37,31,Flying/Water,Slow,4218,Thrash,Normal,90.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+289,Pokemaniac Ron,route_43,nidoking,19,28,62,43,37,40,36,40,Ground/Poison,Medium Slow,4575,Tackle,Normal,35.0,0.95,False,Horn Attack,Normal,65.0,1.0,False,Double Kick,Fighting,60.0,1.0,False,Poison Sting,Poison,15.0,1.0,False
+290,Camper Spencer,route_43,sandshrew,17,28,46,33,36,14,17,21,Ground,Medium Fast,4913,Tri Attack,Normal,80.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Poison Sting,Poison,15.0,1.0,False
+291,Camper Spencer,route_43,sandslash,17,28,55,42,45,23,26,29,Ground,Medium Fast,4913,Tri Attack,Normal,80.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Poison Sting,Poison,15.0,1.0,False
+292,Picnicker Tiffany,route_43,clefairy,20,28,58,25,28,32,34,23,Normal,Fast,6400,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+293,Camper Spencer,route_43,zubat,19,28,47,25,21,19,23,28,Flying/Poison,Medium Fast,6859,-,-,-,-,-,-,-,-,-,-,Bite,Dark,60.0,1.0,False,-,-,-,-,-
+294,Pokemaniac Brent,route_43,lickitung,19,28,66,29,36,30,36,19,Normal,Medium Fast,6859,Lick,Ghost,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Stomp,Normal,65.0,1.0,False
+295,Pokemaniac Ben,route_43,slowbro,19,28,68,36,49,46,38,19,Psychic/Water,Medium Fast,6859,-,-,-,-,-,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Water Gun,Water,40.0,1.0,False
+296,Rocket Grunt 6,team_rocket_hideout,gloom,18,30,52,30,35,38,34,23,Grass/Poison,Medium Slow,3798,Absorb,Grass,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+297,Rocket Grunt 2,team_rocket_hideout,zubat,16,30,41,23,18,17,20,25,Flying/Poison,Medium Fast,4096,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-,Bite,Dark,60.0,1.0,False,-,-,-,-,-
+298,Rocket Grunt 3,team_rocket_hideout,rattata,16,30,38,27,18,15,18,31,Normal,Medium Fast,4096,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False
+299,Rocket Grunt 3,team_rocket_hideout,rattata,16,30,38,27,18,15,18,31,Normal,Medium Fast,4096,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False
+300,Rocket Grunt 3,team_rocket_hideout,rattata,16,30,38,27,18,15,18,31,Normal,Medium Fast,4096,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False
+301,Rocket Grunt 3,team_rocket_hideout,rattata,16,30,38,27,18,15,18,31,Normal,Medium Fast,4096,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False
+302,Rocket Grunt 1,team_rocket_hideout,drowzee,17,30,50,25,23,22,38,22,Psychic,Medium Fast,4913,Pound,Normal,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+303,Rocket Grunt 2,team_rocket_hideout,grimer,17,30,56,36,24,21,24,16,Poison,Medium Fast,4913,Pound,Normal,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Sludge,Poison,65.0,1.0,False
+304,Rocket Grunt 8,team_rocket_hideout,rattata,17,30,39,28,19,16,19,32,Normal,Medium Fast,4913,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False
+305,Rocket Grunt 8,team_rocket_hideout,zubat,17,30,43,24,19,17,21,27,Flying/Poison,Medium Fast,4913,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-,Bite,Dark,60.0,1.0,False,-,-,-,-,-
+306,Rocket Grunt 8,team_rocket_hideout,rattata,17,30,39,28,19,16,19,32,Normal,Medium Fast,4913,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False
+307,Rocket Grunt 2,team_rocket_hideout,rattata,18,30,41,29,20,16,20,34,Normal,Medium Fast,5832,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False
+308,Rocket Grunt 4,team_rocket_hideout,venonat,18,30,52,29,25,22,27,24,Bug/Poison,Medium Fast,5832,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False
+309,Rocket Grunt 4,team_rocket_hideout,venonat,18,30,52,29,25,22,27,24,Bug/Poison,Medium Fast,5832,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False
+310,Rocket Grunt 5,team_rocket_hideout,golbat,18,30,57,38,33,31,34,41,Flying/Poison,Medium Fast,5832,-,-,-,-,-,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-,Bite,Dark,60.0,1.0,False
+311,Rocket Grunt 6,team_rocket_hideout,ekans,18,30,43,29,25,22,27,28,Poison,Medium Fast,5832,Wrap,Normal,15.0,0.85,False,-,-,-,-,-,Poison Sting,Poison,15.0,1.0,False,Bite,Dark,60.0,1.0,False
+312,Rocket Grunt 1,team_rocket_hideout,zubat,19,30,47,27,21,19,23,29,Flying/Poison,Medium Fast,6859,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-,Bite,Dark,60.0,1.0,False,-,-,-,-,-
+313,Rocket Grunt 7,team_rocket_hideout,raticate,19,30,52,40,30,27,34,45,Normal,Medium Fast,6859,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False
+314,Scientist Jed,team_rocket_hideout,magnemite,20,30,43,22,36,46,30,26,Electric,Medium Fast,8000,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+315,Scientist Jed,team_rocket_hideout,magnemite,20,30,43,22,36,46,30,26,Electric,Medium Fast,8000,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+316,Scientist Jed,team_rocket_hideout,magnemite,20,30,43,22,36,46,30,26,Electric,Medium Fast,8000,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+317,Rocket Executive 2,team_rocket_hideout,gastly,23,30,64,38,43,47,43,28,Ghost/Poison,Medium Slow,8825,Absorb,Grass,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Acid,Poison,40.0,1.0,False
+318,Scientist Ross,team_rocket_hideout,koffing,22,30,53,37,50,34,28,23,Poison,Medium Fast,10648,Tackle,Normal,35.0,0.95,False,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False
+319,Scientist Ross,team_rocket_hideout,koffing,22,30,53,37,50,34,28,23,Poison,Medium Fast,10648,Tackle,Normal,35.0,0.95,False,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False
+320,Rocket Executive 1,team_rocket_hideout,zubat,22,30,53,30,23,21,26,33,Flying/Poison,Medium Fast,10648,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-,Bite,Dark,60.0,1.0,False,-,-,-,-,-
+321,Rocket Executive 1,team_rocket_hideout,koffing,22,30,53,39,50,34,28,24,Poison,Medium Fast,10648,Tackle,Normal,35.0,0.95,False,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False
+322,Rocket Executive 2,team_rocket_hideout,murkrow,25,30,69,51,33,51,30,55,Dark/Flying,Medium Slow,11735,Peck,Flying,35.0,1.0,False,Pursuit,Dark,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+323,Rocket Executive 2,team_rocket_hideout,arbok,23,30,64,47,43,38,45,46,Poison,Medium Fast,12167,Wrap,Normal,15.0,0.85,False,-,-,-,-,-,Poison Sting,Poison,15.0,1.0,False,Bite,Dark,60.0,1.0,False
+324,Scientist Mitch,team_rocket_hideout,ditto,24,30,60,32,31,31,31,31,Normal,Medium Fast,13824,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+325,Rocket Executive 1,team_rocket_hideout,raticate,24,30,64,50,37,32,42,56,Normal,Medium Fast,13824,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-,Hyper Fang,Normal,80.0,0.9,False
+326,Boarder Ronald,mahogany_town_gym,seel,24,31,69,30,35,30,42,30,Water,Medium Fast,13824,Headbutt,Normal,70.0,1.0,False,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+327,Boarder Ronald,mahogany_town_gym,seel,24,31,69,30,35,30,42,30,Water,Medium Fast,13824,Headbutt,Normal,70.0,1.0,False,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+328,Boarder Ronald,mahogany_town_gym,dewgong,25,31,84,44,49,44,56,44,Ice/Water,Medium Fast,15625,Headbutt,Normal,70.0,1.0,False,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+329,Boarder Douglas,mahogany_town_gym,shellder,24,31,52,40,56,30,20,28,Water,Slow,17280,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False
+330,Boarder Douglas,mahogany_town_gym,shellder,24,31,52,40,56,30,20,28,Water,Slow,17280,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False
+331,Boarder Douglas,mahogany_town_gym,cloyster,25,31,64,57,99,51,31,44,Ice/Water,Slow,19531,-,-,-,-,-,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+332,Gym Leader Pryce,mahogany_town_gym,seel,27,31,76,34,39,33,47,33,Water,Medium Fast,19683,Headbutt,Normal,70.0,1.0,False,Icy Wind,Ice,55.0,0.95,False,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+333,Skier Roxanne,mahogany_town_gym,jynx,28,31,78,38,29,73,62,62,Ice/Psychic,Medium Fast,21952,-,-,-,-,-,Powder Snow,Ice,40.0,1.0,False,-,-,-,-,-,Ice Punch,Ice,75.0,1.0,False
+334,Skier Clarissa,mahogany_town_gym,dewgong,28,31,92,49,54,48,62,48,Ice/Water,Medium Fast,21952,Headbutt,Normal,70.0,1.0,False,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+335,Boarder Brad,mahogany_town_gym,swinub,26,31,66,35,29,24,24,35,Ground/Ice,Slow,21970,Tackle,Normal,35.0,0.95,False,Powder Snow,Ice,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+336,Boarder Brad,mahogany_town_gym,swinub,26,31,66,35,29,24,24,35,Ground/Ice,Slow,21970,Tackle,Normal,35.0,0.95,False,Powder Snow,Ice,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+337,Gym Leader Pryce,mahogany_town_gym,dewgong,29,31,95,50,56,50,64,50,Ice/Water,Medium Fast,24389,Headbutt,Normal,70.0,1.0,False,Icy Wind,Ice,55.0,0.95,False,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+338,Gym Leader Pryce,mahogany_town_gym,piloswine,31,31,107,72,59,47,47,40,Ground/Ice,Slow,37238,Icy Wind,Ice,55.0,0.95,False,Fury Attack,Normal,45.0,0.85,False,-,-,-,-,-,Blizzard,Ice,120.0,0.7,False
+339,Rocket Grunt 17,goldenrod_city_radio_tower,gloom,23,32,57,31,36,43,38,23,Grass/Poison,Medium Slow,8825,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Acid,Poison,40.0,1.0,False
+340,Rocket Grunt 3,goldenrod_city_radio_tower,rattata,21,32,46,33,23,18,23,39,Normal,Medium Fast,9261,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False,-,-,-,-,-
+341,Rocket Grunt 3,goldenrod_city_radio_tower,rattata,21,32,46,33,23,18,23,39,Normal,Medium Fast,9261,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False,-,-,-,-,-
+342,Rocket Grunt 17,goldenrod_city_radio_tower,ekans,21,32,49,33,29,25,31,32,Poison,Medium Fast,9261,Wrap,Normal,15.0,0.85,False,-,-,-,-,-,Poison Sting,Poison,15.0,1.0,False,Bite,Dark,60.0,1.0,False
+343,Rocket Grunt 17,goldenrod_city_radio_tower,ekans,21,32,49,33,29,25,31,32,Poison,Medium Fast,9261,Wrap,Normal,15.0,0.85,False,-,-,-,-,-,Poison Sting,Poison,15.0,1.0,False,Bite,Dark,60.0,1.0,False
+344,Rocket Grunt 17,goldenrod_city_radio_tower,oddish,24,32,66,39,45,49,44,29,Grass/Poison,Medium Slow,10208,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Acid,Poison,40.0,1.0,False
+345,Rocket Grunt 8,goldenrod_city_radio_tower,zubat,22,32,53,30,23,21,26,33,Flying/Poison,Medium Fast,10648,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-,Bite,Dark,60.0,1.0,False,-,-,-,-,-
+346,Rocket Grunt 8,goldenrod_city_radio_tower,grimer,22,32,70,45,30,26,30,20,Poison,Medium Fast,10648,Pound,Normal,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Sludge,Poison,65.0,1.0,False
+347,Rocket Grunt 3,goldenrod_city_radio_tower,rattata,23,32,50,36,24,20,24,42,Normal,Medium Fast,12167,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False,-,-,-,-,-
+348,Rocket Grunt 3,goldenrod_city_radio_tower,rattata,23,32,50,36,24,20,24,42,Normal,Medium Fast,12167,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False,-,-,-,-,-
+349,Rocket Grunt 3,goldenrod_city_radio_tower,rattata,23,32,50,36,24,20,24,42,Normal,Medium Fast,12167,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False,-,-,-,-,-
+350,Rocket Grunt 5,goldenrod_city_radio_tower,grimer,23,32,73,47,31,27,31,21,Poison,Medium Fast,12167,-,-,-,-,-,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+351,Rocket Grunt 5,goldenrod_city_radio_tower,grimer,23,32,73,47,31,27,31,21,Poison,Medium Fast,12167,-,-,-,-,-,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+352,Rocket Grunt 6,goldenrod_city_radio_tower,koffing,23,32,55,40,52,36,29,25,Poison,Medium Fast,12167,Tackle,Normal,35.0,0.95,False,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False
+353,Rocket Grunt 6,goldenrod_city_radio_tower,grimer,23,32,73,47,31,27,31,21,Poison,Medium Fast,12167,-,-,-,-,-,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+354,Rocket Grunt 6,goldenrod_city_radio_tower,zubat,23,32,55,31,24,22,27,34,Flying/Poison,Medium Fast,12167,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-,Bite,Dark,60.0,1.0,False,-,-,-,-,-
+355,Rocket Grunt 6,goldenrod_city_radio_tower,rattata,23,32,50,36,24,20,24,42,Normal,Medium Fast,12167,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False,-,-,-,-,-
+356,Rocket Grunt 1,goldenrod_city_radio_tower,raticate,24,32,64,50,37,32,42,56,Normal,Medium Fast,13824,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False,-,-,-,-,-
+357,Rocket Grunt 1,goldenrod_city_radio_tower,raticate,24,32,64,50,37,32,42,56,Normal,Medium Fast,13824,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False,-,-,-,-,-
+358,Rocket Grunt 8,goldenrod_city_radio_tower,golbat,24,32,73,49,42,43,44,53,Flying/Poison,Medium Fast,13824,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-,Bite,Dark,60.0,1.0,False,-,-,-,-,-
+359,Rocket Grunt 16,goldenrod_city_radio_tower,raticate,24,32,64,50,37,32,42,56,Normal,Medium Fast,13824,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False,-,-,-,-,-
+360,Rocket Grunt 5,goldenrod_city_radio_tower,muk,25,32,91,64,46,41,59,35,Poison,Medium Fast,15625,-,-,-,-,-,Pound,Normal,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+361,Rocket Grunt 2,goldenrod_city_radio_tower,arbok,26,32,71,52,48,42,50,51,Poison,Medium Fast,17576,-,-,-,-,-,Poison Sting,Poison,15.0,1.0,False,Bite,Dark,60.0,1.0,False,-,-,-,-,-
+362,Rocket Grunt 4,goldenrod_city_radio_tower,zubat,26,32,60,35,27,24,29,38,Flying/Poison,Medium Fast,17576,-,-,-,-,-,-,-,-,-,-,Bite,Dark,60.0,1.0,False,-,-,-,-,-
+363,Rocket Grunt 4,goldenrod_city_radio_tower,zubat,26,32,60,35,27,24,29,38,Flying/Poison,Medium Fast,17576,-,-,-,-,-,-,-,-,-,-,Bite,Dark,60.0,1.0,False,-,-,-,-,-
+364,Rocket Grunt 7,goldenrod_city_radio_tower,weezing,26,32,73,58,71,53,45,41,Poison,Medium Fast,17576,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+365,Rocket Grunt 16,goldenrod_city_radio_tower,koffing,26,32,60,45,58,40,32,28,Poison,Medium Fast,17576,-,-,-,-,-,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+366,Scientist Marc,goldenrod_city_radio_tower,magnemite,27,32,54,28,47,60,39,33,Electric,Medium Fast,19683,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+367,Scientist Marc,goldenrod_city_radio_tower,magnemite,27,32,54,28,47,60,39,33,Electric,Medium Fast,19683,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+368,Scientist Marc,goldenrod_city_radio_tower,magnemite,27,32,54,28,47,60,39,33,Electric,Medium Fast,19683,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+369,Scientist Rich,goldenrod_city_radio_tower,porygon,30,32,83,46,51,60,54,33,Normal,Medium Fast,27000,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Tri Attack,Normal,80.0,1.0,False
+370,Rocket Executive 1,goldenrod_city_radio_tower,koffing,30,32,68,51,66,45,36,32,Poison,Medium Fast,27000,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+371,Rocket Executive 1,goldenrod_city_radio_tower,koffing,30,32,68,51,66,45,36,32,Poison,Medium Fast,27000,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+372,Rocket Executive 1,goldenrod_city_radio_tower,koffing,30,32,68,51,66,45,36,32,Poison,Medium Fast,27000,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+373,Rocket Executive 1,goldenrod_city_radio_tower,koffing,30,32,68,51,66,45,36,32,Poison,Medium Fast,27000,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+374,Rocket Executive 1,goldenrod_city_radio_tower,koffing,30,32,68,51,66,45,36,32,Poison,Medium Fast,27000,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+375,Rocket Executive 3,goldenrod_city_radio_tower,vileplume,32,32,95,60,68,74,67,43,Grass/Poison,Medium Slow,27021,Absorb,Grass,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Acid,Poison,40.0,1.0,False
+376,Rocket Executive 3,goldenrod_city_radio_tower,murkrow,32,32,85,63,40,64,37,69,Dark/Flying,Medium Slow,27021,Peck,Flying,35.0,1.0,False,Pursuit,Dark,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+377,Rocket Executive 1,goldenrod_city_radio_tower,weezing,32,32,88,70,86,64,54,49,Poison,Medium Fast,32768,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+378,Rocket Executive 3,goldenrod_city_radio_tower,arbok,32,32,85,63,58,51,60,62,Poison,Medium Fast,32768,Wrap,Normal,15.0,0.85,False,Poison Sting,Poison,15.0,1.0,False,Bite,Dark,60.0,1.0,False,-,-,-,-,-
+379,Rocket Executive 4,goldenrod_city_radio_tower,koffing,33,32,74,56,72,49,39,34,Poison,Medium Fast,35937,Tackle,Normal,35.0,0.95,False,Sludge,Poison,65.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+380,Rocket Executive 4,goldenrod_city_radio_tower,houndour,33,32,77,53,30,63,43,54,Dark/Fire,Slow,44921,Ember,Fire,40.0,1.0,False,-,-,-,-,-,Bite,Dark,60.0,1.0,False,Faint Attack,Dark,60.0,1.0,False
+381,Rocket Executive 2,goldenrod_city_radio_tower,golbat,36,32,105,71,61,57,64,77,Flying/Poison,Medium Fast,46656,Leech Life,Bug,20.0,1.0,False,Bite,Dark,60.0,1.0,False,-,-,-,-,-,Wing Attack,Flying,60.0,1.0,False
+382,Rocket Executive 4,goldenrod_city_radio_tower,houndoom,35,32,103,77,45,87,66,78,Dark/Fire,Slow,53593,Ember,Fire,40.0,1.0,False,Smog,Poison,20.0,0.7,False,Bite,Dark,60.0,1.0,False,Faint Attack,Dark,60.0,1.0,False
+383,Rocket Grunt 12,goldenrod_city_underground_warehouse,gloom,25,33,69,41,47,51,46,30,Grass/Poison,Medium Slow,11735,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Acid,Poison,40.0,1.0,False
+384,Rocket Grunt 12,goldenrod_city_underground_warehouse,gloom,25,33,69,41,47,51,46,30,Grass/Poison,Medium Slow,11735,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Acid,Poison,40.0,1.0,False
+385,Rocket Grunt 10,goldenrod_city_underground_warehouse,muk,23,33,84,59,43,38,54,32,Poison,Medium Fast,12167,-,-,-,-,-,Pound,Normal,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+386,Rocket Grunt 10,goldenrod_city_underground_warehouse,koffing,23,33,55,40,52,36,29,25,Poison,Medium Fast,12167,Tackle,Normal,35.0,0.95,False,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False
+387,Burgular Duncan,goldenrod_city_underground_warehouse,koffing,23,33,55,39,52,36,29,24,Poison,Medium Fast,12167,Tackle,Normal,35.0,0.95,False,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False
+388,Burgular Duncan,goldenrod_city_underground_warehouse,koffing,23,33,55,39,52,36,29,24,Poison,Medium Fast,12167,Tackle,Normal,35.0,0.95,False,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False
+389,Rocket Grunt 14,goldenrod_city_underground_warehouse,weezing,23,33,66,52,63,47,40,37,Poison,Medium Fast,12167,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Smog,Poison,20.0,0.7,False,Sludge,Poison,65.0,1.0,False
+390,Rocket Grunt 11,goldenrod_city_underground_warehouse,koffing,24,33,57,42,54,37,30,26,Poison,Medium Fast,13824,Tackle,Normal,35.0,0.95,False,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False
+391,Rocket Grunt 11,goldenrod_city_underground_warehouse,muk,24,33,88,61,44,40,56,33,Poison,Medium Fast,13824,-,-,-,-,-,Pound,Normal,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+392,Burgular Eddie,goldenrod_city_underground_warehouse,koffing,24,33,57,40,54,37,30,25,Poison,Medium Fast,13824,Tackle,Normal,35.0,0.95,False,Smog,Poison,20.0,0.7,False,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+393,Rocket Grunt 13,goldenrod_city_underground_warehouse,raticate,24,33,64,50,37,32,42,56,Normal,Medium Fast,13824,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False,-,-,-,-,-
+394,Rocket Grunt 10,goldenrod_city_underground_warehouse,rattata,25,33,54,39,26,21,26,46,Normal,Medium Fast,15625,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False,-,-,-,-,-
+395,Burgular Duncan,goldenrod_city_underground_warehouse,magmar,25,33,71,57,37,59,51,55,Fire,Medium Fast,15625,-,-,-,-,-,Smog,Poison,20.0,0.7,False,Fire Punch,Fire,75.0,1.0,False,-,-,-,-,-
+396,Rocket Grunt 13,goldenrod_city_underground_warehouse,golbat,25,33,73,49,42,40,44,53,Flying/Poison,Medium Fast,15625,-,-,-,-,-,-,-,-,-,-,Bite,Dark,60.0,1.0,False,-,-,-,-,-
+397,Rocket Grunt 15,goldenrod_city_underground_warehouse,koffing,25,33,59,44,56,39,31,27,Poison,Medium Fast,15625,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+398,Rocket Grunt 15,goldenrod_city_underground_warehouse,koffing,25,33,59,44,56,39,31,27,Poison,Medium Fast,15625,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+399,Rocket Grunt 14,goldenrod_city_underground_warehouse,grimer,26,33,81,53,35,29,35,23,Poison,Medium Fast,17576,-,-,-,-,-,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+400,Rocket Grunt 9,goldenrod_city_underground_warehouse,rattata,27,33,57,42,28,22,28,49,Normal,Medium Fast,19683,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False,-,-,-,-,-,Pursuit,Dark,40.0,1.0,False
+401,Rival Silver,goldenrod_city_underground_warehouse,haunter,30,33,76,42,39,81,45,69,Ghost/Poison,Medium Slow,21760,Lick,Ghost,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Shadow Ball,Ghost,80.0,1.0,False
+402,Rival Silver,goldenrod_city_underground_warehouse,magnemite,28,33,60,31,51,65,43,37,Electric,Medium Fast,21952,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+403,Burgular Eddie,goldenrod_city_underground_warehouse,growlithe,26,33,68,46,32,45,35,40,Fire,Slow,21970,-,-,-,-,-,Ember,Fire,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+404,Rival Silver,goldenrod_city_underground_warehouse,golbat,30,33,94,60,54,51,57,66,Flying/Poison,Medium Fast,27000,Leech Life,Bug,20.0,1.0,False,Bite,Dark,60.0,1.0,False,-,-,-,-,-,Wing Attack,Flying,60.0,1.0,False
+405,Rival Silver,goldenrod_city_underground_warehouse,sneasel,32,33,86,74,48,35,61,86,Dark/Ice,Medium Slow,27021,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-,Faint Attack,Dark,60.0,1.0,False
+406,Rival Silver,goldenrod_city_underground_warehouse,feraligatr,32,33,106,80,77,63,66,63,Water,Medium Slow,27021,Rage,Normal,20.0,1.0,False,Water Gun,Water,40.0,1.0,False,Bite,Dark,60.0,1.0,False,-,-,-,-,-
+407,Rival Silver,goldenrod_city_underground_warehouse,quilava,32,33,106,80,77,63,66,63,Fire,Medium Slow,27021,-,-,-,-,-,Ember,Fire,40.0,1.0,False,Quick Attack,Normal,40.0,1.0,False,Flame Wheel,Fire,60.0,1.0,False
+408,Rival Silver,goldenrod_city_underground_warehouse,meganium,32,33,106,80,77,63,66,63,Grass,Medium Slow,27021,-,-,-,-,-,Razor Leaf,Grass,55.0,0.95,True,-,-,-,-,-,Body Slam,Normal,85.0,1.0,False
+409,Cooltrainer Cybil,route_44,bellossom,25,35,76,48,53,54,59,36,Grass,Medium Slow,11735,Absorb,Grass,20.0,1.0,False,-,-,-,-,-,Acid,Poison,40.0,1.0,False,-,-,-,-,-
+410,Bird Keeper Vance,route_44,pidgeotto,25,35,70,39,36,34,34,44,Flying/Normal,Medium Slow,11735,-,-,-,-,-,Gust,Flying,40.0,1.0,False,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-
+411,Bird Keeper Vance,route_44,pidgeotto,25,35,70,39,36,34,34,44,Flying/Normal,Medium Slow,11735,-,-,-,-,-,Gust,Flying,40.0,1.0,False,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-
+412,Fisher Wilton,route_44,goldeen,23,35,57,39,36,24,31,37,Water,Medium Fast,12167,Peck,Flying,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Horn Attack,Normal,65.0,1.0,False
+413,Fisher Wilton,route_44,goldeen,23,35,57,39,36,24,31,37,Water,Medium Fast,12167,Peck,Flying,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Horn Attack,Normal,65.0,1.0,False
+414,Psychic Phil,route_44,kadabra,26,35,60,27,24,71,45,63,Psychic,Medium Slow,13411,-,-,-,-,-,Psybeam,Psychic,65.0,1.0,False,-,-,-,-,-,Future Sight,Psychic,80.0,0.9,False
+415,Psychic Phil,route_44,natu,24,35,57,33,30,42,30,42,Flying/Psychic,Medium Fast,13824,-,-,-,-,-,-,-,-,-,-,Future Sight,Psychic,80.0,0.9,False,-,-,-,-,-
+416,Fisher Wilton,route_44,seaking,25,35,79,55,41,41,49,43,Water,Medium Fast,15625,-,-,-,-,-,-,-,-,-,-,Horn Attack,Normal,65.0,1.0,False,-,-,-,-,-
+417,Cooltrainer Cybil,route_44,butterfree,25,35,69,31,36,49,49,46,Bug/Flying,Medium Fast,15625,Confusion,Psychic,50.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Gust,Flying,40.0,1.0,False
+418,Fisher Edgar,route_44,remoraid,25,35,56,42,26,41,26,41,Water,Medium Fast,15625,-,-,-,-,-,Psybeam,Psychic,65.0,1.0,False,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+419,Fisher Edgar,route_44,remoraid,25,35,56,42,26,41,26,41,Water,Medium Fast,15625,-,-,-,-,-,Psybeam,Psychic,65.0,1.0,False,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+420,Pokemaniac Zach,route_44,rhyhorn,27,35,84,55,60,25,25,22,Ground/Rock,Slow,24603,Horn Attack,Normal,65.0,1.0,False,-,-,-,-,-,Stomp,Normal,65.0,1.0,False,Fury Attack,Normal,45.0,0.85,False
+421,Cooltrainer Cody,blackthorn_city_gym,horsea,34,38,69,41,58,58,27,53,Water,Medium Fast,39304,-,-,-,-,-,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Twister,Dragon,40.0,1.0,False
+422,Cooltrainer Cody,blackthorn_city_gym,seadra,36,38,91,61,79,79,43,74,Water,Medium Fast,46656,-,-,-,-,-,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Twister,Dragon,40.0,1.0,False
+423,Cooltrainer Paul,blackthorn_city_gym,dratini,34,38,77,57,41,44,44,47,Dragon,Slow,49130,-,-,-,-,-,Twister,Dragon,40.0,1.0,False,-,-,-,-,-,Slam,Normal,80.0,0.75,False
+424,Cooltrainer Paul,blackthorn_city_gym,dratini,34,38,77,57,41,44,44,47,Dragon,Slow,49130,-,-,-,-,-,Twister,Dragon,40.0,1.0,False,-,-,-,-,-,Slam,Normal,80.0,0.75,False
+425,Cooltrainer Paul,blackthorn_city_gym,dratini,34,38,77,57,41,44,44,47,Dragon,Slow,49130,-,-,-,-,-,Twister,Dragon,40.0,1.0,False,-,-,-,-,-,Slam,Normal,80.0,0.75,False
+426,Cooltrainer Fran,blackthorn_city_gym,seadra,37,38,93,58,84,81,44,76,Water,Medium Fast,50653,-,-,-,-,-,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Twister,Dragon,40.0,1.0,False
+427,Cooltrainer Mike,blackthorn_city_gym,dragonair,37,38,98,76,59,62,62,65,Dragon,Slow,63316,-,-,-,-,-,Twister,Dragon,40.0,1.0,False,-,-,-,-,-,Slam,Normal,80.0,0.75,False
+428,Gym Leader Clair,blackthorn_city_gym,dragonair,37,38,100,72,61,66,66,66,Dragon,Slow,63316,-,-,-,-,-,Surf,Water,95.0,1.0,False,Slam,Normal,80.0,0.75,False,-,-,-,-,-
+429,Gym Leader Clair,blackthorn_city_gym,dragonair,37,38,100,72,61,66,66,66,Dragon,Slow,63316,-,-,-,-,-,Thunderbolt,Electric,95.0,1.0,False,Slam,Normal,80.0,0.75,False,-,-,-,-,-
+430,Gym Leader Clair,blackthorn_city_gym,dragonair,37,38,100,72,61,66,66,66,Dragon,Slow,63316,-,-,-,-,-,Ice Beam,Ice,95.0,1.0,False,Slam,Normal,80.0,0.75,False,-,-,-,-,-
+431,Gym Leader Clair,blackthorn_city_gym,kingdra,40,38,118,86,90,91,91,83,Dragon/Water,Medium Fast,64000,-,-,-,-,-,Surf,Water,95.0,1.0,False,Hyper Beam,Normal,75.0,0.9,False,-,-,-,-,-
+432,Pokemaniac Miller,mt_mortar,nidoking,17,39,57,39,33,36,33,36,Ground/Poison,Medium Slow,3120,Tackle,Normal,35.0,0.95,False,Horn Attack,Normal,65.0,1.0,False,Double Kick,Fighting,60.0,1.0,False,Poison Sting,Poison,15.0,1.0,False
+433,Pokemaniac Miller,mt_mortar,nidoqueen,17,39,60,35,37,33,36,33,Ground/Poison,Medium Slow,3120,Tackle,Normal,35.0,0.95,False,Scratch,Normal,40.0,1.0,False,Double Kick,Fighting,60.0,1.0,False,-,-,-,-,-
+434,Super Nerd Markus,mt_mortar,slowpoke,19,39,66,33,32,23,23,13,Psychic/Water,Medium Fast,6859,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,-,-,-,-,-,Strength,Normal,80.0,1.0,False
+435,Cooltrainer Cara,dragons_den,horsea,33,39,68,36,59,56,26,52,Water,Medium Fast,35937,-,-,-,-,-,-,-,-,-,-,Whirlpool,Water,15.0,0.7,False,Twister,Dragon,40.0,1.0,False
+436,Cooltrainer Cara,dragons_den,horsea,33,39,68,36,59,56,26,52,Water,Medium Fast,35937,-,-,-,-,-,-,-,-,-,-,Whirlpool,Water,15.0,0.7,False,Twister,Dragon,40.0,1.0,False
+437,Blackbelt Kiyo,mt_mortar,hitmonlee,34,39,83,92,46,34,85,69,Fighting,Medium Fast,39304,Jump Kick,Fighting,70.0,0.95,False,-,-,-,-,-,Hi Jump Kick,Fighting,85.0,0.9,False,-,-,-,-,-
+438,Blackbelt Kiyo,mt_mortar,hitmonchan,34,39,83,82,64,34,85,62,Fighting,Medium Fast,39304,-,-,-,-,-,Ice Punch,Ice,75.0,1.0,False,Fire Punch,Fire,75.0,1.0,False,Mach Punch,Fighting,40.0,1.0,False
+439,Cooltrainer Cara,dragons_den,seadra,35,39,89,55,79,77,42,72,Water,Medium Fast,42875,Swift,Normal,60.0,1.0,False,-,-,-,-,-,Waterfall,Water,80.0,1.0,False,Twister,Dragon,40.0,1.0,False
+440,Twins Lea  Pia,dragons_den,dratini,35,39,73,54,42,45,45,47,Dragon,Slow,53593,-,-,-,-,-,Twister,Dragon,40.0,1.0,False,Flamethrower,Fire,95.0,1.0,False,Headbutt,Normal,70.0,1.0,False
+441,Twins Lea  Pia,dragons_den,dratini,35,39,73,54,42,45,45,47,Dragon,Slow,53593,-,-,-,-,-,Twister,Dragon,40.0,1.0,False,Flamethrower,Fire,95.0,1.0,False,Headbutt,Normal,70.0,1.0,False
+442,Super Nerd Hugh,mt_mortar,seadra,39,39,98,62,85,85,46,77,Water,Medium Fast,59319,-,-,-,-,-,Twister,Dragon,40.0,1.0,False,Surf,Water,95.0,1.0,False,Waterfall,Water,80.0,1.0,False
+443,Cooltrainer Darin,dragons_den,dragonair,37,39,98,76,59,62,62,65,Dragon,Slow,63316,Wrap,Normal,15.0,0.85,False,Surf,Water,95.0,1.0,False,-,-,-,-,-,Slam,Normal,80.0,0.75,False
+444,Hiker Erik,route_45,machop,24,40,67,48,32,25,25,25,Fighting,Medium Slow,10208,-,-,-,-,-,-,-,-,-,-,Karate Chop,Fighting,50.0,1.0,True,-,-,-,-,-
+445,Hiker Erik,route_45,machop,24,40,67,48,32,25,25,25,Fighting,Medium Slow,10208,-,-,-,-,-,-,-,-,-,-,Karate Chop,Fighting,50.0,1.0,True,-,-,-,-,-
+446,Cooltrainer Kelly,route_45,wartortle,24,40,66,38,49,40,47,38,Water,Medium Slow,10208,Bubble,Water,20.0,1.0,False,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Bite,Dark,60.0,1.0,False
+447,Cooltrainer Kelly,route_45,wartortle,24,40,66,38,49,40,47,38,Water,Medium Slow,10208,Bubble,Water,20.0,1.0,False,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Bite,Dark,60.0,1.0,False
+448,Cooltrainer Ryan,route_45,pidgeot,25,40,80,51,46,44,44,56,Flying/Normal,Medium Slow,11735,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-,Wing Attack,Flying,60.0,1.0,False
+449,Hiker Michael,route_45,geodude,25,40,55,50,59,24,24,19,Ground/Rock,Medium Slow,11735,-,-,-,-,-,Rock Throw,Rock,50.0,0.9,False,Magnitude,Ground,71.0,1.0,False,-,-,-,-,-
+450,Hiker Michael,route_45,graveler,25,40,62,57,66,31,31,26,Ground/Rock,Medium Slow,11735,-,-,-,-,-,Rock Throw,Rock,50.0,0.9,False,Magnitude,Ground,71.0,1.0,False,-,-,-,-,-
+451,Hiker Michael,route_45,golem,25,40,75,65,74,36,41,31,Ground/Rock,Medium Slow,11735,-,-,-,-,-,Rock Throw,Rock,50.0,0.9,False,Magnitude,Ground,71.0,1.0,False,-,-,-,-,-
+452,Hiker Erik,route_45,graveler,27,40,66,45,71,33,33,28,Ground/Rock,Medium Slow,15244,Rock Throw,Rock,50.0,0.9,False,Magnitude,Ground,71.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+453,Cooltrainer Kelly,route_45,marill,27,40,79,19,38,20,36,33,Water,Fast,15746,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Rollout,Rock,30.0,0.9,False,-,-,-,-,-
+454,Blackbelt Kenji,route_45,machoke,28,40,87,66,48,37,43,34,Fighting,Medium Slow,17242,-,-,-,-,-,Karate Chop,Fighting,50.0,1.0,True,-,-,-,-,-,-,-,-,-,-
+455,Cooltrainer Ryan,route_45,electabuzz,27,40,76,56,40,60,55,68,Electric,Medium Fast,19683,-,-,-,-,-,-,-,-,-,-,Swift,Normal,60.0,1.0,False,-,-,-,-,-
+456,Hiker Timothy,route_45,diglett,27,40,42,40,22,28,33,60,Ground,Medium Fast,19683,Magnitude,Ground,71.0,1.0,False,Dig,Ground,60.0,1.0,False,-,-,-,-,-,Slash,Normal,70.0,1.0,True
+457,Hiker Timothy,route_45,dugtrio,27,40,55,53,36,36,47,74,Ground,Medium Fast,19683,Magnitude,Ground,71.0,1.0,False,Dig,Ground,60.0,1.0,False,-,-,-,-,-,Slash,Normal,70.0,1.0,True
+458,Hiker Parry,route_45,onix,29,40,59,36,102,27,35,50,Ground/Rock,Medium Fast,24389,Bind,Normal,15.0,0.75,False,Rock Throw,Rock,50.0,0.9,False,-,-,-,-,-,Rage,Normal,20.0,1.0,False
+459,Hiker Bailey,route_46,geodude,13,42,33,28,33,14,14,12,Ground/Rock,Medium Slow,1261,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Rock Throw,Rock,50.0,0.9,False,-,-,-,-,-
+460,Hiker Bailey,route_46,geodude,13,42,33,28,33,14,14,12,Ground/Rock,Medium Slow,1261,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Rock Throw,Rock,50.0,0.9,False,-,-,-,-,-
+461,Hiker Bailey,route_46,geodude,13,42,33,28,33,14,14,12,Ground/Rock,Medium Slow,1261,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Rock Throw,Rock,50.0,0.9,False,-,-,-,-,-
+462,Hiker Bailey,route_46,geodude,13,42,33,28,33,14,14,12,Ground/Rock,Medium Slow,1261,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Rock Throw,Rock,50.0,0.9,False,-,-,-,-,-
+463,Hiker Bailey,route_46,geodude,13,42,33,28,33,14,14,12,Ground/Rock,Medium Slow,1261,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Rock Throw,Rock,50.0,0.9,False,-,-,-,-,-
+464,Picnicker Erin,route_46,ponyta,16,42,42,34,25,28,28,37,Fire,Medium Fast,4096,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,Ember,Fire,40.0,1.0,False
+465,Picnicker Erin,route_46,ponyta,16,42,42,34,25,28,28,37,Fire,Medium Fast,4096,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,Ember,Fire,40.0,1.0,False
+466,Camper Ted,route_46,mankey,17,42,43,35,19,19,23,31,Fighting,Medium Fast,4913,Scratch,Normal,40.0,1.0,False,-,-,-,-,-,Low Kick,Fighting,50.0,0.9,False,Karate Chop,Fighting,50.0,1.0,True
+467,Cooltrainer Megan,route_27,bulbasaur,32,43,75,40,44,51,51,41,Grass/Poison,Medium Slow,27021,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Razor Leaf,Grass,55.0,0.95,True
+468,Cooltrainer Megan,route_27,ivysaur,32,43,85,49,53,61,61,51,Grass/Poison,Medium Slow,27021,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Razor Leaf,Grass,55.0,0.95,True
+469,Cooltrainer Megan,route_27,venusaur,32,43,98,61,65,74,74,63,Grass/Poison,Medium Slow,27021,Body Slam,Normal,85.0,1.0,False,-,-,-,-,-,Razor Leaf,Grass,55.0,0.95,True,-,-,-,-,-
+470,Cooltrainer Blake,route_27,quagsire,31,43,104,65,62,50,50,34,Ground/Water,Medium Fast,29791,Water Gun,Water,40.0,1.0,False,Slam,Normal,80.0,0.75,False,-,-,-,-,-,Earthquake,Ground,100.0,1.0,False
+471,Cooltrainer Reena,route_27,nidoqueen,33,43,107,63,70,59,66,63,Ground/Poison,Medium Slow,29949,Pound,Normal,40.0,1.0,False,Thief,Dark,40.0,1.0,False,-,-,-,-,-,Body Slam,Normal,85.0,1.0,False
+472,Psychic Gilbert,route_27,starmie,30,43,80,55,60,69,60,78,Psychic/Water,Slow,33750,Tackle,Normal,35.0,0.95,False,Rapid Spin,Normal,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+473,Psychic Gilbert,route_27,exeggcute,30,43,80,34,57,45,36,33,Grass/Psychic,Slow,33750,-,-,-,-,-,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False,-,-,-,-,-
+474,Cooltrainer Blake,route_27,magneton,33,43,81,53,72,89,56,59,Electric,Medium Fast,35937,Thunderbolt,Electric,95.0,1.0,False,-,-,-,-,-,Swift,Normal,60.0,1.0,False,-,-,-,-,-
+475,Cooltrainer Blake,route_27,exeggcute,31,43,83,37,59,47,37,37,Grass/Psychic,Slow,37238,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+476,Cooltrainer Reena,route_27,starmie,31,43,83,55,65,71,62,83,Psychic/Water,Slow,37238,Tackle,Normal,35.0,0.95,False,Rapid Spin,Normal,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+477,Cooltrainer Reena,route_27,starmie,31,43,83,55,65,71,62,83,Psychic/Water,Slow,37238,Tackle,Normal,35.0,0.95,False,Rapid Spin,Normal,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+478,Psychic Gilbert,route_27,girafarig,34,43,97,65,54,71,54,68,Normal/Psychic,Medium Fast,39304,Confusion,Psychic,50.0,1.0,False,Stomp,Normal,65.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+479,Cooltrainer Brian,route_27,sandslash,35,43,103,84,87,42,49,58,Ground,Medium Fast,42875,-,-,-,-,-,Poison Sting,Poison,15.0,1.0,False,Slash,Normal,70.0,1.0,True,Swift,Normal,60.0,1.0,False
+480,Bird Keeper Jose,route_27,farfetchd,35,43,87,56,49,51,54,52,Flying/Normal,Medium Fast,42875,-,-,-,-,-,Fury Attack,Normal,45.0,0.85,False,-,-,-,-,-,-,-,-,-,-
+481,Fisher Scott,route_26,qwilfish,30,45,83,67,54,42,42,60,Poison/Water,Medium Fast,27000,-,-,-,-,-,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Pin Missile,Bug,42.0,0.85,False
+482,Fisher Scott,route_26,qwilfish,30,45,83,67,54,42,42,60,Poison/Water,Medium Fast,27000,-,-,-,-,-,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Pin Missile,Bug,42.0,0.85,False
+483,Cooltrainer Joyce,route_26,blastoise,32,45,97,62,76,64,77,62,Water,Medium Slow,27021,Bite,Dark,60.0,1.0,False,Horn Attack,Normal,65.0,1.0,False,Surf,Water,95.0,1.0,False,-,-,-,-,-
+484,Cooltrainer Gaven,route_26,victreebel,32,45,98,80,51,74,48,57,Grass/Poison,Medium Slow,27021,Wrap,Normal,15.0,0.85,False,-,-,-,-,-,Acid,Poison,40.0,1.0,False,Razor Leaf,Grass,55.0,0.95,True
+485,Cooltrainer Gaven,route_26,kingler,32,45,82,96,83,42,42,60,Water,Medium Fast,32768,-,-,-,-,-,Stomp,Normal,65.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+486,Cooltrainer Gaven,route_26,flareon,32,45,88,96,48,70,80,54,Fire,Medium Fast,32768,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Bite,Dark,60.0,1.0,False,Fire Spin,Fire,15.0,0.7,False
+487,Cooltrainer Jake,route_26,parasect,33,45,87,76,63,49,63,32,Bug/Grass,Medium Fast,35937,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-,Slash,Normal,70.0,1.0,True,-,-,-,-,-
+488,Fisher Scott,route_26,seaking,34,45,103,73,54,54,64,56,Water,Medium Fast,39304,-,-,-,-,-,Horn Attack,Normal,65.0,1.0,False,-,-,-,-,-,Fury Attack,Normal,45.0,0.85,False
+489,Cooltrainer Jake,route_26,golduck,35,45,106,71,65,77,66,72,Water,Medium Fast,42875,Confusion,Psychic,50.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Fury Swipes,Normal,54.0,0.8,False
+490,Psychic Richard,route_26,espeon,36,45,98,58,53,104,79,89,Psychic,Medium Fast,46656,Confusion,Psychic,50.0,1.0,False,Quick Attack,Normal,40.0,1.0,False,Swift,Normal,60.0,1.0,False,Psybeam,Psychic,65.0,1.0,False
+491,Cooltrainer Joyce,route_26,pikachu,36,45,76,49,35,46,39,78,Electric,Medium Fast,46656,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-,Thunderbolt,Electric,95.0,1.0,False,Thunder,Electric,120.0,0.7,False
+492,Cooltrainer Beth,route_26,rapidash,36,45,98,82,64,68,68,89,Fire,Medium Fast,46656,Stomp,Normal,65.0,1.0,False,Fire Spin,Fire,15.0,0.7,False,Fury Attack,Normal,45.0,0.85,False,-,-,-,-,-
+493,Rival Silver,victory_road,sneasel,34,47,91,78,51,37,64,92,Dark/Ice,Medium Slow,33084,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-,Faint Attack,Dark,60.0,1.0,False,Fury Cutter,Bug,10.0,0.95,False
+494,Rival Silver,victory_road,haunter,35,47,87,49,45,94,52,80,Ghost/Poison,Medium Slow,36435,-,-,-,-,-,-,-,-,-,-,Shadow Ball,Ghost,80.0,1.0,False,-,-,-,-,-
+495,Rival Silver,victory_road,kadabra,35,47,83,38,35,98,63,87,Psychic,Medium Slow,36435,-,-,-,-,-,Psybeam,Psychic,65.0,1.0,False,-,-,-,-,-,Future Sight,Psychic,80.0,0.9,False
+496,Rival Silver,victory_road,magneton,34,47,88,54,78,95,61,61,Electric,Medium Fast,39304,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Swift,Normal,60.0,1.0,False
+497,Rival Silver,victory_road,golbat,36,47,110,71,64,61,68,79,Flying/Poison,Medium Fast,46656,Leech Life,Bug,20.0,1.0,False,Bite,Dark,60.0,1.0,False,-,-,-,-,-,Wing Attack,Flying,60.0,1.0,False
+498,Rival Silver,victory_road,feraligatr,38,47,124,94,90,74,77,74,Water,Medium Slow,47846,Rage,Normal,20.0,1.0,False,Water Gun,Water,40.0,1.0,False,-,-,-,-,-,Slash,Normal,70.0,1.0,True
+499,Rival Silver,victory_road,meganium,38,47,124,94,90,74,77,74,Grass,Medium Slow,47846,-,-,-,-,-,Razor Leaf,Grass,55.0,0.95,True,-,-,-,-,-,Body Slam,Normal,85.0,1.0,False
+500,Rival Silver,victory_road,typhlosion,38,47,124,94,90,74,77,74,Fire,Medium Slow,47846,-,-,-,-,-,Ember,Fire,40.0,1.0,False,Quick Attack,Normal,40.0,1.0,False,Flame Wheel,Fire,60.0,1.0,False
+501,Kanto Elite Four Koga,indigo_plateau_pokemon_league,ariados,40,48,114,87,70,63,63,47,Bug/Poison,Fast,51200,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Giga Drain,Grass,60.0,1.0,False
+502,Kanto Elite Four Will,indigo_plateau_pokemon_league,xatu,40,48,110,75,70,91,71,91,Flying/Psychic,Medium Fast,64000,Quick Attack,Normal,40.0,1.0,False,Future Sight,Psychic,80.0,0.9,False,-,-,-,-,-,Psychic,Psychic,90.0,1.0,False
+503,Kanto Elite Four Karen,indigo_plateau_pokemon_league,vileplume,42,48,127,78,89,101,93,57,Grass/Poison,Medium Slow,66505,-,-,-,-,-,Acid,Poison,40.0,1.0,False,-,-,-,-,-,Petal Dance,Grass,70.0,1.0,False
+504,Kanto Elite Four Will,indigo_plateau_pokemon_league,jynx,41,48,113,56,43,109,93,93,Ice/Psychic,Medium Fast,68921,-,-,-,-,-,-,-,-,-,-,Ice Punch,Ice,75.0,1.0,False,Psychic,Psychic,90.0,1.0,False
+505,Kanto Elite Four Will,indigo_plateau_pokemon_league,slowbro,41,48,137,77,105,97,81,40,Psychic/Water,Medium Fast,68921,-,-,-,-,-,-,-,-,-,-,Body Slam,Normal,85.0,1.0,False,Psychic,Psychic,90.0,1.0,False
+506,Kanto Elite Four Koga,indigo_plateau_pokemon_league,venomoth,41,48,117,68,64,89,78,89,Bug/Poison,Medium Fast,68921,-,-,-,-,-,Gust,Flying,40.0,1.0,False,Psychic,Psychic,90.0,1.0,False,-,-,-,-,-
+507,Kanto Elite Four Will,indigo_plateau_pokemon_league,xatu,42,48,115,78,73,95,74,95,Flying/Psychic,Medium Fast,74088,Quick Attack,Normal,40.0,1.0,False,Future Sight,Psychic,80.0,0.9,False,-,-,-,-,-,Psychic,Psychic,90.0,1.0,False
+508,Kanto Elite Four Koga,indigo_plateau_pokemon_league,muk,42,48,149,104,78,70,99,57,Poison,Medium Fast,74088,-,-,-,-,-,-,-,-,-,-,Sludge Bomb,Poison,90.0,1.0,False,-,-,-,-,-
+509,Kanto Elite Four Bruno,indigo_plateau_pokemon_league,hitmontop,42,48,103,95,94,45,108,74,Fighting,Medium Fast,74088,Pursuit,Dark,40.0,1.0,False,Quick Attack,Normal,40.0,1.0,False,Dig,Ground,60.0,1.0,False,-,-,-,-,-
+510,Kanto Elite Four Bruno,indigo_plateau_pokemon_league,hitmonlee,42,48,103,116,59,45,108,89,Fighting,Medium Fast,74088,-,-,-,-,-,Double Kick,Fighting,60.0,1.0,False,Hi Jump Kick,Fighting,85.0,0.9,False,-,-,-,-,-
+511,Kanto Elite Four Bruno,indigo_plateau_pokemon_league,hitmonchan,42,48,103,104,81,45,108,79,Fighting,Medium Fast,74088,-,-,-,-,-,Ice Punch,Ice,75.0,1.0,False,Fire Punch,Fire,75.0,1.0,False,Mach Punch,Fighting,40.0,1.0,False
+512,Kanto Elite Four Karen,indigo_plateau_pokemon_league,umbreon,42,48,144,65,110,68,125,70,Dark,Medium Fast,74088,-,-,-,-,-,-,-,-,-,-,Faint Attack,Dark,60.0,1.0,False,-,-,-,-,-
+513,Kanto Elite Four Karen,indigo_plateau_pokemon_league,murkrow,44,48,120,85,55,93,55,96,Dark/Flying,Medium Slow,77440,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-,Pursuit,Dark,40.0,1.0,False,Faint Attack,Dark,60.0,1.0,False
+514,Kanto Elite Four Koga,indigo_plateau_pokemon_league,forretress,43,48,126,93,135,67,67,50,Bug/Steel,Medium Fast,79507,-,-,-,-,-,Swift,Normal,60.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+515,Kanto Elite Four Bruno,indigo_plateau_pokemon_league,onix,43,48,92,54,152,41,54,76,Ground/Rock,Medium Fast,79507,Bind,Normal,15.0,0.75,False,Earthquake,Ground,100.0,1.0,False,-,-,-,-,-,Rock Slide,Rock,75.0,0.9,False
+516,Kanto Elite Four Karen,indigo_plateau_pokemon_league,gengar,45,48,122,69,72,135,86,115,Ghost/Poison,Medium Slow,83335,Lick,Ghost,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+517,Kanto Elite Four Koga,indigo_plateau_pokemon_league,crobat,44,48,138,95,85,78,86,130,Flying/Poison,Medium Fast,85184,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Wing Attack,Flying,60.0,1.0,False,-,-,-,-,-
+518,Kanto Elite Four Will,indigo_plateau_pokemon_league,exeggutor,41,48,137,93,84,118,68,60,Grass/Psychic,Slow,86151,-,-,-,-,-,-,-,-,-,-,Egg Bomb,Normal,100.0,0.75,False,Psychic,Psychic,90.0,1.0,False
+519,Kanto Elite Four Bruno,indigo_plateau_pokemon_league,machamp,46,48,148,136,89,76,95,67,Fighting,Medium Slow,89523,Rock Slide,Rock,75.0,0.9,False,-,-,-,-,-,Vital Throw,Fighting,70.0,1.0,False,Cross Chop,Fighting,100.0,0.8,True
+520,Champion Lance,indigo_plateau_pokemon_league,charizard,46,48,137,94,87,117,95,108,Fire/Flying,Medium Slow,89523,Flamethrower,Fire,95.0,1.0,False,Wing Attack,Flying,60.0,1.0,False,Slash,Normal,70.0,1.0,True,Hyper Beam,Normal,75.0,0.9,False
+521,Champion Lance,indigo_plateau_pokemon_league,gyarados,44,48,147,126,85,69,104,87,Flying/Water,Slow,106480,-,-,-,-,-,-,-,-,-,-,Surf,Water,95.0,1.0,False,Hyper Beam,Normal,75.0,0.9,False
+522,Champion Lance,indigo_plateau_pokemon_league,aerodactyl,46,48,139,113,75,72,85,136,Flying/Rock,Slow,121670,Wing Attack,Flying,60.0,1.0,False,-,-,-,-,-,Rock Slide,Rock,75.0,0.9,False,Hyper Beam,Normal,75.0,0.9,False
+523,Kanto Elite Four Karen,indigo_plateau_pokemon_league,houndoom,47,48,141,96,66,122,94,106,Dark/Fire,Slow,129778,-,-,-,-,-,Pursuit,Dark,40.0,1.0,False,Flamethrower,Fire,95.0,1.0,False,Crunch,Dark,80.0,1.0,False
+524,Champion Lance,indigo_plateau_pokemon_league,dragonite,47,48,152,143,105,111,111,92,Dragon/Flying,Slow,129778,-,-,-,-,-,Twister,Dragon,40.0,1.0,False,Thunder,Electric,120.0,0.7,False,Hyper Beam,Normal,75.0,0.9,False
+525,Champion Lance,indigo_plateau_pokemon_league,dragonite,47,48,152,143,105,111,111,92,Dragon/Flying,Slow,129778,-,-,-,-,-,Twister,Dragon,40.0,1.0,False,Blizzard,Ice,120.0,0.7,False,Hyper Beam,Normal,75.0,0.9,False
+526,Champion Lance,indigo_plateau_pokemon_league,dragonite,50,48,162,152,112,118,118,98,Dragon/Flying,Slow,156250,Fire Blast,Fire,120.0,0.85,False,Return,Normal,102.0,1.0,False,Outrage,Dragon,90.0,1.0,False,Hyper Beam,Normal,75.0,0.9,False
+527,Sailor Stanly,ss_aqua,psyduck,26,49,66,36,34,42,35,37,Water,Medium Fast,17576,-,-,-,-,-,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False,-,-,-,-,-
+528,Juggler Fritz,ss_aqua,machoke,29,49,90,68,50,38,44,35,Fighting,Medium Slow,19411,-,-,-,-,-,Karate Chop,Fighting,50.0,1.0,True,-,-,-,-,-,-,-,-,-,-
+529,Firebreather Lyle,ss_aqua,koffing,28,49,64,46,62,43,34,29,Poison,Medium Fast,21952,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+530,Firebreather Lyle,ss_aqua,koffing,28,49,64,46,62,43,34,29,Poison,Medium Fast,21952,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+531,Sailor Stanly,ss_aqua,machop,31,49,89,60,40,31,31,31,Fighting,Medium Slow,24294,Karate Chop,Fighting,50.0,1.0,True,-,-,-,-,-,-,-,-,-,-,Vital Throw,Fighting,70.0,1.0,False
+532,Juggler Fritz,ss_aqua,mr_mime,29,49,66,36,47,67,79,61,Psychic,Medium Fast,24389,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+533,Juggler Fritz,ss_aqua,magmar,29,49,81,65,42,67,58,63,Fire,Medium Fast,24389,-,-,-,-,-,Smog,Poison,20.0,0.7,False,Fire Punch,Fire,75.0,1.0,False,-,-,-,-,-
+534,Pokefan Colin,ss_aqua,delibird,32,49,75,45,38,51,38,58,Flying/Ice,Fast,26214,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+535,Hiker Noland,ss_aqua,sandslash,31,49,87,73,78,37,44,50,Ground,Medium Fast,29791,-,-,-,-,-,-,-,-,-,-,Poison Sting,Poison,15.0,1.0,False,Slash,Normal,70.0,1.0,True
+536,Firebreather Lyle,ss_aqua,flareon,31,49,86,91,47,68,78,50,Fire,Medium Fast,29791,-,-,-,-,-,Ember,Fire,40.0,1.0,False,Quick Attack,Normal,40.0,1.0,False,Bite,Dark,60.0,1.0,False
+537,Twins Meg  Peg,ss_aqua,teddiursa,31,49,78,58,40,40,40,36,Normal,Medium Fast,29791,Lick,Ghost,20.0,1.0,False,Fury Swipes,Normal,54.0,0.8,False,Faint Attack,Dark,60.0,1.0,False,-,-,-,-,-
+538,Twins Meg  Peg,ss_aqua,phanpy,31,49,96,45,47,34,34,36,Ground,Medium Fast,29791,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+539,Hiker Noland,ss_aqua,golem,33,49,95,84,96,46,53,39,Ground/Rock,Medium Slow,29949,Rock Throw,Rock,50.0,0.9,False,Magnitude,Ground,71.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+540,Sailor Stanly,ss_aqua,machoke,33,49,101,76,56,43,49,39,Fighting,Medium Slow,29949,-,-,-,-,-,Karate Chop,Fighting,50.0,1.0,True,-,-,-,-,-,-,-,-,-,-
+541,Sailor Jeff,ss_aqua,raticate,32,49,82,62,48,42,54,72,Normal,Medium Fast,32768,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False,-,-,-,-,-,Pursuit,Dark,40.0,1.0,False
+542,Sailor Jeff,ss_aqua,raticate,32,49,82,62,48,42,54,72,Normal,Medium Fast,32768,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False,-,-,-,-,-,Pursuit,Dark,40.0,1.0,False
+543,Picnicker Debra,ss_aqua,seaking,33,49,95,69,54,53,63,56,Water,Medium Fast,35937,-,-,-,-,-,Horn Attack,Normal,65.0,1.0,False,-,-,-,-,-,Fury Attack,Normal,45.0,0.85,False
+544,Guitarist Vincent,vermilion_city_gym,magnemite,27,50,54,28,47,60,39,33,Electric,Medium Fast,19683,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+545,Gentleman Gregory,vermilion_city_gym,flaaffy,33,50,94,47,46,63,49,39,Electric,Medium Slow,29949,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+546,Guitarist Vincent,vermilion_city_gym,magnemite,32,50,63,33,54,70,45,38,Electric,Medium Fast,32768,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+547,Guitarist Vincent,vermilion_city_gym,magnemite,32,50,63,33,54,70,45,38,Electric,Medium Fast,32768,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+548,Guitarist Vincent,vermilion_city_gym,voltorb,33,50,74,30,43,46,46,76,Electric,Medium Fast,35937,-,-,-,-,-,-,-,-,-,-,Rollout,Rock,30.0,0.9,False,-,-,-,-,-
+549,Juggler Horton,vermilion_city_gym,electrode,33,50,87,43,56,63,63,102,Electric,Medium Fast,35937,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Rollout,Rock,30.0,0.9,False
+550,Juggler Horton,vermilion_city_gym,electrode,33,50,87,43,56,63,63,102,Electric,Medium Fast,35937,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Rollout,Rock,30.0,0.9,False
+551,Juggler Horton,vermilion_city_gym,electrode,33,50,87,43,56,63,63,102,Electric,Medium Fast,35937,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Rollout,Rock,30.0,0.9,False
+552,Juggler Horton,vermilion_city_gym,electrode,33,50,87,43,56,63,63,102,Electric,Medium Fast,35937,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Rollout,Rock,30.0,0.9,False
+553,Gentleman Gregory,vermilion_city_gym,pikachu,37,50,78,52,33,47,40,77,Electric,Medium Fast,50653,-,-,-,-,-,Slam,Normal,80.0,0.75,False,Thunderbolt,Electric,95.0,1.0,False,-,-,-,-,-
+554,Gym Leader Lt Surge,vermilion_city_gym,electrode,40,50,104,52,67,75,75,123,Electric,Medium Fast,64000,-,-,-,-,-,-,-,-,-,-,Swift,Normal,60.0,1.0,False,-,-,-,-,-
+555,Gym Leader Lt Surge,vermilion_city_gym,magneton,40,50,96,60,87,107,67,67,Electric,Medium Fast,64000,-,-,-,-,-,-,-,-,-,-,Swift,Normal,60.0,1.0,False,Zap Cannon,Electric,100.0,0.5,False
+556,Gym Leader Lt Surge,vermilion_city_gym,electrode,40,50,104,52,67,75,75,123,Electric,Medium Fast,64000,-,-,-,-,-,-,-,-,-,-,Swift,Normal,60.0,1.0,False,-,-,-,-,-
+557,Gym Leader Lt Surge,vermilion_city_gym,raichu,44,50,113,92,60,91,82,100,Electric,Medium Fast,85184,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Thunderbolt,Electric,95.0,1.0,False,Thunder,Electric,120.0,0.7,False
+558,Gym Leader Lt Surge,vermilion_city_gym,electabuzz,46,50,123,89,64,99,90,108,Electric,Medium Fast,97336,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Thunder,Electric,120.0,0.7,False
+559,Pokefan Rex,route_6,phanpy,35,51,113,53,52,38,38,38,Ground,Medium Fast,42875,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Rollout,Rock,30.0,0.9,False
+560,Pokefan Allan,route_6,teddiursa,35,51,92,67,45,45,45,38,Normal,Medium Fast,42875,Lick,Ghost,20.0,1.0,False,Fury Swipes,Normal,54.0,0.8,False,Faint Attack,Dark,60.0,1.0,False,-,-,-,-,-
+561,Psychic Jared,saffron_city_gym,mr_mime,32,52,72,39,51,74,86,67,Psychic,Medium Fast,32768,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+562,Medium Doris,saffron_city_gym,slowpoke,34,52,110,53,54,37,37,20,Psychic/Water,Medium Fast,39304,Water Gun,Water,40.0,1.0,False,Confusion,Psychic,50.0,1.0,False,-,-,-,-,-,Headbutt,Normal,70.0,1.0,False
+563,Psychic Jared,saffron_city_gym,exeggcute,32,52,85,36,45,48,38,35,Grass/Psychic,Slow,40960,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+564,Medium Rebecca,saffron_city_gym,drowzee,35,52,92,37,42,40,73,40,Psychic,Medium Fast,42875,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False,Headbutt,Normal,70.0,1.0,False,-,-,-,-,-
+565,Medium Rebecca,saffron_city_gym,hypno,35,52,110,61,59,61,91,57,Psychic,Medium Fast,42875,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False,Headbutt,Normal,70.0,1.0,False,-,-,-,-,-
+566,Psychic Franklin,saffron_city_gym,kadabra,37,52,82,37,33,99,62,88,Psychic,Medium Slow,43808,-,-,-,-,-,Psybeam,Psychic,65.0,1.0,False,-,-,-,-,-,Future Sight,Psychic,80.0,0.9,False
+567,Medium Doris,saffron_city_gym,slowbro,36,52,120,64,89,82,68,32,Psychic/Water,Medium Fast,46656,Water Gun,Water,40.0,1.0,False,Confusion,Psychic,50.0,1.0,False,-,-,-,-,-,Headbutt,Normal,70.0,1.0,False
+568,Psychic Jared,saffron_city_gym,exeggcute,35,52,92,39,66,52,42,38,Grass/Psychic,Slow,53593,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+569,Gym Leader Sabrina,saffron_city_gym,espeon,46,52,127,71,72,131,98,113,Psychic,Medium Fast,97336,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Swift,Normal,60.0,1.0,False,Psychic,Psychic,90.0,1.0,False
+570,Gym Leader Sabrina,saffron_city_gym,mr_mime,46,52,104,52,76,103,121,95,Psychic,Medium Fast,97336,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Psychic,Psychic,90.0,1.0,False
+571,Gym Leader Sabrina,saffron_city_gym,alakazam,48,52,123,59,60,141,93,127,Psychic,Medium Slow,102810,-,-,-,-,-,Future Sight,Psychic,80.0,0.9,False,Psychic,Psychic,90.0,1.0,False,-,-,-,-,-
+572,Biker Dwayne,route_8,koffing,27,53,62,44,60,41,33,28,Poison,Medium Fast,19683,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+573,Biker Dwayne,route_8,koffing,28,53,64,46,62,43,34,29,Poison,Medium Fast,21952,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+574,Biker Dwayne,route_8,koffing,29,53,66,47,64,44,35,29,Poison,Medium Fast,24389,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+575,Biker Dwayne,route_8,koffing,30,53,68,49,66,45,36,30,Poison,Medium Fast,27000,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+576,Biker Zeke,route_8,koffing,32,53,72,52,70,48,38,32,Poison,Medium Fast,32768,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+577,Biker Zeke,route_8,koffing,32,53,72,52,70,48,38,32,Poison,Medium Fast,32768,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+578,Super Nerd Tom,route_8,magnemite,32,53,63,33,54,70,45,38,Electric,Medium Fast,32768,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+579,Super Nerd Tom,route_8,magnemite,32,53,63,33,54,70,45,38,Electric,Medium Fast,32768,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+580,Super Nerd Tom,route_8,magnemite,32,53,63,33,54,70,45,38,Electric,Medium Fast,32768,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+581,Biker Harris,route_8,flareon,34,53,93,99,51,75,85,54,Fire,Medium Fast,39304,-,-,-,-,-,Ember,Fire,40.0,1.0,False,Quick Attack,Normal,40.0,1.0,False,Bite,Dark,60.0,1.0,False
+582,Super Nerd Sam,route_8,grimer,34,53,103,65,44,37,44,27,Poison,Medium Fast,39304,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+583,Super Nerd Sam,route_8,muk,34,53,120,82,61,54,78,44,Poison,Medium Fast,39304,-,-,-,-,-,Pound,Normal,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+584,Pokefan Robert,route_10,quagsire,33,55,110,67,66,53,53,33,Ground/Water,Medium Fast,35937,Water Gun,Water,40.0,1.0,False,-,-,-,-,-,Slam,Normal,80.0,0.75,False,-,-,-,-,-
+585,Hiker Jim,route_10,machamp,35,55,108,103,66,56,70,49,Fighting,Medium Slow,36435,Karate Chop,Fighting,50.0,1.0,True,-,-,-,-,-,-,-,-,-,-,Vital Throw,Fighting,70.0,1.0,False
+586,Camper Sid,route_9,poliwrath,29,57,95,59,64,50,61,50,Fighting/Water,Medium Slow,19411,Water Gun,Water,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+587,Picnicker Edna,route_9,nidorina,30,57,82,45,51,42,42,44,Poison,Medium Slow,21760,Scratch,Normal,40.0,1.0,False,Double Kick,Fighting,60.0,1.0,False,Poison Sting,Poison,15.0,1.0,False,-,-,-,-,-
+588,Hiker Tim,route_9,graveler,31,57,75,70,81,37,37,31,Ground/Rock,Medium Slow,24294,Rock Throw,Rock,50.0,0.9,False,Magnitude,Ground,71.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+589,Hiker Tim,route_9,graveler,31,57,75,70,81,37,37,31,Ground/Rock,Medium Slow,24294,Rock Throw,Rock,50.0,0.9,False,Magnitude,Ground,71.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+590,Hiker Tim,route_9,graveler,31,57,75,70,81,37,37,31,Ground/Rock,Medium Slow,24294,Rock Throw,Rock,50.0,0.9,False,Magnitude,Ground,71.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+591,Camper Sid,route_9,primeape,29,57,81,71,44,44,50,64,Fighting,Medium Fast,24389,Rage,Normal,20.0,1.0,False,Karate Chop,Fighting,50.0,1.0,True,Fury Swipes,Normal,54.0,0.8,False,-,-,-,-,-
+592,Picnicker Heidi,route_9,skiploom,32,57,77,37,43,38,51,62,Flying/Grass,Medium Slow,27021,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+593,Picnicker Heidi,route_9,skiploom,32,57,77,37,43,38,51,62,Flying/Grass,Medium Slow,27021,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+594,Camper Dean,route_9,sandslash,31,57,92,72,78,37,44,50,Ground,Medium Fast,29791,-,-,-,-,-,-,-,-,-,-,Poison Sting,Poison,15.0,1.0,False,Slash,Normal,70.0,1.0,True
+595,Camper Sid,route_9,dugtrio,32,57,69,61,42,42,54,86,Ground,Medium Fast,32768,-,-,-,-,-,Magnitude,Ground,71.0,1.0,False,Dig,Ground,60.0,1.0,False,-,-,-,-,-
+596,Hiker Sidney,route_9,onix,32,57,64,40,112,29,38,54,Ground/Rock,Medium Fast,32768,Bind,Normal,15.0,0.75,False,Rock Throw,Rock,50.0,0.9,False,-,-,-,-,-,Rage,Normal,20.0,1.0,False
+597,Camper Dean,route_9,golduck,33,57,101,65,61,72,63,66,Water,Medium Fast,35937,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+598,Picnicker Edna,route_9,raichu,34,57,84,70,49,71,64,79,Electric,Medium Fast,39304,-,-,-,-,-,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Thunderbolt,Electric,95.0,1.0,False
+599,Hiker Sidney,route_9,dugtrio,34,57,67,66,44,44,58,92,Ground,Medium Fast,39304,-,-,-,-,-,Magnitude,Ground,71.0,1.0,False,Dig,Ground,60.0,1.0,False,-,-,-,-,-
+600,Lass Ellen,route_24,wigglytuff,30,60,128,50,36,54,39,36,Normal,Fast,21600,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+601,Rocket Grunt,route_24,golbat,30,60,89,60,51,48,54,65,Flying/Poison,Medium Fast,27000,-,-,-,-,-,Bite,Dark,60.0,1.0,False,-,-,-,-,-,Wing Attack,Flying,60.0,1.0,False
+602,Lass Ellen,route_24,granbull,34,60,110,90,61,51,51,41,Normal,Fast,31443,-,-,-,-,-,Bite,Dark,60.0,1.0,False,Lick,Ghost,20.0,1.0,False,-,-,-,-,-
+603,Schoolboy Dudley,route_24,wigglytuff,35,60,82,46,49,63,56,31,Normal,Fast,34300,-,-,-,-,-,-,-,-,-,-,Acid,Poison,40.0,1.0,False,-,-,-,-,-
+604,Lass Laura,route_25,gloom,28,61,76,44,48,57,51,31,Grass/Poison,Medium Slow,17242,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Acid,Poison,40.0,1.0,False
+605,Lass Laura,route_25,pidgeotto,31,61,85,45,44,40,40,53,Flying/Normal,Medium Slow,24294,-,-,-,-,-,Gust,Flying,40.0,1.0,False,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-
+606,Lass Laura,route_25,bellossom,31,61,92,57,62,65,71,40,Grass,Medium Slow,24294,Absorb,Grass,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Petal Dance,Grass,70.0,1.0,False
+607,Lass Shannon,route_25,paras,29,61,63,48,41,35,41,24,Bug/Grass,Medium Fast,24389,-,-,-,-,-,-,-,-,-,-,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-
+608,Lass Shannon,route_25,paras,29,61,63,48,41,35,41,24,Bug/Grass,Medium Fast,24389,-,-,-,-,-,-,-,-,-,-,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-
+609,Lass Shannon,route_25,parasect,32,61,85,69,61,48,61,29,Bug/Grass,Medium Fast,32768,-,-,-,-,-,-,-,-,-,-,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-
+610,Camper Lloyd,route_25,nidoking,34,61,104,72,62,68,61,68,Ground/Poison,Medium Slow,33084,Horn Attack,Normal,65.0,1.0,False,Double Kick,Fighting,60.0,1.0,False,Poison Sting,Poison,15.0,1.0,False,Thrash,Normal,90.0,1.0,False
+611,Schoolboy Joe,route_25,tangela,33,61,91,47,86,76,36,49,Grass,Medium Fast,35937,-,-,-,-,-,Vine Whip,Grass,35.0,1.0,False,Bind,Normal,15.0,0.75,False,Mega Drain,Grass,40.0,1.0,False
+612,Schoolboy Joe,route_25,vaporeon,33,61,134,53,49,82,72,53,Water,Medium Fast,35937,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Quick Attack,Normal,40.0,1.0,False,Bite,Dark,60.0,1.0,False
+613,Cooltrainer Kevin,route_25,charmeleon,35,61,91,58,51,66,56,69,Fire,Medium Slow,36435,-,-,-,-,-,Rage,Normal,20.0,1.0,False,-,-,-,-,-,Flamethrower,Fire,95.0,1.0,False
+614,Cooltrainer Kevin,route_25,wartortle,35,61,91,58,66,56,66,54,Water,Medium Slow,36435,Water Gun,Water,40.0,1.0,False,Karate Chop,Fighting,50.0,1.0,True,Rapid Spin,Normal,20.0,1.0,False,-,-,-,-,-
+615,Super Nerd Pat,route_25,porygon,36,61,98,54,61,71,64,39,Normal,Medium Fast,46656,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Tri Attack,Normal,80.0,1.0,False
+616,Cooltrainer Kevin,route_25,rhyhorn,38,61,114,79,83,33,33,33,Ground/Rock,Slow,68590,Stomp,Normal,65.0,1.0,False,Fury Attack,Normal,45.0,0.85,False,-,-,-,-,-,-,-,-,-,-
+617,Swimmer Parker,cerulean_city_gym,horsea,32,62,66,36,54,54,26,48,Water,Medium Fast,32768,-,-,-,-,-,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Twister,Dragon,40.0,1.0,False
+618,Swimmer Parker,cerulean_city_gym,horsea,32,62,66,36,54,54,26,48,Water,Medium Fast,32768,-,-,-,-,-,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Twister,Dragon,40.0,1.0,False
+619,Swimmer Brianna,cerulean_city_gym,seaking,35,62,106,74,56,56,66,58,Water,Medium Fast,42875,-,-,-,-,-,Horn Attack,Normal,65.0,1.0,False,-,-,-,-,-,Fury Attack,Normal,45.0,0.85,False
+620,Swimmer Brianna,cerulean_city_gym,seaking,35,62,106,74,56,56,66,58,Water,Medium Fast,42875,-,-,-,-,-,Horn Attack,Normal,65.0,1.0,False,-,-,-,-,-,Fury Attack,Normal,45.0,0.85,False
+621,Swimmer Parker,cerulean_city_gym,seadra,35,62,89,56,77,77,42,70,Water,Medium Fast,42875,-,-,-,-,-,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Twister,Dragon,40.0,1.0,False
+622,Swimmer Diana,cerulean_city_gym,golduck,37,62,112,70,68,81,70,73,Water,Medium Fast,50653,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+623,Gym Leader Misty,cerulean_city_gym,golduck,42,62,125,79,77,91,78,83,Water,Medium Fast,74088,Surf,Water,95.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Psychic,Psychic,90.0,1.0,False
+624,Gym Leader Misty,cerulean_city_gym,quagsire,42,62,138,82,83,66,66,41,Ground/Water,Medium Fast,74088,Surf,Water,95.0,1.0,False,-,-,-,-,-,Earthquake,Ground,100.0,1.0,False,-,-,-,-,-
+625,Gym Leader Misty,cerulean_city_gym,lapras,44,62,175,85,82,86,95,64,Ice/Water,Slow,106480,Surf,Water,95.0,1.0,False,-,-,-,-,-,Blizzard,Ice,120.0,0.7,False,-,-,-,-,-
+626,Gym Leader Misty,cerulean_city_gym,starmie,47,62,120,82,92,106,92,120,Psychic/Water,Slow,129778,Surf,Water,95.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Ice Beam,Ice,95.0,1.0,False
+627,Lass Michelle,celadon_city_gym,skiploom,32,65,82,37,42,38,51,61,Flying/Grass,Medium Slow,27021,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+628,Lass Michelle,celadon_city_gym,hoppip,33,65,71,31,36,33,46,43,Flying/Grass,Medium Slow,29949,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Mega Drain,Grass,40.0,1.0,False
+629,Beauty Julia,celadon_city_gym,paras,32,65,66,53,45,38,45,28,Bug/Grass,Medium Fast,32768,-,-,-,-,-,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-,Slash,Normal,70.0,1.0,True
+630,Lass Michelle,celadon_city_gym,jumpluff,34,65,100,45,58,47,68,85,Flying/Grass,Medium Slow,33084,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+631,Twins Jo  Zoe,celadon_city_gym,victreebel,35,65,101,82,56,80,52,61,Grass/Poison,Medium Slow,36435,Vine Whip,Grass,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Razor Leaf,Grass,55.0,0.95,True
+632,Twins Jo  Zoe,celadon_city_gym,vileplume,35,65,97,65,70,80,64,47,Grass/Poison,Medium Slow,36435,Absorb,Grass,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Petal Dance,Grass,70.0,1.0,False
+633,Beauty Julia,celadon_city_gym,exeggcute,32,65,82,34,61,48,38,38,Grass/Psychic,Slow,40960,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False,Fire Blast,Fire,120.0,0.85,False,-,-,-,-,-
+634,Beauty Julia,celadon_city_gym,parasect,35,65,89,75,67,52,66,34,Bug/Grass,Medium Fast,42875,-,-,-,-,-,-,-,-,-,-,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-
+635,Gym Leader Erika,celadon_city_gym,jumpluff,41,65,119,55,68,56,81,101,Flying/Grass,Medium Slow,61450,Mega Drain,Grass,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Giga Drain,Grass,60.0,1.0,False
+636,Picnicker Tanya,celadon_city_gym,exeggutor,37,65,117,79,75,103,59,53,Grass/Psychic,Slow,63316,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False,Stomp,Normal,65.0,1.0,False,Egg Bomb,Normal,100.0,0.75,False
+637,Gym Leader Erika,celadon_city_gym,tangela,42,65,113,57,108,84,45,62,Grass,Medium Fast,74088,Vine Whip,Grass,35.0,1.0,False,Bind,Normal,15.0,0.75,False,Giga Drain,Grass,60.0,1.0,False,-,-,-,-,-
+638,Gym Leader Erika,celadon_city_gym,victreebel,46,65,136,108,72,104,67,76,Grass/Poison,Medium Slow,89523,-,-,-,-,-,-,-,-,-,-,Acid,Poison,40.0,1.0,False,Razor Leaf,Grass,55.0,0.95,True
+639,Gym Leader Erika,celadon_city_gym,bellossom,46,65,132,85,90,95,104,58,Grass,Medium Slow,89523,-,-,-,-,-,-,-,-,-,-,Petal Dance,Grass,70.0,1.0,False,-,-,-,-,-
+640,Biker Charles,route_17,charmeleon,30,67,79,48,44,57,48,57,Fire,Medium Slow,21760,Ember,Fire,40.0,1.0,False,-,-,-,-,-,Rage,Normal,20.0,1.0,False,-,-,-,-,-
+641,Biker Glenn,route_17,koffing,28,67,64,46,62,43,34,29,Poison,Medium Fast,21952,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+642,Biker Glenn,route_17,magmar,30,67,83,67,44,69,60,65,Fire,Medium Fast,27000,-,-,-,-,-,Smog,Poison,20.0,0.7,False,Fire Punch,Fire,75.0,1.0,False,-,-,-,-,-
+643,Biker Charles,route_17,koffing,30,67,68,49,66,45,36,30,Poison,Medium Fast,27000,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+644,Biker Charles,route_17,weezing,30,67,83,64,81,60,51,45,Poison,Medium Fast,27000,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+645,Biker Glenn,route_17,weezing,32,67,88,68,86,64,54,48,Poison,Medium Fast,32768,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+646,Biker Joel,route_17,magmar,32,67,88,71,46,74,64,69,Fire,Medium Fast,32768,-,-,-,-,-,Smog,Poison,20.0,0.7,False,Fire Punch,Fire,75.0,1.0,False,-,-,-,-,-
+647,Biker Joel,route_17,magmar,32,67,88,71,46,74,64,69,Fire,Medium Fast,32768,-,-,-,-,-,Smog,Poison,20.0,0.7,False,Fire Punch,Fire,75.0,1.0,False,-,-,-,-,-
+648,Biker Riley,route_17,weezing,34,67,93,72,92,68,58,51,Poison,Medium Fast,39304,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+649,Bird Keeper Boris,route_18,doduo,28,68,62,57,34,29,29,51,Flying/Normal,Medium Fast,21952,Pursuit,Dark,40.0,1.0,False,Fury Attack,Normal,45.0,0.85,False,Tri Attack,Normal,80.0,1.0,False,Rage,Normal,20.0,1.0,False
+650,Bird Keeper Boris,route_18,doduo,30,68,65,61,36,30,30,54,Flying/Normal,Medium Fast,27000,Pursuit,Dark,40.0,1.0,False,Fury Attack,Normal,45.0,0.85,False,Tri Attack,Normal,80.0,1.0,False,Rage,Normal,20.0,1.0,False
+651,Bird Keeper Boris,route_18,dodrio,32,68,85,81,54,48,48,74,Flying/Normal,Medium Fast,32768,Pursuit,Dark,40.0,1.0,False,Fury Attack,Normal,45.0,0.85,False,Tri Attack,Normal,80.0,1.0,False,Rage,Normal,20.0,1.0,False
+652,Bird Keeper Bob,route_18,noctowl,34,68,117,45,44,62,75,58,Flying/Normal,Medium Fast,39304,Peck,Flying,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+653,Lass Linda,fuschia_city_gym,bulbasaur,30,69,71,37,39,48,48,36,Grass/Poison,Medium Slow,21760,-,-,-,-,-,-,-,-,-,-,Razor Leaf,Grass,55.0,0.95,True,-,-,-,-,-
+654,Lass Alice,fuschia_city_gym,gloom,30,69,80,47,51,60,54,33,Grass/Poison,Medium Slow,21760,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Acid,Poison,40.0,1.0,False
+655,Lass Alice,fuschia_city_gym,gloom,30,69,80,47,51,60,54,33,Grass/Poison,Medium Slow,21760,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Acid,Poison,40.0,1.0,False
+656,Lass Linda,fuschia_city_gym,ivysaur,32,69,85,47,50,61,61,48,Grass/Poison,Medium Slow,27021,-,-,-,-,-,-,-,-,-,-,Razor Leaf,Grass,55.0,0.95,True,-,-,-,-,-
+657,Gym Leader Janine,fuschia_city_gym,ariados,33,69,94,70,56,49,49,36,Bug/Poison,Fast,28749,-,-,-,-,-,Giga Drain,Grass,60.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+658,Lass Linda,fuschia_city_gym,venusaur,34,69,103,64,66,78,78,64,Grass/Poison,Medium Slow,33084,-,-,-,-,-,-,-,-,-,-,Razor Leaf,Grass,55.0,0.95,True,-,-,-,-,-
+659,Lass Alice,fuschia_city_gym,arbok,34,69,90,66,57,54,64,64,Poison,Medium Fast,39304,Poison Sting,Poison,15.0,1.0,False,Bite,Dark,60.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+660,Picnicker Cindy,fuschia_city_gym,nidoqueen,36,69,110,68,74,64,71,66,Ground/Poison,Medium Slow,40007,Scratch,Normal,40.0,1.0,False,Double Kick,Fighting,60.0,1.0,False,-,-,-,-,-,Body Slam,Normal,85.0,1.0,False
+661,Camper Barry,fuschia_city_gym,nidoking,36,69,110,77,66,71,64,71,Ground/Poison,Medium Slow,40007,Horn Attack,Normal,65.0,1.0,False,Double Kick,Fighting,60.0,1.0,False,Poison Sting,Poison,15.0,1.0,False,Thrash,Normal,90.0,1.0,False
+662,Gym Leader Janine,fuschia_city_gym,crobat,36,69,112,76,68,61,68,104,Flying/Poison,Medium Fast,46656,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Wing Attack,Flying,60.0,1.0,False
+663,Gym Leader Janine,fuschia_city_gym,weezing,36,69,98,76,97,71,61,53,Poison,Medium Fast,46656,Smog,Poison,20.0,0.7,False,Sludge Bomb,Poison,90.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+664,Gym Leader Janine,fuschia_city_gym,weezing,36,69,98,76,97,71,61,53,Poison,Medium Fast,46656,Smog,Poison,20.0,0.7,False,Sludge Bomb,Poison,90.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+665,Gym Leader Janine,fuschia_city_gym,venomoth,39,69,109,62,58,81,69,81,Bug/Poison,Medium Fast,59319,-,-,-,-,-,-,-,-,-,-,Gust,Flying,40.0,1.0,False,Psychic,Psychic,90.0,1.0,False
+666,Schoolboy Billy,route_15,poliwhirl,27,70,76,44,44,36,36,57,Water,Medium Slow,15244,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+667,Schoolboy Johnny,route_15,bellsprout,29,70,72,53,29,50,27,32,Grass/Poison,Medium Slow,19411,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Acid,Poison,40.0,1.0,False
+668,Schoolboy Billy,route_15,paras,27,70,60,47,39,33,39,22,Bug/Grass,Medium Fast,19683,-,-,-,-,-,-,-,-,-,-,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-
+669,Schoolboy Billy,route_15,paras,27,70,60,47,39,33,39,22,Bug/Grass,Medium Fast,19683,-,-,-,-,-,-,-,-,-,-,Leech Life,Bug,20.0,1.0,False,-,-,-,-,-
+670,Schoolboy Kip,route_15,voltorb,27,70,62,26,36,39,39,63,Electric,Medium Fast,19683,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+671,Schoolboy Kip,route_15,magnemite,27,70,54,28,47,60,39,33,Electric,Medium Fast,19683,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+672,Schoolboy Johnny,route_15,weepinbell,31,70,86,66,40,62,37,44,Grass/Poison,Medium Slow,24294,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Acid,Poison,40.0,1.0,False
+673,Teacher Hillary,route_15,aipom,32,70,77,53,45,35,45,64,Normal,Fast,26214,-,-,-,-,-,-,-,-,-,-,Fury Swipes,Normal,54.0,0.8,False,Swift,Normal,60.0,1.0,False
+674,Schoolboy Kip,route_15,voltorb,31,70,70,29,40,44,44,71,Electric,Medium Fast,29791,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Rollout,Rock,30.0,0.9,False
+675,Schoolboy Kip,route_15,magneton,31,70,76,47,68,84,53,53,Electric,Medium Fast,29791,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+676,Schoolboy Johnny,route_15,victreebel,33,70,101,80,53,76,49,56,Grass/Poison,Medium Slow,29949,Vine Whip,Grass,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Razor Leaf,Grass,55.0,0.95,True
+677,Schoolboy Tommy,route_15,alakazam,34,70,86,45,41,102,68,92,Psychic,Medium Slow,33084,-,-,-,-,-,Psybeam,Psychic,65.0,1.0,False,-,-,-,-,-,Future Sight,Psychic,80.0,0.9,False
+678,Teacher Colette,route_15,clefairy,36,70,96,41,45,53,57,35,Normal,Fast,37324,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+679,Schoolboy Tommy,route_15,gyarados,32,70,88,58,54,70,54,70,Flying/Water,Slow,40960,Peck,Flying,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+680,Schoolboy Billy,route_15,ditto,35,70,84,44,44,44,44,44,Normal,Medium Fast,42875,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+681,Teacher Hillary,route_15,cubone,36,70,82,45,79,39,46,35,Ground,Medium Fast,46656,-,-,-,-,-,Bonemerang,Ground,100.0,0.9,False,Rage,Normal,20.0,1.0,False,False Swipe,Normal,40.0,1.0,False
+682,Pokefan Carter,route_14,bulbasaur,29,71,69,38,38,47,47,35,Grass/Poison,Medium Slow,19411,-,-,-,-,-,-,-,-,-,-,Razor Leaf,Grass,55.0,0.95,True,-,-,-,-,-
+683,Pokefan Carter,route_14,charmander,29,71,69,38,47,38,46,34,Fire,Medium Slow,19411,Water Gun,Water,40.0,1.0,False,Bite,Dark,60.0,1.0,False,Rapid Spin,Normal,20.0,1.0,False,-,-,-,-,-
+684,Pokefan Carter,route_14,squirtle,29,71,66,40,34,44,38,47,Water,Medium Slow,19411,Ember,Fire,40.0,1.0,False,-,-,-,-,-,Rage,Normal,20.0,1.0,False,-,-,-,-,-
+685,Bird Keeper Roy,route_14,fearow,29,71,81,62,47,45,45,67,Flying/Normal,Medium Fast,24389,-,-,-,-,-,-,-,-,-,-,Fury Attack,Normal,45.0,0.85,False,Pursuit,Dark,40.0,1.0,False
+686,Bird Keeper Roy,route_14,fearow,35,71,96,106,56,53,53,80,Flying/Normal,Medium Fast,42875,-,-,-,-,-,Fury Attack,Normal,45.0,0.85,False,Pursuit,Dark,40.0,1.0,False,-,-,-,-,-
+687,Pokefan Joshua,route_13,pikachu,23,72,52,34,22,31,27,50,Electric,Medium Fast,12167,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-,Slam,Normal,80.0,0.75,False
+688,Pokefan Joshua,route_13,pikachu,23,72,52,34,22,31,27,50,Electric,Medium Fast,12167,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-,Slam,Normal,80.0,0.75,False
+689,Pokefan Joshua,route_13,pikachu,23,72,52,34,22,31,27,50,Electric,Medium Fast,12167,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-,Slam,Normal,80.0,0.75,False
+690,Pokefan Joshua,route_13,pikachu,23,72,52,34,22,31,27,50,Electric,Medium Fast,12167,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-,Slam,Normal,80.0,0.75,False
+691,Pokefan Joshua,route_13,pikachu,23,72,52,34,22,31,27,50,Electric,Medium Fast,12167,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-,Slam,Normal,80.0,0.75,False
+692,Pokefan Alex,route_13,nidoking,29,72,90,63,54,58,53,58,Ground/Poison,Medium Slow,19411,Horn Attack,Normal,65.0,1.0,False,Double Kick,Fighting,60.0,1.0,False,Poison Sting,Poison,15.0,1.0,False,Thrash,Normal,90.0,1.0,False
+693,Hiker Kenny,route_13,graveler,29,72,70,65,76,35,35,29,Ground/Rock,Medium Slow,19411,Rock Throw,Rock,50.0,0.9,False,Magnitude,Ground,71.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+694,Hiker Kenny,route_13,graveler,29,72,70,65,76,35,35,29,Ground/Rock,Medium Slow,19411,Rock Throw,Rock,50.0,0.9,False,Magnitude,Ground,71.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+695,Hiker Kenny,route_13,sandslash,27,72,77,64,68,33,39,44,Ground,Medium Fast,19683,-,-,-,-,-,-,-,-,-,-,Poison Sting,Poison,15.0,1.0,False,Slash,Normal,70.0,1.0,True
+696,Hiker Kenny,route_13,golem,31,72,90,79,90,44,50,37,Ground/Rock,Medium Slow,24294,Rock Throw,Rock,50.0,0.9,False,Magnitude,Ground,71.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+697,Pokefan Alex,route_13,slowking,29,72,98,53,56,67,73,27,Psychic/Water,Medium Fast,24389,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Confusion,Psychic,50.0,1.0,False,-,-,-,-,-
+698,Pokefan Alex,route_13,seaking,29,72,90,63,47,47,56,49,Water,Medium Fast,24389,-,-,-,-,-,Horn Attack,Normal,65.0,1.0,False,-,-,-,-,-,Fury Attack,Normal,45.0,0.85,False
+699,Bird Keeper Bret,route_13,pidgeotto,32,72,87,49,45,42,42,55,Flying/Normal,Medium Slow,27021,-,-,-,-,-,Gust,Flying,40.0,1.0,False,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-
+700,Bird Keeper Bret,route_13,fearow,32,72,88,68,51,49,49,74,Flying/Normal,Medium Fast,32768,-,-,-,-,-,Fury Attack,Normal,45.0,0.85,False,Pursuit,Dark,40.0,1.0,False,-,-,-,-,-
+701,Bird Keeper Perry,route_13,farfetchd,34,72,84,55,47,49,52,51,Flying/Normal,Medium Fast,39304,-,-,-,-,-,Fury Attack,Normal,45.0,0.85,False,Pursuit,Dark,40.0,1.0,False,-,-,-,-,-
+702,Fisher Stephen,route_12,magikarp,25,73,49,14,36,16,19,49,Water,Slow,19531,-,-,-,-,-,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-
+703,Fisher Stephen,route_12,magikarp,25,73,49,14,36,16,19,49,Water,Slow,19531,-,-,-,-,-,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,-,-,-,-,-
+704,Fisher Kyle,route_12,seaking,28,73,87,61,45,45,54,47,Water,Medium Fast,21952,-,-,-,-,-,-,-,-,-,-,Horn Attack,Normal,65.0,1.0,False,-,-,-,-,-
+705,Fisher Kyle,route_12,poliwhirl,31,73,86,50,50,40,40,65,Water,Medium Slow,24294,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+706,Fisher Kyle,route_12,seaking,31,73,95,67,50,50,59,52,Water,Medium Fast,29791,-,-,-,-,-,Horn Attack,Normal,65.0,1.0,False,-,-,-,-,-,Fury Attack,Normal,45.0,0.85,False
+707,Fisher Stephen,route_12,qwilfish,31,73,86,69,56,44,44,62,Poison/Water,Medium Fast,29791,-,-,-,-,-,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Pin Missile,Bug,42.0,0.85,False
+708,Fisher Martin,route_12,remoraid,32,73,69,52,32,51,32,51,Water,Medium Fast,32768,-,-,-,-,-,Psybeam,Psychic,65.0,1.0,False,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+709,Fisher Martin,route_12,remoraid,32,73,69,52,32,51,32,51,Water,Medium Fast,32768,-,-,-,-,-,Psybeam,Psychic,65.0,1.0,False,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+710,Fisher Barney,route_12,gyarados,30,73,101,85,57,45,69,58,Flying/Water,Slow,33750,Thrash,Normal,90.0,1.0,False,Bite,Dark,60.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+711,Fisher Barney,route_12,gyarados,30,73,101,85,57,45,69,58,Flying/Water,Slow,33750,Thrash,Normal,90.0,1.0,False,Bite,Dark,60.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+712,Fisher Barney,route_12,gyarados,30,73,101,85,57,45,69,58,Flying/Water,Slow,33750,Thrash,Normal,90.0,1.0,False,Bite,Dark,60.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+713,Fisher Stephen,route_12,tentacruel,31,73,95,53,50,59,84,71,Poison/Water,Slow,37238,Constrict,Normal,10.0,1.0,False,Acid,Poison,40.0,1.0,False,-,-,-,-,-,Wrap,Normal,15.0,0.85,False
+714,Psychic Herman,route_11,exeggcute,30,74,80,34,57,45,36,33,Grass/Psychic,Slow,33750,-,-,-,-,-,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False,-,-,-,-,-
+715,Psychic Herman,route_11,exeggcute,30,74,80,34,57,45,36,33,Grass/Psychic,Slow,33750,-,-,-,-,-,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False,-,-,-,-,-
+716,Psychic Herman,route_11,exeggutor,30,74,101,67,60,84,48,42,Grass/Psychic,Slow,33750,Barrage,Normal,45.0,0.85,False,-,-,-,-,-,Confusion,Psychic,50.0,1.0,False,Stomp,Normal,65.0,1.0,False
+717,Youngster Jason,route_11,sandslash,33,74,97,76,82,39,46,53,Ground,Medium Fast,35937,-,-,-,-,-,Poison Sting,Poison,15.0,1.0,False,Slash,Normal,70.0,1.0,True,Swift,Normal,60.0,1.0,False
+718,Youngster Jason,route_11,crobat,33,74,104,70,63,56,63,96,Flying/Poison,Medium Fast,35937,-,-,-,-,-,Bite,Dark,60.0,1.0,False,-,-,-,-,-,Wing Attack,Flying,60.0,1.0,False
+719,Psychic Fidel,route_11,xatu,34,74,93,62,58,75,58,75,Flying/Psychic,Medium Fast,39304,Peck,Flying,35.0,1.0,False,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+720,Youngster Owen,route_11,venomoth,35,74,89,60,42,59,45,52,Bug/Poison,Medium Fast,42875,Ember,Fire,40.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Flame Wheel,Fire,60.0,1.0,False
+721,Bug Catcher Ed,route_2,beedrill,30,76,83,58,33,36,57,54,Bug/Poison,Medium Fast,27000,-,-,-,-,-,Twineedle,Bug,50.0,1.0,False,Rage,Normal,20.0,1.0,False,Pursuit,Dark,40.0,1.0,False
+722,Bug Catcher Ed,route_2,beedrill,30,76,83,58,33,36,57,54,Bug/Poison,Medium Fast,27000,-,-,-,-,-,Twineedle,Bug,50.0,1.0,False,Rage,Normal,20.0,1.0,False,Pursuit,Dark,40.0,1.0,False
+723,Bug Catcher Ed,route_2,beedrill,30,76,83,58,33,36,57,54,Bug/Poison,Medium Fast,27000,-,-,-,-,-,Twineedle,Bug,50.0,1.0,False,Rage,Normal,20.0,1.0,False,Pursuit,Dark,40.0,1.0,False
+724,Bug Catcher Doug,route_2,ariados,34,76,97,72,58,51,51,37,Bug/Poison,Fast,31443,Constrict,Normal,10.0,1.0,False,-,-,-,-,-,Leech Life,Bug,20.0,1.0,False,Fury Swipes,Normal,54.0,0.8,False
+725,Bug Catcher Rob,route_2,beedrill,32,76,88,61,35,38,61,58,Bug/Poison,Medium Fast,32768,-,-,-,-,-,Twineedle,Bug,50.0,1.0,False,Rage,Normal,20.0,1.0,False,Pursuit,Dark,40.0,1.0,False
+726,Bug Catcher Rob,route_2,butterfree,32,76,85,39,42,61,61,54,Bug/Flying,Medium Fast,32768,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Gust,Flying,40.0,1.0,False
+727,Camper Jerry,pewter_city_gym,sandslash,37,77,108,85,92,44,51,59,Ground,Medium Fast,50653,-,-,-,-,-,Poison Sting,Poison,15.0,1.0,False,Slash,Normal,70.0,1.0,True,Swift,Normal,60.0,1.0,False
+728,Gym Leader Brock,pewter_city_gym,graveler,41,77,102,90,105,48,48,40,Ground/Rock,Medium Slow,61450,-,-,-,-,-,Rock Slide,Rock,75.0,0.9,False,Rollout,Rock,30.0,0.9,False,Earthquake,Ground,100.0,1.0,False
+729,Gym Leader Brock,pewter_city_gym,omastar,42,77,117,62,116,108,70,57,Rock/Water,Medium Fast,74088,Bite,Dark,60.0,1.0,False,Surf,Water,95.0,1.0,False,-,-,-,-,-,Spike Cannon,Normal,60.0,1.0,False
+730,Gym Leader Brock,pewter_city_gym,kabutops,42,77,109,109,99,66,70,78,Rock/Water,Medium Fast,74088,Slash,Normal,70.0,1.0,True,Surf,Water,95.0,1.0,False,-,-,-,-,-,Giga Drain,Grass,60.0,1.0,False
+731,Gym Leader Brock,pewter_city_gym,onix,44,77,91,52,152,38,51,73,Ground/Rock,Medium Fast,85184,Bind,Normal,15.0,0.75,False,Rock Slide,Rock,75.0,0.9,False,-,-,-,-,-,-,-,-,-,-
+732,Gym Leader Brock,pewter_city_gym,rhyhorn,41,77,123,82,89,36,36,32,Ground/Rock,Slow,86151,Fury Attack,Normal,45.0,0.85,False,-,-,-,-,-,Earthquake,Ground,100.0,1.0,False,-,-,-,-,-
+733,Firebreather Otis,route_3,magmar,29,78,81,65,42,67,58,63,Fire,Medium Fast,24389,-,-,-,-,-,Smog,Poison,20.0,0.7,False,Fire Punch,Fire,75.0,1.0,False,-,-,-,-,-
+734,Firebreather Otis,route_3,magmar,29,78,81,65,42,67,58,63,Fire,Medium Fast,24389,-,-,-,-,-,Smog,Poison,20.0,0.7,False,Fire Punch,Fire,75.0,1.0,False,-,-,-,-,-
+735,Firebreather Otis,route_3,weezing,32,78,88,68,86,64,54,48,Poison,Medium Fast,32768,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+736,Firebreather Burt,route_3,koffing,32,78,72,52,70,48,38,32,Poison,Medium Fast,32768,Smog,Poison,20.0,0.7,False,-,-,-,-,-,Sludge,Poison,65.0,1.0,False,-,-,-,-,-
+737,Firebreather Burt,route_3,slugma,32,78,72,36,35,54,35,22,Fire,Medium Fast,32768,Ember,Fire,40.0,1.0,False,Rock Throw,Rock,50.0,0.9,False,-,-,-,-,-,-,-,-,-,-
+738,Youngster Jimmy,route_3,raticate,33,78,84,64,49,43,56,74,Normal,Medium Fast,35937,Quick Attack,Normal,40.0,1.0,False,Hyper Fang,Normal,80.0,0.9,False,-,-,-,-,-,Pursuit,Dark,40.0,1.0,False
+739,Youngster Jimmy,route_3,arbok,33,78,87,67,55,53,62,63,Poison,Medium Fast,35937,Poison Sting,Poison,15.0,1.0,False,Bite,Dark,60.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+740,Youngster Warren,route_3,fearow,35,78,96,74,56,53,53,80,Flying/Normal,Medium Fast,42875,-,-,-,-,-,Fury Attack,Normal,45.0,0.85,False,Pursuit,Dark,40.0,1.0,False,-,-,-,-,-
+741,Rival Silver,mt_moon,sneasel,41,79,102,90,56,40,73,105,Dark/Ice,Medium Slow,61450,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-,Faint Attack,Dark,60.0,1.0,False,Fury Cutter,Bug,10.0,0.95,False
+742,Rival Silver,mt_moon,magneton,41,79,98,61,89,109,68,68,Electric,Medium Fast,68921,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Swift,Normal,60.0,1.0,False
+743,Rival Silver,mt_moon,gengar,43,79,111,68,63,127,76,106,Ghost/Poison,Medium Slow,71833,-,-,-,-,-,-,-,-,-,-,Shadow Ball,Ghost,80.0,1.0,False,-,-,-,-,-
+744,Rival Silver,mt_moon,alakazam,43,79,107,55,50,127,84,115,Psychic,Medium Slow,71833,-,-,-,-,-,-,-,-,-,-,Future Sight,Psychic,80.0,0.9,False,Psychic,Psychic,90.0,1.0,False
+745,Rival Silver,mt_moon,golbat,42,79,121,79,70,66,74,87,Flying/Poison,Medium Fast,74088,Leech Life,Bug,20.0,1.0,False,Bite,Dark,60.0,1.0,False,-,-,-,-,-,Wing Attack,Flying,60.0,1.0,False
+746,Rival Silver,mt_moon,feraligatr,45,79,138,107,102,83,86,82,Water,Medium Slow,83335,Rage,Normal,20.0,1.0,False,Water Gun,Water,40.0,1.0,False,-,-,-,-,-,Slash,Normal,70.0,1.0,True
+747,Rival Silver,mt_moon,typhlosion,45,79,138,107,102,83,86,82,Fire,Medium Slow,83335,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Flame Wheel,Fire,60.0,1.0,False,Swift,Normal,60.0,1.0,False
+748,Rival Silver,mt_moon,meganium,45,79,138,107,102,83,86,82,Grass,Medium Slow,83335,Razor Leaf,Grass,55.0,0.95,True,-,-,-,-,-,Body Slam,Normal,85.0,1.0,False,-,-,-,-,-
+749,Bird Keeper Hawk,route_4,pidgey,12,80,33,17,16,15,15,20,Flying/Normal,Medium Slow,973,Tackle,Normal,35.0,0.95,False,-,-,-,-,-,Gust,Flying,40.0,1.0,False,Karate Chop,Fighting,50.0,1.0,True
+750,Picnicker Sharon,route_4,furret,31,80,93,55,50,37,44,67,Normal,Medium Fast,29791,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Fury Swipes,Normal,54.0,0.8,False,Slam,Normal,80.0,0.75,False
+751,Picnicker Hope,route_4,flaaffy,34,80,91,46,49,64,51,42,Electric,Medium Slow,33084,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+752,Bird Keeper Hawk,route_4,pidgeot,34,80,105,65,61,58,58,72,Flying/Normal,Medium Slow,33084,Gust,Flying,40.0,1.0,False,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-,Wing Attack,Flying,60.0,1.0,False
+753,Picnicker Sharon,route_4,rapidash,33,80,85,74,57,63,63,80,Fire,Medium Fast,35937,-,-,-,-,-,Ember,Fire,40.0,1.0,False,Stomp,Normal,65.0,1.0,False,Fire Spin,Fire,15.0,0.7,False
+754,Swimmer Nikki,route_21,seel,28,84,78,34,40,34,48,34,Water,Medium Fast,21952,Headbutt,Normal,70.0,1.0,False,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+755,Swimmer Nikki,route_21,seel,28,84,78,34,40,34,48,34,Water,Medium Fast,21952,Headbutt,Normal,70.0,1.0,False,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+756,Swimmer Nikki,route_21,seel,28,84,78,34,40,34,48,34,Water,Medium Fast,21952,Headbutt,Normal,70.0,1.0,False,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+757,Swimmer Nikki,route_21,dewgong,28,84,92,48,54,48,62,48,Ice/Water,Medium Fast,21952,Headbutt,Normal,70.0,1.0,False,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+758,Swimmer Seth,route_21,quagsire,29,84,98,59,58,47,47,29,Ground/Water,Medium Fast,24389,Water Gun,Water,40.0,1.0,False,-,-,-,-,-,Slam,Normal,80.0,0.75,False,-,-,-,-,-
+759,Swimmer Seth,route_21,octillery,29,84,87,71,53,70,53,35,Water,Medium Fast,24389,Psybeam,Psychic,65.0,1.0,False,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-,Octazooka,Water,65.0,0.85,False
+760,Swimmer Seth,route_21,quagsire,32,84,104,65,64,51,51,32,Ground/Water,Medium Fast,32768,Water Gun,Water,40.0,1.0,False,-,-,-,-,-,Slam,Normal,80.0,0.75,False,-,-,-,-,-
+761,Fisher Arnold,route_21,tentacruel,34,84,103,58,54,64,92,78,Poison/Water,Slow,49130,Constrict,Normal,10.0,1.0,False,Acid,Poison,40.0,1.0,False,-,-,-,-,-,Wrap,Normal,15.0,0.85,False
+762,Swimmer Cameron,route_20,marill,29,86,97,24,44,24,44,37,Water,Fast,19511,Water Gun,Water,40.0,1.0,False,Rollout,Rock,30.0,0.9,False,-,-,-,-,-,-,-,-,-,-
+763,Swimmer Nicole,route_20,marill,29,86,84,20,38,21,38,32,Water,Fast,19511,Water Gun,Water,40.0,1.0,False,Rollout,Rock,30.0,0.9,False,-,-,-,-,-,-,-,-,-,-
+764,Swimmer Nicole,route_20,marill,29,86,84,20,38,21,38,32,Water,Fast,19511,Water Gun,Water,40.0,1.0,False,Rollout,Rock,30.0,0.9,False,-,-,-,-,-,-,-,-,-,-
+765,Swimmer Lori,route_20,starmie,32,86,85,57,64,74,64,83,Psychic/Water,Slow,40960,Tackle,Normal,35.0,0.95,False,Rapid Spin,Normal,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+766,Swimmer Lori,route_20,starmie,32,86,85,57,64,74,64,83,Psychic/Water,Slow,40960,Tackle,Normal,35.0,0.95,False,Rapid Spin,Normal,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+767,Swimmer Nicole,route_20,lapras,32,86,130,63,61,64,70,48,Ice/Water,Slow,40960,-,-,-,-,-,Body Slam,Normal,85.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+768,Gym Leader Blaine,seafoam_islands_gym,magcargo,45,87,107,58,120,84,84,39,Fire/Rock,Medium Fast,91125,-,-,-,-,-,Smog,Poison,20.0,0.7,False,Flamethrower,Fire,95.0,1.0,False,Rock Slide,Rock,75.0,0.9,False
+769,Gym Leader Blaine,seafoam_islands_gym,magmar,45,87,120,98,63,102,88,95,Fire,Medium Fast,91125,-,-,-,-,-,Fire Punch,Fire,75.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+770,Gym Leader Blaine,seafoam_islands_gym,rapidash,50,87,133,114,83,93,93,118,Fire,Medium Fast,125000,Quick Attack,Normal,40.0,1.0,False,Fire Spin,Fire,15.0,0.7,False,Fury Attack,Normal,45.0,0.85,False,Fire Blast,Fire,120.0,0.85,False
+771,Swimmer Jerome,route_19,seadra,26,88,68,43,58,58,32,53,Water,Medium Fast,17576,Bubble,Water,20.0,1.0,False,-,-,-,-,-,-,-,-,-,-,Water Gun,Water,40.0,1.0,False
+772,Swimmer Jerome,route_19,goldeen,28,88,67,47,43,29,37,44,Water,Medium Fast,21952,-,-,-,-,-,-,-,-,-,-,Horn Attack,Normal,65.0,1.0,False,-,-,-,-,-
+773,Swimmer Harold,route_19,seadra,30,88,77,49,66,66,36,60,Water,Medium Fast,27000,-,-,-,-,-,-,-,-,-,-,Water Gun,Water,40.0,1.0,False,Twister,Dragon,40.0,1.0,False
+774,Swimmer Jerome,route_19,tentacool,28,88,64,32,29,37,65,48,Poison/Water,Slow,27440,-,-,-,-,-,Constrict,Normal,10.0,1.0,False,Acid,Poison,40.0,1.0,False,-,-,-,-,-
+775,Swimmer Harold,route_19,remoraid,32,88,69,52,32,51,32,51,Water,Medium Fast,32768,-,-,-,-,-,Psybeam,Psychic,65.0,1.0,False,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+776,Swimmer Jerome,route_19,tentacruel,30,88,92,52,48,57,81,69,Poison/Water,Slow,33750,Constrict,Normal,10.0,1.0,False,Acid,Poison,40.0,1.0,False,-,-,-,-,-,Wrap,Normal,15.0,0.85,False
+777,Swimmer Tucker,route_19,shellder,30,88,62,49,69,36,24,33,Water,Slow,33750,-,-,-,-,-,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+778,Swimmer Dawn,route_19,seaking,34,88,103,72,54,54,64,56,Water,Medium Fast,39304,-,-,-,-,-,Horn Attack,Normal,65.0,1.0,False,-,-,-,-,-,Fury Attack,Normal,45.0,0.85,False
+779,Swimmer Tucker,route_19,cloyster,34,88,83,75,132,68,41,58,Ice/Water,Slow,49130,-,-,-,-,-,-,-,-,-,-,Aurora Beam,Ice,65.0,1.0,False,-,-,-,-,-
+780,Gym Leader Blue,viridian_city_gym,alakazam,54,89,139,68,67,164,110,148,Psychic,Medium Slow,150476,-,-,-,-,-,-,-,-,-,-,Psychic,Psychic,90.0,1.0,False,-,-,-,-,-
+781,Gym Leader Blue,viridian_city_gym,pidgeot,56,89,175,104,103,97,97,121,Flying/Normal,Medium Slow,169159,Quick Attack,Normal,40.0,1.0,False,-,-,-,-,-,Wing Attack,Flying,60.0,1.0,False,-,-,-,-,-
+782,Gym Leader Blue,viridian_city_gym,rhydon,56,89,200,160,153,69,69,64,Ground/Rock,Slow,219520,Fury Attack,Normal,45.0,0.85,False,-,-,-,-,-,Rock Slide,Rock,75.0,0.9,False,Earthquake,Ground,100.0,1.0,False
+783,Gym Leader Blue,viridian_city_gym,gyarados,58,89,195,160,111,89,136,114,Flying/Water,Slow,243890,Twister,Dragon,40.0,1.0,False,Hydro Pump,Water,120.0,0.8,False,-,-,-,-,-,Hyper Beam,Normal,75.0,0.9,False
+784,Gym Leader Blue,viridian_city_gym,exeggutor,58,89,195,125,118,165,95,83,Grass/Psychic,Slow,243890,-,-,-,-,-,-,-,-,-,-,Egg Bomb,Normal,100.0,0.75,False,-,-,-,-,-
+785,Gym Leader Blue,viridian_city_gym,arcanine,58,89,189,143,112,136,112,130,Fire,Slow,243890,-,-,-,-,-,Swift,Normal,60.0,1.0,False,Flamethrower,Fire,95.0,1.0,False,-,-,-,-,-
+786,Pokemon Trainer Red,mount_silver,espeon,73,92,198,121,111,215,164,184,Psychic,Medium Fast,389017,Mud-Slap,Ground,20.0,1.0,False,-,-,-,-,-,Swift,Normal,60.0,1.0,False,Psychic,Psychic,90.0,1.0,False
+787,Pokemon Trainer Red,mount_silver,venusaur,77,92,231,154,152,180,180,148,Grass/Poison,Medium Slow,466464,-,-,-,-,-,Giga Drain,Grass,60.0,1.0,False,-,-,-,-,-,-,-,-,-,-
+788,Pokemon Trainer Red,mount_silver,charizard,77,92,228,157,145,194,157,179,Fire/Flying,Medium Slow,466464,Flamethrower,Fire,95.0,1.0,False,Wing Attack,Flying,60.0,1.0,False,Slash,Normal,70.0,1.0,True,Fire Spin,Fire,15.0,0.7,False
+789,Pokemon Trainer Red,mount_silver,blastoise,77,92,230,155,179,157,188,145,Water,Medium Slow,466464,-,-,-,-,-,Surf,Water,95.0,1.0,False,Blizzard,Ice,120.0,0.7,False,Whirlpool,Water,15.0,0.7,False
+790,Pokemon Trainer Red,mount_silver,snorlax,75,92,346,192,122,123,191,69,Normal,Slow,527343,-,-,-,-,-,Snore,Normal,40.0,1.0,False,-,-,-,-,-,Body Slam,Normal,85.0,1.0,False
+791,Pokemon Trainer Red,mount_silver,pikachu,81,92,170,118,74,108,92,171,Electric,Medium Fast,531441,-,-,-,-,-,Quick Attack,Normal,40.0,1.0,False,Thunderbolt,Electric,95.0,1.0,False,Thunder,Electric,120.0,0.7,False

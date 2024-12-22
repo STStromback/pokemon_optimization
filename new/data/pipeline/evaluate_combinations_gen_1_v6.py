@@ -7,6 +7,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from matplotlib.colors import Normalize, ListedColormap
 import os
+import matplotlib
+
+matplotlib.use('Agg')
 
 config = pd.read_csv('../config/config.csv')
 gen = int(config[config.rule == 'gen'].value.values[0])
@@ -369,17 +372,40 @@ def generate_additional_outputs(filtered_df, best_variant_ids, stats_file, varia
     matrix_normalized = matrix.applymap(lambda x: 1 if x >= 1 else x)
 
     # Define key encounter points
-    key_encounters = {
-        17: 'Brock',
-        88: 'Misty',
-        186: 'Lt. Surge',
-        367: 'Erika',
-        662: 'Koga',
-        494: 'Sabrina',
-        776: 'Blaine',
-        795: 'Giovanni',
-        836: 'Elite Four'
-    }
+    if gen == 1:
+        key_encounters = {
+            17: 'Brock',
+            88: 'Misty',
+            186: 'Lt. Surge',
+            367: 'Erika',
+            662: 'Koga',
+            494: 'Sabrina',
+            776: 'Blaine',
+            795: 'Giovanni',
+            836: 'Elite Four'
+        }
+    elif gen == 2:
+        key_encounters = {
+            30: 'Falkner',
+            81: 'Bugsy',
+            115: 'Whitney',
+            178: 'Morty',
+            278: 'Chuck/Jasmine',
+            338: 'Pryce',
+            431: 'Clair',
+            526: 'Elite Four',
+            558: 'Lt. Surge',
+            571: 'Sabrina',
+            626: 'Misty',
+            639: 'Erika',
+            665: 'Janine',
+            732: 'Brock',
+            770: 'Blaine',
+            785: 'Blue',
+            791: 'Red'
+        }
+    else:
+        key_counters = {}
     key_enc_ids = list(key_encounters.keys())
     key_labels = list(key_encounters.values())
 
