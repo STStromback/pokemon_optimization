@@ -1,0 +1,792 @@
+pokemon,level,move1,move2,move3,move4,hp,attack,defense,sp_attack,sp_defense,speed,location_enc,trainer_name_enc
+totodile,5,Scratch,Leer,-,-,21,12,12,10,11,10,cherrygrove_city,
+chikorita,5,Tackle,Growl,-,-,21,12,12,10,11,10,cherrygrove_city,
+cyndaquil,5,Tackle,Leer,-,-,21,12,12,10,11,10,cherrygrove_city,
+rattata,4,Tackle,Tail Whip,-,-,17,10,8,7,8,11,route_30,Youngster Joey
+pidgey,2,Tackle,-,-,-,13,7,6,6,6,7,route_30,Youngster Mikey
+rattata,4,Tackle,Tail Whip,-,-,17,10,8,7,8,11,route_30,Youngster Mikey
+caterpie,3,Tackle,String Shot,-,-,16,7,7,6,6,8,route_30,Bug Catcher Don
+caterpie,3,Tackle,String Shot,-,-,16,7,7,6,6,8,route_30,Bug Catcher Don
+caterpie,2,Tackle,String Shot,-,-,14,6,6,6,6,7,route_31,Bug Catcher Wade
+caterpie,2,Tackle,String Shot,-,-,14,6,6,6,6,7,route_31,Bug Catcher Wade
+weedle,3,Poison Sting,String Shot,-,-,15,7,7,6,6,8,route_31,Bug Catcher Wade
+caterpie,2,Tackle,String Shot,-,-,14,6,6,6,6,7,route_31,Bug Catcher Wade
+bellsprout,3,Vine Whip,-,-,-,16,10,7,9,7,7,sprout_tower__2f,Sage Nico
+bellsprout,3,Vine Whip,-,-,-,16,10,7,9,7,7,sprout_tower__2f,Sage Nico
+bellsprout,3,Vine Whip,-,-,-,16,10,7,9,7,7,sprout_tower__2f,Sage Nico
+bellsprout,3,Vine Whip,-,-,-,16,10,7,9,7,7,sprout_tower__1f,Sage Chow
+bellsprout,3,Vine Whip,-,-,-,16,10,7,9,7,7,sprout_tower__1f,Sage Chow
+bellsprout,3,Vine Whip,-,-,-,16,10,7,9,7,7,sprout_tower__1f,Sage Chow
+bellsprout,3,Vine Whip,-,-,-,16,10,7,9,7,7,sprout_tower__2f,Sage Edmond
+bellsprout,3,Vine Whip,-,-,-,16,10,7,9,7,7,sprout_tower__2f,Sage Edmond
+bellsprout,3,Vine Whip,-,-,-,16,10,7,9,7,7,sprout_tower__2f,Sage Edmond
+bellsprout,6,Vine Whip,Growth,-,-,22,15,10,14,9,10,sprout_tower__3f,Sage Neal
+bellsprout,7,Vine Whip,Growth,-,-,25,16,11,15,10,11,sprout_tower__3f,Sage Troy
+hoothoot,7,Tackle,Growl,Foresight,-,26,10,10,11,13,13,sprout_tower__3f,Sage Troy
+bellsprout,7,Vine Whip,Growth,-,-,25,16,11,15,10,11,sprout_tower__3f,Sage Li
+bellsprout,7,Vine Whip,Growth,-,-,25,16,11,15,10,11,sprout_tower__3f,Sage Li
+hoothoot,10,Tackle,Growl,Foresight,-,33,12,12,13,17,16,sprout_tower__3f,Sage Li
+spearow,9,Peck,Growl,Leer,-,27,17,11,12,12,19,violet_city_gym,Bird Keeper Abe
+pidgey,7,Tackle,Sand Attack,-,-,23,12,11,11,11,13,violet_city_gym,Bird Keeper Rod
+pidgey,7,Tackle,Sand Attack,-,-,23,12,11,11,11,13,violet_city_gym,Bird Keeper Rod
+pidgey,7,Tackle,Mud-Slap,-,-,24,12,12,10,10,13,violet_city_gym,Gym Leader Falkner
+pidgeotto,9,Tackle,Mud-Slap,Gust,-,32,17,16,15,15,19,violet_city_gym,Gym Leader Falkner
+rattata,6,Tackle,Tail Whip,-,-,20,12,10,8,10,14,route_32,Youngster Albert
+zubat,8,Leech Life,Supersonic,-,-,25,13,11,11,12,15,route_32,Youngster Albert
+nidoran_f,9,Growl,Tackle,Scratch,-,28,14,16,13,13,14,route_32,Picnicker Liz
+nidoran_m,9,Leer,Tackle,Horn Attack,-,28,16,13,13,13,15,route_32,Camper Roland
+wooper,10,Water Gun,Tail Whip,-,-,32,15,15,11,11,9,route_32,Youngster Gordon
+goldeen,10,Peck,Tail Whip,Supersonic,-,30,20,18,13,16,19,route_32,Fisher Ralph
+magikarp,5,Splash,-,-,-,17,6,11,7,7,13,route_32,Fisher Justin
+magikarp,5,Splash,-,-,-,17,6,11,7,7,13,route_32,Fisher Justin
+magikarp,5,Splash,-,-,-,17,6,11,7,7,13,route_32,Fisher Justin
+magikarp,15,Splash,Tackle,-,-,33,10,23,11,13,31,route_32,Fisher Justin
+poliwag,8,Bubble,Hypnosis,-,-,25,14,12,12,12,20,route_32,Fisher Henry
+poliwag,8,Bubble,Hypnosis,-,-,25,14,12,12,12,20,route_32,Fisher Henry
+pidgey,6,Tackle,Sand Attack,-,-,21,11,10,10,10,12,route_32,Bird Keeper Peter
+pidgey,6,Tackle,Sand Attack,-,-,21,11,10,10,10,12,route_32,Bird Keeper Peter
+spearow,8,Peck,Growl,Leer,-,25,16,11,11,11,17,route_32,Bird Keeper Peter
+onix,11,Tackle,Screech,Bind,-,28,17,41,13,16,22,union_cave__1f,Hiker Daniel
+geodude,4,Tackle,-,-,-,17,12,13,8,8,7,union_cave__1f,Hiker Russel
+geodude,6,Tackle,Defense Curl,-,-,20,15,17,9,9,8,union_cave__1f,Hiker Russel
+geodude,8,Tackle,Defense Curl,-,-,24,19,22,11,11,9,union_cave__1f,Hiker Russel
+koffing,6,Poison Gas,Tackle,-,-,21,13,17,13,11,10,union_cave__1f,Firebreather Bill
+koffing,6,Poison Gas,Tackle,-,-,21,13,17,13,11,10,union_cave__1f,Firebreather Bill
+slowpoke,10,Curse,Tackle,Growl,-,39,19,19,14,14,9,union_cave__1f,Pokemaniac Larry
+vulpix,9,Ember,Tail Whip,Quick Attack,-,27,14,13,15,18,18,union_cave__1f,Firebreather Ray
+geodude,11,Tackle,Defense Curl,Rock Throw,-,29,24,28,13,13,11,route_33,Hiker Anthony
+machop,11,Low Kick,Leer,Focus Energy,-,36,24,17,14,14,14,route_33,Hiker Anthony
+rattata,9,Tackle,Tail Whip,Quick Attack,-,25,17,12,10,12,19,slowpoke_well__b1f,Rocket Grunt 1
+rattata,9,Tackle,Tail Whip,Quick Attack,-,25,17,12,10,12,19,slowpoke_well__b1f,Rocket Grunt 1
+zubat,9,Leech Life,Supersonic,-,-,27,14,13,11,13,16,slowpoke_well__b1f,Rocket Grunt 2
+ekans,11,Wrap,Leer,Poison Sting,-,30,19,17,15,18,19,slowpoke_well__b1f,Rocket Grunt 2
+rattata,7,Tackle,Tail Whip,Quick Attack,-,22,14,11,9,11,16,slowpoke_well__b1f,Rocket Grunt 3
+zubat,9,Leech Life,Supersonic,-,-,27,15,12,11,13,16,slowpoke_well__b1f,Rocket Grunt 3
+zubat,9,Leech Life,Supersonic,-,-,27,15,12,11,13,16,slowpoke_well__b1f,Rocket Grunt 3
+koffing,14,Poison Gas,Tackle,Smog,-,37,26,33,24,19,17,slowpoke_well__b1f,Rocket Grunt 4
+spinarak,10,Poison Sting,String Shot,Scary Face,-,28,18,14,14,14,13,azalea_town_gym,Twins Amy  May
+ledyba,10,Tackle,Supersonic,-,-,28,10,12,14,6,18,azalea_town_gym,Twins Amy  May
+caterpie,12,Tackle,String Shot,-,-,34,14,15,11,11,17,azalea_town_gym,Bug Catcher Al
+weedle,12,Poison Sting,String Shot,-,-,33,15,14,11,11,18,azalea_town_gym,Bug Catcher Al
+weedle,7,Poison Sting,String Shot,-,-,23,11,10,8,8,13,azalea_town_gym,Bug Catcher Benny
+kakuna,9,Harden,-,-,-,28,11,15,10,10,12,azalea_town_gym,Bug Catcher Benny
+beedrill,12,Fury Attack,-,-,-,39,26,16,17,26,24,azalea_town_gym,Bug Catcher Benny
+paras,13,Scratch,Stun Spore,Poisonpowder,-,34,25,21,18,21,13,azalea_town_gym,Bug Catcher Josh
+metapod,14,Tackle,String Shot,Harden,-,40,13,22,14,14,15,azalea_town_gym,Gym Leader Bugsy
+kakuna,14,Poison Sting,String Shot,Harden,-,38,14,21,14,14,17,azalea_town_gym,Gym Leader Bugsy
+scyther,16,Quick Attack,Leer,Fury Cutter,-,50,43,33,25,33,41,azalea_town_gym,Gym Leader Bugsy
+gastly,12,Hypnosis,Lick,Spite,-,32,16,15,32,16,27,azalea_town,Rival Silver
+zubat,14,Leech Life,Supersonic,Bite,-,39,21,18,17,19,24,azalea_town,Rival Silver
+croconaw,16,Scratch,Leer,Rage,Water Gun,51,34,34,28,29,27,azalea_town,Rival Silver
+bayleef,16,Growl,Razor Leaf,Reflect,Poison Powder,51,34,34,28,29,27,azalea_town,Rival Silver
+quilava,16,Tackle,Leer,Smokescreen,Ember,51,34,34,28,29,27,azalea_town,Rival Silver
+ledyba,8,Tackle,Supersonic,-,-,25,9,11,12,19,15,ilex_forest,Bug Catcher Wayne
+paras,10,Scratch,Stun Spore,-,-,28,20,17,15,17,11,ilex_forest,Bug Catcher Wayne
+rattata,7,Tackle,Tail Whip,Quick Attack,-,22,14,11,9,11,16,route_34,Youngster Samuel
+sandshrew,10,Scratch,Defense Curl,-,-,31,21,23,10,12,14,route_34,Youngster Samuel
+spearow,8,Peck,Growl,Leer,-,25,16,11,11,11,17,route_34,Youngster Samuel
+spearow,8,Peck,Growl,Leer,-,25,16,11,11,11,17,route_34,Youngster Samuel
+snubbull,13,Scary Face,Tail Whip,Charm,Bite,40,28,20,17,17,14,route_34,Pokefan Brandon
+hoppip,9,Splash,Synthesis,Tail Whip,-,25,12,14,12,16,15,route_34,Picnicker Gina
+hoppip,9,Splash,Synthesis,Tail Whip,-,25,12,14,12,16,15,route_34,Picnicker Gina
+bulbasaur,12,Tackle,Growl,Leech Seed,Vine Whip,32,18,19,22,22,18,route_34,Picnicker Gina
+mankey,10,Scratch,Leer,Low Kick,-,29,22,13,13,15,20,route_34,Youngster Ian
+diglett,12,Scratch,Growl,Magnitude,-,26,20,12,15,17,29,route_34,Youngster Ian
+growlithe,17,Bite,Roar,Ember,-,48,31,23,31,24,28,route_34,Officer Keith
+psyduck,14,Scratch,Tail Whip,Disable,-,40,22,20,25,21,22,route_34,Camper Todd
+grimer,11,Poison Gas,Pound,Harden,Disable,40,24,17,15,17,12,goldenrod_underground,Super Nerd Eric
+grimer,11,Poison Gas,Pound,Harden,Disable,40,24,17,15,17,12,goldenrod_underground,Super Nerd Eric
+lickitung,12,Lick,Supersonic,Cut,-,45,20,24,21,24,14,goldenrod_underground,Pokemaniac Issac
+magnemite,7,Tackle,Thundershock,-,-,21,11,15,19,13,12,goldenrod_underground,Super Nerd Teru
+voltorb,11,Tackle,Screech,-,-,31,13,17,18,18,28,goldenrod_underground,Super Nerd Teru
+magnemite,7,Tackle,Thundershock,-,-,21,11,15,19,13,12,goldenrod_underground,Super Nerd Teru
+magnemite,9,Tackle,Mega Punch,-,-,24,12,19,23,16,14,goldenrod_underground,Super Nerd Teru
+slowpoke,10,Curse,Tackle,Growl,-,39,19,19,14,14,9,goldenrod_underground,Pokemaniac Donald
+slowpoke,10,Curse,Tackle,Growl,-,39,19,19,14,14,9,goldenrod_underground,Pokemaniac Donald
+sentret,9,Tackle,Defense Curl,-,-,26,14,12,12,14,10,goldenrod_city_gym,Beauty Victoria
+sentret,17,Tackle,Defense Curl,Quick Attack,Fury Swipes,40,22,19,19,23,15,goldenrod_city_gym,Beauty Victoria
+sentret,13,Tackle,Defense Curl,Quick Attack,-,33,18,16,16,18,13,goldenrod_city_gym,Beauty Victoria
+meowth,16,Scratch,Growl,Bite,Pay Day,40,21,19,20,20,37,goldenrod_city_gym,Beauty Sammantha
+meowth,16,Scratch,Growl,Bite,Pay Day,40,21,19,20,20,37,goldenrod_city_gym,Beauty Sammantha
+snubbull,18,Scary Face,Charm,Bite,Lick,52,35,25,22,22,18,goldenrod_city_gym,Lass Carrie
+jigglypuff,15,Sing,Defense Curl,Pound,Disable,61,20,13,20,14,13,goldenrod_city_gym,Lass Bridget
+jigglypuff,15,Sing,Defense Curl,Pound,Disable,61,20,13,20,14,13,goldenrod_city_gym,Lass Bridget
+jigglypuff,15,Sing,Defense Curl,Pound,Disable,61,20,13,20,14,13,goldenrod_city_gym,Lass Bridget
+clefairy,18,Doubleslap,Mimic,Encore,Metronome,53,24,25,29,31,20,goldenrod_city_gym,Gym Leader Whitney
+miltank,20,Rollout,Attract,Stomp,Milk Drink,68,40,50,24,36,48,goldenrod_city_gym,Gym Leader Whitney
+vulpix,15,Ember,Tail Whip,Quick Attack,Roar,36,19,20,22,26,27,route_35,Picnicker Kim
+sandshrew,13,Scratch,Defense Curl,Sand Attack,-,38,26,29,12,14,17,route_35,Camper Elliot
+marill,15,Defense Curl,Tail Whip,Water Gun,Rollout,48,13,22,13,22,19,route_35,Camper Elliot
+pikachu,16,Thundershock,Growl,Quick Attack,Double Team,37,24,17,23,20,37,route_35,Picnicker Brooke
+diglett,10,Scratch,Growl,Magnitude,-,23,17,11,13,15,25,route_35,Camper Ivan
+zubat,10,Leech Life,Supersonic,-,-,29,15,13,12,14,17,route_35,Camper Ivan
+diglett,14,Scratch,Growl,Magnitude,-,29,22,14,17,19,33,route_35,Camper Ivan
+magmar,11,Ember,Leer,Smog,Fire Punch,37,27,19,28,25,27,route_35,Firebreather Walt
+magmar,13,Ember,Leer,Smog,Fire Punch,41,32,21,33,29,31,route_35,Firebreather Walt
+voltorb,2,Tackle,-,-,-,13,6,7,7,7,9,route_35,Juggler Irwin
+voltorb,6,Tackle,-,-,-,21,9,11,12,12,17,route_35,Juggler Irwin
+voltorb,10,Tackle,Screech,-,-,29,12,16,17,17,26,route_35,Juggler Irwin
+voltorb,14,Tackle,Screech,-,-,37,15,21,22,22,35,route_35,Juggler Irwin
+growlithe,14,Bite,Roar,Ember,-,41,27,19,26,21,24,route_35,Officer Dirk
+growlithe,14,Bite,Roar,Ember,-,41,27,19,26,21,24,route_35,Officer Dirk
+venonat,15,Tackle,Disable,Foresight,Supersonic,45,24,22,19,23,20,route_35,Bug Catcher Arnie
+pidgey,12,Tackle,Sand Attack,Gust,-,33,17,16,15,15,20,route_35,Bird Keeper Bryan
+pidgeotto,14,Tackle,Sand Attack,Gust,-,43,24,22,21,21,27,route_35,Bird Keeper Bryan
+snubbull,14,Scary Face,Tail Whip,Charm,Bite,41,29,22,18,18,15,national_park,Pokefan Beverly
+oddish,12,Absorb,Sweet Scent,-,-,34,18,20,24,22,14,national_park,Lass Krisse
+cubone,15,Growl,Tail Whip,Bone Club,Headbutt,42,21,35,19,22,17,national_park,Lass Krisse
+raichu,14,Thundershock,Tail Whip,Quick Attack,Thunderbolt,43,32,22,32,29,35,national_park,Pokefan William
+oddish,12,Absorb,Sweet Scent,-,-,34,19,20,24,22,14,national_park,Schoolboy Jack
+voltorb,15,Tackle,Screech,-,-,39,16,22,23,23,37,national_park,Schoolboy Jack
+abra,13,Teleport,Flash,-,-,31,12,10,34,21,30,route_36,Psychic Mark
+abra,13,Teleport,Flash,-,-,31,12,10,34,21,30,route_36,Psychic Mark
+kadabra,15,Teleport,Kinesis,Confusion,-,39,18,16,43,28,38,route_36,Psychic Mark
+tangela,16,Constrict,Sleep Powder,Absorb,Poisonpowder,49,25,44,39,20,26,route_36,Schoolboy Alan
+clefairy,16,Growl,Encore,Doubleslap,Metronome,48,21,22,26,28,19,route_37,Twins Ann  Anne
+jigglypuff,16,Sing,Defense Curl,Pound,Disable,62,21,13,21,15,14,route_37,Twins Ann  Anne
+drowzee,17,Hypnosis,Disable,Dream Eater,-,50,24,23,22,38,22,route_37,Psychic Greg
+haunter,20,Lick,Spite,Mean Look,Curse,54,30,28,56,32,48,burned_tower__1f,Rival Silver
+magnemite,18,Tackle,Thundershock,Supersonic,Sonicboom,42,22,34,43,29,25,burned_tower__1f,Rival Silver
+zubat,20,Leech Life,Supersonic,Bite,Confuse Ray,52,28,24,22,26,32,burned_tower__1f,Rival Silver
+croconaw,22,Leer,Rage,Water Gun,Bite,67,45,45,36,38,36,burned_tower__1f,Rival Silver
+quilava,22,Leer,Smokescreen,Ember,Quick Attack,67,45,45,36,38,36,burned_tower__1f,Rival Silver
+bayleef,22,Growl,Razor Leaf,Reflect,Poisonpowder,67,45,45,36,38,36,burned_tower__1f,Rival Silver
+flareon,17,Tackle,Tail Whip,Sand Attack,Ember,49,51,28,40,45,29,ecruteak_city,Kimono Girl Naoko
+espeon,17,Tackle,Tail Whip,Sand Attack,Confusion,49,29,28,52,40,45,ecruteak_city,Kimono Girl Sayo
+umbreon,17,Tackle,Tail Whip,Sand Attack,Pursuit,59,29,45,28,52,29,ecruteak_city,Kimono Girl Zuki
+vaporeon,17,Tackle,Tail Whip,Sand Attack,Water Gun,71,29,28,45,40,29,ecruteak_city,Kimono Girl Kuni
+jolteon,17,Tackle,Tail Whip,Sand Attack,Thundershock,49,29,28,45,40,51,ecruteak_city,Kimono Girl Miki
+gastly,16,Lick,Spite,Mean Look,Curse,38,19,17,39,18,33,ecruteak_city_gym,Sage Ping
+gastly,16,Lick,Spite,Mean Look,Curse,38,19,17,39,18,33,ecruteak_city_gym,Sage Ping
+gastly,16,Lick,Spite,Mean Look,Curse,38,19,17,39,18,33,ecruteak_city_gym,Sage Ping
+gastly,16,Lick,Spite,Mean Look,Curse,38,19,17,39,18,33,ecruteak_city_gym,Sage Ping
+gastly,16,Lick,Spite,Mean Look,Curse,38,19,17,39,18,33,ecruteak_city_gym,Sage Ping
+haunter,20,Lick,Spite,Mean Look,Curse,51,27,26,54,30,46,ecruteak_city_gym,Medium Grace
+haunter,20,Lick,Spite,Mean Look,Curse,51,27,26,54,30,46,ecruteak_city_gym,Medium Grace
+gastly,18,Lick,Spite,Mean Look,Curse,41,20,18,43,20,36,ecruteak_city_gym,Medium Martha
+haunter,20,Lick,Spite,Mean Look,Curse,51,27,26,54,30,46,ecruteak_city_gym,Medium Martha
+gastly,20,Lick,Spite,Mean Look,Curse,45,21,20,48,22,40,ecruteak_city_gym,Medium Martha
+gastly,21,Lick,Spite,Mean Look,Curse,46,23,20,50,23,41,ecruteak_city_gym,Gym Leader Morty
+haunter,21,Hypnosis,Mimic,Curse,Night Shade,53,29,27,56,31,48,ecruteak_city_gym,Gym Leader Morty
+gengar,25,Hypnosis,Shadow Ball,Mean Look,Dream Eater,69,42,39,74,46,64,ecruteak_city_gym,Gym Leader Morty
+haunter,23,Spite,Mean Look,Mimic,Night Shade,57,32,29,61,33,52,ecruteak_city_gym,Gym Leader Morty
+geodude,23,Defense Curl,Rock Throw,Magnitude,Selfdestruct,51,46,54,22,22,17,union_cave_b__b1f,Hiker Leonard
+machop,25,Focus Energy,Karate Chop,Seismic Toss,Foresight,70,50,50,26,26,26,union_cave_b__b1f,Hiker Leonard
+geodude,23,Defense Curl,Rock Throw,Magnitude,Selfdestruct,51,46,54,22,22,17,union_cave_b__b1f,Hiker Phillip
+geodude,23,Defense Curl,Rock Throw,Magnitude,Selfdestruct,51,46,54,22,22,17,union_cave_b__b1f,Hiker Phillip
+graveler,23,Defense Curl,Rock Throw,Magnitude,Selfdestruct,58,53,61,29,29,24,union_cave_b__b1f,Hiker Phillip
+girafarig,26,Growl,Hypnosis,Stomp,Agility,76,51,42,55,42,53,ruins_of_alph,Psychic Nathan
+marowak,24,Bone Club,Headbutt,Leer,Focus Energy,66,47,61,32,47,30,union_cave_b__b1f,Pokemaniac Andrew
+marowak,24,Bone Club,Headbutt,Leer,Focus Energy,66,47,61,32,47,30,union_cave_b__b1f,Pokemaniac Andrew
+kangaskhan,26,Leer,Bite,Tail Whip,Mega Punch,94,59,50,29,50,55,union_cave_b__b1f,Pokemaniac Calvin
+charmander,26,Ember,Smokescreen,Rage,Scary Face,60,38,31,40,35,45,union_cave_b__b2f,Cooltrainer Nick
+squirtle,26,Withdraw,Aurora Beam,Bite,Curse,63,36,42,35,42,33,union_cave_b__b2f,Cooltrainer Nick
+bulbasaur,26,Leech Seed,Poisonpowder,Sleep Powder,Razor Leaf,63,37,34,42,42,34,union_cave_b__b2f,Cooltrainer Nick
+eevee,26,Tail Whip,Sand Attack,Growl,Quick Attack,68,37,37,32,42,39,union_cave_b__b2f,Cooltrainer Gwen
+flareon,22,Tackle,Tail Whip,Sand Attack,Ember,64,65,36,50,56,38,union_cave_b__b2f,Cooltrainer Gwen
+vaporeon,22,Tackle,Tail Whip,Sand Attack,Water Gun,92,36,36,56,50,38,union_cave_b__b2f,Cooltrainer Gwen
+jolteon,22,Tackle,Tail Whip,Sand Attack,Thundershock,64,36,36,56,50,67,union_cave_b__b2f,Cooltrainer Gwen
+poliwhirl,28,Hypnosis,Water Gun,Doubleslap,Rain Dance,78,45,48,37,37,62,union_cave_b__b2f,Cooltrainer Emma
+goldeen,22,Peck,Tail Whip,Supersonic,Horn Attack,55,37,36,23,30,38,route_34_surf,Cooltrainer Irene
+seaking,24,Tail Whip,Supersonic,Horn Attack,Flail,76,52,41,40,47,43,route_34_surf,Cooltrainer Irene
+staryu,24,Harden,Water Gun,Rapid Spin,Recover,52,29,37,42,35,51,route_34_surf,Cooltrainer Jenn
+starmie,26,Tackle,Rapid Spin,Recover,Bubblebeam,71,47,55,61,53,71,route_34_surf,Cooltrainer Jenn
+shellder,26,Withdraw,Supersonic,Aurora Beam,Protect,55,42,63,32,22,32,route_34_surf,Cooltrainer Kate
+cloyster,28,Withdraw,Supersonic,Aurora Beam,Protect,70,62,112,57,34,50,route_34_surf,Cooltrainer Kate
+geodude,13,Tackle,Defense Curl,Rock Throw,-,33,28,33,14,14,12,route_46,Hiker Bailey
+geodude,13,Tackle,Defense Curl,Rock Throw,-,33,28,33,14,14,12,route_46,Hiker Bailey
+geodude,13,Tackle,Defense Curl,Rock Throw,-,33,28,33,14,14,12,route_46,Hiker Bailey
+geodude,13,Tackle,Defense Curl,Rock Throw,-,33,28,33,14,14,12,route_46,Hiker Bailey
+geodude,13,Tackle,Defense Curl,Rock Throw,-,33,28,33,14,14,12,route_46,Hiker Bailey
+mankey,17,Scratch,Leer,Low Kick,Karate Chop,43,35,19,19,23,31,route_46,Camper Ted
+ponyta,16,Tackle,Growl,Tail Whip,Ember,42,34,25,28,28,37,route_46,Picnicker Erin
+ponyta,16,Tackle,Growl,Tail Whip,Ember,42,34,25,28,28,37,route_46,Picnicker Erin
+hoppip,17,Synthesis,Tail Whip,Tackle,Poisonpowder,52,18,21,19,26,26,route_38,Beauty Valerie
+skiploom,17,Synthesis,Tail Whip,Tackle,Stun Spore,47,22,25,23,29,36,route_38,Beauty Valerie
+doduo,15,Peck,Growl,Pursuit,Fury Attack,37,33,20,17,17,29,route_38,Bird Keeper Toby
+doduo,16,Peck,Growl,Pursuit,Fury Attack,39,35,21,18,18,31,route_38,Bird Keeper Toby
+doduo,17,Peck,Growl,Pursuit,Fury Attack,41,36,23,19,19,33,route_38,Bird Keeper Toby
+wooper,19,Water Gun,Tail Whip,Slam,-,52,25,25,17,17,13,route_38,Sailor Harry
+flaaffy,18,Tackle,Growl,Thundershock,Thunder Wave,56,26,27,36,29,24,route_38,Lass Dana
+psyduck,18,Scratch,Tail Whip,Disable,Confusion,48,25,25,31,25,27,route_38,Lass Dana
+mr_mime,19,Barrier,Confusion,Substitute,Meditate,47,25,32,46,53,42,route_38,Schoolboy Chad
+corsola,19,Tackle,Harden,Bubble,Recover,51,28,40,32,40,22,route_38,Beauty Olivia
+slowpoke,17,Tackle,Growl,Water Gun,-,60,30,29,21,21,12,route_39,Psychic Norman
+slowpoke,20,Curse,Body Slam,Water Gun,Confusion,69,34,34,24,24,14,route_39,Psychic Norman
+pikachu,17,Tail Whip,Thunder Wave,Quick Attack,Double Team,40,25,19,24,21,38,route_39,Pokefan Ruth
+pikachu,17,Tail Whip,Thunder Wave,Quick Attack,Double Team,41,26,17,24,21,38,route_39,Pokefan Derek
+poliwhirl,17,Bubble,Hypnosis,Water Gun,-,51,30,29,24,24,38,route_39,Sailor Eugene
+raticate,17,Tackle,Tail Whip,Quick Attack,Hyper Fang,48,35,28,24,31,40,route_39,Sailor Eugene
+krabby,19,Bubble,Leer,ViceGrip,Harden,43,48,42,17,17,27,route_39,Sailor Eugene
+meowth,16,Scratch,Growl,Bite,-,40,21,20,20,20,36,route_39,Pokefan Jaime
+noctowl,20,Growl,Foresight,Peck,Hypnosis,73,28,28,38,46,36,glitter_lighthouse__2f,Gentleman Alfred
+poliwag,18,Bubble,Hypnosis,Water Gun,-,45,26,22,22,22,40,glitter_lighthouse__2f,Sailor Huey
+poliwhirl,18,Bubble,Hypnosis,Water Gun,-,54,31,31,25,25,40,glitter_lighthouse__2f,Sailor Huey
+pidgey,17,Tackle,Sand Attack,Gust,Quick Attack,43,23,21,19,19,26,glitter_lighthouse__3f,Bird Keeper Theo
+pidgey,15,Tackle,Sand Attack,Gust,Quick Attack,39,21,19,17,17,24,glitter_lighthouse__3f,Bird Keeper Theo
+pidgey,19,Tackle,Sand Attack,Gust,Quick Attack,47,25,23,21,21,29,glitter_lighthouse__3f,Bird Keeper Theo
+pidgey,15,Tackle,Sand Attack,Gust,Quick Attack,39,21,19,17,17,24,glitter_lighthouse__3f,Bird Keeper Theo
+pidgey,15,Tackle,Sand Attack,Gust,Quick Attack,39,21,19,17,17,24,glitter_lighthouse__3f,Bird Keeper Theo
+growlithe,18,Bite,Roar,Ember,Leer,50,33,24,33,25,29,glitter_lighthouse__3f,Gentleman Preston
+growlithe,18,Bite,Roar,Ember,Leer,50,33,24,33,25,29,glitter_lighthouse__3f,Gentleman Preston
+marill,21,Tail Whip,Water Gun,Rollout,Bubblebeam,63,15,29,16,29,25,glitter_lighthouse__4f,Lass Connie
+krabby,18,Bubble,Leer,ViceGrip,Harden,41,46,40,16,16,25,glitter_lighthouse__4f,Sailor Kent
+krabby,20,Bubblebeam,Leer,ViceGrip,Harden,45,50,44,18,18,28,glitter_lighthouse__4f,Sailor Kent
+spearow,18,Peck,Growl,Leer,Fury Attack,45,29,18,19,19,33,glitter_lighthouse__5f,Bird Keeper Denis
+fearow,20,Peck,Growl,Leer,Fury Attack,59,44,34,32,32,48,glitter_lighthouse__5f,Bird Keeper Denis
+spearow,18,Peck,Growl,Leer,Fury Attack,45,29,18,19,19,33,glitter_lighthouse__5f,Bird Keeper Denis
+poliwhirl,20,Bubble,Hypnosis,Water Gun,Doubleslap,59,34,34,28,28,44,glitter_lighthouse__3f,Sailor Terrell
+machop,18,Low Kick,Leer,Focus Energy,Karate Chop,56,37,25,20,20,20,glitter_lighthouse__5f,Sailor Ernest
+machop,18,Low Kick,Growl,Focus Energy,Karate Chop,56,37,25,20,20,20,glitter_lighthouse__5f,Sailor Ernest
+poliwhirl,18,Bubble,Hypnosis,Water Gun,-,54,31,31,25,25,40,glitter_lighthouse__5f,Sailor Ernest
+tentacool,20,Poison Sting,Supersonic,Constrict,Acid,49,24,22,28,48,36,route_40,Swimmer9794 Simon
+tentacool,20,Poison Sting,Supersonic,Constrict,Acid,49,24,22,28,48,36,route_40,Swimmer9794 Simon
+staryu,21,Harden,Water Gun,Flamethrower,Recover,46,26,31,37,31,44,route_40,Swimmer9792 Elaine
+grimer,19,Harden,Water Gun,Rapid Spin,Recover,43,24,28,34,28,40,route_40,Swimmer9792 Paula
+shellder,19,Tackle,Withdraw,Supersonic,Aurora Beam,43,32,46,25,17,23,route_40,Swimmer9792 Paula
+shellder,18,Tackle,Withdraw,Supersonic,Aurora Beam,41,31,43,24,16,22,route_40,Swimmer9794 Randall
+wartortle,20,Bubble,Withdraw,Water Gun,Bite,56,33,40,34,40,31,route_40,Swimmer9794 Randall
+shellder,18,Tackle,Withdraw,Supersonic,Aurora Beam,41,31,43,24,16,22,route_40,Swimmer9794 Randall
+shellder,21,Tackle,Withdraw,Supersonic,Aurora Beam,46,36,50,27,18,25,route_41,Swimmer9794 Charlie
+tentacool,19,Poison Sting,Supersonic,Constrict,Acid,47,23,21,27,46,34,route_41,Swimmer9794 Charlie
+tentacruel,19,Poison Sting,Supersonic,Constrict,Acid,62,35,32,38,53,46,route_41,Swimmer9794 Charlie
+tentacool,16,Poison Sting,Supersonic,Constrict,-,41,20,18,23,39,29,route_41,Swimmer9794 George
+tentacool,17,Poison Sting,Supersonic,Constrict,-,43,21,19,24,41,31,route_41,Swimmer9794 George
+tentacool,16,Poison Sting,Supersonic,Constrict,-,41,20,18,23,39,29,route_41,Swimmer9794 George
+staryu,19,Harden,Water Gun,Rapid Spin,Recover,43,25,28,34,28,40,route_41,Swimmer9794 George
+tentacool,17,Poison Sting,Supersonic,Constrict,-,43,21,19,24,41,31,route_41,Swimmer9794 George
+remoraid,19,Water Gun,Lock-On,-,-,45,33,21,32,21,32,route_41,Swimmer9794 George
+staryu,20,Harden,Water Gun,Rapid Spin,Recover,45,25,30,36,30,42,route_41,Swimmer9792 Kara
+starmie,20,Tackle,Rapid Spin,Recover,Bubblebeam,57,37,42,48,42,54,route_41,Swimmer9792 Kara
+krabby,23,Leer,ViceGrip,Harden,Stomp,50,57,50,20,20,31,route_41,Swimmer9794 Matthew
+seel,22,Headbutt,Growl,Aurora Beam,Rest,64,27,32,28,39,28,route_41,Swimmer9792 Denise
+gyarados,20,Thrash,Bite,-,-,71,58,39,32,48,40,route_41,Swimmer9794 Kirk
+gyarados,20,Thrash,Bite,-,-,71,58,39,32,48,40,route_41,Swimmer9794 Kirk
+qwilfish,23,Poison Sting,Harden,Minimize,Water Gun,66,52,43,33,33,47,route_41,Swimmer9794 Berke
+psyduck,20,Scratch,Tail Whip,Disable,Confusion,53,28,27,34,28,30,route_41,Swimmer9792 Susie
+goldeen,22,Peck,Tail Whip,Supersonic,Horn Attack,55,37,34,23,30,36,route_41,Swimmer9792 Susie
+goldeen,18,Peck,Tail Whip,Supersonic,Horn Attack,47,31,29,20,25,30,route_41,Swimmer9792 Kaylee
+goldeen,20,Peck,Tail Whip,Supersonic,Horn Attack,51,34,32,22,28,33,route_41,Swimmer9792 Kaylee
+seaking,20,Peck,Tail Whip,Supersonic,Horn Attack,65,44,34,34,40,35,route_41,Swimmer9792 Kaylee
+horsea,21,Bubble,Smokescreen,Leer,Water Gun,46,24,37,37,18,33,route_41,Swimmer9792 Wendy
+horsea,21,Bubble,Smokescreen,Leer,Water Gun,46,24,37,37,18,33,route_41,Swimmer9792 Wendy
+drowzee,23,Dream Eater,Hypnosis,Disable,Confusion,64,31,29,28,50,28,cianwood_city,MysticalMan Eusine
+haunter,23,Lick,Hypnosis,Mean Look,Curse,57,32,29,61,33,55,cianwood_city,MysticalMan Eusine
+electrode,25,Screech,Sonicboom,Thunder,Rollout,69,34,44,49,49,79,cianwood_city,MysticalMan Eusine
+hitmonlee,27,Double Kick,Meditate,Jump Kick,Focus Energy,68,74,37,28,68,56,cianwood_city_gym,Blackbelt Yoshi
+hitmonchan,27,Comet Punch,ThunderPunch,Ice Punch,Fire Punch,68,66,51,28,68,50,cianwood_city_gym,Blackbelt Lao
+machop,25,Leer,Focus Energy,Karate Chop,Seismic Toss,74,49,34,26,26,26,cianwood_city_gym,Blackbelt Nob
+machoke,25,Leer,Karate Chop,Seismic Toss,Rock Slide,79,59,44,34,39,31,cianwood_city_gym,Blackbelt Nob
+mankey,23,Leer,Low Kick,Karate Chop,Fury Swipes,55,45,24,24,29,40,cianwood_city_gym,Blackbelt Lung
+mankey,23,Leer,Low Kick,Karate Chop,Fury Swipes,55,45,24,24,29,40,cianwood_city_gym,Blackbelt Lung
+primeape,25,Low Kick,Rage,Karate Chop,Fury Swipes,71,62,39,39,44,56,cianwood_city_gym,Blackbelt Lung
+primeape,27,Leer,Rage,Karate Chop,Fury Swipes,76,66,41,41,47,60,cianwood_city_gym,Gym Leader Chuck
+poliwrath,30,Hypnosis,Mind Reader,Surf,DynamicPunch,98,61,66,51,63,51,cianwood_city_gym,Gym Leader Chuck
+magnemite,30,Thunderbolt,Supersonic,Sonicboom,Thunder Wave,59,31,50,66,42,36,olivine_city_gym,Gym Leader Jasmine
+magnemite,30,Thunderbolt,Supersonic,Sonicboom,Thunder Wave,59,31,50,66,42,36,olivine_city_gym,Gym Leader Jasmine
+steelix,35,Screech,Sunny Day,Rock Throw,Iron Tail,103,70,150,49,56,31,olivine_city_gym,Gym Leader Jasmine
+qwilfish,18,Tackle,Poison Sting,Harden,Minimize,54,42,34,27,27,38,route_42,Fisher Tully
+nidorina,16,Growl,Tackle,Scratch,Double Kick,50,27,29,25,25,25,route_42,Pokemaniac Shane
+nidorino,16,Leer,Tackle,Horn Attack,Double Kick,48,30,25,25,25,28,route_42,Pokemaniac Shane
+diglett,14,Scratch,Growl,Magnitude,-,26,23,14,17,19,33,route_42,Hiker Benjamin
+geodude,14,Tackle,Defense Curl,Rock Throw,-,35,30,35,15,15,12,route_42,Hiker Benjamin
+dugtrio,16,Tri Attack,Scratch,Growl,Magnitude,37,33,23,23,29,45,route_42,Hiker Benjamin
+nidoking,17,Tackle,Horn Attack,Double Kick,Poison Sting,57,39,33,36,33,36,mt_mortar,Pokemaniac Miller
+nidoqueen,17,Tackle,Scratch,Double Kick,Tail Whip,60,35,37,33,36,33,mt_mortar,Pokemaniac Miller
+slowpoke,19,Curse,Water Gun,Growl,Strength,66,33,32,23,23,13,mt_mortar,Super Nerd Markus
+sandshrew,17,Tri Attack,Defense Curl,Sand Attack,Poison Sting,46,33,36,14,17,21,route_43,Camper Spencer
+sandslash,17,Tri Attack,Defense Curl,Sand Attack,Poison Sting,55,42,45,23,26,29,route_43,Camper Spencer
+zubat,19,Poison Gas,Supersonic,Bite,Confuse Ray,47,25,21,19,23,28,route_43,Camper Spencer
+clefairy,20,Encore,Sing,Doubleslap,Minimize,58,25,28,32,34,23,route_43,Picnicker Tiffany
+lickitung,19,Lick,Supersonic,Defense Curl,Stomp,66,29,36,30,36,19,route_43,Pokemaniac Brent
+nidoking,19,Tackle,Horn Attack,Double Kick,Poison Sting,62,43,37,40,36,40,route_43,Pokemaniac Ron
+slowbro,19,Curse,Tackle,Growl,Water Gun,68,36,49,46,38,19,route_43,Pokemaniac Ben
+magikarp,10,Splash,-,-,-,25,8,17,9,10,22,route_43,Fisher Marvin
+gyarados,10,Thrash,-,-,-,40,31,22,18,26,22,route_43,Fisher Marvin
+magikarp,15,Splash,Tackle,-,-,33,10,23,11,13,15,route_43,Fisher Marvin
+gyarados,15,Thrash,-,-,-,55,45,31,25,37,31,route_43,Fisher Marvin
+drowzee,17,Pound,Hypnosis,Disable,-,50,25,23,22,38,22,team_rocket_hideout__b1f,Rocket Grunt 1
+zubat,19,Leech Life,Supersonic,Bite,Confuse Ray,47,27,21,19,23,29,team_rocket_hideout__b1f,Rocket Grunt 1
+zubat,16,Leech Life,Supersonic,Bite,-,41,23,18,17,20,25,team_rocket_hideout__b1f,Rocket Grunt 2
+grimer,17,Pound,Harden,Disable,Sludge,56,36,24,21,24,16,team_rocket_hideout__b1f,Rocket Grunt 2
+rattata,18,Tackle,Tail Whip,Quick Attack,Hyper Fang,41,29,20,16,20,34,team_rocket_hideout__b1f,Rocket Grunt 2
+magnemite,20,Tackle,Thundershock,Supersonic,Sonicboom,43,22,36,46,30,26,team_rocket_hideout__b1f,Scientist Jed
+magnemite,20,Tackle,Thundershock,Supersonic,Sonicboom,43,22,36,46,30,26,team_rocket_hideout__b1f,Scientist Jed
+magnemite,20,Tackle,Thundershock,Supersonic,Sonicboom,43,22,36,46,30,26,team_rocket_hideout__b1f,Scientist Jed
+rattata,16,Tackle,Tail Whip,Quick Attack,Hyper Fang,38,27,18,15,18,31,team_rocket_hideout__b1f,Rocket Grunt 3
+rattata,16,Tackle,Tail Whip,Quick Attack,Hyper Fang,38,27,18,15,18,31,team_rocket_hideout__b1f,Rocket Grunt 3
+rattata,16,Tackle,Tail Whip,Quick Attack,Hyper Fang,38,27,18,15,18,31,team_rocket_hideout__b1f,Rocket Grunt 3
+rattata,16,Tackle,Tail Whip,Quick Attack,Hyper Fang,38,27,18,15,18,31,team_rocket_hideout__b1f,Rocket Grunt 3
+venonat,18,Disable,Foresight,Supersonic,Confusion,52,29,25,22,27,24,team_rocket_hideout__b2f,Rocket Grunt 4
+venonat,18,Disable,Foresight,Supersonic,Confusion,52,29,25,22,27,24,team_rocket_hideout__b2f,Rocket Grunt 4
+golbat,18,Screech,Leech Life,Supersonic,Bite,57,38,33,31,34,41,team_rocket_hideout__b2f,Rocket Grunt 5
+koffing,22,Tackle,Smog,Selfdestruct,Sludge,53,37,50,34,28,23,team_rocket_hideout__b3f,Scientist Ross
+koffing,22,Tackle,Smog,Selfdestruct,Sludge,53,37,50,34,28,23,team_rocket_hideout__b3f,Scientist Ross
+ekans,18,Wrap,Leer,Poison Sting,Bite,43,29,25,22,27,28,team_rocket_hideout__b3f,Rocket Grunt 6
+gloom,18,Absorb,Sweet Scent,Stun Spore,Sleep Powder,52,30,35,38,34,23,team_rocket_hideout__b3f,Rocket Grunt 6
+ditto,24,Transform,-,-,-,60,32,31,31,31,31,team_rocket_hideout__b3f,Scientist Mitch
+raticate,19,Tackle,Tail Whip,Quick Attack,Hyper Fang,52,40,30,27,34,45,team_rocket_hideout__b3f,Rocket Grunt 7
+rattata,17,Tackle,Tail Whip,Quick Attack,Hyper Fang,39,28,19,16,19,32,team_rocket_hideout__b2f,Rocket Grunt 8
+zubat,17,Leech Life,Supersonic,Bite,-,43,24,19,17,21,27,team_rocket_hideout__b2f,Rocket Grunt 8
+rattata,17,Tackle,Tail Whip,Quick Attack,Hyper Fang,39,28,19,16,19,32,team_rocket_hideout__b2f,Rocket Grunt 8
+zubat,22,Leech Life,Supersonic,Bite,Confuse Ray,53,30,23,21,26,33,team_rocket_hideout__b3f,Rocket Executive 1
+raticate,24,Tail Whip,Quick Attack,Scary Face,Hyper Fang,64,50,37,32,42,56,team_rocket_hideout__b3f,Rocket Executive 1
+koffing,22,Tackle,Smog,Selfdestruct,Sludge,53,39,50,34,28,24,team_rocket_hideout__b3f,Rocket Executive 1
+arbok,23,Wrap,Leer,Poison Sting,Bite,64,47,43,38,45,46,team_rocket_hideout__b2f,Rocket Executive 2
+gastly,23,Absorb,Sweet Scent,Sleep Powder,Acid,64,38,43,47,43,28,team_rocket_hideout__b2f,Rocket Executive 2
+murkrow,25,Peck,Pursuit,Haze,-,69,51,33,51,30,55,team_rocket_hideout__b2f,Rocket Executive 2
+jynx,28,Lovely Kiss,Powder Snow,Doubleslap,Ice Punch,78,38,29,73,62,62,mahogany_town_gym,Skier Roxanne
+swinub,26,Tackle,Powder Snow,Endure,-,66,35,29,24,24,35,mahogany_town_gym,Boarder Brad
+swinub,26,Tackle,Powder Snow,Endure,-,66,35,29,24,24,35,mahogany_town_gym,Boarder Brad
+dewgong,28,Headbutt,Growl,Aurora Beam,Rest,92,49,54,48,62,48,mahogany_town_gym,Skier Clarissa
+shellder,24,Tackle,Withdraw,Supersonic,Aurora Beam,52,40,56,30,20,28,mahogany_town_gym,Boarder Douglas
+cloyster,25,Withdraw,Supersonic,Aurora Beam,Protect,64,57,99,51,31,44,mahogany_town_gym,Boarder Douglas
+shellder,24,Tackle,Withdraw,Supersonic,Aurora Beam,52,40,56,30,20,28,mahogany_town_gym,Boarder Douglas
+seel,24,Headbutt,Growl,Aurora Beam,Rest,69,30,35,30,42,30,mahogany_town_gym,Boarder Ronald
+dewgong,25,Headbutt,Growl,Aurora Beam,Rest,84,44,49,44,56,44,mahogany_town_gym,Boarder Ronald
+seel,24,Headbutt,Growl,Aurora Beam,Rest,69,30,35,30,42,30,mahogany_town_gym,Boarder Ronald
+seel,27,Headbutt,Icy Wind,Aurora Beam,Rest,76,34,39,33,47,33,mahogany_town_gym,Gym Leader Pryce
+dewgong,29,Headbutt,Icy Wind,Aurora Beam,Rest,95,50,56,50,64,50,mahogany_town_gym,Gym Leader Pryce
+piloswine,31,Icy Wind,Fury Attack,Mist,Blizzard,107,72,59,47,47,40,mahogany_town_gym,Gym Leader Pryce
+raticate,24,Tail Whip,Quick Attack,Hyper Fang,Scary Face,64,50,37,32,42,56,goldenrod_city_radio_tower,Rocket Grunt 1
+raticate,24,Tail Whip,Quick Attack,Hyper Fang,Scary Face,64,50,37,32,42,56,goldenrod_city_radio_tower,Rocket Grunt 1
+arbok,26,Leer,Poison Sting,Bite,Glare,71,52,48,42,50,51,goldenrod_city_radio_tower,Rocket Grunt 2
+rattata,21,Tail Whip,Quick Attack,Hyper Fang,Focus Energy,46,33,23,18,23,39,goldenrod_city_radio_tower,Rocket Grunt 3
+rattata,21,Tail Whip,Quick Attack,Hyper Fang,Focus Energy,46,33,23,18,23,39,goldenrod_city_radio_tower,Rocket Grunt 3
+rattata,23,Tail Whip,Quick Attack,Hyper Fang,Focus Energy,50,36,24,20,24,42,goldenrod_city_radio_tower,Rocket Grunt 3
+rattata,23,Tail Whip,Quick Attack,Hyper Fang,Focus Energy,50,36,24,20,24,42,goldenrod_city_radio_tower,Rocket Grunt 3
+rattata,23,Tail Whip,Quick Attack,Hyper Fang,Focus Energy,50,36,24,20,24,42,goldenrod_city_radio_tower,Rocket Grunt 3
+zubat,26,Poison Gas,Supersonic,Bite,Confuse Ray,60,35,27,24,29,38,goldenrod_city_radio_tower,Rocket Grunt 4
+zubat,26,Poison Gas,Supersonic,Bite,Confuse Ray,60,35,27,24,29,38,goldenrod_city_radio_tower,Rocket Grunt 4
+grimer,23,Harden,Disable,Sludge,Minimize,73,47,31,27,31,21,goldenrod_city_radio_tower,Rocket Grunt 5
+grimer,23,Harden,Disable,Sludge,Minimize,73,47,31,27,31,21,goldenrod_city_radio_tower,Rocket Grunt 5
+muk,25,Minimize,Pound,Harden,-,91,64,46,41,59,35,goldenrod_city_radio_tower,Rocket Grunt 5
+koffing,23,Tackle,Smog,Selfdestruct,Sludge,55,40,52,36,29,25,goldenrod_city_radio_tower,Rocket Grunt 6
+grimer,23,Harden,Disable,Sludge,Minimize,73,47,31,27,31,21,goldenrod_city_radio_tower,Rocket Grunt 6
+zubat,23,Leech Life,Supersonic,Bite,Confuse Ray,55,31,24,22,27,34,goldenrod_city_radio_tower,Rocket Grunt 6
+rattata,23,Tail Whip,Quick Attack,Hyper Fang,Focus Energy,50,36,24,20,24,42,goldenrod_city_radio_tower,Rocket Grunt 6
+weezing,26,Smog,Selfdestruct,Sludge,Smokescreen,73,58,71,53,45,41,goldenrod_city_radio_tower,Rocket Grunt 7
+magnemite,27,Supersonic,Sonicboom,Thunder Wave,Lock-On,54,28,47,60,39,33,goldenrod_city_radio_tower,Scientist Marc
+magnemite,27,Supersonic,Sonicboom,Thunder Wave,Lock-On,54,28,47,60,39,33,goldenrod_city_radio_tower,Scientist Marc
+magnemite,27,Supersonic,Sonicboom,Thunder Wave,Lock-On,54,28,47,60,39,33,goldenrod_city_radio_tower,Scientist Marc
+zubat,22,Leech Life,Supersonic,Bite,Confuse Ray,53,30,23,21,26,33,goldenrod_city_radio_tower,Rocket Grunt 8
+golbat,24,Leech Life,Supersonic,Bite,Confuse Ray,73,49,42,43,44,53,goldenrod_city_radio_tower,Rocket Grunt 8
+grimer,22,Pound,Harden,Disable,Sludge,70,45,30,26,30,20,goldenrod_city_radio_tower,Rocket Grunt 8
+porygon,30,Conversion,Conversion2,Recover,Tri Attack,83,46,51,60,54,33,goldenrod_city_radio_tower,Scientist Rich
+koffing,30,Tackle,Selfdestruct,Sludge,Smokescreen,68,51,66,45,36,32,goldenrod_city_radio_tower,Rocket Executive 1
+koffing,30,Tackle,Selfdestruct,Sludge,Smokescreen,68,51,66,45,36,32,goldenrod_city_radio_tower,Rocket Executive 1
+koffing,30,Tackle,Selfdestruct,Sludge,Smokescreen,68,51,66,45,36,32,goldenrod_city_radio_tower,Rocket Executive 1
+koffing,30,Tackle,Selfdestruct,Sludge,Smokescreen,68,51,66,45,36,32,goldenrod_city_radio_tower,Rocket Executive 1
+koffing,30,Tackle,Selfdestruct,Sludge,Smokescreen,68,51,66,45,36,32,goldenrod_city_radio_tower,Rocket Executive 1
+weezing,32,Tackle,Explosion,Sludge,Smokescreen,88,70,86,64,54,49,goldenrod_city_radio_tower,Rocket Executive 1
+golbat,30,Leech Life,Bite,Confuse Ray,Wing Attack,94,60,54,51,57,66,goldenrod_city_underground_warehouse,Rival Silver
+magnemite,28,Tackle,Thundershock,Sonicboom,Thunder Wave,60,31,51,65,43,37,goldenrod_city_underground_warehouse,Rival Silver
+haunter,30,Lick,Mean Look,Curse,Shadow Ball,76,42,39,81,45,69,goldenrod_city_underground_warehouse,Rival Silver
+sneasel,32,Leer,Quick Attack,Screech,Faint Attack,86,74,48,35,61,86,goldenrod_city_underground_warehouse,Rival Silver
+feraligatr,32,Rage,Water Gun,Bite,Scary Face,106,80,77,63,66,63,goldenrod_city_underground_warehouse,Rival Silver
+quilava,32,Smokescreen,Ember,Quick Attack,Flame Wheel,106,80,77,63,66,63,goldenrod_city_underground_warehouse,Rival Silver
+meganium,32,Reflect,Razor Leaf,Poisonpowder,Body Slam,106,80,77,63,66,63,goldenrod_city_underground_warehouse,Rival Silver
+rattata,27,Quick Attack,Hyper Fang,Focus Energy,Pursuit,57,42,28,22,28,49,goldenrod_city_underground_warehouse,Rocket Grunt 9
+muk,23,Poison Gas,Pound,Harden,-,84,59,43,38,54,32,goldenrod_city_underground_warehouse,Rocket Grunt 10
+koffing,23,Tackle,Smog,Selfdestruct,Sludge,55,40,52,36,29,25,goldenrod_city_underground_warehouse,Rocket Grunt 10
+rattata,25,Tail Whip,Quick Attack,Hyper Fang,Focus Energy,54,39,26,21,26,46,goldenrod_city_underground_warehouse,Rocket Grunt 10
+koffing,24,Tackle,Smog,Selfdestruct,Sludge,57,42,54,37,30,26,goldenrod_city_underground_warehouse,Rocket Grunt 11
+muk,24,Poison Gas,Pound,Harden,-,88,61,44,40,56,33,goldenrod_city_underground_warehouse,Rocket Grunt 11
+growlithe,26,Roar,Ember,Leer,Take Down,68,46,32,45,35,40,goldenrod_city_underground_warehouse,Burgular Eddie
+koffing,24,Tackle,Smog,Sludge,Smokescreen,57,40,54,37,30,25,goldenrod_city_underground_warehouse,Burgular Eddie
+koffing,23,Tackle,Smog,Selfdestruct,Sludge,55,39,52,36,29,24,goldenrod_city_underground_warehouse,Burgular Duncan
+magmar,25,Leer,Smog,Fire Punch,Smokescreen,71,57,37,59,51,55,goldenrod_city_underground_warehouse,Burgular Duncan
+koffing,23,Tackle,Smog,Selfdestruct,Sludge,55,39,52,36,29,24,goldenrod_city_underground_warehouse,Burgular Duncan
+gloom,25,Poisonpowder,Stun Spore,Sleep Powder,Acid,69,41,47,51,46,30,goldenrod_city_underground_warehouse,Rocket Grunt 12
+gloom,25,Poisonpowder,Stun Spore,Sleep Powder,Acid,69,41,47,51,46,30,goldenrod_city_underground_warehouse,Rocket Grunt 12
+raticate,24,Tail Whip,Quick Attack,Hyper Fang,Scary Face,64,50,37,32,42,56,goldenrod_city_underground_warehouse,Rocket Grunt 13
+golbat,25,Poison Gas,Supersonic,Bite,Confuse Ray,73,49,42,40,44,53,goldenrod_city_underground_warehouse,Rocket Grunt 13
+grimer,26,Harden,Disable,Sludge,Minimize,81,53,35,29,35,23,goldenrod_city_underground_warehouse,Rocket Grunt 14
+weezing,23,Tackle,Selfdestruct,Smog,Sludge,66,52,63,47,40,37,goldenrod_city_underground_warehouse,Rocket Grunt 14
+koffing,25,Smog,Selfdestruct,Sludge,Smokescreen,59,44,56,39,31,27,goldenrod_city_underground_warehouse,Rocket Grunt 15
+koffing,25,Smog,Selfdestruct,Sludge,Smokescreen,59,44,56,39,31,27,goldenrod_city_underground_warehouse,Rocket Grunt 15
+raticate,24,Tail Whip,Quick Attack,Hyper Fang,Scary Face,64,50,37,32,42,56,goldenrod_city_radio_tower,Rocket Grunt 16
+koffing,26,Haze,Selfdestruct,Sludge,Smokescreen,60,45,58,40,32,28,goldenrod_city_radio_tower,Rocket Grunt 16
+ekans,21,Wrap,Leer,Poison Sting,Bite,49,33,29,25,31,32,goldenrod_city_radio_tower,Rocket Grunt 17
+oddish,24,Poisonpowder,Stun Spore,Sleep Powder,Acid,66,39,45,49,44,29,goldenrod_city_radio_tower,Rocket Grunt 17
+ekans,21,Wrap,Leer,Poison Sting,Bite,49,33,29,25,31,32,goldenrod_city_radio_tower,Rocket Grunt 17
+gloom,23,Poisonpowder,Stun Spore,Sleep Powder,Acid,57,31,36,43,38,23,goldenrod_city_radio_tower,Rocket Grunt 17
+golbat,36,Leech Life,Bite,Confuse Ray,Wing Attack,105,71,61,57,64,77,goldenrod_city_radio_tower,Rocket Executive 2
+arbok,32,Wrap,Poison Sting,Bite,Glare,85,63,58,51,60,62,goldenrod_city_radio_tower,Rocket Executive 3
+vileplume,32,Absorb,Sweet Scent,Sleep Powder,Acid,95,60,68,74,67,43,goldenrod_city_radio_tower,Rocket Executive 3
+murkrow,32,Peck,Pursuit,Haze,Night Shade,85,63,40,64,37,69,goldenrod_city_radio_tower,Rocket Executive 3
+houndour,33,Ember,Roar,Bite,Faint Attack,77,53,30,63,43,54,goldenrod_city_radio_tower,Rocket Executive 4
+koffing,33,Tackle,Sludge,Smokescreen,Haze,74,56,72,49,39,34,goldenrod_city_radio_tower,Rocket Executive 4
+houndoom,35,Ember,Smog,Bite,Faint Attack,103,77,45,87,66,78,goldenrod_city_radio_tower,Rocket Executive 4
+natu,24,Leer,Night Shade,Future Sight,Confuse Ray,57,33,30,42,30,42,route_44,Psychic Phil
+kadabra,26,Disable,Psybeam,Recover,Future Sight,60,27,24,71,45,63,route_44,Psychic Phil
+goldeen,23,Peck,Tail Whip,Supersonic,Horn Attack,57,39,36,24,31,37,route_44,Fisher Wilton
+goldeen,23,Peck,Tail Whip,Supersonic,Horn Attack,57,39,36,24,31,37,route_44,Fisher Wilton
+seaking,25,Tail Whip,Supersonic,Horn Attack,Flail,79,55,41,41,49,43,route_44,Fisher Wilton
+rhyhorn,27,Horn Attack,Tail Whip,Stomp,Fury Attack,84,55,60,25,25,22,route_44,Pokemaniac Zach
+butterfree,25,Confusion,Sleep Powder,Whirlwind,Gust,69,31,36,49,49,46,route_44,Cooltrainer Cybil
+bellossom,25,Absorb,Stun Spore,Acid,Solar Beam,76,48,53,54,59,36,route_44,Cooltrainer Cybil
+remoraid,25,Lock-On,Psybeam,Aurora Beam,Bubblebeam,56,42,26,41,26,41,route_44,Fisher Edgar
+remoraid,25,Lock-On,Psybeam,Aurora Beam,Bubblebeam,56,42,26,41,26,41,route_44,Fisher Edgar
+pidgeotto,25,Sand Attack,Gust,Quick Attack,Whirlwind,70,39,36,34,34,44,route_44,Bird Keeper Vance
+pidgeotto,25,Sand Attack,Gust,Quick Attack,Whirlwind,70,39,36,34,34,44,route_44,Bird Keeper Vance
+dratini,34,Thunder Wave,Twister,Dragon Rage,Slam,77,57,41,44,44,47,blackthorn_city_gym,Cooltrainer Paul
+dratini,34,Thunder Wave,Twister,Dragon Rage,Slam,77,57,41,44,44,47,blackthorn_city_gym,Cooltrainer Paul
+dratini,34,Thunder Wave,Twister,Dragon Rage,Slam,77,57,41,44,44,47,blackthorn_city_gym,Cooltrainer Paul
+seadra,37,Smokescreen,Leer,Water Gun,Twister,93,58,84,81,44,76,blackthorn_city_gym,Cooltrainer Fran
+horsea,34,Smokescreen,Leer,Water Gun,Twister,69,41,58,58,27,53,blackthorn_city_gym,Cooltrainer Cody
+seadra,36,Smokescreen,Leer,Water Gun,Twister,91,61,79,79,43,74,blackthorn_city_gym,Cooltrainer Cody
+dragonair,37,Thunder Wave,Twister,Dragon Rage,Slam,98,76,59,62,62,65,blackthorn_city_gym,Cooltrainer Mike
+dragonair,37,Thunder Wave,Surf,Slam,Dragonbreath,100,72,61,66,66,66,blackthorn_city_gym,Gym Leader Clair
+dragonair,37,Thunder Wave,Thunderbolt,Slam,Dragonbreath,100,72,61,66,66,66,blackthorn_city_gym,Gym Leader Clair
+dragonair,37,Thunder Wave,Ice Beam,Slam,Dragonbreath,100,72,61,66,66,66,blackthorn_city_gym,Gym Leader Clair
+kingdra,40,Smokescreen,Surf,Hyper Beam,Dragonbreath,118,86,90,91,91,83,blackthorn_city_gym,Gym Leader Clair
+horsea,33,Smokescreen,Leer,Whirlpool,Twister,68,36,59,56,26,52,dragons_den,Cooltrainer Cara
+horsea,33,Smokescreen,Leer,Whirlpool,Twister,68,36,59,56,26,52,dragons_den,Cooltrainer Cara
+seadra,35,Swift,Leer,Waterfall,Twister,89,55,79,77,42,72,dragons_den,Cooltrainer Cara
+dragonair,37,Wrap,Surf,Dragon Rage,Slam,98,76,59,62,62,65,dragons_den,Cooltrainer Darin
+dratini,35,Thunder Wave,Twister,Flamethrower,Headbutt,73,54,42,45,45,47,dragons_den,Twins Lea  Pia
+dratini,35,Thunder Wave,Twister,Flamethrower,Headbutt,73,54,42,45,45,47,dragons_den,Twins Lea  Pia
+hitmonlee,34,Jump Kick,Focus Energy,Hi Jump Kick,Mind Reader,83,92,46,34,85,69,mt_mortar,Blackbelt Kiyo
+hitmonchan,34,Thunderpunch,Ice Punch,Fire Punch,Mach Punch,83,82,64,34,85,62,mt_mortar,Blackbelt Kiyo
+machop,24,Leer,Focus Energy,Karate Chop,Seismic Toss,67,48,32,25,25,25,route_45,Hiker Erik
+graveler,27,Rock Throw,Magnitude,Selfdestruct,Harden,66,45,71,33,33,28,route_45,Hiker Erik
+machop,24,Leer,Focus Energy,Karate Chop,Seismic Toss,67,48,32,25,25,25,route_45,Hiker Erik
+pidgeot,25,Sand Attack,Quick Attack,Whirlwind,Wing Attack,80,51,46,44,44,56,route_45,Cooltrainer Ryan
+electabuzz,27,Thunderpunch,Light Screen,Swift,Screech,76,56,40,60,55,68,route_45,Cooltrainer Ryan
+onix,29,Bind,Rock Throw,Harden,Rage,59,36,102,27,35,50,route_45,Hiker Parry
+marill,27,Tail Whip,Water Gun,Rollout,Bubblebeam,79,19,38,20,36,33,route_45,Cooltrainer Kelly
+wartortle,24,Bubble,Withdraw,Water Gun,Bite,66,38,49,40,47,38,route_45,Cooltrainer Kelly
+wartortle,24,Bubble,Withdraw,Water Gun,Bite,66,38,49,40,47,38,route_45,Cooltrainer Kelly
+machoke,28,Focus Energy,Karate Chop,Seismic Toss,Foresight,87,66,48,37,43,34,route_45,Blackbelt Kenji
+diglett,27,Magnitude,Dig,Sand Attack,Slash,42,40,22,28,33,60,route_45,Hiker Timothy
+dugtrio,27,Magnitude,Dig,Sand Attack,Slash,55,53,36,36,47,74,route_45,Hiker Timothy
+geodude,25,Defense Curl,Rock Throw,Magnitude,Selfdestruct,55,50,59,24,24,19,route_45,Hiker Michael
+graveler,25,Defense Curl,Rock Throw,Magnitude,Selfdestruct,62,57,66,31,31,26,route_45,Hiker Michael
+golem,25,Defense Curl,Rock Throw,Magnitude,Selfdestruct,75,65,74,36,41,31,route_45,Hiker Michael
+bulbasaur,32,Growl,Leech Seed,Poisonpowder,Razor Leaf,75,40,44,51,51,41,route_27,Cooltrainer Megan
+ivysaur,32,Growl,Leech Seed,Poisonpowder,Razor Leaf,85,49,53,61,61,51,route_27,Cooltrainer Megan
+venusaur,32,Body Slam,Sleep Powder,Razor Leaf,Sweet Scent,98,61,65,74,74,63,route_27,Cooltrainer Megan
+magneton,33,Thunderbolt,Supersonic,Swift,Screech,81,53,72,89,56,59,route_27,Cooltrainer Blake
+quagsire,31,Water Gun,Slam,Amnesia,Earthquake,104,65,62,50,50,34,route_27,Cooltrainer Blake
+exeggcute,31,Leech Seed,Confusion,Sleep Powder,Solar Beam,83,37,59,47,37,37,route_27,Cooltrainer Blake
+sandslash,35,Sand Attack,Poison Sting,Slash,Swift,103,84,87,42,49,58,route_27,Cooltrainer Brian
+starmie,30,Tackle,Rapid Spin,Recover,Bubblebeam,80,55,60,69,60,78,route_27,Psychic Gilbert
+exeggcute,30,Reflect,Leech Seed,Confusion,Stun Spore,80,34,57,45,36,33,route_27,Psychic Gilbert
+girafarig,34,Confusion,Stomp,Agility,Baton Pass,97,65,54,71,54,68,route_27,Psychic Gilbert
+farfetchd,35,Leer,Fury Attack,Swords Dance,Agility,87,56,49,51,54,52,route_27,Bird Keeper Jose
+starmie,31,Tackle,Rapid Spin,Recover,Bubblebeam,83,55,65,71,62,83,route_27,Cooltrainer Reena
+nidoqueen,33,Pound,Thief,Tail Whip,Body Slam,107,63,70,59,66,63,route_27,Cooltrainer Reena
+starmie,31,Tackle,Rapid Spin,Recover,Bubblebeam,83,55,65,71,62,83,route_27,Cooltrainer Reena
+qwilfish,30,Harden,Minimize,Water Gun,Pin Missile,83,67,54,42,42,60,route_26,Fisher Scott
+qwilfish,30,Harden,Minimize,Water Gun,Pin Missile,83,67,54,42,42,60,route_26,Fisher Scott
+seaking,34,Supersonic,Horn Attack,Flail,Fury Attack,103,73,54,54,64,56,route_26,Fisher Scott
+espeon,36,Confusion,Quick Attack,Swift,Psybeam,98,58,53,104,79,89,route_26,Psychic Richard
+pikachu,36,Quick Attack,Double Team,Thunderbolt,Thunder,76,49,35,46,39,78,route_26,Cooltrainer Joyce
+blastoise,32,Bite,Horn Attack,Surf,Rain Dance,97,62,76,64,77,62,route_26,Cooltrainer Joyce
+victreebel,32,Wrap,Toxic,Acid,Razor Leaf,98,80,51,74,48,57,route_26,Cooltrainer Gaven
+kingler,32,Bubblebeam,Stomp,Guillotine,Protect,82,96,83,42,42,60,route_26,Cooltrainer Gaven
+flareon,32,Sand Attack,Quick Attack,Bite,Fire Spin,88,96,48,70,80,54,route_26,Cooltrainer Gaven
+parasect,33,Leech Life,Spore,Slash,Dragonbreath,87,76,63,49,63,32,route_26,Cooltrainer Jake
+golduck,35,Confusion,Screech,Psych Up,Fury Swipes,106,71,65,77,66,72,route_26,Cooltrainer Jake
+rapidash,36,Stomp,Fire Spin,Fury Attack,Agility,98,82,64,68,68,89,route_26,Cooltrainer Beth
+sneasel,34,Quick Attack,Screech,Faint Attack,Fury Cutter,91,78,51,37,64,92,victory_road,Rival Silver
+golbat,36,Leech Life,Bite,Confuse Ray,Wing Attack,110,71,64,61,68,79,victory_road,Rival Silver
+magneton,34,Thundershock,Sonicboom,Thunder Wave,Swift,88,54,78,95,61,61,victory_road,Rival Silver
+haunter,35,Mean Look,Curse,Shadow Ball,Confuse Ray,87,49,45,94,52,80,victory_road,Rival Silver
+kadabra,35,Disable,Psybeam,Recover,Future Sight,83,38,35,98,63,87,victory_road,Rival Silver
+feraligatr,38,Rage,Water Gun,Scary Face,Slash,124,94,90,74,77,74,victory_road,Rival Silver
+meganium,38,Reflect,Razor Leaf,Poisonpowder,Body Slam,124,94,90,74,77,74,victory_road,Rival Silver
+typhlosion,38,Smokescreen,Ember,Quick Attack,Flame Wheel,124,94,90,74,77,74,victory_road,Rival Silver
+xatu,40,Quick Attack,Future Sight,Confuse Ray,Psychic,110,75,70,91,71,91,indigo_plateau_pokemon_league,Kanto Elite Four Will
+jynx,41,Doubleslap,Lovely Kiss,Ice Punch,Psychic,113,56,43,109,93,93,indigo_plateau_pokemon_league,Kanto Elite Four Will
+exeggutor,41,Reflect,Leech Seed,Egg Bomb,Psychic,137,93,84,118,68,60,indigo_plateau_pokemon_league,Kanto Elite Four Will
+slowbro,41,Curse,Amnesia,Body Slam,Psychic,137,77,105,97,81,40,indigo_plateau_pokemon_league,Kanto Elite Four Will
+xatu,42,Quick Attack,Future Sight,Confuse Ray,Psychic,115,78,73,95,74,95,indigo_plateau_pokemon_league,Kanto Elite Four Will
+ariados,40,Double Team,Spider Web,Baton Pass,Giga Drain,114,87,70,63,63,47,indigo_plateau_pokemon_league,Kanto Elite Four Koga
+venomoth,41,Supersonic,Gust,Psychic,Toxic,117,68,64,89,78,89,indigo_plateau_pokemon_league,Kanto Elite Four Koga
+forretress,43,Protect,Swift,Explosion,Spikes,126,93,135,67,67,50,indigo_plateau_pokemon_league,Kanto Elite Four Koga
+muk,42,Minimize,Acid Armor,Sludge Bomb,Toxic,149,104,78,70,99,57,indigo_plateau_pokemon_league,Kanto Elite Four Koga
+crobat,44,Double Team,Quick Attack,Wing Attack,Toxic,138,95,85,78,86,130,indigo_plateau_pokemon_league,Kanto Elite Four Koga
+hitmontop,42,Pursuit,Quick Attack,Dig,Detect,103,95,94,45,108,74,indigo_plateau_pokemon_league,Kanto Elite Four Bruno
+hitmonlee,42,Swagger,Double Kick,Hi Jump Kick,Foresight,103,116,59,45,108,89,indigo_plateau_pokemon_league,Kanto Elite Four Bruno
+hitmonchan,42,Thunderpunch,Ice Punch,Fire Punch,Mach Punch,103,104,81,45,108,79,indigo_plateau_pokemon_league,Kanto Elite Four Bruno
+onix,43,Bind,Earthquake,Sandstorm,Rock Slide,92,54,152,41,54,76,indigo_plateau_pokemon_league,Kanto Elite Four Bruno
+machamp,46,Rock Slide,Foresight,Vital Throw,Cross Chop,148,136,89,76,95,67,indigo_plateau_pokemon_league,Kanto Elite Four Bruno
+umbreon,42,Sand Attack,Confuse Ray,Faint Attack,Mean Look,144,65,110,68,125,70,indigo_plateau_pokemon_league,Kanto Elite Four Karen
+vileplume,42,Stun Spore,Acid,Moonlight,Petal Dance,127,78,89,101,93,57,indigo_plateau_pokemon_league,Kanto Elite Four Karen
+gengar,45,Lick,Spite,Curse,Destiny Bond,122,69,72,135,86,115,indigo_plateau_pokemon_league,Kanto Elite Four Karen
+murkrow,44,Quick Attack,Whirlwind,Pursuit,Faint Attack,120,85,55,93,55,96,indigo_plateau_pokemon_league,Kanto Elite Four Karen
+houndoom,47,Roar,Pursuit,Flamethrower,Crunch,141,96,66,122,94,106,indigo_plateau_pokemon_league,Kanto Elite Four Karen
+gyarados,44,Flail,Rain Dance,Surf,Hyper Beam,147,126,85,69,104,87,indigo_plateau_pokemon_league,Champion Lance
+dragonite,47,Thunder Wave,Twister,Thunder,Hyper Beam,152,143,105,111,111,92,indigo_plateau_pokemon_league,Champion Lance
+dragonite,47,Thunder Wave,Twister,Blizzard,Hyper Beam,152,143,105,111,111,92,indigo_plateau_pokemon_league,Champion Lance
+aerodactyl,46,Wing Attack,Ancientpower,Rock Slide,Hyper Beam,139,113,75,72,85,136,indigo_plateau_pokemon_league,Champion Lance
+charizard,46,Flamethrower,Wing Attack,Slash,Hyper Beam,137,94,87,117,95,108,indigo_plateau_pokemon_league,Champion Lance
+dragonite,50,Fire Blast,Return,Outrage,Hyper Beam,162,152,112,118,118,98,indigo_plateau_pokemon_league,Champion Lance
+seadra,39,Smokescreen,Twister,Surf,Waterfall,98,62,85,85,46,77,mt_mortar,Super Nerd Hugh
+sandslash,31,Defense Curl,Sand Attack,Poison Sting,Slash,87,73,78,37,44,50,ss_aqua,Hiker Noland
+golem,33,Rock Throw,Magnitude,Selfdestruct,Harden,95,84,96,46,53,39,ss_aqua,Hiker Noland
+koffing,28,Smog,Selfdestruct,Sludge,Smokescreen,64,46,62,43,34,29,ss_aqua,Firebreather Lyle
+flareon,31,Sand Attack,Ember,Quick Attack,Bite,86,91,47,68,78,50,ss_aqua,Firebreather Lyle
+koffing,28,Smog,Selfdestruct,Sludge,Smokescreen,64,46,62,43,34,29,ss_aqua,Firebreather Lyle
+delibird,32,Present,-,-,-,75,45,38,51,38,58,ss_aqua,Pokefan Colin
+teddiursa,31,Lick,Fury Swipes,Faint Attack,Rest,78,58,40,40,40,36,ss_aqua,Twins Meg  Peg
+phanpy,31,Growl,Defense Curl,Flail,Take Down,96,45,47,34,34,36,ss_aqua,Twins Meg  Peg
+machop,31,Karate Chop,Seismic Toss,Foresight,Vital Throw,89,60,40,31,31,31,ss_aqua,Sailor Stanly
+machoke,33,Focus Energy,Karate Chop,Seismic Toss,Foresight,101,76,56,43,49,39,ss_aqua,Sailor Stanly
+psyduck,26,Tail Whip,Disable,Confusion,Screech,66,36,34,42,35,37,ss_aqua,Sailor Stanly
+mr_mime,29,Meditate,Doubleslap,Light Screen,Reflect,66,36,47,67,79,61,ss_aqua,Juggler Fritz
+magmar,29,Leer,Smog,Fire Punch,Smokescreen,81,65,42,67,58,63,ss_aqua,Juggler Fritz
+machoke,29,Focus Energy,Karate Chop,Seismic Toss,Foresight,90,68,50,38,44,35,ss_aqua,Juggler Fritz
+raticate,32,Quick Attack,Hyper Fang,Scary Face,Pursuit,82,62,48,42,54,72,ss_aqua,Sailor Jeff
+raticate,32,Quick Attack,Hyper Fang,Scary Face,Pursuit,82,62,48,42,54,72,ss_aqua,Sailor Jeff
+seaking,33,Supersonic,Horn Attack,Flail,Fury Attack,95,69,54,53,63,56,ss_aqua,Picnicker Debra
+magnemite,27,Supersonic,Sonicboom,Thunder Wave,Lock-On,54,28,47,60,39,33,vermilion_city_gym,Guitarist Vincent
+voltorb,33,Sonicboom,Selfdestruct,Rollout,Light Screen,74,30,43,46,46,76,vermilion_city_gym,Guitarist Vincent
+magnemite,32,Supersonic,Sonicboom,Thunder Wave,Lock-On,63,33,54,70,45,38,vermilion_city_gym,Guitarist Vincent
+magnemite,32,Supersonic,Sonicboom,Thunder Wave,Lock-On,63,33,54,70,45,38,vermilion_city_gym,Guitarist Vincent
+electrode,33,Screech,Sonicboom,Selfdestruct,Rollout,87,43,56,63,63,102,vermilion_city_gym,Juggler Horton
+electrode,33,Screech,Sonicboom,Selfdestruct,Rollout,87,43,56,63,63,102,vermilion_city_gym,Juggler Horton
+electrode,33,Screech,Sonicboom,Selfdestruct,Rollout,87,43,56,63,63,102,vermilion_city_gym,Juggler Horton
+electrode,33,Screech,Sonicboom,Selfdestruct,Rollout,87,43,56,63,63,102,vermilion_city_gym,Juggler Horton
+pikachu,37,Double Team,Slam,Thunderbolt,Agility,78,52,33,47,40,77,vermilion_city_gym,Gentleman Gregory
+flaaffy,33,Growl,Thundershock,Thunder Wave,Cotton Spore,94,47,46,63,49,39,vermilion_city_gym,Gentleman Gregory
+raichu,44,Thunder Wave,Quick Attack,Thunderbolt,Thunder,113,92,60,91,82,100,vermilion_city_gym,Gym Leader Lt Surge
+electrode,40,Screech,Double Team,Swift,Explosion,104,52,67,75,75,123,vermilion_city_gym,Gym Leader Lt Surge
+magneton,40,Lock-On,Double Team,Swift,Zap Cannon,96,60,87,107,67,67,vermilion_city_gym,Gym Leader Lt Surge
+electrode,40,Screech,Double Team,Swift,Explosion,104,52,67,75,75,123,vermilion_city_gym,Gym Leader Lt Surge
+electabuzz,46,Quick Attack,Thunderpunch,Light Screen,Thunder,123,89,64,99,90,108,vermilion_city_gym,Gym Leader Lt Surge
+drowzee,35,Disable,Confusion,Headbutt,Poison Gas,92,37,42,40,73,40,saffron_city_gym,Medium Rebecca
+hypno,35,Disable,Confusion,Headbutt,Poison Gas,110,61,59,61,91,57,saffron_city_gym,Medium Rebecca
+kadabra,37,Disable,Psybeam,Recover,Future Sight,82,37,33,99,62,88,saffron_city_gym,Psychic Franklin
+mr_mime,32,Doubleslap,Light Screen,Reflect,Encore,72,39,51,74,86,67,saffron_city_gym,Psychic Jared
+exeggcute,32,Leech Seed,Confusion,Stun Spore,Poisonpowder,85,36,45,48,38,35,saffron_city_gym,Psychic Jared
+exeggcute,35,Leech Seed,Confusion,Stun Spore,Poisonpowder,92,39,66,52,42,38,saffron_city_gym,Psychic Jared
+slowpoke,34,Water Gun,Confusion,Disable,Headbutt,110,53,54,37,37,20,saffron_city_gym,Medium Doris
+slowbro,36,Water Gun,Confusion,Disable,Headbutt,120,64,89,82,68,32,saffron_city_gym,Medium Doris
+espeon,46,Sand Attack,Quick Attack,Swift,Psychic,127,71,72,131,98,113,saffron_city_gym,Gym Leader Sabrina
+mr_mime,46,Barrier,Reflect,Baton Pass,Psychic,104,52,76,103,121,95,saffron_city_gym,Gym Leader Sabrina
+alakazam,48,Recover,Future Sight,Psychic,Reflect,123,59,60,141,93,127,saffron_city_gym,Gym Leader Sabrina
+victreebel,35,Vine Whip,Sleep Powder,Sweet Scent,Razor Leaf,101,82,56,80,52,61,celadon_city_gym,Twins Jo  Zoe
+vileplume,35,Absorb,Sweet Scent,Stun Spore,Petal Dance,97,65,70,80,64,47,celadon_city_gym,Twins Jo  Zoe
+skiploom,32,Stun Spore,Sleep Powder,Leech Seed,Cotton Spore,82,37,42,38,51,61,celadon_city_gym,Lass Michelle
+hoppip,33,Sleep Powder,Leech Seed,Cotton Spore,Mega Drain,71,31,36,33,46,43,celadon_city_gym,Lass Michelle
+jumpluff,34,Stun Spore,Sleep Powder,Leech Seed,Cotton Spore,100,45,58,47,68,85,celadon_city_gym,Lass Michelle
+exeggutor,37,Hypnosis,Confusion,Stomp,Egg Bomb,117,79,75,103,59,53,celadon_city_gym,Picnicker Tanya
+paras,32,Poisonpowder,Leech Life,Spore,Slash,66,53,45,38,45,28,celadon_city_gym,Beauty Julia
+exeggcute,32,Leech Seed,Confusion,Fire Blast,Poisonpowder,82,34,61,48,38,38,celadon_city_gym,Beauty Julia
+parasect,35,Stun Spore,Poisonpowder,Leech Life,Spore,89,75,67,52,66,34,celadon_city_gym,Beauty Julia
+tangela,42,Vine Whip,Bind,Giga Drain,Sleep Powder,113,57,108,84,45,62,celadon_city_gym,Gym Leader Erika
+jumpluff,41,Mega Drain,Leech Seed,Cotton Spore,Giga Drain,119,55,68,56,81,101,celadon_city_gym,Gym Leader Erika
+victreebel,46,Sunny Day,Synthesis,Acid,Razor Leaf,136,108,72,104,67,76,celadon_city_gym,Gym Leader Erika
+bellossom,46,Sunny Day,Synthesis,Petal Dance,Solar Beam,132,85,90,95,104,58,celadon_city_gym,Gym Leader Erika
+weezing,34,Selfdestruct,Sludge,Smokescreen,Haze,93,72,92,68,58,51,route_17,Biker Riley
+koffing,28,Smog,Selfdestruct,Sludge,Smokescreen,64,46,62,43,34,29,route_17,Biker Glenn
+magmar,30,Leer,Smog,Fire Punch,Smokescreen,83,67,44,69,60,65,route_17,Biker Glenn
+weezing,32,Smog,Selfdestruct,Sludge,Smokescreen,88,68,86,64,54,48,route_17,Biker Glenn
+magmar,32,Leer,Smog,Fire Punch,Smokescreen,88,71,46,74,64,69,route_17,Biker Joel
+magmar,32,Leer,Smog,Fire Punch,Smokescreen,88,71,46,74,64,69,route_17,Biker Joel
+koffing,30,Smog,Selfdestruct,Sludge,Smokescreen,68,49,66,45,36,30,route_17,Biker Charles
+charmeleon,30,Ember,Smokescreen,Rage,Scary Face,79,48,44,57,48,57,route_17,Biker Charles
+weezing,30,Smog,Selfdestruct,Sludge,Smokescreen,83,64,81,60,51,45,route_17,Biker Charles
+noctowl,34,Peck,Hypnosis,Reflect,Take Down,117,45,44,62,75,58,route_18,Bird Keeper Bob
+doduo,30,Pursuit,Fury Attack,Tri Attack,Rage,65,61,36,30,30,54,route_18,Bird Keeper Boris
+doduo,28,Pursuit,Fury Attack,Tri Attack,Rage,62,57,34,29,29,51,route_18,Bird Keeper Boris
+dodrio,32,Pursuit,Fury Attack,Tri Attack,Rage,85,81,54,48,48,74,route_18,Bird Keeper Boris
+bulbasaur,30,Poisonpowder,Sleep Powder,Razor Leaf,Sweet Scent,71,37,39,48,48,36,fuschia_city_gym,Lass Linda
+ivysaur,32,Poisonpowder,Sleep Powder,Razor Leaf,Sweet Scent,85,47,50,61,61,48,fuschia_city_gym,Lass Linda
+venusaur,34,Poisonpowder,Sleep Powder,Razor Leaf,Sweet Scent,103,64,66,78,78,64,fuschia_city_gym,Lass Linda
+nidoqueen,36,Scratch,Double Kick,Tail Whip,Body Slam,110,68,74,64,71,66,fuschia_city_gym,Picnicker Cindy
+nidoking,36,Horn Attack,Double Kick,Poison Sting,Thrash,110,77,66,71,64,71,fuschia_city_gym,Camper Barry
+gloom,30,Poisonpowder,Stun Spore,Sleep Powder,Acid,80,47,51,60,54,33,fuschia_city_gym,Lass Alice
+arbok,34,Poison Sting,Bite,Glare,Screech,90,66,57,54,64,64,fuschia_city_gym,Lass Alice
+gloom,30,Poisonpowder,Stun Spore,Sleep Powder,Acid,80,47,51,60,54,33,fuschia_city_gym,Lass Alice
+crobat,36,Screech,Supersonic,Confuse Ray,Wing Attack,112,76,68,61,68,104,fuschia_city_gym,Gym Leader Janine
+weezing,36,Smog,Sludge Bomb,Toxic,Explosion,98,76,97,71,61,53,fuschia_city_gym,Gym Leader Janine
+weezing,36,Smog,Sludge Bomb,Toxic,Explosion,98,76,97,71,61,53,fuschia_city_gym,Gym Leader Janine
+ariados,33,Scary Face,Giga Drain,String Shot,Night Shade,94,70,56,49,49,36,fuschia_city_gym,Gym Leader Janine
+venomoth,39,Foresight,Double Team,Gust,Psychic,109,62,58,81,69,81,fuschia_city_gym,Gym Leader Janine
+nidorina,30,Scratch,Double Kick,Poison Sting,Tail Whip,82,45,51,42,42,44,route_9,Picnicker Edna
+raichu,34,Thundershock,Tail Whip,Quick Attack,Thunderbolt,84,70,49,71,64,79,route_9,Picnicker Edna
+dugtrio,32,Growl,Magnitude,Dig,Sand Attack,69,61,42,42,54,86,route_9,Camper Sid
+primeape,29,Rage,Karate Chop,Fury Swipes,Focus Energy,81,71,44,44,50,64,route_9,Camper Sid
+poliwrath,29,Water Gun,Hypnosis,Doubleslap,Submission,95,59,64,50,61,50,route_9,Camper Sid
+golduck,33,Disable,Confusion,Screech,Psych Up,101,65,61,72,63,66,route_9,Camper Dean
+sandslash,31,Defense Curl,Sand Attack,Poison Sting,Slash,92,72,78,37,44,50,route_9,Camper Dean
+dugtrio,34,Growl,Magnitude,Dig,Sand Attack,67,66,44,44,58,92,route_9,Hiker Sidney
+onix,32,Bind,Rock Throw,Harden,Rage,64,40,112,29,38,54,route_9,Hiker Sidney
+graveler,31,Rock Throw,Magnitude,Selfdestruct,Harden,75,70,81,37,37,31,route_9,Hiker Tim
+graveler,31,Rock Throw,Magnitude,Selfdestruct,Harden,75,70,81,37,37,31,route_9,Hiker Tim
+graveler,31,Rock Throw,Magnitude,Selfdestruct,Harden,75,70,81,37,37,31,route_9,Hiker Tim
+skiploom,32,Stun Spore,Sleep Powder,Leech Seed,Cotton Spore,77,37,43,38,51,62,route_9,Picnicker Heidi
+skiploom,32,Stun Spore,Sleep Powder,Leech Seed,Cotton Spore,77,37,43,38,51,62,route_9,Picnicker Heidi
+golbat,30,Supersonic,Bite,Confuse Ray,Wing Attack,89,60,51,48,54,65,route_24,Rocket Grunt
+wigglytuff,35,Stun Spore,Sleep Powder,Acid,Moonlight,82,46,49,63,56,31,route_24,Schoolboy Dudley
+wigglytuff,30,Sing,Disable,Defense Curl,Doubleslap,128,50,36,54,39,36,route_24,Lass Ellen
+granbull,34,Charm,Bite,Lick,Roar,110,90,61,51,51,41,route_24,Lass Ellen
+tangela,33,Poisonpowder,Vine Whip,Bind,Mega Drain,91,47,86,76,36,49,route_25,Schoolboy Joe
+vaporeon,33,Sand Attack,Water Gun,Quick Attack,Bite,134,53,49,82,72,53,route_25,Schoolboy Joe
+gloom,28,Poisonpowder,Stun Spore,Sleep Powder,Acid,76,44,48,57,51,31,route_25,Lass Laura
+pidgeotto,31,Sand Attack,Gust,Quick Attack,Whirlwind,85,45,44,40,40,53,route_25,Lass Laura
+bellossom,31,Absorb,Sweet Scent,Stun Spore,Petal Dance,92,57,62,65,71,40,route_25,Lass Laura
+nidoking,34,Horn Attack,Double Kick,Poison Sting,Thrash,104,72,62,68,61,68,route_25,Camper Lloyd
+paras,29,Stun Spore,Poisonpowder,Leech Life,Spore,63,48,41,35,41,24,route_25,Lass Shannon
+paras,29,Stun Spore,Poisonpowder,Leech Life,Spore,63,48,41,35,41,24,route_25,Lass Shannon
+parasect,32,Stun Spore,Poisonpowder,Leech Life,Spore,85,69,61,48,61,29,route_25,Lass Shannon
+porygon,36,Recover,Sharpen,Lock-On,Tri Attack,98,54,61,71,64,39,route_25,Super Nerd Pat
+rhyhorn,38,Stomp,Fury Attack,Scary Face,Horn Drill,114,79,83,33,33,33,route_25,Cooltrainer Kevin
+charmeleon,35,Smokescreen,Rage,Scary Face,Flamethrower,91,58,51,66,56,69,route_25,Cooltrainer Kevin
+wartortle,35,Water Gun,Karate Chop,Rapid Spin,Protect,91,58,66,56,66,54,route_25,Cooltrainer Kevin
+seaking,35,Supersonic,Horn Attack,Flail,Fury Attack,106,74,56,56,66,58,cerulean_city_gym,Swimmer Brianna
+seaking,35,Supersonic,Horn Attack,Flail,Fury Attack,106,74,56,56,66,58,cerulean_city_gym,Swimmer Brianna
+horsea,32,Smokescreen,Leer,Water Gun,Twister,66,36,54,54,26,48,cerulean_city_gym,Swimmer Parker
+horsea,32,Smokescreen,Leer,Water Gun,Twister,66,36,54,54,26,48,cerulean_city_gym,Swimmer Parker
+seadra,35,Smokescreen,Leer,Water Gun,Twister,89,56,77,77,42,70,cerulean_city_gym,Swimmer Parker
+golduck,37,Disable,Confusion,Screech,Psych Up,112,70,68,81,70,73,cerulean_city_gym,Swimmer Diana
+golduck,42,Surf,Disable,Psych Up,Psychic,125,79,77,91,78,83,cerulean_city_gym,Gym Leader Misty
+quagsire,42,Surf,Amnesia,Earthquake,Rain Dance,138,82,83,66,66,41,cerulean_city_gym,Gym Leader Misty
+lapras,44,Surf,Perish Song,Blizzard,Rain Dance,175,85,82,86,95,64,cerulean_city_gym,Gym Leader Misty
+starmie,47,Surf,Confuse Ray,Recover,Ice Beam,120,82,92,106,92,120,cerulean_city_gym,Gym Leader Misty
+koffing,27,Smog,Selfdestruct,Sludge,Smokescreen,62,44,60,41,33,28,route_8,Biker Dwayne
+koffing,28,Smog,Selfdestruct,Sludge,Smokescreen,64,46,62,43,34,29,route_8,Biker Dwayne
+koffing,29,Smog,Selfdestruct,Sludge,Smokescreen,66,47,64,44,35,29,route_8,Biker Dwayne
+koffing,30,Smog,Selfdestruct,Sludge,Smokescreen,68,49,66,45,36,30,route_8,Biker Dwayne
+flareon,34,Sand Attack,Ember,Quick Attack,Bite,93,99,51,75,85,54,route_8,Biker Harris
+koffing,32,Smog,Selfdestruct,Sludge,Smokescreen,72,52,70,48,38,32,route_8,Biker Zeke
+koffing,32,Smog,Selfdestruct,Sludge,Smokescreen,72,52,70,48,38,32,route_8,Biker Zeke
+grimer,34,Disable,Sludge,Minimize,Screech,103,65,44,37,44,27,route_8,Super Nerd Sam
+muk,34,Poison Gas,Pound,Harden,-,120,82,61,54,78,44,route_8,Super Nerd Sam
+magnemite,32,Supersonic,Sonicboom,Thunder Wave,Lock-On,63,33,54,70,45,38,route_8,Super Nerd Tom
+magnemite,32,Supersonic,Sonicboom,Thunder Wave,Lock-On,63,33,54,70,45,38,route_8,Super Nerd Tom
+magnemite,32,Supersonic,Sonicboom,Thunder Wave,Lock-On,63,33,54,70,45,38,route_8,Super Nerd Tom
+beedrill,30,Focus Energy,Twineedle,Rage,Pursuit,83,58,33,36,57,54,route_2,Bug Catcher Ed
+beedrill,30,Focus Energy,Twineedle,Rage,Pursuit,83,58,33,36,57,54,route_2,Bug Catcher Ed
+beedrill,30,Focus Energy,Twineedle,Rage,Pursuit,83,58,33,36,57,54,route_2,Bug Catcher Ed
+sandslash,37,Sand Attack,Poison Sting,Slash,Swift,108,85,92,44,51,59,pewter_city_gym,Camper Jerry
+graveler,41,Defense Curl,Rock Slide,Rollout,Earthquake,102,90,105,48,48,40,pewter_city_gym,Gym Leader Brock
+rhyhorn,41,Fury Attack,Scary Face,Earthquake,Horn Drill,123,82,89,36,36,32,pewter_city_gym,Gym Leader Brock
+omastar,42,Bite,Surf,Protect,Spike Cannon,117,62,116,108,70,57,pewter_city_gym,Gym Leader Brock
+onix,44,Bind,Rock Slide,Bide,Sandstorm,91,52,152,38,51,73,pewter_city_gym,Gym Leader Brock
+kabutops,42,Slash,Surf,Endure,Giga Drain,109,109,99,66,70,78,pewter_city_gym,Gym Leader Brock
+ariados,34,Constrict,Night Shade,Leech Life,Fury Swipes,97,72,58,51,51,37,route_2,Bug Catcher Doug
+beedrill,32,Focus Energy,Twineedle,Rage,Pursuit,88,61,35,38,61,58,route_2,Bug Catcher Rob
+butterfree,32,Sleep Powder,Supersonic,Whirlwind,Gust,85,39,42,61,61,54,route_2,Bug Catcher Rob
+seel,28,Headbutt,Growl,Aurora Beam,Rest,78,34,40,34,48,34,route_21,Swimmer Nikki
+seel,28,Headbutt,Growl,Aurora Beam,Rest,78,34,40,34,48,34,route_21,Swimmer Nikki
+seel,28,Headbutt,Growl,Aurora Beam,Rest,78,34,40,34,48,34,route_21,Swimmer Nikki
+dewgong,28,Headbutt,Growl,Aurora Beam,Rest,92,48,54,48,62,48,route_21,Swimmer Nikki
+tentacruel,34,Constrict,Acid,Bubblebeam,Wrap,103,58,54,64,92,78,route_21,Fisher Arnold
+quagsire,29,Water Gun,Tail Whip,Slam,Amnesia,98,59,58,47,47,29,route_21,Swimmer Seth
+octillery,29,Psybeam,Aurora Beam,Bubblebeam,Octazooka,87,71,53,70,53,35,route_21,Swimmer Seth
+quagsire,32,Water Gun,Tail Whip,Slam,Amnesia,104,65,64,51,51,32,route_21,Swimmer Seth
+marill,29,Water Gun,Rollout,Bubblebeam,Double-Edge,97,24,44,24,44,37,route_20,Swimmer Cameron
+starmie,32,Tackle,Rapid Spin,Recover,Bubblebeam,85,57,64,74,64,83,route_20,Swimmer Lori
+starmie,32,Tackle,Rapid Spin,Recover,Bubblebeam,85,57,64,74,64,83,route_20,Swimmer Lori
+marill,29,Water Gun,Rollout,Bubblebeam,Double-Edge,84,20,38,21,38,32,route_20,Swimmer Nicole
+marill,29,Water Gun,Rollout,Bubblebeam,Double-Edge,84,20,38,21,38,32,route_20,Swimmer Nicole
+lapras,32,Mist,Body Slam,Confuse Ray,Perish Song,130,63,61,64,70,48,route_20,Swimmer Nicole
+magcargo,45,Curse,Smog,Flamethrower,Rock Slide,107,58,120,84,84,39,seafoam_islands_gym,Gym Leader Blaine
+magmar,45,Thunderpunch,Fire Punch,Sunny Day,Confuse Ray,120,98,63,102,88,95,seafoam_islands_gym,Gym Leader Blaine
+rapidash,50,Quick Attack,Fire Spin,Fury Attack,Fire Blast,133,114,83,93,93,118,seafoam_islands_gym,Gym Leader Blaine
+pidgeot,56,Quick Attack,Whirlwind,Wing Attack,Mirror Move,175,104,103,97,97,121,viridian_city_gym,Gym Leader Blue
+alakazam,54,Disable,Recover,Psychic,Reflect,139,68,67,164,110,148,viridian_city_gym,Gym Leader Blue
+rhydon,56,Fury Attack,Sandstorm,Rock Slide,Earthquake,200,160,153,69,69,64,viridian_city_gym,Gym Leader Blue
+gyarados,58,Twister,Hydro Pump,Rain Dance,Hyper Beam,195,160,111,89,136,114,viridian_city_gym,Gym Leader Blue
+exeggutor,58,Sunny Day,Leech Seed,Egg Bomb,Solar Beam,195,125,118,165,95,83,viridian_city_gym,Gym Leader Blue
+arcanine,58,Roar,Swift,Flamethrower,Extremespeed,189,143,112,136,112,130,viridian_city_gym,Gym Leader Blue
+fearow,35,Leer,Fury Attack,Pursuit,Mirror Move,96,74,56,53,53,80,route_3,Youngster Warren
+raticate,33,Quick Attack,Hyper Fang,Scary Face,Pursuit,84,64,49,43,56,74,route_3,Youngster Jimmy
+arbok,33,Poison Sting,Bite,Glare,Screech,87,67,55,53,62,63,route_3,Youngster Jimmy
+magmar,29,Leer,Smog,Fire Punch,Smokescreen,81,65,42,67,58,63,route_3,Firebreather Otis
+weezing,32,Smog,Selfdestruct,Sludge,Smokescreen,88,68,86,64,54,48,route_3,Firebreather Otis
+magmar,29,Leer,Smog,Fire Punch,Smokescreen,81,65,42,67,58,63,route_3,Firebreather Otis
+koffing,32,Smog,Selfdestruct,Sludge,Smokescreen,72,52,70,48,38,32,route_3,Firebreather Burt
+slugma,32,Ember,Rock Throw,Harden,Amnesia,72,36,35,54,35,22,route_3,Firebreather Burt
+sneasel,41,Quick Attack,Screech,Faint Attack,Fury Cutter,102,90,56,40,73,105,mt_moon,Rival Silver
+golbat,42,Leech Life,Bite,Confuse Ray,Wing Attack,121,79,70,66,74,87,mt_moon,Rival Silver
+magneton,41,Thundershock,Sonicboom,Thunder Wave,Swift,98,61,89,109,68,68,mt_moon,Rival Silver
+gengar,43,Mean Look,Curse,Shadow Ball,Confuse Ray,111,68,63,127,76,106,mt_moon,Rival Silver
+alakazam,43,Disable,Recover,Future Sight,Psychic,107,55,50,127,84,115,mt_moon,Rival Silver
+feraligatr,45,Rage,Water Gun,Scary Face,Slash,138,107,102,83,86,82,mt_moon,Rival Silver
+typhlosion,45,Smokescreen,Quick Attack,Flame Wheel,Swift,138,107,102,83,86,82,mt_moon,Rival Silver
+meganium,45,Razor Leaf,Poisonpowder,Body Slam,Light Screen,138,107,102,83,86,82,mt_moon,Rival Silver
+flaaffy,34,Growl,Thundershock,Thunder Wave,Cotton Spore,91,46,49,64,51,42,route_4,Picnicker Hope
+pidgey,12,Tackle,Sand Attack,Gust,Karate Chop,33,17,16,15,15,20,route_4,Bird Keeper Hawk
+pidgeot,34,Gust,Quick Attack,Whirlwind,Wing Attack,105,65,61,58,58,72,route_4,Bird Keeper Hawk
+furret,31,Defense Curl,Quick Attack,Fury Swipes,Slam,93,55,50,37,44,67,route_4,Picnicker Sharon
+rapidash,33,Tail Whip,Ember,Stomp,Fire Spin,85,74,57,63,63,80,route_4,Picnicker Sharon
+seadra,26,Bubble,Smokescreen,Leer,Water Gun,68,43,58,58,32,53,route_19,Swimmer Jerome
+tentacool,28,Supersonic,Constrict,Acid,Bubblebeam,64,32,29,37,65,48,route_19,Swimmer Jerome
+tentacruel,30,Constrict,Acid,Bubblebeam,Wrap,92,52,48,57,81,69,route_19,Swimmer Jerome
+goldeen,28,Tail Whip,Supersonic,Horn Attack,Flail,67,47,43,29,37,44,route_19,Swimmer Jerome
+seaking,34,Supersonic,Horn Attack,Flail,Fury Attack,103,72,54,54,64,56,route_19,Swimmer Dawn
+shellder,30,Withdraw,Supersonic,Aurora Beam,Protect,62,49,69,36,24,33,route_19,Swimmer Tucker
+cloyster,34,Withdraw,Supersonic,Aurora Beam,Protect,83,75,132,68,41,58,route_19,Swimmer Tucker
+remoraid,32,Lock-On,Psybeam,Aurora Beam,Bubblebeam,69,52,32,51,32,51,route_19,Swimmer Harold
+seadra,30,Smokescreen,Leer,Water Gun,Twister,77,49,66,66,36,60,route_19,Swimmer Harold
+machamp,35,Karate Chop,Seismic Toss,Foresight,Vital Throw,108,103,66,56,70,49,route_10,Hiker Jim
+quagsire,33,Water Gun,Tail Whip,Slam,Amnesia,110,67,66,53,53,33,route_10,Pokefan Robert
+xatu,34,Peck,Leer,Night Shade,Teleport,93,62,58,75,58,75,route_11,Psychic Fidel
+sandslash,33,Sand Attack,Poison Sting,Slash,Swift,97,76,82,39,46,53,route_11,Youngster Jason
+crobat,33,Supersonic,Bite,Confuse Ray,Wing Attack,104,70,63,56,63,96,route_11,Youngster Jason
+venomoth,35,Ember,Leer,Take Down,Flame Wheel,89,60,42,59,45,52,route_11,Youngster Owen
+exeggcute,30,Reflect,Leech Seed,Confusion,Stun Spore,80,34,57,45,36,33,route_11,Psychic Herman
+exeggcute,30,Reflect,Leech Seed,Confusion,Stun Spore,80,34,57,45,36,33,route_11,Psychic Herman
+exeggutor,30,Barrage,Hypnosis,Confusion,Stomp,101,67,60,84,48,42,route_11,Psychic Herman
+remoraid,32,Lock-On,Psybeam,Aurora Beam,Bubblebeam,69,52,32,51,32,51,route_12,Fisher Martin
+remoraid,32,Lock-On,Psybeam,Aurora Beam,Bubblebeam,69,52,32,51,32,51,route_12,Fisher Martin
+seaking,28,Tail Whip,Supersonic,Horn Attack,Flail,87,61,45,45,54,47,route_12,Fisher Kyle
+poliwhirl,31,Hypnosis,Water Gun,Doubleslap,Rain Dance,86,50,50,40,40,65,route_12,Fisher Kyle
+seaking,31,Supersonic,Horn Attack,Flail,Fury Attack,95,67,50,50,59,52,route_12,Fisher Kyle
+magikarp,25,Splash,Tackle,-,-,49,14,36,16,19,49,route_12,Fisher Stephen
+magikarp,25,Splash,Tackle,-,-,49,14,36,16,19,49,route_12,Fisher Stephen
+qwilfish,31,Harden,Minimize,Water Gun,Pin Missile,86,69,56,44,44,62,route_12,Fisher Stephen
+tentacruel,31,Constrict,Acid,Bubblebeam,Wrap,95,53,50,59,84,71,route_12,Fisher Stephen
+gyarados,30,Thrash,Bite,Dragon Rage,Leer,101,85,57,45,69,58,route_12,Fisher Barney
+gyarados,30,Thrash,Bite,Dragon Rage,Leer,101,85,57,45,69,58,route_12,Fisher Barney
+gyarados,30,Thrash,Bite,Dragon Rage,Leer,101,85,57,45,69,58,route_12,Fisher Barney
+pidgeotto,32,Sand Attack,Gust,Quick Attack,Whirlwind,87,49,45,42,42,55,route_13,Bird Keeper Bret
+fearow,32,Leer,Fury Attack,Pursuit,Mirror Move,88,68,51,49,49,74,route_13,Bird Keeper Bret
+farfetchd,34,Leer,Fury Attack,Pursuit,Agility,84,55,47,49,52,51,route_13,Bird Keeper Perry
+pikachu,23,Thunder Wave,Quick Attack,Double Team,Slam,52,34,22,31,27,50,route_13,Pokefan Joshua
+pikachu,23,Thunder Wave,Quick Attack,Double Team,Slam,52,34,22,31,27,50,route_13,Pokefan Joshua
+pikachu,23,Thunder Wave,Quick Attack,Double Team,Slam,52,34,22,31,27,50,route_13,Pokefan Joshua
+pikachu,23,Thunder Wave,Quick Attack,Double Team,Slam,52,34,22,31,27,50,route_13,Pokefan Joshua
+pikachu,23,Thunder Wave,Quick Attack,Double Team,Slam,52,34,22,31,27,50,route_13,Pokefan Joshua
+nidoking,29,Horn Attack,Double Kick,Poison Sting,Thrash,90,63,54,58,53,58,route_13,Pokefan Alex
+slowking,29,Growl,Water Gun,Confusion,Disable,98,53,56,67,73,27,route_13,Pokefan Alex
+seaking,29,Supersonic,Horn Attack,Flail,Fury Attack,90,63,47,47,56,49,route_13,Pokefan Alex
+sandslash,27,Defense Curl,Sand Attack,Poison Sting,Slash,77,64,68,33,39,44,route_13,Hiker Kenny
+graveler,29,Rock Throw,Magnitude,Selfdestruct,Harden,70,65,76,35,35,29,route_13,Hiker Kenny
+golem,31,Rock Throw,Magnitude,Selfdestruct,Harden,90,79,90,44,50,37,route_13,Hiker Kenny
+graveler,29,Rock Throw,Magnitude,Selfdestruct,Harden,70,65,76,35,35,29,route_13,Hiker Kenny
+bulbasaur,29,Poisonpowder,Sleep Powder,Razor Leaf,Sweet Scent,69,38,38,47,47,35,route_14,Pokefan Carter
+charmander,29,Water Gun,Bite,Rapid Spin,Protect,69,38,47,38,46,34,route_14,Pokefan Carter
+squirtle,29,Ember,Smokescreen,Rage,Scary Face,66,40,34,44,38,47,route_14,Pokefan Carter
+fearow,29,Growl,Leer,Fury Attack,Pursuit,81,62,47,45,45,67,route_14,Bird Keeper Roy
+fearow,35,Leer,Fury Attack,Pursuit,Mirror Move,96,106,56,53,53,80,route_14,Bird Keeper Roy
+bellsprout,29,Sleep Powder,Poisonpowder,Stun Spore,Acid,72,53,29,50,27,32,route_15,Schoolboy Johnny
+weepinbell,31,Sleep Powder,Poisonpowder,Stun Spore,Acid,86,66,40,62,37,44,route_15,Schoolboy Johnny
+victreebel,33,Vine Whip,Sleep Powder,Sweet Scent,Razor Leaf,101,80,53,76,49,56,route_15,Schoolboy Johnny
+clefairy,36,Doubleslap,Minimize,Defense Curl,Metronome,96,41,45,53,57,35,route_15,Teacher Colette
+paras,27,Stun Spore,Poisonpowder,Leech Life,Spore,60,47,39,33,39,22,route_15,Schoolboy Billy
+paras,27,Stun Spore,Poisonpowder,Leech Life,Spore,60,47,39,33,39,22,route_15,Schoolboy Billy
+poliwhirl,27,Hypnosis,Water Gun,Doubleslap,Rain Dance,76,44,44,36,36,57,route_15,Schoolboy Billy
+ditto,35,Transform,-,-,-,84,44,44,44,44,44,route_15,Schoolboy Billy
+aipom,32,Sand Attack,Baton Pass,Fury Swipes,Swift,77,53,45,35,45,64,route_15,Teacher Hillary
+cubone,36,Focus Energy,Bonemerang,Rage,False Swipe,82,45,79,39,46,35,route_15,Teacher Hillary
+gyarados,32,Peck,Leer,Night Shade,Teleport,88,58,54,70,54,70,route_15,Schoolboy Tommy
+alakazam,34,Disable,Psybeam,Recover,Future Sight,86,45,41,102,68,92,route_15,Schoolboy Tommy
+voltorb,27,Tackle,Screech,Sonicboom,Selfdestruct,62,26,36,39,39,63,route_15,Schoolboy Kip
+magnemite,27,Supersonic,Sonicboom,Thunder Wave,Lock-On,54,28,47,60,39,33,route_15,Schoolboy Kip
+voltorb,31,Screech,Sonicboom,Selfdestruct,Rollout,70,29,40,44,44,71,route_15,Schoolboy Kip
+magneton,31,Supersonic,Sonicboom,Thunder Wave,Lock-On,76,47,68,84,53,53,route_15,Schoolboy Kip
+pikachu,81,Charm,Quick Attack,Thunderbolt,Thunder,170,118,74,108,92,171,mount_silver,Pokemon Trainer Red
+espeon,73,Mud-Slap,Reflect,Swift,Psychic,198,121,111,215,164,184,mount_silver,Pokemon Trainer Red
+snorlax,75,Amnesia,Snore,Rest,Body Slam,346,192,122,123,191,69,mount_silver,Pokemon Trainer Red
+venusaur,77,Sunny Day,Giga Drain,Synthesis,Solar Beam,231,154,152,180,180,148,mount_silver,Pokemon Trainer Red
+charizard,77,Flamethrower,Wing Attack,Slash,Fire Spin,228,157,145,194,157,179,mount_silver,Pokemon Trainer Red
+blastoise,77,Rain Dance,Surf,Blizzard,Whirlpool,230,155,179,157,188,145,mount_silver,Pokemon Trainer Red
+phanpy,35,Defense Curl,Flail,Take Down,Rollout,113,53,52,38,38,38,route_6,Pokefan Rex
+teddiursa,35,Lick,Fury Swipes,Faint Attack,Rest,92,67,45,45,45,38,route_6,Pokefan Allan
