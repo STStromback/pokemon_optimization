@@ -1,0 +1,8 @@
+fire
+water
+electric
+grass
+ice
+psychic
+dragon
+dark

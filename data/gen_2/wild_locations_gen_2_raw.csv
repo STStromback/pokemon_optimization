@@ -1,0 +1,1265 @@
+location,pokemon,method
+new_bark_town,chikorita,starter
+new_bark_town,cyndaquil,starter
+new_bark_town,totodile,starter
+new_bark_town,tentacool,surfing
+new_bark_town,tentacruel,surfing
+new_bark_town,magikarp,old rod
+new_bark_town,tentacool,old rod
+new_bark_town,chinchou,good rod
+new_bark_town,magikarp,good rod
+new_bark_town,shellder,good rod
+new_bark_town,chinchou,super rod
+new_bark_town,shellder,super rod
+new_bark_town,tentacruel,super rod
+route_29,hoothoot,grass
+route_29,hoppip,grass
+route_29,pidgey,grass
+route_29,rattata,grass
+route_29,rattata,grass
+route_29,sentret,grass
+route_29,exeggcute,headbutt (common)
+route_29,hoothoot,headbutt (common)
+route_29,ledyba,headbutt (common)
+route_29,spinarak,headbutt (common)
+route_29,exeggcute,headbutt (rare)
+route_29,hoothoot,headbutt (rare)
+route_29,pineco,headbutt (rare)
+route_46,geodude,grass
+route_46,phanpy,grass
+route_46,rattata,grass
+route_46,spearow,grass
+route_46,aipom,headbutt (common)
+route_46,spearow,headbutt (common)
+route_46,aipom,headbutt (rare)
+route_46,spearow,headbutt (rare)
+route_46,heracross,headbutt (rare)
+cherrygrove_city,tentacool,surfing
+cherrygrove_city,tentacruel,surfing
+cherrygrove_city,krabby,old rod
+cherrygrove_city,magikarp,old rod
+cherrygrove_city,corsola,good rod
+cherrygrove_city,krabby,good rod
+cherrygrove_city,magikarp,good rod
+cherrygrove_city,staryu,good rod
+cherrygrove_city,corsola,super rod
+cherrygrove_city,kingler,super rod
+cherrygrove_city,krabby,super rod
+cherrygrove_city,staryu,super rod
+route_30,caterpie,grass
+route_30,hoothoot,grass
+route_30,hoppip,grass
+route_30,ledyba,grass
+route_30,pidgey,grass
+route_30,poliwag,grass
+route_30,spinarak,grass
+route_30,weedle,grass
+route_30,zubat,grass
+route_30,poliwag,surfing
+route_30,poliwhirl,surfing
+route_30,magikarp,old rod
+route_30,poliwag,old rod
+route_30,magikarp,good rod
+route_30,poliwag,good rod
+route_30,magikarp,super rod
+route_30,poliwag,super rod
+route_30,poliwhirl,super rod
+route_30,exeggcute,headbutt (common)
+route_30,hoothoot,headbutt (common)
+route_30,ledyba,headbutt (common)
+route_30,spinarak,headbutt (common)
+route_30,exeggcute,headbutt (rare)
+route_30,hoothoot,headbutt (rare)
+route_30,pineco,headbutt (rare)
+route_31,bellsprout,grass
+route_31,caterpie,grass
+route_31,gastly,grass
+route_31,hoothoot,grass
+route_31,hoppip,grass
+route_31,ledyba,grass
+route_31,pidgey,grass
+route_31,poliwag,grass
+route_31,spinarak,grass
+route_31,weedle,grass
+route_31,zubat,grass
+route_31,exeggcute,headbutt (common)
+route_31,hoothoot,headbutt (common)
+route_31,ledyba,headbutt (common)
+route_31,spinarak,headbutt (common)
+route_31,exeggcute,headbutt (rare)
+route_31,hoothoot,headbutt (rare)
+route_31,pineco,headbutt (rare)
+route_31,poliwag,surfing
+route_31,poliwhirl,surfing
+route_31,magikarp,old rod
+route_31,poliwag,old rod
+route_31,magikarp,good rod
+route_31,poliwag,good rod
+route_31,magikarp,super rod
+route_31,poliwag,super rod
+route_31,poliwhirl,super rod
+dark_cave,dunsparce,walking (violet city side)
+dark_cave,geodude,walking (violet city side)
+dark_cave,teddiursa,walking (violet city side)
+dark_cave,zubat,walking (violet city side)
+dark_cave,dunsparce,swarm (violet city side)
+dark_cave,geodude,swarm (violet city side)
+dark_cave,zubat,swarm (violet city side)
+dark_cave,geodude,walking (blackthorn city side)
+dark_cave,golbat,walking (blackthorn city side)
+dark_cave,graveler,walking (blackthorn city side)
+dark_cave,teddiursa,walking (blackthorn city side)
+dark_cave,ursaring,walking (blackthorn city side)
+dark_cave,wobbuffet,walking (blackthorn city side)
+dark_cave,zubat,walking (blackthorn city side)
+dark_cave,krabby,rock smash
+dark_cave,shuckle,rock smash
+dark_cave,magikarp,surfing
+dark_cave,goldeen,old rod
+dark_cave,magikarp,old rod
+dark_cave,goldeen,good rod
+dark_cave,magikarp,good rod
+dark_cave,goldeen,super rod
+dark_cave,magikarp,super rod
+dark_cave,seaking,super rod
+violet_city,togepi,gift from prof. aide
+violet_city,onix,trade for bellsprout
+violet_city,poliwag,surfing
+violet_city,poliwhirl,surfing
+violet_city,magikarp,old rod
+violet_city,poliwag,old rod
+violet_city,magikarp,good rod
+violet_city,poliwag,good rod
+violet_city,magikarp,super rod
+violet_city,poliwag,super rod
+sprout_tower,gastly,walking
+sprout_tower,rattata,walking
+route_36,sudowoodo,"water the ""tree"""
+route_36,bellsprout,grass
+route_36,gastly,grass
+route_36,growlithe,grass
+route_36,hoothoot,grass
+route_36,ledyba,grass
+route_36,pidgey,grass
+route_36,spinarak,grass
+route_36,exeggcute,headbutt (common)
+route_36,hoothoot,headbutt (common)
+route_36,ledyba,headbutt (common)
+route_36,spinarak,headbutt (common)
+route_36,exeggcute,headbutt (rare)
+route_36,hoothoot,headbutt (rare)
+route_36,pineco,headbutt (rare)
+ruins_of_alph,unown,walk in statue-filled room
+ruins_of_alph,natu,grass (outside the ruins)
+ruins_of_alph,quagsire,grass (outside the ruins)
+ruins_of_alph,smeargle,grass (outside the ruins)
+ruins_of_alph,wooper,grass (outside the ruins)
+ruins_of_alph,quagsire,surfing (outside the ruins)
+ruins_of_alph,wooper,surfing (outside the ruins)
+ruins_of_alph,magikarp,old rod (outside the ruins)
+ruins_of_alph,poliwag,old rod (outside the ruins)
+ruins_of_alph,magikarp,good rod (outside the ruins)
+ruins_of_alph,poliwag,good rod (outside the ruins)
+ruins_of_alph,magikarp,super rod (outside the ruins)
+ruins_of_alph,poliwag,super rod (outside the ruins)
+ruins_of_alph,poliwhirl,super rod (outside the ruins)
+route_32,bellsprout,grass
+route_32,ekans,grass
+route_32,gastly,grass
+route_32,hoothoot,grass
+route_32,hoppip,grass
+route_32,pidgey,grass
+route_32,rattata,grass
+route_32,wooper,grass
+route_32,zubat,grass
+route_32,ekans,headbutt (common)
+route_32,exeggcute,headbutt (common)
+route_32,hoothoot,headbutt (common)
+route_32,exeggcute,headbutt (rare)
+route_32,hoothoot,headbutt (rare)
+route_32,pineco,headbutt (rare)
+route_32,quagsire,surfing
+route_32,tentacool,surfing
+route_32,tentacruel,surfing
+route_32,magikarp,old rod
+route_32,tentacool,old rod
+route_32,magikarp,good rod
+route_32,tentacool,good rod
+route_32,magikarp,super rod
+route_32,qwilfish,super rod
+route_32,tentacool,super rod
+route_32,qwilfish,swarm (old rod)
+route_32,qwilfish,swarm (good rod)
+route_32,qwilfish,swarm (super rod)
+union_cave,geodude,walking
+union_cave,onix,walking
+union_cave,rattata,walking
+union_cave,sandshrew,walking
+union_cave,wooper,walking
+union_cave,zubat,walking
+union_cave,quagsire,surfing
+union_cave,wooper,surfing
+union_cave,goldeen,old rod
+union_cave,magikarp,old rod
+union_cave,goldeen,good rod
+union_cave,magikarp,good rod
+union_cave,goldeen,super rod
+union_cave,magikarp,super rod
+union_cave,seaking,super rod
+union_cave,geodude,walking
+union_cave,onix,walking
+union_cave,rattata,walking
+union_cave,wooper,walking
+union_cave,zubat,walking
+union_cave,quagsire,surfing
+union_cave,wooper,surfing
+union_cave,goldeen,old rod
+union_cave,magikarp,old rod
+union_cave,goldeen,good rod
+union_cave,magikarp,good rod
+union_cave,goldeen,super rod
+union_cave,magikarp,super rod
+union_cave,seaking,super rod
+union_cave,lapras,surfing
+union_cave,geodude,walking
+union_cave,golbat,walking
+union_cave,onix,walking
+union_cave,quagsire,walking
+union_cave,raticate,walking
+union_cave,zubat,walking
+union_cave,quagsire,surfing
+union_cave,tentacool,surfing
+union_cave,tentacruel,surfing
+union_cave,magikarp,old rod
+union_cave,tentacool,old rod
+union_cave,chinchou,good rod
+union_cave,magikarp,good rod
+union_cave,shellder,good rod
+union_cave,tentacool,good rod
+union_cave,chinchou,super rod
+union_cave,lanturn,super rod
+union_cave,shellder,super rod
+union_cave,tentacool,super rod
+route_33,ekans,grass
+route_33,geodude,grass
+route_33,hoppip,grass
+route_33,rattata,grass
+route_33,spearow,grass
+route_33,zubat,grass
+route_33,aipom,headbutt (common)
+route_33,ekans,headbutt (common)
+route_33,spearow,headbutt (common)
+route_33,aipom,headbutt (rare)
+route_33,heracross,headbutt (rare)
+route_33,spearow,headbutt (rare)
+azalea_town,aipom,headbutt (common)
+azalea_town,ekans,headbutt (common)
+azalea_town,spearow,headbutt (common)
+azalea_town,aipom,headbutt (rare)
+azalea_town,heracross,headbutt (rare)
+azalea_town,spearow,headbutt (rare)
+slowpoke_well,slowpoke,walking
+slowpoke_well,zubat,walking
+slowpoke_well,slowpoke,surfing
+slowpoke_well,goldeen,old rod
+slowpoke_well,magikarp,old rod
+slowpoke_well,goldeen,good rod
+slowpoke_well,magikarp,good rod
+slowpoke_well,goldeen,super rod
+slowpoke_well,magikarp,super rod
+slowpoke_well,seaking,super rod
+slowpoke_well,golbat,walking
+slowpoke_well,slowpoke,walking
+slowpoke_well,zubat,walking
+slowpoke_well,slowbro,surfing
+slowpoke_well,slowpoke,surfing
+slowpoke_well,goldeen,old rod
+slowpoke_well,magikarp,old rod
+slowpoke_well,goldeen,good rod
+slowpoke_well,magikarp,good rod
+slowpoke_well,goldeen,super rod
+slowpoke_well,magikarp,super rod
+slowpoke_well,seaking,super rod
+ilex_forest,caterpie,walking
+ilex_forest,hoothoot,walking
+ilex_forest,kakuna,walking
+ilex_forest,metapod,walking
+ilex_forest,oddish,walking
+ilex_forest,paras,walking
+ilex_forest,pidgey,walking
+ilex_forest,psyduck,walking
+ilex_forest,venonat,walking
+ilex_forest,weedle,walking
+ilex_forest,beedrill,headbutt (common)
+ilex_forest,butterfree,headbutt (common)
+ilex_forest,hoothoot,headbutt (common)
+ilex_forest,noctowl,headbutt (common)
+ilex_forest,pineco,headbutt (common)
+ilex_forest,caterpie,headbutt (rare)
+ilex_forest,hoothoot,headbutt (rare)
+ilex_forest,kakuna,headbutt (rare)
+ilex_forest,metapod,headbutt (rare)
+ilex_forest,weedle,headbutt (rare)
+ilex_forest,golduck,surfing
+ilex_forest,psyduck,surfing
+ilex_forest,magikarp,old rod
+ilex_forest,poliwag,old rod
+ilex_forest,magikarp,good rod
+ilex_forest,poliwag,good rod
+ilex_forest,magikarp,super rod
+ilex_forest,poliwag,super rod
+ilex_forest,poliwhirl,super rod
+route_34,cleffa,hatch odd egg (1/7 chance)
+route_34,elekid,hatch odd egg (1/7 chance)
+route_34,igglybuff,hatch odd egg (1/7 chance)
+route_34,magby,hatch odd egg (1/7 chance)
+route_34,pichu,hatch odd egg (1/7 chance)
+route_34,smoochum,hatch odd egg (1/7 chance)
+route_34,tyrogue,hatch odd egg (1/7 chance)
+route_34,abra,grass
+route_34,ditto,grass
+route_34,drowzee,grass
+route_34,hoothoot,grass
+route_34,jigglypuff,grass
+route_34,pidgey,grass
+route_34,rattata,grass
+route_34,snubbull,grass
+route_34,exeggcute,headbutt (common)
+route_34,hoothoot,headbutt (common)
+route_34,ledyba,headbutt (common)
+route_34,spinarak,headbutt (common)
+route_34,exeggcute,headbutt (rare)
+route_34,hoothoot,headbutt (rare)
+route_34,pineco,headbutt (rare)
+route_34,tentacool,surfing
+route_34,tentacruel,surfing
+route_34,krabby,old rod
+route_34,magikarp,old rod
+route_34,corsola,good rod
+route_34,krabby,good rod
+route_34,magikarp,good rod
+route_34,staryu,good rod
+route_34,corsola,super rod
+route_34,kingler,super rod
+route_34,krabby,super rod
+route_34,staryu,super rod
+goldenrod_city,eevee,gift
+goldenrod_city,abra,game corner
+goldenrod_city,cubone,game corner
+goldenrod_city,wobbuffet,game corner
+route_35,abra,grass
+route_35,ditto,grass
+route_35,drowzee,grass
+route_35,growlithe,grass
+route_35,hoothoot,grass
+route_35,jigglypuff,grass
+route_35,pidgey,grass
+route_35,psyduck,grass
+route_35,snubbull,grass
+route_35,yanma,grass
+route_35,ditto,swarm: grass
+route_35,hoothoot,swarm: grass
+route_35,nidoran_f,swarm: grass
+route_35,nidoran_m,swarm: grass
+route_35,pidgey,swarm: grass
+route_35,yanma,swarm: grass
+route_35,exeggcute,headbutt (common)
+route_35,hoothoot,headbutt (common)
+route_35,ledyba,headbutt (common)
+route_35,spinarak,headbutt (common)
+route_35,exeggcute,headbutt (rare)
+route_35,hoothoot,headbutt (rare)
+route_35,pineco,headbutt (rare)
+route_35,golduck,surfing
+route_35,psyduck,surfing
+route_35,magikarp,old rod
+route_35,poliwag,old rod
+route_35,magikarp,good rod
+route_35,poliwag,good rod
+route_35,magikarp,super rod
+route_35,poliwag,super rod
+route_35,poliwhirl,super rod
+national_park,caterpie,grass (no contest)
+national_park,ledyba,grass (no contest)
+national_park,nidoran_f,grass (no contest)
+national_park,nidoran_m,grass (no contest)
+national_park,pidgey,grass (no contest)
+national_park,psyduck,grass (no contest)
+national_park,spinarak,grass (no contest)
+national_park,sunkern,grass (no contest)
+national_park,venonat,grass (no contest)
+national_park,weedle,grass (no contest)
+national_park,beedrill,grass (during contest)
+national_park,butterfree,grass (during contest)
+national_park,caterpie,grass (during contest)
+national_park,kakuna,grass (during contest)
+national_park,metapod,grass (during contest)
+national_park,paras,grass (during contest)
+national_park,pinsir,grass (during contest)
+national_park,scyther,grass (during contest)
+national_park,venonat,grass (during contest)
+national_park,weedle,grass (during contest)
+national_park,krabby,super rod
+route_37,ariados,grass
+route_37,growlithe,grass
+route_37,hoothoot,grass
+route_37,ledian,grass
+route_37,ledyba,grass
+route_37,noctowl,grass
+route_37,pidgeotto,grass
+route_37,pidgey,grass
+route_37,spinarak,grass
+route_37,stantler,grass
+route_37,exeggcute,headbutt (common)
+route_37,hoothoot,headbutt (common)
+route_37,ledyba,headbutt (common)
+route_37,spinarak,headbutt (common)
+route_37,exeggcute,headbutt (rare)
+route_37,hoothoot,headbutt (rare)
+route_37,pineco,headbutt (rare)
+ecruteak_city,poliwag,surfing
+ecruteak_city,poliwhirl,surfing
+ecruteak_city,magikarp,old rod
+ecruteak_city,poliwag,old rod
+ecruteak_city,magikarp,good rod
+ecruteak_city,poliwag,good rod
+ecruteak_city,magikarp,super rod
+ecruteak_city,poliwag,super rod
+ecruteak_city,poliwhirl,super rod
+burned_tower,koffing,walking (1f)
+burned_tower,raticate,walking (1f)
+burned_tower,rattata,walking (1f)
+burned_tower,zubat,walking (1f)
+burned_tower,koffing,walking (b1f)
+burned_tower,rattata,walking (b1f)
+burned_tower,weezing,walking (b1f)
+burned_tower,zubat,walking (b1f)
+burned_tower,krabby,rock smash (1f & b1f)
+burned_tower,shuckle,rock smash (1f & b1f)
+route_38,magnemite,grass
+route_38,meowth,grass
+route_38,miltank,grass
+route_38,pidgeotto,grass
+route_38,raticate,grass
+route_38,rattata,grass
+route_38,tauros,grass
+route_38,exeggcute,headbutt (common)
+route_38,hoothoot,headbutt (common)
+route_38,ledyba,headbutt (common)
+route_38,spinarak,headbutt (common)
+route_38,exeggcute,headbutt (rare)
+route_38,hoothoot,headbutt (rare)
+route_38,pineco,headbutt (rare)
+route_38,magnemite,grass
+route_38,meowth,grass
+route_38,miltank,grass
+route_38,pidgeotto,grass
+route_38,raticate,grass
+route_38,rattata,grass
+route_38,tauros,grass
+route_38,exeggcute,headbutt (common)
+route_38,hoothoot,headbutt (common)
+route_38,ledyba,headbutt (common)
+route_38,spinarak,headbutt (common)
+route_38,exeggcute,headbutt (rare)
+route_38,hoothoot,headbutt (rare)
+route_38,pineco,headbutt (rare)
+olivine_city,tentacool,surfing
+olivine_city,tentacruel,surfing
+olivine_city,krabby,old rod
+olivine_city,magikarp,old rod
+olivine_city,corsola,good rod
+olivine_city,krabby,good rod
+olivine_city,magikarp,good rod
+olivine_city,staryu,good rod
+olivine_city,corsola,super rod
+olivine_city,kingler,super rod
+olivine_city,krabby,super rod
+olivine_city,staryu,super rod
+route_40,krabby,rock smash
+route_40,shuckle,rock smash
+route_40,tentacool,surfing
+route_40,tentacruel,surfing
+route_40,krabby,old rod
+route_40,magikarp,old rod
+route_40,corsola,good rod
+route_40,krabby,good rod
+route_40,magikarp,good rod
+route_40,staryu,good rod
+route_40,corsola,super rod
+route_40,kingler,super rod
+route_40,krabby,super rod
+route_40,staryu,super rod
+route_41,mantine,surfing
+route_41,tentacool,surfing
+route_41,tentacruel,surfing
+route_41,krabby,old rod
+route_41,magikarp,old rod
+route_41,corsola,good rod
+route_41,krabby,good rod
+route_41,magikarp,good rod
+route_41,staryu,good rod
+route_41,corsola,super rod
+route_41,kingler,super rod
+route_41,krabby,super rod
+route_41,staryu,super rod
+cianwood_city,krabby,rock smash
+cianwood_city,shuckle,rock smash
+cianwood_city,tentacool,surfing
+cianwood_city,tentacruel,surfing
+cianwood_city,krabby,old rod
+cianwood_city,magikarp,old rod
+cianwood_city,corsola,good rod
+cianwood_city,krabby,good rod
+cianwood_city,magikarp,good rod
+cianwood_city,staryu,good rod
+cianwood_city,corsola,super rod
+cianwood_city,kingler,super rod
+cianwood_city,krabby,super rod
+cianwood_city,staryu,super rod
+route_42,arbok,grass
+route_42,ekans,grass
+route_42,fearow,grass
+route_42,golbat,grass
+route_42,marill,grass
+route_42,raticate,grass
+route_42,rattata,grass
+route_42,spearow,grass
+route_42,zubat,grass
+route_42,aipom,headbutt (common)
+route_42,ekans,headbutt (common)
+route_42,spearow,headbutt (common)
+route_42,aipom,headbutt (rare)
+route_42,heracross,headbutt (rare)
+route_42,spearow,headbutt (rare)
+route_42,goldeen,surfing
+route_42,seaking,surfing
+route_42,goldeen,old rod
+route_42,magikarp,old rod
+route_42,goldeen,good rod
+route_42,magikarp,good rod
+route_42,goldeen,super rod
+route_42,magikarp,super rod
+route_42,seaking,super rod
+mt_mortar,geodude,walking
+mt_mortar,golbat,walking
+mt_mortar,graveler,walking
+mt_mortar,machoke,walking
+mt_mortar,machop,walking
+mt_mortar,marill,walking
+mt_mortar,raticate,walking
+mt_mortar,goldeen,surfing
+mt_mortar,marill,surfing
+mt_mortar,seaking,surfing
+mt_mortar,goldeen,old rod
+mt_mortar,magikarp,old rod
+mt_mortar,goldeen,good rod
+mt_mortar,magikarp,good rod
+mt_mortar,goldeen,super rod
+mt_mortar,magikarp,super rod
+mt_mortar,seaking,super rod
+mt_mortar,geodude,walking
+mt_mortar,golbat,walking
+mt_mortar,machop,walking
+mt_mortar,marill,walking
+mt_mortar,raticate,walking
+mt_mortar,rattata,walking
+mt_mortar,zubat,walking
+mt_mortar,goldeen,surfing
+mt_mortar,marill,surfing
+mt_mortar,seaking,surfing
+mt_mortar,goldeen,old rod
+mt_mortar,magikarp,old rod
+mt_mortar,goldeen,good rod
+mt_mortar,magikarp,good rod
+mt_mortar,goldeen,super rod
+mt_mortar,magikarp,super rod
+mt_mortar,seaking,super rod
+mt_mortar,geodude,walking
+mt_mortar,golbat,walking
+mt_mortar,machop,walking
+mt_mortar,marill,walking
+mt_mortar,raticate,walking
+mt_mortar,rattata,walking
+mt_mortar,zubat,walking
+mt_mortar,geodude,walking
+mt_mortar,golbat,walking
+mt_mortar,machop,walking
+mt_mortar,marill,walking
+mt_mortar,raticate,walking
+mt_mortar,zubat,walking
+mt_mortar,goldeen,surfing
+mt_mortar,marill,surfing
+mt_mortar,seaking,surfing
+mt_mortar,goldeen,old rod
+mt_mortar,magikarp,old rod
+mt_mortar,goldeen,good rod
+mt_mortar,magikarp,good rod
+mt_mortar,goldeen,super rod
+mt_mortar,magikarp,super rod
+mt_mortar,seaking,super rod
+route_43,farfetchd,grass
+route_43,furret,grass
+route_43,noctowl,grass
+route_43,pidgeotto,grass
+route_43,raticate,grass
+route_43,sentret,grass
+route_43,venomoth,grass
+route_43,venonat,grass
+route_43,exeggcute,headbutt (common)
+route_43,hoothoot,headbutt (common)
+route_43,venonat,headbutt (common)
+route_43,exeggcute,headbutt (rare)
+route_43,hoothoot,headbutt (rare)
+route_43,pineco,headbutt (rare)
+route_43,magikarp,surfing
+route_43,magikarp,old rod
+route_43,poliwag,old rod
+route_43,magikarp,good rod
+route_43,poliwag,good rod
+route_43,magikarp,super rod
+route_43,poliwag,super rod
+lake_of_rage,shiny gyarados,surfing
+lake_of_rage,exeggcute,headbutt (common)
+lake_of_rage,hoothoot,headbutt (common)
+lake_of_rage,venonat,headbutt (common)
+lake_of_rage,exeggcute,headbutt (rare)
+lake_of_rage,hoothoot,headbutt (rare)
+lake_of_rage,pineco,headbutt (rare)
+lake_of_rage,gyarados,surfing
+lake_of_rage,magikarp,surfing
+lake_of_rage,magikarp,old rod
+lake_of_rage,gyarados,good rod
+lake_of_rage,magikarp,good rod
+lake_of_rage,gyarados,super rod
+lake_of_rage,magikarp,super rod
+whirl_islands,golbat,walking
+whirl_islands,krabby,walking
+whirl_islands,seel,walking
+whirl_islands,zubat,walking
+whirl_islands,horsea,surfing
+whirl_islands,tentacool,surfing
+whirl_islands,tentacruel,surfing
+whirl_islands,krabby,old rod
+whirl_islands,magikarp,old rod
+whirl_islands,horsea,good rod
+whirl_islands,krabby,good rod
+whirl_islands,magikarp,good rod
+whirl_islands,horsea,super rod
+whirl_islands,kingler,super rod
+whirl_islands,krabby,super rod
+whirl_islands,seadra,super rod
+whirl_islands,golbat,walking
+whirl_islands,krabby,walking
+whirl_islands,seel,walking
+whirl_islands,zubat,walking
+whirl_islands,golbat,walking
+whirl_islands,krabby,walking
+whirl_islands,seel,walking
+whirl_islands,zubat,walking
+whirl_islands,horsea,surfing
+whirl_islands,tentacool,surfing
+whirl_islands,krabby,old rod
+whirl_islands,magikarp,old rod
+whirl_islands,horsea,good rod
+whirl_islands,krabby,good rod
+whirl_islands,magikarp,good rod
+whirl_islands,horsea,super rod
+whirl_islands,kingler,super rod
+whirl_islands,krabby,super rod
+whirl_islands,seadra,super rod
+whirl_islands,lugia,silver wing
+whirl_islands,golbat,walking
+whirl_islands,krabby,walking
+whirl_islands,seel,walking
+whirl_islands,zubat,walking
+whirl_islands,horsea,surfing
+whirl_islands,seadra,surfing
+whirl_islands,tentacool,surfing
+whirl_islands,krabby,old rod
+whirl_islands,magikarp,old rod
+whirl_islands,horsea,good rod
+whirl_islands,krabby,good rod
+whirl_islands,magikarp,good rod
+whirl_islands,horsea,super rod
+whirl_islands,kingler,super rod
+whirl_islands,krabby,super rod
+whirl_islands,seadra,super rod
+route_44,bellsprout,grass
+route_44,lickitung,grass
+route_44,poliwag,grass
+route_44,poliwhirl,grass
+route_44,tangela,grass
+route_44,weepinbell,grass
+route_44,aipom,headbutt (common)
+route_44,spearow,headbutt (common)
+route_44,aipom,headbutt (rare)
+route_44,heracross,headbutt (rare)
+route_44,spearow,headbutt (rare)
+route_44,poliwag,surfing
+route_44,poliwhirl,surfing
+route_44,magikarp,old rod
+route_44,poliwag,old rod
+route_44,magikarp,good rod
+route_44,poliwag,good rod
+route_44,magikarp,super rod
+route_44,poliwag,super rod
+ice_path,golbat,walking
+ice_path,jynx,walking
+ice_path,swinub,walking
+ice_path,zubat,walking
+ice_path,delibird,walking
+ice_path,golbat,walking
+ice_path,jynx,walking
+ice_path,sneasel,walking
+ice_path,swinub,walking
+ice_path,zubat,walking
+ice_path,delibird,walking
+ice_path,golbat,walking
+ice_path,jynx,walking
+ice_path,sneasel,walking
+ice_path,swinub,walking
+ice_path,zubat,walking
+ice_path,delibird,walking
+ice_path,golbat,walking
+ice_path,jynx,walking
+ice_path,sneasel,walking
+ice_path,swinub,walking
+ice_path,zubat,walking
+blackthorn_city,magikarp,surfing
+blackthorn_city,magikarp,old rod
+blackthorn_city,poliwag,old rod
+blackthorn_city,magikarp,good rod
+blackthorn_city,poliwag,good rod
+blackthorn_city,magikarp,super rod
+blackthorn_city,poliwag,super rod
+blackthorn_city,poliwhirl,super rod
+dragons_den,dratini,surfing
+dragons_den,magikarp,surfing
+dragons_den,magikarp,old rod
+dragons_den,dratini,good rod
+dragons_den,magikarp,good rod
+dragons_den,dragonair,super rod
+dragons_den,dratini,super rod
+dragons_den,magikarp,super rod
+route_45,donphan,grass
+route_45,geodude,grass
+route_45,gligar,grass
+route_45,graveler,grass
+route_45,phanpy,grass
+route_45,skarmory,grass
+route_45,aipom,headbutt (common)
+route_45,spearow,headbutt (common)
+route_45,aipom,headbutt (rare)
+route_45,heracross,headbutt (rare)
+route_45,spearow,headbutt (rare)
+route_45,magikarp,surfing
+route_45,magikarp,old rod
+route_45,dratini,good rod
+route_45,magikarp,good rod
+route_45,dragonair,super rod
+route_45,dratini,super rod
+route_45,magikarp,super rod
+route_27,arbok,grass
+route_27,dodrio,grass
+route_27,noctowl,grass
+route_27,ponyta,grass
+route_27,quagsire,grass
+route_27,raticate,grass
+route_27,ekans,headbutt (common)
+route_27,exeggcute,headbutt (common)
+route_27,hoothoot,headbutt (common)
+route_27,exeggcute,headbutt (rare)
+route_27,hoothoot,headbutt (rare)
+route_27,pineco,headbutt (rare)
+route_27,tentacool,surfing
+route_27,tentacruel,surfing
+route_27,magikarp,old rod
+route_27,tentacool,old rod
+route_27,chinchou,good rod
+route_27,magikarp,good rod
+route_27,shellder,good rod
+route_27,tentacool,good rod
+route_27,chinchou,super rod
+route_27,lanturn,super rod
+route_27,shellder,super rod
+route_27,tentacruel,super rod
+tohjo_falls,golbat,walking
+tohjo_falls,raticate,walking
+tohjo_falls,rattata,walking
+tohjo_falls,slowpoke,walking
+tohjo_falls,zubat,walking
+tohjo_falls,goldeen,surfing
+tohjo_falls,seaking,surfing
+tohjo_falls,slowpoke,surfing
+tohjo_falls,goldeen,old rod
+tohjo_falls,magikarp,old rod
+tohjo_falls,goldeen,good rod
+tohjo_falls,magikarp,good rod
+tohjo_falls,goldeen,super rod
+tohjo_falls,magikarp,super rod
+tohjo_falls,seaking,super rod
+route_26,arbok,grass
+route_26,doduo,grass
+route_26,noctowl,grass
+route_26,ponyta,grass
+route_26,quagsire,grass
+route_26,raticate,grass
+route_26,sandslash,grass
+route_26,ekans,headbutt (common)
+route_26,exeggcute,headbutt (common)
+route_26,hoothoot,headbutt (common)
+route_26,exeggcute,headbutt (rare)
+route_26,hoothoot,headbutt (rare)
+route_26,pineco,headbutt (rare)
+route_26,tentacool,surfing
+route_26,tentacruel,surfing
+route_26,magikarp,old rod
+route_26,tentacool,old rod
+route_26,chinchou,good rod
+route_26,magikarp,good rod
+route_26,shellder,good rod
+route_26,tentacool,good rod
+route_26,chinchou,super rod
+route_26,lanturn,super rod
+route_26,shellder,super rod
+route_26,tentacruel,super rod
+victory_road,golbat,walking around
+victory_road,graveler,walking around
+victory_road,onix,walking around
+victory_road,rhydon,walking around
+victory_road,rhyhorn,walking around
+victory_road,sandslash,walking around
+vermilion_city,snorlax,use pokeflute radio
+vermilion_city,tentacool,surfing
+vermilion_city,tentacruel,surfing
+vermilion_city,magikarp,old rod
+vermilion_city,tentacool,old rod
+vermilion_city,chinchou,good rod
+vermilion_city,magikarp,good rod
+vermilion_city,shellder,good rod
+vermilion_city,tentacool,good rod
+vermilion_city,chinchou,super rod
+vermilion_city,lanturn,super rod
+vermilion_city,shellder,super rod
+vermilion_city,tentacruel,super rod
+route_6,drowzee,grass
+route_6,granbull,grass
+route_6,jigglypuff,grass
+route_6,magnemite,grass
+route_6,meowth,grass
+route_6,psyduck,grass
+route_6,raticate,grass
+route_6,rattata,grass
+route_6,snubbull,grass
+route_6,golduck,surfing
+route_6,psyduck,surfing
+route_6,magikarp,old rod
+route_6,poliwag,old rod
+route_6,magikarp,good rod
+route_6,poliwag,good rod
+route_6,magikarp,super rod
+route_6,poliwag,super rod
+route_6,poliwhirl,super rod
+route_7,abra,grass
+route_7,houndour,grass
+route_7,jigglypuff,grass
+route_7,meowth,grass
+route_7,murkrow,grass
+route_7,persian,grass
+route_7,raticate,grass
+route_7,rattata,grass
+route_7,snubbull,grass
+route_7,spearow,grass
+celadon_city,pikachu,game corner
+celadon_city,larvitar,game corner
+celadon_city,porygon,game corner
+celadon_city,grimer,surfing
+celadon_city,muk,surfing
+tin_tower,gastly,walking (2f ~ 9f)
+tin_tower,rattata,walking (2f ~ 9f)
+tin_tower,ho-oh,rainbow wing
+tin_tower,suicune,clear bell
+route_16,fearow,grass
+route_16,grimer,grass
+route_16,muk,grass
+route_16,murkrow,grass
+route_16,slugma,grass
+route_17,fearow,grass
+route_17,grimer,grass
+route_17,muk,grass
+route_17,slugma,grass
+route_18,fearow,grass
+route_18,grimer,grass
+route_18,muk,grass
+route_18,murkrow,grass
+route_18,slugma,grass
+fuschia_city,magikarp,surfing
+fuschia_city,magikarp,old rod
+fuschia_city,gyarados,good rod
+fuschia_city,magikarp,good rod
+fuschia_city,gyarados,super rod
+fuschia_city,magikarp,super rod
+route_5,abra,grass
+route_5,hoothoot,grass
+route_5,jigglypuff,grass
+route_5,meowth,grass
+route_5,noctowl,grass
+route_5,pidgeotto,grass
+route_5,pidgey,grass
+route_5,snubbull,grass
+cerulean_city,goldeen,surfing
+cerulean_city,seaking,surfing
+cerulean_city,krabby,old rod
+cerulean_city,magikarp,old rod
+cerulean_city,corsola,good rod
+cerulean_city,krabby,good rod
+cerulean_city,magikarp,good rod
+cerulean_city,staryu,good rod
+cerulean_city,corsola,super rod
+cerulean_city,kingler,super rod
+cerulean_city,krabby,super rod
+cerulean_city,staryu,super rod
+route_9,fearow,grass
+route_9,marowak,grass
+route_9,raticate,grass
+route_9,rattata,grass
+route_9,spearow,grass
+route_9,venomoth,grass
+route_9,venonat,grass
+route_9,zubat,grass
+route_9,goldeen,surfing
+route_9,seaking,surfing
+route_9,goldeen,old rod
+route_9,magikarp,old rod
+route_9,goldeen,good rod
+route_9,magikarp,good rod
+route_9,goldeen,super rod
+route_9,magikarp,super rod
+route_9,seaking,super rod
+route_10,electabuzz,grass
+route_10,fearow,grass
+route_10,marowak,grass
+route_10,raticate,grass
+route_10,spearow,grass
+route_10,venomoth,grass
+route_10,venonat,grass
+route_10,voltorb,grass
+route_10,zubat,grass
+route_10,goldeen,surfing
+route_10,seaking,surfing
+route_10,goldeen,old rod
+route_10,magikarp,old rod
+route_10,goldeen,good rod
+route_10,magikarp,good rod
+route_10,goldeen,super rod
+route_10,magikarp,super rod
+route_10,seaking,super rod
+route_24,abra,grass
+route_24,bellsprout,grass
+route_24,butterfree,grass
+route_24,caterpie,grass
+route_24,gloom,grass
+route_24,metapod,grass
+route_24,oddish,grass
+route_24,sunkern,grass
+route_24,venonat,grass
+route_24,goldeen,surfing
+route_24,seaking,surfing
+route_24,goldeen,old rod
+route_24,magikarp,old rod
+route_24,goldeen,good rod
+route_24,magikarp,good rod
+route_24,goldeen,super rod
+route_24,magikarp,super rod
+route_24,seaking,super rod
+route_25,bellsprout,grass
+route_25,butterfree,grass
+route_25,caterpie,grass
+route_25,metapod,grass
+route_25,noctowl,grass
+route_25,oddish,grass
+route_25,pidgeotto,grass
+route_25,pidgey,grass
+route_25,venonat,grass
+route_25,goldeen,surfing
+route_25,seaking,surfing
+route_25,goldeen,old rod
+route_25,magikarp,old rod
+route_25,goldeen,good rod
+route_25,magikarp,good rod
+route_25,goldeen,super rod
+route_25,magikarp,super rod
+route_25,seaking,super rod
+route_8,abra,grass
+route_8,growlithe,grass
+route_8,haunter,grass
+route_8,jigglypuff,grass
+route_8,kadabra,grass
+route_8,meowth,grass
+route_8,noctowl,grass
+route_8,pidgeotto,grass
+route_8,snubbull,grass
+diglett_cave,diglett,walking around
+diglett_cave,dugtrio,walking around
+route_2,butterfree,grass
+route_2,caterpie,grass
+route_2,hoothoot,grass
+route_2,ledian,grass
+route_2,ledyba,grass
+route_2,noctowl,grass
+route_2,pidgeotto,grass
+route_2,pidgey,grass
+route_2,pikachu,grass
+route_2,spinarak,grass
+viridian_city,poliwag,surfing
+viridian_city,poliwhirl,surfing
+viridian_city,magikarp,old rod
+viridian_city,poliwag,old rod
+viridian_city,magikarp,good rod
+viridian_city,poliwag,good rod
+viridian_city,magikarp,super rod
+viridian_city,poliwag,super rod
+viridian_city,poliwhirl,super rod
+route_1,furret,grass
+route_1,hoothoot,grass
+route_1,pidgey,grass
+route_1,raticate,grass
+route_1,rattata,grass
+route_1,sentret,grass
+pallet_town,tentacool,surfing
+pallet_town,tentacruel,surfing
+pallet_town,magikarp,old rod
+pallet_town,tentacool,old rod
+pallet_town,chinchou,good rod
+pallet_town,magikarp,good rod
+pallet_town,shellder,good rod
+pallet_town,tentacool,good rod
+pallet_town,chinchou,super rod
+pallet_town,lanturn,super rod
+pallet_town,shellder,super rod
+pallet_town,tentacruel,super rod
+route_21,mr_mime,grass
+route_21,raticate,grass
+route_21,rattata,grass
+route_21,tangela,grass
+route_21,tentacool,surfing
+route_21,tentacruel,surfing
+route_21,krabby,old rod
+route_21,magikarp,old rod
+route_21,corsola,good rod
+route_21,krabby,good rod
+route_21,magikarp,good rod
+route_21,staryu,good rod
+route_21,corsola,super rod
+route_21,kingler,super rod
+route_21,krabby,super rod
+route_21,staryu,super rod
+seafoam_islands,tentacool,surfing
+seafoam_islands,tentacruel,surfing
+seafoam_islands,krabby,old rod
+seafoam_islands,magikarp,old rod
+seafoam_islands,corsola,good rod
+seafoam_islands,krabby,good rod
+seafoam_islands,magikarp,good rod
+seafoam_islands,staryu,good rod
+seafoam_islands,corsola,super rod
+seafoam_islands,kingler,super rod
+seafoam_islands,krabby,super rod
+seafoam_islands,staryu,super rod
+route_20,tentacool,surfing
+route_20,tentacruel,surfing
+route_20,krabby,old rod
+route_20,magikarp,old rod
+route_20,corsola,good rod
+route_20,krabby,good rod
+route_20,magikarp,good rod
+route_20,staryu,good rod
+route_20,corsola,super rod
+route_20,kingler,super rod
+route_20,krabby,super rod
+route_20,staryu,super rod
+route_22,doduo,grass
+route_22,fearow,grass
+route_22,poliwag,grass
+route_22,ponyta,grass
+route_22,rattata,grass
+route_22,spearow,grass
+route_22,poliwag,surfing
+route_22,poliwhirl,surfing
+route_22,magikarp,old rod
+route_22,poliwag,old rod
+route_22,magikarp,good rod
+route_22,poliwag,good rod
+route_22,magikarp,super rod
+route_22,poliwag,super rod
+route_22,poliwhirl,super rod
+route_3,arbok,grass
+route_3,clefairy,grass
+route_3,ekans,grass
+route_3,raticate,grass
+route_3,rattata,grass
+route_3,sandshrew,grass
+route_3,spearow,grass
+route_3,zubat,grass
+mt_moon,clefairy,walking around
+mt_moon,geodude,walking around
+mt_moon,paras,walking around
+mt_moon,sandshrew,walking around
+mt_moon,zubat,walking around
+route_4,arbok,grass
+route_4,clefairy,grass
+route_4,ekans,grass
+route_4,raticate,grass
+route_4,rattata,grass
+route_4,sandshrew,grass
+route_4,spearow,grass
+route_4,zubat,grass
+route_4,goldeen,surfing
+route_4,seaking,surfing
+route_19,tentacool,surfing
+route_19,tentacruel,surfing
+route_19,krabby,old rod
+route_19,magikarp,old rod
+route_19,corsola,good rod
+route_19,krabby,good rod
+route_19,magikarp,good rod
+route_19,staryu,good rod
+route_19,corsola,super rod
+route_19,kingler,super rod
+route_19,krabby,super rod
+route_19,staryu,super rod
+rock_tunnel,cubone,walking around
+rock_tunnel,geodude,walking around
+rock_tunnel,haunter,walking around
+rock_tunnel,machop,walking around
+rock_tunnel,machoke,walking around
+rock_tunnel,marowak,walking around
+rock_tunnel,zubat,walking around
+rock_tunnel,cubone,walking around
+rock_tunnel,geodude,walking around
+rock_tunnel,golbat,walking around
+rock_tunnel,haunter,walking around
+rock_tunnel,kangaskhan,walking around
+rock_tunnel,marowak,walking around
+rock_tunnel,onix,walking around
+rock_tunnel,zubat,walking around
+route_11,drowzee,grass
+route_11,hoppip,grass
+route_11,hypno,grass
+route_11,magnemite,grass
+route_11,meowth,grass
+route_11,noctowl,grass
+route_11,pidgeotto,grass
+route_11,raticate,grass
+route_11,rattata,grass
+route_12,quagsire,surfing
+route_12,tentacool,surfing
+route_12,tentacruel,surfing
+route_12,magikarp,old rod
+route_12,tentacool,old rod
+route_12,magikarp,good rod
+route_12,tentacool,good rod
+route_12,magikarp,super rod
+route_12,qwilfish,super rod
+route_12,tentacool,super rod
+route_13,chansey,grass
+route_13,hoppip,grass
+route_13,nidorina,grass
+route_13,nidorino,grass
+route_13,noctowl,grass
+route_13,pidgeotto,grass
+route_13,quagsire,grass
+route_13,venomoth,grass
+route_13,venonat,grass
+route_13,quagsire,surfing
+route_13,tentacool,surfing
+route_13,tentacruel,surfing
+route_13,magikarp,old rod
+route_13,tentacool,old rod
+route_13,magikarp,good rod
+route_13,tentacool,good rod
+route_13,magikarp,super rod
+route_13,qwilfish,super rod
+route_13,tentacool,super rod
+route_14,chansey,grass
+route_14,hoppip,grass
+route_14,nidorina,grass
+route_14,nidorino,grass
+route_14,noctowl,grass
+route_14,pidgeotto,grass
+route_14,quagsire,grass
+route_14,skiploom,grass
+route_14,venomoth,grass
+route_14,venonat,grass
+route_14,krabby,old rod
+route_14,magikarp,old rod
+route_14,corsola,good rod
+route_14,krabby,good rod
+route_14,magikarp,good rod
+route_14,staryu,good rod
+route_14,corsola,super rod
+route_14,kingler,super rod
+route_14,krabby,super rod
+route_14,staryu,super rod
+route_15,chansey,grass
+route_15,hoppip,grass
+route_15,nidorina,grass
+route_15,nidorino,grass
+route_15,noctowl,grass
+route_15,pidgeotto,grass
+route_15,quagsire,grass
+route_15,skiploom,grass
+route_15,venomoth,grass
+route_15,venonat,grass
+route_28,arbok,grass
+route_28,dodrio,grass
+route_28,doduo,grass
+route_28,golbat,grass
+route_28,poliwhirl,grass
+route_28,ponyta,grass
+route_28,rapidash,grass
+route_28,tangela,grass
+route_28,poliwag,surfing
+route_28,poliwhirl,surfing
+route_28,magikarp,old rod
+route_28,poliwag,old rod
+route_28,magikarp,good rod
+route_28,poliwag,good rod
+route_28,magikarp,super rod
+route_28,poliwag,super rod
+route_28,poliwhirl,super rod
+mount_silver,golbat,walking around
+mount_silver,golduck,walking around
+mount_silver,graveler,walking around
+mount_silver,larvitar,walking around
+mount_silver,magmar,walking around
+mount_silver,onix,walking around
+mount_silver,ursaring,walking around
+mount_silver,golbat,walking around
+mount_silver,golduck,walking around
+mount_silver,larvitar,walking around
+mount_silver,machoke,walking around
+mount_silver,misdreavus,walking around
+mount_silver,parasect,walking around
+mount_silver,ursaring,walking around
+mount_silver,goldeen,surfing
+mount_silver,golduck,surfing
+mount_silver,seaking,surfing
+mount_silver,goldeen,old rod
+mount_silver,magikarp,old rod
+mount_silver,goldeen,good rod
+mount_silver,magikarp,good rod
+mount_silver,goldeen,super rod
+mount_silver,magikarp,super rod
+mount_silver,seaking,super rod
+mount_silver,golbat,walking around
+mount_silver,misdreavus,walking around
+mount_silver,parasect,walking around
+mount_silver,golbat,walking around
+mount_silver,golduck,walking around
+mount_silver,graveler,walking around
+mount_silver,larvitar,walking around
+mount_silver,onix,walking around
+mount_silver,pupitar,walking around
+mount_silver,ursaring,walking around

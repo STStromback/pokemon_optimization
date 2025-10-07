@@ -1,0 +1,19 @@
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+pulp>=2.7.0
+
+# Web scraping dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Testing dependencies
+pytest>=8.0.0
+pytest-cov>=4.1.0
+
+# Visualization dependencies (optional but recommended)
+matplotlib>=3.7.0
+
+# Progress bar support (optional but recommended)
+tqdm>=4.65.0

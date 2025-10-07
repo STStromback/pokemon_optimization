@@ -1,0 +1,3886 @@
+pokemon,move_name,move_level,tm
+Bulbasaur,Swords Dance,0,machine
+Bulbasaur,Cut,0,machine
+Bulbasaur,Vine Whip,13,
+Bulbasaur,Tackle,1,
+Bulbasaur,Body Slam,0,machine
+Bulbasaur,Take Down,0,machine
+Bulbasaur,Double-Edge,0,machine
+Bulbasaur,Growl,1,
+Bulbasaur,Mega Drain,0,machine
+Bulbasaur,Leech Seed,7,
+Bulbasaur,Growth,34,
+Bulbasaur,Razor Leaf,27,
+Bulbasaur,SolarBeam,48,
+Bulbasaur,PoisonPowder,20,
+Bulbasaur,Sleep Powder,41,
+Bulbasaur,Toxic,0,machine
+Bulbasaur,Rage,0,machine
+Bulbasaur,Mimic,0,machine
+Bulbasaur,Double Team,0,machine
+Bulbasaur,Reflect,0,machine
+Bulbasaur,Bide,0,machine
+Bulbasaur,Rest,0,machine
+Bulbasaur,Substitute,0,machine
+Ivysaur,Swords Dance,0,machine
+Ivysaur,Cut,0,machine
+Ivysaur,Vine Whip,13,
+Ivysaur,Tackle,1,
+Ivysaur,Body Slam,0,machine
+Ivysaur,Take Down,0,machine
+Ivysaur,Double-Edge,0,machine
+Ivysaur,Growl,1,
+Ivysaur,Mega Drain,0,machine
+Ivysaur,Leech Seed,1,
+Ivysaur,Growth,38,
+Ivysaur,Razor Leaf,30,
+Ivysaur,SolarBeam,54,
+Ivysaur,PoisonPowder,22,
+Ivysaur,Sleep Powder,46,
+Ivysaur,Toxic,0,machine
+Ivysaur,Rage,0,machine
+Ivysaur,Mimic,0,machine
+Ivysaur,Double Team,0,machine
+Ivysaur,Reflect,0,machine
+Ivysaur,Bide,0,machine
+Ivysaur,Rest,0,machine
+Ivysaur,Substitute,0,machine
+Venusaur,Swords Dance,0,machine
+Venusaur,Cut,0,machine
+Venusaur,Vine Whip,1,
+Venusaur,Tackle,1,
+Venusaur,Body Slam,0,machine
+Venusaur,Take Down,0,machine
+Venusaur,Double-Edge,0,machine
+Venusaur,Growl,1,
+Venusaur,Hyper Beam,0,machine
+Venusaur,Mega Drain,0,machine
+Venusaur,Leech Seed,1,
+Venusaur,Growth,43,
+Venusaur,Razor Leaf,30,
+Venusaur,SolarBeam,65,
+Venusaur,PoisonPowder,22,
+Venusaur,Sleep Powder,55,
+Venusaur,Toxic,0,machine
+Venusaur,Rage,0,machine
+Venusaur,Mimic,0,machine
+Venusaur,Double Team,0,machine
+Venusaur,Reflect,0,machine
+Venusaur,Bide,0,machine
+Venusaur,Rest,0,machine
+Venusaur,Substitute,0,machine
+Charmander,Mega Punch,0,machine
+Charmander,Scratch,1,
+Charmander,Swords Dance,0,machine
+Charmander,Cut,0,machine
+Charmander,Mega Kick,0,machine
+Charmander,Body Slam,0,machine
+Charmander,Take Down,0,machine
+Charmander,Double-Edge,0,machine
+Charmander,Leer,15,
+Charmander,Growl,1,
+Charmander,Ember,9,
+Charmander,Flamethrower,38,
+Charmander,Submission,0,machine
+Charmander,Counter,0,machine
+Charmander,Seismic Toss,0,machine
+Charmander,Strength,0,machine
+Charmander,Dragon Rage,0,machine
+Charmander,Fire Spin,46,
+Charmander,Dig,0,machine
+Charmander,Toxic,0,machine
+Charmander,Rage,22,
+Charmander,Mimic,0,machine
+Charmander,Double Team,0,machine
+Charmander,Reflect,0,machine
+Charmander,Bide,0,machine
+Charmander,Fire Blast,0,machine
+Charmander,Swift,0,machine
+Charmander,Skull Bash,0,machine
+Charmander,Rest,0,machine
+Charmander,Slash,30,
+Charmander,Substitute,0,machine
+Charmeleon,Mega Punch,0,machine
+Charmeleon,Scratch,1,
+Charmeleon,Swords Dance,0,machine
+Charmeleon,Cut,0,machine
+Charmeleon,Mega Kick,0,machine
+Charmeleon,Body Slam,0,machine
+Charmeleon,Take Down,0,machine
+Charmeleon,Double-Edge,0,machine
+Charmeleon,Leer,15,
+Charmeleon,Growl,1,
+Charmeleon,Ember,1,
+Charmeleon,Flamethrower,42,
+Charmeleon,Submission,0,machine
+Charmeleon,Counter,0,machine
+Charmeleon,Seismic Toss,0,machine
+Charmeleon,Strength,0,machine
+Charmeleon,Dragon Rage,0,machine
+Charmeleon,Fire Spin,56,
+Charmeleon,Dig,0,machine
+Charmeleon,Toxic,0,machine
+Charmeleon,Rage,24,
+Charmeleon,Mimic,0,machine
+Charmeleon,Double Team,0,machine
+Charmeleon,Reflect,0,machine
+Charmeleon,Bide,0,machine
+Charmeleon,Fire Blast,0,machine
+Charmeleon,Swift,0,machine
+Charmeleon,Skull Bash,0,machine
+Charmeleon,Rest,0,machine
+Charmeleon,Slash,33,
+Charmeleon,Substitute,0,machine
+Charizard,Mega Punch,0,machine
+Charizard,Scratch,1,
+Charizard,Swords Dance,0,machine
+Charizard,Cut,0,machine
+Charizard,Fly,0,machine
+Charizard,Mega Kick,0,machine
+Charizard,Body Slam,0,machine
+Charizard,Take Down,0,machine
+Charizard,Double-Edge,0,machine
+Charizard,Leer,1,
+Charizard,Growl,1,
+Charizard,Ember,1,
+Charizard,Flamethrower,46,
+Charizard,Hyper Beam,0,machine
+Charizard,Submission,0,machine
+Charizard,Counter,0,machine
+Charizard,Seismic Toss,0,machine
+Charizard,Strength,0,machine
+Charizard,Dragon Rage,0,machine
+Charizard,Fire Spin,55,
+Charizard,Earthquake,0,machine
+Charizard,Fissure,0,machine
+Charizard,Dig,0,machine
+Charizard,Toxic,0,machine
+Charizard,Rage,24,
+Charizard,Mimic,0,machine
+Charizard,Double Team,0,machine
+Charizard,Reflect,0,machine
+Charizard,Bide,0,machine
+Charizard,Fire Blast,0,machine
+Charizard,Swift,0,machine
+Charizard,Skull Bash,0,machine
+Charizard,Rest,0,machine
+Charizard,Slash,36,
+Charizard,Substitute,0,machine
+Squirtle,Mega Punch,0,machine
+Squirtle,Mega Kick,0,machine
+Squirtle,Tackle,1,
+Squirtle,Body Slam,0,machine
+Squirtle,Take Down,0,machine
+Squirtle,Double-Edge,0,machine
+Squirtle,Tail Whip,1,
+Squirtle,Bite,22,
+Squirtle,Water Gun,15,
+Squirtle,Hydro Pump,42,
+Squirtle,Surf,0,machine
+Squirtle,Ice Beam,0,machine
+Squirtle,Blizzard,0,machine
+Squirtle,BubbleBeam,0,machine
+Squirtle,Submission,0,machine
+Squirtle,Counter,0,machine
+Squirtle,Seismic Toss,0,machine
+Squirtle,Strength,0,machine
+Squirtle,Dig,0,machine
+Squirtle,Toxic,0,machine
+Squirtle,Rage,0,machine
+Squirtle,Mimic,0,machine
+Squirtle,Double Team,0,machine
+Squirtle,Withdraw,28,
+Squirtle,Reflect,0,machine
+Squirtle,Bide,0,machine
+Squirtle,Skull Bash,35,
+Squirtle,Bubble,8,
+Squirtle,Rest,0,machine
+Squirtle,Substitute,0,machine
+Wartortle,Mega Punch,0,machine
+Wartortle,Mega Kick,0,machine
+Wartortle,Tackle,1,
+Wartortle,Body Slam,0,machine
+Wartortle,Take Down,0,machine
+Wartortle,Double-Edge,0,machine
+Wartortle,Tail Whip,1,
+Wartortle,Bite,24,
+Wartortle,Water Gun,15,
+Wartortle,Hydro Pump,47,
+Wartortle,Surf,0,machine
+Wartortle,Ice Beam,0,machine
+Wartortle,Blizzard,0,machine
+Wartortle,BubbleBeam,0,machine
+Wartortle,Submission,0,machine
+Wartortle,Counter,0,machine
+Wartortle,Seismic Toss,0,machine
+Wartortle,Strength,0,machine
+Wartortle,Dig,0,machine
+Wartortle,Toxic,0,machine
+Wartortle,Rage,0,machine
+Wartortle,Mimic,0,machine
+Wartortle,Double Team,0,machine
+Wartortle,Withdraw,31,
+Wartortle,Reflect,0,machine
+Wartortle,Bide,0,machine
+Wartortle,Skull Bash,39,
+Wartortle,Bubble,1,
+Wartortle,Rest,0,machine
+Wartortle,Substitute,0,machine
+Blastoise,Mega Punch,0,machine
+Blastoise,Mega Kick,0,machine
+Blastoise,Tackle,1,
+Blastoise,Body Slam,0,machine
+Blastoise,Take Down,0,machine
+Blastoise,Double-Edge,0,machine
+Blastoise,Tail Whip,1,
+Blastoise,Bite,24,
+Blastoise,Water Gun,1,
+Blastoise,Hydro Pump,52,
+Blastoise,Surf,0,machine
+Blastoise,Ice Beam,0,machine
+Blastoise,Blizzard,0,machine
+Blastoise,BubbleBeam,0,machine
+Blastoise,Hyper Beam,0,machine
+Blastoise,Submission,0,machine
+Blastoise,Counter,0,machine
+Blastoise,Seismic Toss,0,machine
+Blastoise,Strength,0,machine
+Blastoise,Earthquake,0,machine
+Blastoise,Fissure,0,machine
+Blastoise,Dig,0,machine
+Blastoise,Toxic,0,machine
+Blastoise,Rage,0,machine
+Blastoise,Mimic,0,machine
+Blastoise,Double Team,0,machine
+Blastoise,Withdraw,31,
+Blastoise,Reflect,0,machine
+Blastoise,Bide,0,machine
+Blastoise,Skull Bash,42,
+Blastoise,Bubble,1,
+Blastoise,Rest,0,machine
+Blastoise,Substitute,0,machine
+Caterpie,Tackle,1,
+Caterpie,String Shot,1,
+Metapod,Harden,1,
+Butterfree,Razor Wind,0,machine
+Butterfree,Gust,28,
+Butterfree,Whirlwind,26,
+Butterfree,Take Down,0,machine
+Butterfree,Double-Edge,0,machine
+Butterfree,Supersonic,21,
+Butterfree,Psybeam,32,
+Butterfree,Hyper Beam,0,machine
+Butterfree,Mega Drain,0,machine
+Butterfree,SolarBeam,0,machine
+Butterfree,PoisonPowder,15,
+Butterfree,Stun Spore,16,
+Butterfree,Sleep Powder,17,
+Butterfree,Toxic,0,machine
+Butterfree,Confusion,1,
+Butterfree,Psychic,0,machine
+Butterfree,Rage,0,machine
+Butterfree,Teleport,0,machine
+Butterfree,Mimic,0,machine
+Butterfree,Double Team,0,machine
+Butterfree,Reflect,0,machine
+Butterfree,Bide,0,machine
+Butterfree,Swift,0,machine
+Butterfree,Flash,0,machine
+Butterfree,Psywave,0,machine
+Butterfree,Rest,0,machine
+Butterfree,Substitute,0,machine
+Weedle,Poison Sting,1,
+Weedle,String Shot,1,
+Kakuna,Harden,1,
+Beedrill,Swords Dance,0,machine
+Beedrill,Cut,0,machine
+Beedrill,Fury Attack,1,
+Beedrill,Take Down,0,machine
+Beedrill,Double-Edge,0,machine
+Beedrill,Twineedle,20,
+Beedrill,Pin Missile,30,
+Beedrill,Hyper Beam,0,machine
+Beedrill,Mega Drain,0,machine
+Beedrill,Toxic,0,machine
+Beedrill,Agility,35,
+Beedrill,Rage,25,
+Beedrill,Mimic,0,machine
+Beedrill,Double Team,0,machine
+Beedrill,Reflect,0,machine
+Beedrill,Focus Energy,16,
+Beedrill,Bide,0,machine
+Beedrill,Swift,0,machine
+Beedrill,Skull Bash,0,machine
+Beedrill,Rest,0,machine
+Beedrill,Substitute,0,machine
+Pidgey,Razor Wind,0,machine
+Pidgey,Gust,1,
+Pidgey,Wing Attack,28,
+Pidgey,Whirlwind,19,
+Pidgey,Fly,0,machine
+Pidgey,Sand-Attack,5,
+Pidgey,Take Down,0,machine
+Pidgey,Double-Edge,0,machine
+Pidgey,Toxic,0,machine
+Pidgey,Agility,36,
+Pidgey,Quick Attack,12,
+Pidgey,Rage,0,machine
+Pidgey,Mimic,0,machine
+Pidgey,Double Team,0,machine
+Pidgey,Reflect,0,machine
+Pidgey,Bide,0,machine
+Pidgey,Mirror Move,44,
+Pidgey,Swift,0,machine
+Pidgey,Sky Attack,0,machine
+Pidgey,Rest,0,machine
+Pidgey,Substitute,0,machine
+Pidgeotto,Razor Wind,0,machine
+Pidgeotto,Gust,1,
+Pidgeotto,Wing Attack,31,
+Pidgeotto,Whirlwind,21,
+Pidgeotto,Fly,0,machine
+Pidgeotto,Sand-Attack,1,
+Pidgeotto,Take Down,0,machine
+Pidgeotto,Double-Edge,0,machine
+Pidgeotto,Toxic,0,machine
+Pidgeotto,Agility,40,
+Pidgeotto,Quick Attack,12,
+Pidgeotto,Rage,0,machine
+Pidgeotto,Mimic,0,machine
+Pidgeotto,Double Team,0,machine
+Pidgeotto,Reflect,0,machine
+Pidgeotto,Bide,0,machine
+Pidgeotto,Mirror Move,49,
+Pidgeotto,Swift,0,machine
+Pidgeotto,Sky Attack,0,machine
+Pidgeotto,Rest,0,machine
+Pidgeotto,Substitute,0,machine
+Pidgeot,Razor Wind,0,machine
+Pidgeot,Gust,1,
+Pidgeot,Wing Attack,31,
+Pidgeot,Whirlwind,21,
+Pidgeot,Fly,0,machine
+Pidgeot,Sand-Attack,1,
+Pidgeot,Take Down,0,machine
+Pidgeot,Double-Edge,0,machine
+Pidgeot,Hyper Beam,0,machine
+Pidgeot,Toxic,0,machine
+Pidgeot,Agility,44,
+Pidgeot,Quick Attack,1,
+Pidgeot,Rage,0,machine
+Pidgeot,Mimic,0,machine
+Pidgeot,Double Team,0,machine
+Pidgeot,Reflect,0,machine
+Pidgeot,Bide,0,machine
+Pidgeot,Mirror Move,54,
+Pidgeot,Swift,0,machine
+Pidgeot,Sky Attack,0,machine
+Pidgeot,Rest,0,machine
+Pidgeot,Substitute,0,machine
+Rattata,Tackle,1,
+Rattata,Body Slam,0,machine
+Rattata,Take Down,0,machine
+Rattata,Double-Edge,0,machine
+Rattata,Tail Whip,1,
+Rattata,Water Gun,0,machine
+Rattata,Blizzard,0,machine
+Rattata,BubbleBeam,0,machine
+Rattata,Thunderbolt,0,machine
+Rattata,Thunder,0,machine
+Rattata,Dig,0,machine
+Rattata,Toxic,0,machine
+Rattata,Quick Attack,7,
+Rattata,Rage,0,machine
+Rattata,Mimic,0,machine
+Rattata,Double Team,0,machine
+Rattata,Focus Energy,23,
+Rattata,Bide,0,machine
+Rattata,Swift,0,machine
+Rattata,Skull Bash,0,machine
+Rattata,Rest,0,machine
+Rattata,Hyper Fang,14,
+Rattata,Super Fang,34,
+Rattata,Substitute,0,machine
+Raticate,Tackle,1,
+Raticate,Body Slam,0,machine
+Raticate,Take Down,0,machine
+Raticate,Double-Edge,0,machine
+Raticate,Tail Whip,1,
+Raticate,Water Gun,0,machine
+Raticate,Ice Beam,0,machine
+Raticate,Blizzard,0,machine
+Raticate,BubbleBeam,0,machine
+Raticate,Hyper Beam,0,machine
+Raticate,Thunderbolt,0,machine
+Raticate,Thunder,0,machine
+Raticate,Dig,0,machine
+Raticate,Toxic,0,machine
+Raticate,Quick Attack,1,
+Raticate,Rage,0,machine
+Raticate,Mimic,0,machine
+Raticate,Double Team,0,machine
+Raticate,Focus Energy,27,
+Raticate,Bide,0,machine
+Raticate,Swift,0,machine
+Raticate,Skull Bash,0,machine
+Raticate,Rest,0,machine
+Raticate,Hyper Fang,14,
+Raticate,Super Fang,41,
+Raticate,Substitute,0,machine
+Spearow,Razor Wind,0,machine
+Spearow,Whirlwind,0,machine
+Spearow,Fly,0,machine
+Spearow,Fury Attack,15,
+Spearow,Take Down,0,machine
+Spearow,Double-Edge,0,machine
+Spearow,Leer,9,
+Spearow,Growl,1,
+Spearow,Peck,1,
+Spearow,Drill Peck,29,
+Spearow,Toxic,0,machine
+Spearow,Agility,36,
+Spearow,Rage,0,machine
+Spearow,Mimic,0,machine
+Spearow,Double Team,0,machine
+Spearow,Bide,0,machine
+Spearow,Mirror Move,22,
+Spearow,Swift,0,machine
+Spearow,Sky Attack,0,machine
+Spearow,Rest,0,machine
+Spearow,Substitute,0,machine
+Fearow,Razor Wind,0,machine
+Fearow,Whirlwind,0,machine
+Fearow,Fly,0,machine
+Fearow,Fury Attack,15,
+Fearow,Take Down,0,machine
+Fearow,Double-Edge,0,machine
+Fearow,Leer,1,
+Fearow,Growl,1,
+Fearow,Hyper Beam,0,machine
+Fearow,Peck,1,
+Fearow,Drill Peck,34,
+Fearow,Toxic,0,machine
+Fearow,Agility,43,
+Fearow,Rage,0,machine
+Fearow,Mimic,0,machine
+Fearow,Double Team,0,machine
+Fearow,Bide,0,machine
+Fearow,Mirror Move,25,
+Fearow,Swift,0,machine
+Fearow,Sky Attack,0,machine
+Fearow,Rest,0,machine
+Fearow,Substitute,0,machine
+Ekans,Body Slam,0,machine
+Ekans,Wrap,1,
+Ekans,Take Down,0,machine
+Ekans,Double-Edge,0,machine
+Ekans,Poison Sting,10,
+Ekans,Leer,1,
+Ekans,Bite,17,
+Ekans,Acid,38,
+Ekans,Strength,0,machine
+Ekans,Mega Drain,0,machine
+Ekans,Earthquake,0,machine
+Ekans,Fissure,0,machine
+Ekans,Dig,0,machine
+Ekans,Toxic,0,machine
+Ekans,Rage,0,machine
+Ekans,Mimic,0,machine
+Ekans,Screech,31,
+Ekans,Double Team,0,machine
+Ekans,Bide,0,machine
+Ekans,Skull Bash,0,machine
+Ekans,Glare,24,
+Ekans,Rest,0,machine
+Ekans,Rock Slide,0,machine
+Ekans,Substitute,0,machine
+Arbok,Body Slam,0,machine
+Arbok,Wrap,1,
+Arbok,Take Down,0,machine
+Arbok,Double-Edge,0,machine
+Arbok,Poison Sting,1,
+Arbok,Leer,1,
+Arbok,Bite,17,
+Arbok,Acid,47,
+Arbok,Hyper Beam,0,machine
+Arbok,Strength,0,machine
+Arbok,Mega Drain,0,machine
+Arbok,Earthquake,0,machine
+Arbok,Fissure,0,machine
+Arbok,Dig,0,machine
+Arbok,Toxic,0,machine
+Arbok,Rage,0,machine
+Arbok,Mimic,0,machine
+Arbok,Screech,36,
+Arbok,Double Team,0,machine
+Arbok,Bide,0,machine
+Arbok,Skull Bash,0,machine
+Arbok,Glare,27,
+Arbok,Rest,0,machine
+Arbok,Rock Slide,0,machine
+Arbok,Substitute,0,machine
+Pikachu,Mega Punch,0,machine
+Pikachu,Pay Day,0,machine
+Pikachu,Slam,20,
+Pikachu,Mega Kick,0,machine
+Pikachu,Body Slam,0,machine
+Pikachu,Take Down,0,machine
+Pikachu,Double-Edge,0,machine
+Pikachu,Tail Whip,6,
+Pikachu,Growl,1,
+Pikachu,Submission,0,machine
+Pikachu,Seismic Toss,0,machine
+Pikachu,ThunderShock,1,
+Pikachu,Thunderbolt,26,
+Pikachu,Thunder Wave,9,
+Pikachu,Thunder,43,
+Pikachu,Toxic,0,machine
+Pikachu,Agility,33,
+Pikachu,Quick Attack,16,
+Pikachu,Rage,0,machine
+Pikachu,Mimic,0,machine
+Pikachu,Double Team,15,
+Pikachu,Light Screen,50,
+Pikachu,Reflect,0,machine
+Pikachu,Bide,0,machine
+Pikachu,Swift,26,
+Pikachu,Skull Bash,0,machine
+Pikachu,Flash,0,machine
+Pikachu,Rest,0,machine
+Pikachu,Substitute,0,machine
+Raichu,Mega Punch,0,machine
+Raichu,Pay Day,0,machine
+Raichu,Mega Kick,0,machine
+Raichu,Body Slam,0,machine
+Raichu,Take Down,0,machine
+Raichu,Double-Edge,0,machine
+Raichu,Growl,1,
+Raichu,Hyper Beam,0,machine
+Raichu,Submission,0,machine
+Raichu,Seismic Toss,0,machine
+Raichu,ThunderShock,1,
+Raichu,Thunderbolt,0,machine
+Raichu,Thunder Wave,1,
+Raichu,Thunder,0,machine
+Raichu,Toxic,0,machine
+Raichu,Rage,0,machine
+Raichu,Mimic,0,machine
+Raichu,Double Team,0,machine
+Raichu,Reflect,0,machine
+Raichu,Bide,0,machine
+Raichu,Swift,0,machine
+Raichu,Skull Bash,0,machine
+Raichu,Flash,0,machine
+Raichu,Rest,0,machine
+Raichu,Substitute,0,machine
+Sandshrew,Scratch,1,
+Sandshrew,Swords Dance,0,machine
+Sandshrew,Cut,0,machine
+Sandshrew,Sand-Attack,10,
+Sandshrew,Body Slam,0,machine
+Sandshrew,Take Down,0,machine
+Sandshrew,Double-Edge,0,machine
+Sandshrew,Poison Sting,24,
+Sandshrew,Submission,0,machine
+Sandshrew,Seismic Toss,0,machine
+Sandshrew,Strength,0,machine
+Sandshrew,Earthquake,0,machine
+Sandshrew,Fissure,0,machine
+Sandshrew,Dig,0,machine
+Sandshrew,Toxic,0,machine
+Sandshrew,Rage,0,machine
+Sandshrew,Mimic,0,machine
+Sandshrew,Double Team,0,machine
+Sandshrew,Bide,0,machine
+Sandshrew,Swift,31,
+Sandshrew,Skull Bash,0,machine
+Sandshrew,Fury Swipes,38,
+Sandshrew,Rest,0,machine
+Sandshrew,Rock Slide,0,machine
+Sandshrew,Slash,17,
+Sandshrew,Substitute,0,machine
+Sandslash,Scratch,1,
+Sandslash,Swords Dance,0,machine
+Sandslash,Cut,0,machine
+Sandslash,Sand-Attack,1,
+Sandslash,Body Slam,0,machine
+Sandslash,Take Down,0,machine
+Sandslash,Double-Edge,0,machine
+Sandslash,Poison Sting,27,
+Sandslash,Hyper Beam,0,machine
+Sandslash,Submission,0,machine
+Sandslash,Seismic Toss,0,machine
+Sandslash,Strength,0,machine
+Sandslash,Earthquake,0,machine
+Sandslash,Fissure,0,machine
+Sandslash,Dig,0,machine
+Sandslash,Toxic,0,machine
+Sandslash,Rage,0,machine
+Sandslash,Mimic,0,machine
+Sandslash,Double Team,0,machine
+Sandslash,Bide,0,machine
+Sandslash,Swift,36,
+Sandslash,Skull Bash,0,machine
+Sandslash,Fury Swipes,47,
+Sandslash,Rest,0,machine
+Sandslash,Rock Slide,0,machine
+Sandslash,Slash,17,
+Sandslash,Substitute,0,machine
+Nidoran_f,Scratch,8,
+Nidoran_f,Double Kick,43,
+Nidoran_f,Tackle,1,
+Nidoran_f,Body Slam,0,machine
+Nidoran_f,Take Down,0,machine
+Nidoran_f,Double-Edge,0,machine
+Nidoran_f,Tail Whip,21,
+Nidoran_f,Poison Sting,14,
+Nidoran_f,Bite,29,
+Nidoran_f,Growl,1,
+Nidoran_f,Blizzard,0,machine
+Nidoran_f,Thunderbolt,0,machine
+Nidoran_f,Thunder,0,machine
+Nidoran_f,Toxic,0,machine
+Nidoran_f,Rage,0,machine
+Nidoran_f,Mimic,0,machine
+Nidoran_f,Double Team,0,machine
+Nidoran_f,Reflect,0,machine
+Nidoran_f,Bide,0,machine
+Nidoran_f,Skull Bash,0,machine
+Nidoran_f,Fury Swipes,36,
+Nidoran_f,Rest,0,machine
+Nidoran_f,Substitute,0,machine
+Nidorina,Scratch,1,
+Nidorina,Double Kick,50,
+Nidorina,Horn Drill,0,machine
+Nidorina,Tackle,1,
+Nidorina,Body Slam,0,machine
+Nidorina,Take Down,0,machine
+Nidorina,Double-Edge,0,machine
+Nidorina,Tail Whip,23,
+Nidorina,Poison Sting,14,
+Nidorina,Bite,32,
+Nidorina,Growl,1,
+Nidorina,Water Gun,0,machine
+Nidorina,Ice Beam,0,machine
+Nidorina,Blizzard,0,machine
+Nidorina,BubbleBeam,0,machine
+Nidorina,Thunderbolt,0,machine
+Nidorina,Thunder,0,machine
+Nidorina,Toxic,0,machine
+Nidorina,Rage,0,machine
+Nidorina,Mimic,0,machine
+Nidorina,Double Team,0,machine
+Nidorina,Reflect,0,machine
+Nidorina,Bide,0,machine
+Nidorina,Skull Bash,0,machine
+Nidorina,Fury Swipes,41,
+Nidorina,Rest,0,machine
+Nidorina,Substitute,0,machine
+Nidoqueen,Mega Punch,0,machine
+Nidoqueen,Pay Day,0,machine
+Nidoqueen,Scratch,1,
+Nidoqueen,Double Kick,12,
+Nidoqueen,Mega Kick,0,machine
+Nidoqueen,Horn Drill,0,machine
+Nidoqueen,Tackle,1,
+Nidoqueen,Body Slam,1,
+Nidoqueen,Take Down,0,machine
+Nidoqueen,Double-Edge,0,machine
+Nidoqueen,Tail Whip,1,
+Nidoqueen,Poison Sting,14,
+Nidoqueen,Water Gun,0,machine
+Nidoqueen,Surf,0,machine
+Nidoqueen,Ice Beam,0,machine
+Nidoqueen,Blizzard,0,machine
+Nidoqueen,BubbleBeam,0,machine
+Nidoqueen,Hyper Beam,0,machine
+Nidoqueen,Submission,0,machine
+Nidoqueen,Counter,0,machine
+Nidoqueen,Seismic Toss,0,machine
+Nidoqueen,Strength,0,machine
+Nidoqueen,Thunderbolt,0,machine
+Nidoqueen,Thunder,0,machine
+Nidoqueen,Earthquake,0,machine
+Nidoqueen,Fissure,0,machine
+Nidoqueen,Toxic,0,machine
+Nidoqueen,Rage,0,machine
+Nidoqueen,Mimic,0,machine
+Nidoqueen,Double Team,0,machine
+Nidoqueen,Reflect,0,machine
+Nidoqueen,Bide,0,machine
+Nidoqueen,Fire Blast,0,machine
+Nidoqueen,Skull Bash,0,machine
+Nidoqueen,Rest,0,machine
+Nidoqueen,Rock Slide,0,machine
+Nidoqueen,Substitute,0,machine
+Nidoran_m,Double Kick,43,
+Nidoran_m,Horn Attack,8,
+Nidoran_m,Fury Attack,29,
+Nidoran_m,Horn Drill,36,
+Nidoran_m,Tackle,1,
+Nidoran_m,Body Slam,0,machine
+Nidoran_m,Take Down,0,machine
+Nidoran_m,Double-Edge,0,machine
+Nidoran_m,Poison Sting,14,
+Nidoran_m,Leer,1,
+Nidoran_m,Blizzard,0,machine
+Nidoran_m,Thunderbolt,0,machine
+Nidoran_m,Thunder,0,machine
+Nidoran_m,Toxic,0,machine
+Nidoran_m,Rage,0,machine
+Nidoran_m,Mimic,0,machine
+Nidoran_m,Double Team,0,machine
+Nidoran_m,Reflect,0,machine
+Nidoran_m,Focus Energy,21,
+Nidoran_m,Bide,0,machine
+Nidoran_m,Skull Bash,0,machine
+Nidoran_m,Rest,0,machine
+Nidoran_m,Substitute,0,machine
+Nidorino,Double Kick,50,
+Nidorino,Horn Attack,1,
+Nidorino,Fury Attack,32,
+Nidorino,Horn Drill,41,
+Nidorino,Tackle,1,
+Nidorino,Body Slam,0,machine
+Nidorino,Take Down,0,machine
+Nidorino,Double-Edge,0,machine
+Nidorino,Poison Sting,14,
+Nidorino,Leer,1,
+Nidorino,Water Gun,0,machine
+Nidorino,Ice Beam,0,machine
+Nidorino,Blizzard,0,machine
+Nidorino,BubbleBeam,0,machine
+Nidorino,Thunderbolt,0,machine
+Nidorino,Thunder,0,machine
+Nidorino,Toxic,0,machine
+Nidorino,Rage,0,machine
+Nidorino,Mimic,0,machine
+Nidorino,Double Team,0,machine
+Nidorino,Reflect,0,machine
+Nidorino,Focus Energy,23,
+Nidorino,Bide,0,machine
+Nidorino,Skull Bash,0,machine
+Nidorino,Rest,0,machine
+Nidorino,Substitute,0,machine
+Nidoking,Mega Punch,0,machine
+Nidoking,Pay Day,0,machine
+Nidoking,Double Kick,12,
+Nidoking,Mega Kick,0,machine
+Nidoking,Horn Attack,1,
+Nidoking,Horn Drill,0,machine
+Nidoking,Tackle,1,
+Nidoking,Body Slam,0,machine
+Nidoking,Take Down,0,machine
+Nidoking,Thrash,1,
+Nidoking,Double-Edge,0,machine
+Nidoking,Poison Sting,1,
+Nidoking,Water Gun,0,machine
+Nidoking,Surf,0,machine
+Nidoking,Ice Beam,0,machine
+Nidoking,Blizzard,0,machine
+Nidoking,BubbleBeam,0,machine
+Nidoking,Hyper Beam,0,machine
+Nidoking,Submission,0,machine
+Nidoking,Counter,0,machine
+Nidoking,Seismic Toss,0,machine
+Nidoking,Strength,0,machine
+Nidoking,Thunderbolt,0,machine
+Nidoking,Thunder,0,machine
+Nidoking,Earthquake,0,machine
+Nidoking,Fissure,0,machine
+Nidoking,Toxic,0,machine
+Nidoking,Rage,0,machine
+Nidoking,Mimic,0,machine
+Nidoking,Double Team,0,machine
+Nidoking,Reflect,0,machine
+Nidoking,Bide,0,machine
+Nidoking,Fire Blast,0,machine
+Nidoking,Skull Bash,0,machine
+Nidoking,Rest,0,machine
+Nidoking,Rock Slide,0,machine
+Nidoking,Substitute,0,machine
+Clefairy,Pound,1,
+Clefairy,DoubleSlap,18,
+Clefairy,Mega Punch,0,machine
+Clefairy,Mega Kick,0,machine
+Clefairy,Body Slam,0,machine
+Clefairy,Take Down,0,machine
+Clefairy,Double-Edge,0,machine
+Clefairy,Growl,1,
+Clefairy,Sing,13,
+Clefairy,Water Gun,0,machine
+Clefairy,Ice Beam,0,machine
+Clefairy,Blizzard,0,machine
+Clefairy,BubbleBeam,0,machine
+Clefairy,Submission,0,machine
+Clefairy,Counter,0,machine
+Clefairy,Seismic Toss,0,machine
+Clefairy,Strength,0,machine
+Clefairy,SolarBeam,0,machine
+Clefairy,Thunderbolt,0,machine
+Clefairy,Thunder Wave,0,machine
+Clefairy,Thunder,0,machine
+Clefairy,Toxic,0,machine
+Clefairy,Psychic,0,machine
+Clefairy,Rage,0,machine
+Clefairy,Teleport,0,machine
+Clefairy,Mimic,0,machine
+Clefairy,Double Team,0,machine
+Clefairy,Minimize,24,
+Clefairy,Defense Curl,39,
+Clefairy,Light Screen,48,
+Clefairy,Reflect,0,machine
+Clefairy,Bide,0,machine
+Clefairy,Metronome,31,
+Clefairy,Fire Blast,0,machine
+Clefairy,Skull Bash,0,machine
+Clefairy,Flash,0,machine
+Clefairy,Psywave,0,machine
+Clefairy,Rest,0,machine
+Clefairy,Tri Attack,0,machine
+Clefairy,Substitute,0,machine
+Clefable,DoubleSlap,1,
+Clefable,Mega Punch,0,machine
+Clefable,Mega Kick,0,machine
+Clefable,Body Slam,0,machine
+Clefable,Take Down,0,machine
+Clefable,Double-Edge,0,machine
+Clefable,Sing,1,
+Clefable,Water Gun,0,machine
+Clefable,Ice Beam,0,machine
+Clefable,Blizzard,0,machine
+Clefable,BubbleBeam,0,machine
+Clefable,Hyper Beam,0,machine
+Clefable,Submission,0,machine
+Clefable,Counter,0,machine
+Clefable,Seismic Toss,0,machine
+Clefable,Strength,0,machine
+Clefable,SolarBeam,0,machine
+Clefable,Thunderbolt,0,machine
+Clefable,Thunder Wave,0,machine
+Clefable,Thunder,0,machine
+Clefable,Toxic,0,machine
+Clefable,Psychic,0,machine
+Clefable,Rage,0,machine
+Clefable,Teleport,0,machine
+Clefable,Mimic,0,machine
+Clefable,Double Team,0,machine
+Clefable,Minimize,1,
+Clefable,Reflect,0,machine
+Clefable,Bide,0,machine
+Clefable,Metronome,1,
+Clefable,Fire Blast,0,machine
+Clefable,Skull Bash,0,machine
+Clefable,Flash,0,machine
+Clefable,Psywave,0,machine
+Clefable,Rest,0,machine
+Clefable,Tri Attack,0,machine
+Clefable,Substitute,0,machine
+Vulpix,Body Slam,0,machine
+Vulpix,Take Down,0,machine
+Vulpix,Double-Edge,0,machine
+Vulpix,Tail Whip,1,
+Vulpix,Roar,21,
+Vulpix,Ember,1,
+Vulpix,Flamethrower,35,
+Vulpix,Fire Spin,42,
+Vulpix,Dig,0,machine
+Vulpix,Toxic,0,machine
+Vulpix,Quick Attack,16,
+Vulpix,Rage,0,machine
+Vulpix,Mimic,0,machine
+Vulpix,Double Team,0,machine
+Vulpix,Confuse Ray,28,
+Vulpix,Reflect,0,machine
+Vulpix,Bide,0,machine
+Vulpix,Fire Blast,0,machine
+Vulpix,Swift,0,machine
+Vulpix,Skull Bash,0,machine
+Vulpix,Rest,0,machine
+Vulpix,Substitute,0,machine
+Ninetales,Body Slam,0,machine
+Ninetales,Take Down,0,machine
+Ninetales,Double-Edge,0,machine
+Ninetales,Tail Whip,1,
+Ninetales,Roar,1,
+Ninetales,Ember,1,
+Ninetales,Hyper Beam,0,machine
+Ninetales,Dig,0,machine
+Ninetales,Toxic,0,machine
+Ninetales,Quick Attack,1,
+Ninetales,Rage,0,machine
+Ninetales,Mimic,0,machine
+Ninetales,Double Team,0,machine
+Ninetales,Reflect,0,machine
+Ninetales,Bide,0,machine
+Ninetales,Fire Blast,0,machine
+Ninetales,Swift,0,machine
+Ninetales,Skull Bash,0,machine
+Ninetales,Rest,0,machine
+Ninetales,Substitute,0,machine
+Jigglypuff,Pound,9,
+Jigglypuff,DoubleSlap,24,
+Jigglypuff,Mega Punch,0,machine
+Jigglypuff,Mega Kick,0,machine
+Jigglypuff,Body Slam,34,
+Jigglypuff,Take Down,0,machine
+Jigglypuff,Double-Edge,39,
+Jigglypuff,Sing,1,
+Jigglypuff,Disable,14,
+Jigglypuff,Water Gun,0,machine
+Jigglypuff,Ice Beam,0,machine
+Jigglypuff,Blizzard,0,machine
+Jigglypuff,BubbleBeam,0,machine
+Jigglypuff,Submission,0,machine
+Jigglypuff,Counter,0,machine
+Jigglypuff,Seismic Toss,0,machine
+Jigglypuff,Strength,0,machine
+Jigglypuff,SolarBeam,0,machine
+Jigglypuff,Thunderbolt,0,machine
+Jigglypuff,Thunder Wave,0,machine
+Jigglypuff,Thunder,0,machine
+Jigglypuff,Toxic,0,machine
+Jigglypuff,Psychic,0,machine
+Jigglypuff,Rage,0,machine
+Jigglypuff,Teleport,0,machine
+Jigglypuff,Mimic,0,machine
+Jigglypuff,Double Team,0,machine
+Jigglypuff,Defense Curl,19,
+Jigglypuff,Reflect,0,machine
+Jigglypuff,Bide,0,machine
+Jigglypuff,Fire Blast,0,machine
+Jigglypuff,Skull Bash,0,machine
+Jigglypuff,Flash,0,machine
+Jigglypuff,Psywave,0,machine
+Jigglypuff,Rest,29,
+Jigglypuff,Tri Attack,0,machine
+Jigglypuff,Substitute,0,machine
+Wigglytuff,DoubleSlap,1,
+Wigglytuff,Mega Punch,0,machine
+Wigglytuff,Mega Kick,0,machine
+Wigglytuff,Body Slam,0,machine
+Wigglytuff,Take Down,0,machine
+Wigglytuff,Double-Edge,0,machine
+Wigglytuff,Sing,1,
+Wigglytuff,Disable,1,
+Wigglytuff,Water Gun,0,machine
+Wigglytuff,Ice Beam,0,machine
+Wigglytuff,Blizzard,0,machine
+Wigglytuff,BubbleBeam,0,machine
+Wigglytuff,Hyper Beam,0,machine
+Wigglytuff,Submission,0,machine
+Wigglytuff,Counter,0,machine
+Wigglytuff,Seismic Toss,0,machine
+Wigglytuff,Strength,0,machine
+Wigglytuff,SolarBeam,0,machine
+Wigglytuff,Thunderbolt,0,machine
+Wigglytuff,Thunder Wave,0,machine
+Wigglytuff,Thunder,0,machine
+Wigglytuff,Toxic,0,machine
+Wigglytuff,Psychic,0,machine
+Wigglytuff,Rage,0,machine
+Wigglytuff,Teleport,0,machine
+Wigglytuff,Mimic,0,machine
+Wigglytuff,Double Team,0,machine
+Wigglytuff,Defense Curl,1,
+Wigglytuff,Reflect,0,machine
+Wigglytuff,Bide,0,machine
+Wigglytuff,Fire Blast,0,machine
+Wigglytuff,Skull Bash,0,machine
+Wigglytuff,Flash,0,machine
+Wigglytuff,Psywave,0,machine
+Wigglytuff,Rest,0,machine
+Wigglytuff,Tri Attack,0,machine
+Wigglytuff,Substitute,0,machine
+Zubat,Razor Wind,0,machine
+Zubat,Wing Attack,28,
+Zubat,Whirlwind,0,machine
+Zubat,Take Down,0,machine
+Zubat,Double-Edge,0,machine
+Zubat,Bite,15,
+Zubat,Supersonic,10,
+Zubat,Mega Drain,0,machine
+Zubat,Toxic,0,machine
+Zubat,Rage,0,machine
+Zubat,Mimic,0,machine
+Zubat,Double Team,0,machine
+Zubat,Confuse Ray,21,
+Zubat,Haze,36,
+Zubat,Bide,0,machine
+Zubat,Swift,0,machine
+Zubat,Leech Life,1,
+Zubat,Rest,0,machine
+Zubat,Substitute,0,machine
+Golbat,Razor Wind,0,machine
+Golbat,Wing Attack,32,
+Golbat,Whirlwind,0,machine
+Golbat,Take Down,0,machine
+Golbat,Double-Edge,0,machine
+Golbat,Bite,1,
+Golbat,Supersonic,10,
+Golbat,Hyper Beam,0,machine
+Golbat,Mega Drain,0,machine
+Golbat,Toxic,0,machine
+Golbat,Rage,0,machine
+Golbat,Mimic,0,machine
+Golbat,Screech,1,
+Golbat,Double Team,0,machine
+Golbat,Confuse Ray,21,
+Golbat,Haze,43,
+Golbat,Bide,0,machine
+Golbat,Swift,0,machine
+Golbat,Leech Life,1,
+Golbat,Rest,0,machine
+Golbat,Substitute,0,machine
+Oddish,Swords Dance,0,machine
+Oddish,Cut,0,machine
+Oddish,Take Down,0,machine
+Oddish,Double-Edge,0,machine
+Oddish,Acid,24,
+Oddish,Absorb,1,
+Oddish,Mega Drain,0,machine
+Oddish,SolarBeam,46,
+Oddish,PoisonPowder,15,
+Oddish,Stun Spore,17,
+Oddish,Sleep Powder,19,
+Oddish,Petal Dance,33,
+Oddish,Toxic,0,machine
+Oddish,Rage,0,machine
+Oddish,Mimic,0,machine
+Oddish,Double Team,0,machine
+Oddish,Reflect,0,machine
+Oddish,Bide,0,machine
+Oddish,Rest,0,machine
+Oddish,Substitute,0,machine
+Gloom,Swords Dance,0,machine
+Gloom,Cut,0,machine
+Gloom,Take Down,0,machine
+Gloom,Double-Edge,0,machine
+Gloom,Acid,28,
+Gloom,Absorb,1,
+Gloom,Mega Drain,0,machine
+Gloom,SolarBeam,52,
+Gloom,PoisonPowder,1,
+Gloom,Stun Spore,1,
+Gloom,Sleep Powder,19,
+Gloom,Petal Dance,38,
+Gloom,Toxic,0,machine
+Gloom,Rage,0,machine
+Gloom,Mimic,0,machine
+Gloom,Double Team,0,machine
+Gloom,Reflect,0,machine
+Gloom,Bide,0,machine
+Gloom,Rest,0,machine
+Gloom,Substitute,0,machine
+Vileplume,Swords Dance,0,machine
+Vileplume,Cut,0,machine
+Vileplume,Body Slam,0,machine
+Vileplume,Take Down,0,machine
+Vileplume,Double-Edge,0,machine
+Vileplume,Acid,1,
+Vileplume,Hyper Beam,0,machine
+Vileplume,Mega Drain,0,machine
+Vileplume,SolarBeam,0,machine
+Vileplume,PoisonPowder,15,
+Vileplume,Stun Spore,1,
+Vileplume,Sleep Powder,1,
+Vileplume,Petal Dance,1,
+Vileplume,Toxic,0,machine
+Vileplume,Rage,0,machine
+Vileplume,Mimic,0,machine
+Vileplume,Double Team,0,machine
+Vileplume,Reflect,0,machine
+Vileplume,Bide,0,machine
+Vileplume,Rest,0,machine
+Vileplume,Substitute,0,machine
+Paras,Scratch,1,
+Paras,Swords Dance,0,machine
+Paras,Cut,0,machine
+Paras,Body Slam,0,machine
+Paras,Take Down,0,machine
+Paras,Double-Edge,0,machine
+Paras,Mega Drain,0,machine
+Paras,Growth,41,
+Paras,SolarBeam,0,machine
+Paras,Stun Spore,13,
+Paras,Dig,0,machine
+Paras,Toxic,0,machine
+Paras,Rage,0,machine
+Paras,Mimic,0,machine
+Paras,Double Team,0,machine
+Paras,Reflect,0,machine
+Paras,Bide,0,machine
+Paras,Skull Bash,0,machine
+Paras,Leech Life,20,
+Paras,Spore,27,
+Paras,Rest,0,machine
+Paras,Slash,34,
+Paras,Substitute,0,machine
+Parasect,Scratch,1,
+Parasect,Swords Dance,0,machine
+Parasect,Cut,0,machine
+Parasect,Body Slam,0,machine
+Parasect,Take Down,0,machine
+Parasect,Double-Edge,0,machine
+Parasect,Hyper Beam,0,machine
+Parasect,Mega Drain,0,machine
+Parasect,Growth,48,
+Parasect,SolarBeam,0,machine
+Parasect,Stun Spore,1,
+Parasect,Dig,0,machine
+Parasect,Toxic,0,machine
+Parasect,Rage,0,machine
+Parasect,Mimic,0,machine
+Parasect,Double Team,0,machine
+Parasect,Reflect,0,machine
+Parasect,Bide,0,machine
+Parasect,Skull Bash,0,machine
+Parasect,Leech Life,1,
+Parasect,Spore,30,
+Parasect,Rest,0,machine
+Parasect,Slash,39,
+Parasect,Substitute,0,machine
+Venonat,Tackle,1,
+Venonat,Take Down,0,machine
+Venonat,Double-Edge,0,machine
+Venonat,Supersonic,11,
+Venonat,Disable,1,
+Venonat,Psybeam,35,
+Venonat,Mega Drain,0,machine
+Venonat,SolarBeam,0,machine
+Venonat,PoisonPowder,24,
+Venonat,Stun Spore,30,
+Venonat,Sleep Powder,38,
+Venonat,Toxic,0,machine
+Venonat,Confusion,19,
+Venonat,Psychic,43,
+Venonat,Rage,0,machine
+Venonat,Mimic,0,machine
+Venonat,Double Team,0,machine
+Venonat,Reflect,0,machine
+Venonat,Bide,0,machine
+Venonat,Leech Life,27,
+Venonat,Flash,0,machine
+Venonat,Psywave,0,machine
+Venonat,Rest,0,machine
+Venonat,Substitute,0,machine
+Venomoth,Razor Wind,0,machine
+Venomoth,Whirlwind,0,machine
+Venomoth,Tackle,1,
+Venomoth,Take Down,0,machine
+Venomoth,Double-Edge,0,machine
+Venomoth,Supersonic,1,
+Venomoth,Disable,1,
+Venomoth,Psybeam,38,
+Venomoth,Hyper Beam,0,machine
+Venomoth,Mega Drain,0,machine
+Venomoth,SolarBeam,0,machine
+Venomoth,PoisonPowder,1,
+Venomoth,Stun Spore,30,
+Venomoth,Sleep Powder,43,
+Venomoth,Toxic,0,machine
+Venomoth,Confusion,1,
+Venomoth,Psychic,50,
+Venomoth,Rage,0,machine
+Venomoth,Teleport,0,machine
+Venomoth,Mimic,0,machine
+Venomoth,Double Team,0,machine
+Venomoth,Reflect,0,machine
+Venomoth,Bide,0,machine
+Venomoth,Swift,0,machine
+Venomoth,Leech Life,1,
+Venomoth,Flash,0,machine
+Venomoth,Psywave,0,machine
+Venomoth,Rest,0,machine
+Venomoth,Substitute,0,machine
+Diglett,Scratch,1,
+Diglett,Cut,0,machine
+Diglett,Sand-Attack,24,
+Diglett,Body Slam,0,machine
+Diglett,Take Down,0,machine
+Diglett,Double-Edge,0,machine
+Diglett,Growl,15,
+Diglett,Earthquake,40,
+Diglett,Fissure,0,machine
+Diglett,Dig,19,
+Diglett,Toxic,0,machine
+Diglett,Rage,0,machine
+Diglett,Mimic,0,machine
+Diglett,Double Team,0,machine
+Diglett,Bide,0,machine
+Diglett,Rest,0,machine
+Diglett,Rock Slide,0,machine
+Diglett,Slash,31,
+Diglett,Substitute,0,machine
+Dugtrio,Scratch,1,
+Dugtrio,Cut,0,machine
+Dugtrio,Sand-Attack,24,
+Dugtrio,Body Slam,0,machine
+Dugtrio,Take Down,0,machine
+Dugtrio,Double-Edge,0,machine
+Dugtrio,Growl,1,
+Dugtrio,Hyper Beam,0,machine
+Dugtrio,Earthquake,47,
+Dugtrio,Fissure,0,machine
+Dugtrio,Dig,1,
+Dugtrio,Toxic,0,machine
+Dugtrio,Rage,0,machine
+Dugtrio,Mimic,0,machine
+Dugtrio,Double Team,0,machine
+Dugtrio,Bide,0,machine
+Dugtrio,Rest,0,machine
+Dugtrio,Rock Slide,0,machine
+Dugtrio,Slash,35,
+Dugtrio,Substitute,0,machine
+Meowth,Pay Day,17,
+Meowth,Scratch,1,
+Meowth,Body Slam,0,machine
+Meowth,Take Down,0,machine
+Meowth,Double-Edge,0,machine
+Meowth,Bite,12,
+Meowth,Growl,1,
+Meowth,Water Gun,0,machine
+Meowth,BubbleBeam,0,machine
+Meowth,Thunderbolt,0,machine
+Meowth,Thunder,0,machine
+Meowth,Toxic,0,machine
+Meowth,Rage,0,machine
+Meowth,Mimic,0,machine
+Meowth,Screech,24,
+Meowth,Double Team,0,machine
+Meowth,Bide,0,machine
+Meowth,Swift,0,machine
+Meowth,Skull Bash,0,machine
+Meowth,Fury Swipes,33,
+Meowth,Rest,0,machine
+Meowth,Slash,44,
+Meowth,Substitute,0,machine
+Persian,Pay Day,17,
+Persian,Scratch,1,
+Persian,Body Slam,0,machine
+Persian,Take Down,0,machine
+Persian,Double-Edge,0,machine
+Persian,Bite,1,
+Persian,Growl,1,
+Persian,Water Gun,0,machine
+Persian,BubbleBeam,0,machine
+Persian,Hyper Beam,0,machine
+Persian,Thunderbolt,0,machine
+Persian,Thunder,0,machine
+Persian,Toxic,0,machine
+Persian,Rage,0,machine
+Persian,Mimic,0,machine
+Persian,Screech,1,
+Persian,Double Team,0,machine
+Persian,Bide,0,machine
+Persian,Swift,0,machine
+Persian,Skull Bash,0,machine
+Persian,Fury Swipes,37,
+Persian,Rest,0,machine
+Persian,Slash,51,
+Persian,Substitute,0,machine
+Psyduck,Mega Punch,0,machine
+Psyduck,Pay Day,0,machine
+Psyduck,Scratch,1,
+Psyduck,Mega Kick,0,machine
+Psyduck,Body Slam,0,machine
+Psyduck,Take Down,0,machine
+Psyduck,Double-Edge,0,machine
+Psyduck,Tail Whip,28,
+Psyduck,Disable,31,
+Psyduck,Water Gun,0,machine
+Psyduck,Hydro Pump,52,
+Psyduck,Surf,0,machine
+Psyduck,Ice Beam,0,machine
+Psyduck,Blizzard,0,machine
+Psyduck,BubbleBeam,0,machine
+Psyduck,Submission,0,machine
+Psyduck,Counter,0,machine
+Psyduck,Seismic Toss,0,machine
+Psyduck,Strength,0,machine
+Psyduck,Dig,0,machine
+Psyduck,Toxic,0,machine
+Psyduck,Confusion,36,
+Psyduck,Rage,0,machine
+Psyduck,Mimic,0,machine
+Psyduck,Double Team,0,machine
+Psyduck,Bide,0,machine
+Psyduck,Swift,0,machine
+Psyduck,Skull Bash,0,machine
+Psyduck,Fury Swipes,43,
+Psyduck,Rest,0,machine
+Psyduck,Substitute,0,machine
+Golduck,Mega Punch,0,machine
+Golduck,Pay Day,0,machine
+Golduck,Scratch,1,
+Golduck,Mega Kick,0,machine
+Golduck,Body Slam,0,machine
+Golduck,Take Down,0,machine
+Golduck,Double-Edge,0,machine
+Golduck,Tail Whip,1,
+Golduck,Disable,1,
+Golduck,Water Gun,0,machine
+Golduck,Hydro Pump,59,
+Golduck,Surf,0,machine
+Golduck,Ice Beam,0,machine
+Golduck,Blizzard,0,machine
+Golduck,BubbleBeam,0,machine
+Golduck,Hyper Beam,0,machine
+Golduck,Submission,0,machine
+Golduck,Counter,0,machine
+Golduck,Seismic Toss,0,machine
+Golduck,Strength,0,machine
+Golduck,Dig,0,machine
+Golduck,Toxic,0,machine
+Golduck,Confusion,39,
+Golduck,Rage,0,machine
+Golduck,Mimic,0,machine
+Golduck,Double Team,0,machine
+Golduck,Bide,0,machine
+Golduck,Swift,0,machine
+Golduck,Skull Bash,0,machine
+Golduck,Fury Swipes,48,
+Golduck,Rest,0,machine
+Golduck,Substitute,0,machine
+Mankey,Karate Chop,15,
+Mankey,Mega Punch,0,machine
+Mankey,Pay Day,0,machine
+Mankey,Scratch,1,
+Mankey,Mega Kick,0,machine
+Mankey,Body Slam,0,machine
+Mankey,Take Down,0,machine
+Mankey,Thrash,39,
+Mankey,Double-Edge,0,machine
+Mankey,Leer,1,
+Mankey,Submission,0,machine
+Mankey,Low Kick,9,
+Mankey,Counter,0,machine
+Mankey,Seismic Toss,33,
+Mankey,Strength,0,machine
+Mankey,Thunderbolt,0,machine
+Mankey,Thunder,0,machine
+Mankey,Dig,0,machine
+Mankey,Toxic,0,machine
+Mankey,Rage,0,machine
+Mankey,Mimic,0,machine
+Mankey,Screech,45,
+Mankey,Double Team,0,machine
+Mankey,Focus Energy,27,
+Mankey,Bide,0,machine
+Mankey,Metronome,0,machine
+Mankey,Swift,0,machine
+Mankey,Skull Bash,0,machine
+Mankey,Fury Swipes,21,
+Mankey,Rest,0,machine
+Mankey,Rock Slide,0,machine
+Mankey,Substitute,0,machine
+Primeape,Karate Chop,1,
+Primeape,Mega Punch,0,machine
+Primeape,Pay Day,0,machine
+Primeape,Scratch,1,
+Primeape,Mega Kick,0,machine
+Primeape,Body Slam,0,machine
+Primeape,Take Down,0,machine
+Primeape,Thrash,46,
+Primeape,Double-Edge,0,machine
+Primeape,Leer,1,
+Primeape,Hyper Beam,0,machine
+Primeape,Submission,0,machine
+Primeape,Low Kick,1,
+Primeape,Counter,0,machine
+Primeape,Seismic Toss,37,
+Primeape,Strength,0,machine
+Primeape,Thunderbolt,0,machine
+Primeape,Thunder,0,machine
+Primeape,Dig,0,machine
+Primeape,Toxic,0,machine
+Primeape,Rage,28,
+Primeape,Mimic,0,machine
+Primeape,Screech,45,
+Primeape,Double Team,0,machine
+Primeape,Focus Energy,27,
+Primeape,Bide,0,machine
+Primeape,Metronome,0,machine
+Primeape,Swift,0,machine
+Primeape,Skull Bash,0,machine
+Primeape,Fury Swipes,1,
+Primeape,Rest,0,machine
+Primeape,Rock Slide,0,machine
+Primeape,Substitute,0,machine
+Growlithe,Body Slam,0,machine
+Growlithe,Take Down,30,
+Growlithe,Double-Edge,0,machine
+Growlithe,Leer,23,
+Growlithe,Bite,1,
+Growlithe,Roar,1,
+Growlithe,Ember,18,
+Growlithe,Flamethrower,50,
+Growlithe,Dragon Rage,0,machine
+Growlithe,Dig,0,machine
+Growlithe,Toxic,0,machine
+Growlithe,Agility,39,
+Growlithe,Rage,0,machine
+Growlithe,Mimic,0,machine
+Growlithe,Double Team,0,machine
+Growlithe,Reflect,0,machine
+Growlithe,Bide,0,machine
+Growlithe,Fire Blast,0,machine
+Growlithe,Swift,0,machine
+Growlithe,Skull Bash,0,machine
+Growlithe,Rest,0,machine
+Growlithe,Substitute,0,machine
+Arcanine,Body Slam,0,machine
+Arcanine,Take Down,1,
+Arcanine,Double-Edge,0,machine
+Arcanine,Leer,1,
+Arcanine,Roar,1,
+Arcanine,Ember,1,
+Arcanine,Hyper Beam,0,machine
+Arcanine,Dragon Rage,0,machine
+Arcanine,Dig,0,machine
+Arcanine,Toxic,0,machine
+Arcanine,Rage,0,machine
+Arcanine,Teleport,0,machine
+Arcanine,Mimic,0,machine
+Arcanine,Double Team,0,machine
+Arcanine,Reflect,0,machine
+Arcanine,Bide,0,machine
+Arcanine,Fire Blast,0,machine
+Arcanine,Swift,0,machine
+Arcanine,Skull Bash,0,machine
+Arcanine,Rest,0,machine
+Arcanine,Substitute,0,machine
+Poliwag,DoubleSlap,25,
+Poliwag,Body Slam,31,
+Poliwag,Take Down,0,machine
+Poliwag,Double-Edge,0,machine
+Poliwag,Water Gun,19,
+Poliwag,Hydro Pump,45,
+Poliwag,Surf,0,machine
+Poliwag,Ice Beam,0,machine
+Poliwag,Blizzard,0,machine
+Poliwag,BubbleBeam,0,machine
+Poliwag,Toxic,0,machine
+Poliwag,Psychic,0,machine
+Poliwag,Hypnosis,16,
+Poliwag,Rage,0,machine
+Poliwag,Mimic,0,machine
+Poliwag,Double Team,0,machine
+Poliwag,Bide,0,machine
+Poliwag,Skull Bash,0,machine
+Poliwag,Amnesia,38,
+Poliwag,Bubble,1,
+Poliwag,Psywave,0,machine
+Poliwag,Rest,0,machine
+Poliwag,Substitute,0,machine
+Poliwhirl,DoubleSlap,26,
+Poliwhirl,Mega Punch,0,machine
+Poliwhirl,Mega Kick,0,machine
+Poliwhirl,Body Slam,33,
+Poliwhirl,Take Down,0,machine
+Poliwhirl,Double-Edge,0,machine
+Poliwhirl,Water Gun,1,
+Poliwhirl,Hydro Pump,49,
+Poliwhirl,Surf,0,machine
+Poliwhirl,Ice Beam,0,machine
+Poliwhirl,Blizzard,0,machine
+Poliwhirl,BubbleBeam,0,machine
+Poliwhirl,Submission,0,machine
+Poliwhirl,Counter,0,machine
+Poliwhirl,Seismic Toss,0,machine
+Poliwhirl,Strength,0,machine
+Poliwhirl,Earthquake,0,machine
+Poliwhirl,Fissure,0,machine
+Poliwhirl,Toxic,0,machine
+Poliwhirl,Psychic,0,machine
+Poliwhirl,Hypnosis,1,
+Poliwhirl,Rage,0,machine
+Poliwhirl,Mimic,0,machine
+Poliwhirl,Double Team,0,machine
+Poliwhirl,Bide,0,machine
+Poliwhirl,Metronome,0,machine
+Poliwhirl,Skull Bash,0,machine
+Poliwhirl,Amnesia,41,
+Poliwhirl,Bubble,1,
+Poliwhirl,Psywave,0,machine
+Poliwhirl,Rest,0,machine
+Poliwhirl,Substitute,0,machine
+Poliwrath,DoubleSlap,1,
+Poliwrath,Mega Punch,0,machine
+Poliwrath,Mega Kick,0,machine
+Poliwrath,Body Slam,1,
+Poliwrath,Take Down,0,machine
+Poliwrath,Double-Edge,0,machine
+Poliwrath,Water Gun,1,
+Poliwrath,Surf,0,machine
+Poliwrath,Ice Beam,0,machine
+Poliwrath,Blizzard,0,machine
+Poliwrath,BubbleBeam,0,machine
+Poliwrath,Hyper Beam,0,machine
+Poliwrath,Submission,0,machine
+Poliwrath,Counter,0,machine
+Poliwrath,Seismic Toss,0,machine
+Poliwrath,Strength,0,machine
+Poliwrath,Earthquake,0,machine
+Poliwrath,Fissure,0,machine
+Poliwrath,Toxic,0,machine
+Poliwrath,Psychic,0,machine
+Poliwrath,Hypnosis,1,
+Poliwrath,Rage,0,machine
+Poliwrath,Mimic,0,machine
+Poliwrath,Double Team,0,machine
+Poliwrath,Bide,0,machine
+Poliwrath,Metronome,0,machine
+Poliwrath,Skull Bash,0,machine
+Poliwrath,Psywave,0,machine
+Poliwrath,Rest,0,machine
+Poliwrath,Substitute,0,machine
+Abra,Mega Punch,0,machine
+Abra,Mega Kick,0,machine
+Abra,Body Slam,0,machine
+Abra,Take Down,0,machine
+Abra,Double-Edge,0,machine
+Abra,Submission,0,machine
+Abra,Counter,0,machine
+Abra,Seismic Toss,0,machine
+Abra,Thunder Wave,0,machine
+Abra,Toxic,0,machine
+Abra,Psychic,0,machine
+Abra,Rage,0,machine
+Abra,Teleport,1,
+Abra,Mimic,0,machine
+Abra,Double Team,0,machine
+Abra,Reflect,0,machine
+Abra,Bide,0,machine
+Abra,Metronome,0,machine
+Abra,Skull Bash,0,machine
+Abra,Flash,0,machine
+Abra,Psywave,0,machine
+Abra,Rest,0,machine
+Abra,Tri Attack,0,machine
+Abra,Substitute,0,machine
+Kadabra,Mega Punch,0,machine
+Kadabra,Mega Kick,0,machine
+Kadabra,Body Slam,0,machine
+Kadabra,Take Down,0,machine
+Kadabra,Double-Edge,0,machine
+Kadabra,Disable,1,
+Kadabra,Psybeam,27,
+Kadabra,Submission,0,machine
+Kadabra,Counter,0,machine
+Kadabra,Seismic Toss,0,machine
+Kadabra,Thunder Wave,0,machine
+Kadabra,Dig,0,machine
+Kadabra,Toxic,0,machine
+Kadabra,Confusion,1,
+Kadabra,Psychic,38,
+Kadabra,Rage,0,machine
+Kadabra,Teleport,1,
+Kadabra,Mimic,0,machine
+Kadabra,Double Team,0,machine
+Kadabra,Recover,31,
+Kadabra,Reflect,42,
+Kadabra,Bide,0,machine
+Kadabra,Metronome,0,machine
+Kadabra,Skull Bash,0,machine
+Kadabra,Kinesis,1,
+Kadabra,Flash,0,machine
+Kadabra,Psywave,0,machine
+Kadabra,Rest,0,machine
+Kadabra,Tri Attack,0,machine
+Kadabra,Substitute,0,machine
+Alakazam,Mega Punch,0,machine
+Alakazam,Mega Kick,0,machine
+Alakazam,Body Slam,0,machine
+Alakazam,Take Down,0,machine
+Alakazam,Double-Edge,0,machine
+Alakazam,Disable,1,
+Alakazam,Psybeam,27,
+Alakazam,Hyper Beam,0,machine
+Alakazam,Submission,0,machine
+Alakazam,Counter,0,machine
+Alakazam,Seismic Toss,0,machine
+Alakazam,Thunder Wave,0,machine
+Alakazam,Dig,0,machine
+Alakazam,Toxic,0,machine
+Alakazam,Confusion,1,
+Alakazam,Psychic,38,
+Alakazam,Rage,0,machine
+Alakazam,Teleport,1,
+Alakazam,Mimic,0,machine
+Alakazam,Double Team,0,machine
+Alakazam,Recover,31,
+Alakazam,Reflect,42,
+Alakazam,Bide,0,machine
+Alakazam,Metronome,0,machine
+Alakazam,Skull Bash,0,machine
+Alakazam,Kinesis,1,
+Alakazam,Flash,0,machine
+Alakazam,Psywave,0,machine
+Alakazam,Rest,0,machine
+Alakazam,Tri Attack,0,machine
+Alakazam,Substitute,0,machine
+Machop,Karate Chop,1,
+Machop,Mega Punch,0,machine
+Machop,Mega Kick,0,machine
+Machop,Body Slam,0,machine
+Machop,Take Down,0,machine
+Machop,Double-Edge,0,machine
+Machop,Leer,25,
+Machop,Submission,46,
+Machop,Low Kick,20,
+Machop,Counter,0,machine
+Machop,Seismic Toss,39,
+Machop,Strength,0,machine
+Machop,Earthquake,0,machine
+Machop,Fissure,0,machine
+Machop,Dig,0,machine
+Machop,Toxic,0,machine
+Machop,Rage,0,machine
+Machop,Mimic,0,machine
+Machop,Double Team,0,machine
+Machop,Focus Energy,32,
+Machop,Bide,0,machine
+Machop,Metronome,0,machine
+Machop,Fire Blast,0,machine
+Machop,Skull Bash,0,machine
+Machop,Rest,0,machine
+Machop,Rock Slide,0,machine
+Machop,Substitute,0,machine
+Machoke,Karate Chop,1,
+Machoke,Mega Punch,0,machine
+Machoke,Mega Kick,0,machine
+Machoke,Body Slam,0,machine
+Machoke,Take Down,0,machine
+Machoke,Double-Edge,0,machine
+Machoke,Leer,1,
+Machoke,Submission,52,
+Machoke,Low Kick,1,
+Machoke,Counter,0,machine
+Machoke,Seismic Toss,44,
+Machoke,Strength,0,machine
+Machoke,Earthquake,0,machine
+Machoke,Fissure,0,machine
+Machoke,Dig,0,machine
+Machoke,Toxic,0,machine
+Machoke,Rage,0,machine
+Machoke,Mimic,0,machine
+Machoke,Double Team,0,machine
+Machoke,Focus Energy,36,
+Machoke,Bide,0,machine
+Machoke,Metronome,0,machine
+Machoke,Fire Blast,0,machine
+Machoke,Skull Bash,0,machine
+Machoke,Rest,0,machine
+Machoke,Rock Slide,0,machine
+Machoke,Substitute,0,machine
+Machamp,Karate Chop,1,
+Machamp,Mega Punch,0,machine
+Machamp,Mega Kick,0,machine
+Machamp,Body Slam,0,machine
+Machamp,Take Down,0,machine
+Machamp,Double-Edge,0,machine
+Machamp,Leer,1,
+Machamp,Hyper Beam,0,machine
+Machamp,Submission,52,
+Machamp,Low Kick,1,
+Machamp,Counter,0,machine
+Machamp,Seismic Toss,44,
+Machamp,Strength,0,machine
+Machamp,Earthquake,0,machine
+Machamp,Fissure,0,machine
+Machamp,Dig,0,machine
+Machamp,Toxic,0,machine
+Machamp,Rage,0,machine
+Machamp,Mimic,0,machine
+Machamp,Double Team,0,machine
+Machamp,Focus Energy,36,
+Machamp,Bide,0,machine
+Machamp,Metronome,0,machine
+Machamp,Fire Blast,0,machine
+Machamp,Skull Bash,0,machine
+Machamp,Rest,0,machine
+Machamp,Rock Slide,0,machine
+Machamp,Substitute,0,machine
+Bellsprout,Swords Dance,0,machine
+Bellsprout,Cut,0,machine
+Bellsprout,Slam,42,
+Bellsprout,Vine Whip,1,
+Bellsprout,Wrap,13,
+Bellsprout,Take Down,0,machine
+Bellsprout,Double-Edge,0,machine
+Bellsprout,Acid,26,
+Bellsprout,Mega Drain,0,machine
+Bellsprout,Growth,1,
+Bellsprout,Razor Leaf,33,
+Bellsprout,SolarBeam,0,machine
+Bellsprout,PoisonPowder,15,
+Bellsprout,Stun Spore,21,
+Bellsprout,Sleep Powder,18,
+Bellsprout,Toxic,0,machine
+Bellsprout,Rage,0,machine
+Bellsprout,Mimic,0,machine
+Bellsprout,Double Team,0,machine
+Bellsprout,Reflect,0,machine
+Bellsprout,Bide,0,machine
+Bellsprout,Rest,0,machine
+Bellsprout,Substitute,0,machine
+Weepinbell,Swords Dance,0,machine
+Weepinbell,Cut,0,machine
+Weepinbell,Slam,49,
+Weepinbell,Vine Whip,1,
+Weepinbell,Wrap,1,
+Weepinbell,Take Down,0,machine
+Weepinbell,Double-Edge,0,machine
+Weepinbell,Acid,29,
+Weepinbell,Mega Drain,0,machine
+Weepinbell,Growth,1,
+Weepinbell,Razor Leaf,38,
+Weepinbell,SolarBeam,0,machine
+Weepinbell,PoisonPowder,15,
+Weepinbell,Stun Spore,23,
+Weepinbell,Sleep Powder,18,
+Weepinbell,Toxic,0,machine
+Weepinbell,Rage,0,machine
+Weepinbell,Mimic,0,machine
+Weepinbell,Double Team,0,machine
+Weepinbell,Reflect,0,machine
+Weepinbell,Bide,0,machine
+Weepinbell,Rest,0,machine
+Weepinbell,Substitute,0,machine
+Victreebel,Swords Dance,0,machine
+Victreebel,Cut,0,machine
+Victreebel,Body Slam,0,machine
+Victreebel,Wrap,13,
+Victreebel,Take Down,0,machine
+Victreebel,Double-Edge,0,machine
+Victreebel,Acid,1,
+Victreebel,Hyper Beam,0,machine
+Victreebel,Mega Drain,0,machine
+Victreebel,Razor Leaf,1,
+Victreebel,SolarBeam,0,machine
+Victreebel,PoisonPowder,15,
+Victreebel,Stun Spore,1,
+Victreebel,Sleep Powder,1,
+Victreebel,Toxic,0,machine
+Victreebel,Rage,0,machine
+Victreebel,Mimic,0,machine
+Victreebel,Double Team,0,machine
+Victreebel,Reflect,0,machine
+Victreebel,Bide,0,machine
+Victreebel,Rest,0,machine
+Victreebel,Substitute,0,machine
+Tentacool,Swords Dance,0,machine
+Tentacool,Cut,0,machine
+Tentacool,Wrap,13,
+Tentacool,Take Down,0,machine
+Tentacool,Double-Edge,0,machine
+Tentacool,Poison Sting,18,
+Tentacool,Supersonic,7,
+Tentacool,Acid,1,
+Tentacool,Water Gun,22,
+Tentacool,Hydro Pump,48,
+Tentacool,Surf,0,machine
+Tentacool,Ice Beam,0,machine
+Tentacool,Blizzard,0,machine
+Tentacool,BubbleBeam,0,machine
+Tentacool,Mega Drain,0,machine
+Tentacool,Toxic,0,machine
+Tentacool,Rage,0,machine
+Tentacool,Mimic,0,machine
+Tentacool,Screech,40,
+Tentacool,Double Team,0,machine
+Tentacool,Barrier,33,
+Tentacool,Reflect,0,machine
+Tentacool,Bide,0,machine
+Tentacool,Skull Bash,0,machine
+Tentacool,Constrict,27,
+Tentacool,Rest,0,machine
+Tentacool,Substitute,0,machine
+Tentacruel,Swords Dance,0,machine
+Tentacruel,Cut,0,machine
+Tentacruel,Wrap,1,
+Tentacruel,Take Down,0,machine
+Tentacruel,Double-Edge,0,machine
+Tentacruel,Poison Sting,18,
+Tentacruel,Supersonic,1,
+Tentacruel,Acid,1,
+Tentacruel,Water Gun,22,
+Tentacruel,Hydro Pump,50,
+Tentacruel,Surf,0,machine
+Tentacruel,Ice Beam,0,machine
+Tentacruel,Blizzard,0,machine
+Tentacruel,BubbleBeam,0,machine
+Tentacruel,Hyper Beam,0,machine
+Tentacruel,Mega Drain,0,machine
+Tentacruel,Toxic,0,machine
+Tentacruel,Rage,0,machine
+Tentacruel,Mimic,0,machine
+Tentacruel,Screech,43,
+Tentacruel,Double Team,0,machine
+Tentacruel,Barrier,35,
+Tentacruel,Reflect,0,machine
+Tentacruel,Bide,0,machine
+Tentacruel,Skull Bash,0,machine
+Tentacruel,Constrict,27,
+Tentacruel,Rest,0,machine
+Tentacruel,Substitute,0,machine
+Geodude,Mega Punch,0,machine
+Geodude,Tackle,1,
+Geodude,Body Slam,0,machine
+Geodude,Take Down,0,machine
+Geodude,Double-Edge,0,machine
+Geodude,Submission,0,machine
+Geodude,Counter,0,machine
+Geodude,Seismic Toss,0,machine
+Geodude,Strength,0,machine
+Geodude,Rock Throw,16,
+Geodude,Earthquake,31,
+Geodude,Fissure,0,machine
+Geodude,Dig,0,machine
+Geodude,Toxic,0,machine
+Geodude,Rage,0,machine
+Geodude,Mimic,0,machine
+Geodude,Double Team,0,machine
+Geodude,Harden,26,
+Geodude,Defense Curl,11,
+Geodude,Bide,0,machine
+Geodude,Metronome,0,machine
+Geodude,Selfdestruct,21,
+Geodude,Fire Blast,0,machine
+Geodude,Explosion,36,
+Geodude,Rest,0,machine
+Geodude,Rock Slide,0,machine
+Geodude,Substitute,0,machine
+Graveler,Mega Punch,0,machine
+Graveler,Tackle,1,
+Graveler,Body Slam,0,machine
+Graveler,Take Down,0,machine
+Graveler,Double-Edge,0,machine
+Graveler,Submission,0,machine
+Graveler,Counter,0,machine
+Graveler,Seismic Toss,0,machine
+Graveler,Strength,0,machine
+Graveler,Rock Throw,16,
+Graveler,Earthquake,36,
+Graveler,Fissure,0,machine
+Graveler,Dig,0,machine
+Graveler,Toxic,0,machine
+Graveler,Rage,0,machine
+Graveler,Mimic,0,machine
+Graveler,Double Team,0,machine
+Graveler,Harden,29,
+Graveler,Defense Curl,1,
+Graveler,Bide,0,machine
+Graveler,Metronome,0,machine
+Graveler,Selfdestruct,21,
+Graveler,Fire Blast,0,machine
+Graveler,Explosion,43,
+Graveler,Rest,0,machine
+Graveler,Rock Slide,0,machine
+Graveler,Substitute,0,machine
+Golem,Mega Punch,0,machine
+Golem,Mega Kick,0,machine
+Golem,Tackle,1,
+Golem,Body Slam,0,machine
+Golem,Take Down,0,machine
+Golem,Double-Edge,0,machine
+Golem,Hyper Beam,0,machine
+Golem,Submission,0,machine
+Golem,Counter,0,machine
+Golem,Seismic Toss,0,machine
+Golem,Strength,0,machine
+Golem,Rock Throw,16,
+Golem,Earthquake,36,
+Golem,Fissure,0,machine
+Golem,Dig,0,machine
+Golem,Toxic,0,machine
+Golem,Rage,0,machine
+Golem,Mimic,0,machine
+Golem,Double Team,0,machine
+Golem,Harden,29,
+Golem,Defense Curl,1,
+Golem,Bide,0,machine
+Golem,Metronome,0,machine
+Golem,Selfdestruct,21,
+Golem,Fire Blast,0,machine
+Golem,Explosion,43,
+Golem,Rest,0,machine
+Golem,Rock Slide,0,machine
+Golem,Substitute,0,machine
+Ponyta,Stomp,32,
+Ponyta,Horn Drill,0,machine
+Ponyta,Body Slam,0,machine
+Ponyta,Take Down,43,
+Ponyta,Double-Edge,0,machine
+Ponyta,Tail Whip,30,
+Ponyta,Growl,35,
+Ponyta,Ember,1,
+Ponyta,Fire Spin,39,
+Ponyta,Toxic,0,machine
+Ponyta,Agility,48,
+Ponyta,Rage,0,machine
+Ponyta,Mimic,0,machine
+Ponyta,Double Team,0,machine
+Ponyta,Reflect,0,machine
+Ponyta,Bide,0,machine
+Ponyta,Fire Blast,0,machine
+Ponyta,Swift,0,machine
+Ponyta,Skull Bash,0,machine
+Ponyta,Rest,0,machine
+Ponyta,Substitute,0,machine
+Rapidash,Stomp,1,
+Rapidash,Horn Drill,0,machine
+Rapidash,Body Slam,0,machine
+Rapidash,Take Down,47,
+Rapidash,Double-Edge,0,machine
+Rapidash,Tail Whip,1,
+Rapidash,Growl,1,
+Rapidash,Ember,1,
+Rapidash,Hyper Beam,0,machine
+Rapidash,Fire Spin,39,
+Rapidash,Toxic,0,machine
+Rapidash,Agility,55,
+Rapidash,Rage,0,machine
+Rapidash,Mimic,0,machine
+Rapidash,Double Team,0,machine
+Rapidash,Reflect,0,machine
+Rapidash,Bide,0,machine
+Rapidash,Fire Blast,0,machine
+Rapidash,Swift,0,machine
+Rapidash,Skull Bash,0,machine
+Rapidash,Rest,0,machine
+Rapidash,Substitute,0,machine
+Slowpoke,Pay Day,0,machine
+Slowpoke,Headbutt,22,
+Slowpoke,Body Slam,0,machine
+Slowpoke,Take Down,0,machine
+Slowpoke,Double-Edge,0,machine
+Slowpoke,Growl,27,
+Slowpoke,Disable,18,
+Slowpoke,Water Gun,33,
+Slowpoke,Surf,0,machine
+Slowpoke,Ice Beam,0,machine
+Slowpoke,Blizzard,0,machine
+Slowpoke,BubbleBeam,0,machine
+Slowpoke,Strength,0,machine
+Slowpoke,Thunder Wave,0,machine
+Slowpoke,Earthquake,0,machine
+Slowpoke,Fissure,0,machine
+Slowpoke,Dig,0,machine
+Slowpoke,Toxic,0,machine
+Slowpoke,Confusion,1,
+Slowpoke,Psychic,48,
+Slowpoke,Rage,0,machine
+Slowpoke,Teleport,0,machine
+Slowpoke,Mimic,0,machine
+Slowpoke,Double Team,0,machine
+Slowpoke,Reflect,0,machine
+Slowpoke,Bide,0,machine
+Slowpoke,Fire Blast,0,machine
+Slowpoke,Swift,0,machine
+Slowpoke,Skull Bash,0,machine
+Slowpoke,Amnesia,40,
+Slowpoke,Flash,0,machine
+Slowpoke,Psywave,0,machine
+Slowpoke,Rest,0,machine
+Slowpoke,Tri Attack,0,machine
+Slowpoke,Substitute,0,machine
+Slowbro,Mega Punch,0,machine
+Slowbro,Pay Day,0,machine
+Slowbro,Mega Kick,0,machine
+Slowbro,Headbutt,1,
+Slowbro,Body Slam,0,machine
+Slowbro,Take Down,0,machine
+Slowbro,Double-Edge,0,machine
+Slowbro,Growl,27,
+Slowbro,Disable,1,
+Slowbro,Water Gun,33,
+Slowbro,Surf,0,machine
+Slowbro,Ice Beam,0,machine
+Slowbro,Blizzard,0,machine
+Slowbro,BubbleBeam,0,machine
+Slowbro,Hyper Beam,0,machine
+Slowbro,Submission,0,machine
+Slowbro,Counter,0,machine
+Slowbro,Seismic Toss,0,machine
+Slowbro,Strength,0,machine
+Slowbro,Thunder Wave,0,machine
+Slowbro,Earthquake,0,machine
+Slowbro,Fissure,0,machine
+Slowbro,Dig,0,machine
+Slowbro,Toxic,0,machine
+Slowbro,Confusion,1,
+Slowbro,Psychic,55,
+Slowbro,Rage,0,machine
+Slowbro,Teleport,0,machine
+Slowbro,Mimic,0,machine
+Slowbro,Double Team,0,machine
+Slowbro,Withdraw,37,
+Slowbro,Reflect,0,machine
+Slowbro,Bide,0,machine
+Slowbro,Fire Blast,0,machine
+Slowbro,Swift,0,machine
+Slowbro,Skull Bash,0,machine
+Slowbro,Amnesia,44,
+Slowbro,Flash,0,machine
+Slowbro,Psywave,0,machine
+Slowbro,Rest,0,machine
+Slowbro,Tri Attack,0,machine
+Slowbro,Substitute,0,machine
+Magnemite,Tackle,1,
+Magnemite,Take Down,0,machine
+Magnemite,Double-Edge,0,machine
+Magnemite,Supersonic,29,
+Magnemite,SonicBoom,21,
+Magnemite,ThunderShock,25,
+Magnemite,Thunderbolt,0,machine
+Magnemite,Thunder Wave,35,
+Magnemite,Thunder,0,machine
+Magnemite,Toxic,0,machine
+Magnemite,Rage,0,machine
+Magnemite,Teleport,0,machine
+Magnemite,Mimic,0,machine
+Magnemite,Screech,47,
+Magnemite,Double Team,0,machine
+Magnemite,Reflect,0,machine
+Magnemite,Bide,0,machine
+Magnemite,Swift,41,
+Magnemite,Flash,0,machine
+Magnemite,Rest,0,machine
+Magnemite,Substitute,0,machine
+Magneton,Tackle,1,
+Magneton,Take Down,0,machine
+Magneton,Double-Edge,0,machine
+Magneton,Supersonic,29,
+Magneton,SonicBoom,1,
+Magneton,Hyper Beam,0,machine
+Magneton,ThunderShock,1,
+Magneton,Thunderbolt,0,machine
+Magneton,Thunder Wave,38,
+Magneton,Thunder,0,machine
+Magneton,Toxic,0,machine
+Magneton,Rage,0,machine
+Magneton,Teleport,0,machine
+Magneton,Mimic,0,machine
+Magneton,Screech,54,
+Magneton,Double Team,0,machine
+Magneton,Reflect,0,machine
+Magneton,Bide,0,machine
+Magneton,Swift,46,
+Magneton,Flash,0,machine
+Magneton,Rest,0,machine
+Magneton,Substitute,0,machine
+Farfetchd,Razor Wind,0,machine
+Farfetchd,Swords Dance,23,
+Farfetchd,Cut,0,machine
+Farfetchd,Whirlwind,0,machine
+Farfetchd,Fly,0,machine
+Farfetchd,Sand-Attack,1,
+Farfetchd,Fury Attack,15,
+Farfetchd,Body Slam,0,machine
+Farfetchd,Take Down,0,machine
+Farfetchd,Double-Edge,0,machine
+Farfetchd,Leer,7,
+Farfetchd,Peck,1,
+Farfetchd,Toxic,0,machine
+Farfetchd,Agility,31,
+Farfetchd,Rage,0,machine
+Farfetchd,Mimic,0,machine
+Farfetchd,Double Team,0,machine
+Farfetchd,Reflect,0,machine
+Farfetchd,Bide,0,machine
+Farfetchd,Swift,0,machine
+Farfetchd,Skull Bash,0,machine
+Farfetchd,Rest,0,machine
+Farfetchd,Slash,39,
+Farfetchd,Substitute,0,machine
+Doduo,Whirlwind,0,machine
+Doduo,Fly,0,machine
+Doduo,Fury Attack,24,
+Doduo,Body Slam,0,machine
+Doduo,Take Down,0,machine
+Doduo,Double-Edge,0,machine
+Doduo,Growl,20,
+Doduo,Peck,1,
+Doduo,Drill Peck,30,
+Doduo,Toxic,0,machine
+Doduo,Agility,44,
+Doduo,Rage,36,
+Doduo,Mimic,0,machine
+Doduo,Double Team,0,machine
+Doduo,Reflect,0,machine
+Doduo,Bide,0,machine
+Doduo,Skull Bash,0,machine
+Doduo,Sky Attack,0,machine
+Doduo,Rest,0,machine
+Doduo,Tri Attack,40,
+Doduo,Substitute,0,machine
+Dodrio,Whirlwind,0,machine
+Dodrio,Fly,0,machine
+Dodrio,Fury Attack,1,
+Dodrio,Body Slam,0,machine
+Dodrio,Take Down,0,machine
+Dodrio,Double-Edge,0,machine
+Dodrio,Growl,1,
+Dodrio,Hyper Beam,0,machine
+Dodrio,Peck,1,
+Dodrio,Drill Peck,30,
+Dodrio,Toxic,0,machine
+Dodrio,Agility,51,
+Dodrio,Rage,39,
+Dodrio,Mimic,0,machine
+Dodrio,Double Team,0,machine
+Dodrio,Reflect,0,machine
+Dodrio,Bide,0,machine
+Dodrio,Skull Bash,0,machine
+Dodrio,Sky Attack,0,machine
+Dodrio,Rest,0,machine
+Dodrio,Tri Attack,45,
+Dodrio,Substitute,0,machine
+Seel,Pay Day,0,machine
+Seel,Headbutt,1,
+Seel,Horn Drill,0,machine
+Seel,Body Slam,0,machine
+Seel,Take Down,45,
+Seel,Double-Edge,0,machine
+Seel,Growl,30,
+Seel,Water Gun,0,machine
+Seel,Surf,0,machine
+Seel,Ice Beam,50,
+Seel,Blizzard,0,machine
+Seel,BubbleBeam,0,machine
+Seel,Aurora Beam,35,
+Seel,Strength,0,machine
+Seel,Toxic,0,machine
+Seel,Rage,0,machine
+Seel,Mimic,0,machine
+Seel,Double Team,0,machine
+Seel,Bide,0,machine
+Seel,Skull Bash,0,machine
+Seel,Rest,40,
+Seel,Substitute,0,machine
+Dewgong,Pay Day,0,machine
+Dewgong,Headbutt,1,
+Dewgong,Horn Drill,0,machine
+Dewgong,Body Slam,0,machine
+Dewgong,Take Down,50,
+Dewgong,Double-Edge,0,machine
+Dewgong,Growl,1,
+Dewgong,Water Gun,0,machine
+Dewgong,Surf,0,machine
+Dewgong,Ice Beam,56,
+Dewgong,Blizzard,0,machine
+Dewgong,BubbleBeam,0,machine
+Dewgong,Aurora Beam,1,
+Dewgong,Hyper Beam,0,machine
+Dewgong,Strength,0,machine
+Dewgong,Toxic,0,machine
+Dewgong,Rage,0,machine
+Dewgong,Mimic,0,machine
+Dewgong,Double Team,0,machine
+Dewgong,Bide,0,machine
+Dewgong,Skull Bash,0,machine
+Dewgong,Rest,44,
+Dewgong,Substitute,0,machine
+Grimer,Pound,1,
+Grimer,Body Slam,0,machine
+Grimer,Disable,1,
+Grimer,Mega Drain,0,machine
+Grimer,Thunderbolt,0,machine
+Grimer,Thunder,0,machine
+Grimer,Toxic,0,machine
+Grimer,Rage,0,machine
+Grimer,Mimic,0,machine
+Grimer,Screech,48,
+Grimer,Double Team,0,machine
+Grimer,Harden,42,
+Grimer,Minimize,33,
+Grimer,Bide,0,machine
+Grimer,Selfdestruct,0,machine
+Grimer,Sludge,37,
+Grimer,Fire Blast,0,machine
+Grimer,Poison Gas,30,
+Grimer,Acid Armor,55,
+Grimer,Explosion,0,machine
+Grimer,Rest,0,machine
+Grimer,Substitute,0,machine
+Muk,Pound,1,
+Muk,Body Slam,0,machine
+Muk,Disable,1,
+Muk,Hyper Beam,0,machine
+Muk,Mega Drain,0,machine
+Muk,Thunderbolt,0,machine
+Muk,Thunder,0,machine
+Muk,Toxic,0,machine
+Muk,Rage,0,machine
+Muk,Mimic,0,machine
+Muk,Screech,53,
+Muk,Double Team,0,machine
+Muk,Harden,45,
+Muk,Minimize,33,
+Muk,Bide,0,machine
+Muk,Selfdestruct,0,machine
+Muk,Sludge,37,
+Muk,Fire Blast,0,machine
+Muk,Poison Gas,1,
+Muk,Acid Armor,60,
+Muk,Explosion,0,machine
+Muk,Rest,0,machine
+Muk,Substitute,0,machine
+Shellder,Tackle,1,
+Shellder,Take Down,0,machine
+Shellder,Double-Edge,0,machine
+Shellder,Leer,39,
+Shellder,Supersonic,18,
+Shellder,Water Gun,0,machine
+Shellder,Surf,0,machine
+Shellder,Ice Beam,50,
+Shellder,Blizzard,0,machine
+Shellder,BubbleBeam,0,machine
+Shellder,Aurora Beam,30,
+Shellder,Toxic,0,machine
+Shellder,Rage,0,machine
+Shellder,Teleport,0,machine
+Shellder,Mimic,0,machine
+Shellder,Double Team,0,machine
+Shellder,Withdraw,1,
+Shellder,Reflect,0,machine
+Shellder,Bide,0,machine
+Shellder,Selfdestruct,0,machine
+Shellder,Clamp,23,
+Shellder,Swift,0,machine
+Shellder,Explosion,0,machine
+Shellder,Rest,0,machine
+Shellder,Tri Attack,0,machine
+Shellder,Substitute,0,machine
+Cloyster,Take Down,0,machine
+Cloyster,Double-Edge,0,machine
+Cloyster,Supersonic,1,
+Cloyster,Water Gun,0,machine
+Cloyster,Surf,0,machine
+Cloyster,Ice Beam,0,machine
+Cloyster,Blizzard,0,machine
+Cloyster,BubbleBeam,0,machine
+Cloyster,Aurora Beam,1,
+Cloyster,Hyper Beam,0,machine
+Cloyster,Toxic,0,machine
+Cloyster,Rage,0,machine
+Cloyster,Teleport,0,machine
+Cloyster,Mimic,0,machine
+Cloyster,Double Team,0,machine
+Cloyster,Withdraw,1,
+Cloyster,Reflect,0,machine
+Cloyster,Bide,0,machine
+Cloyster,Selfdestruct,0,machine
+Cloyster,Clamp,1,
+Cloyster,Swift,0,machine
+Cloyster,Spike Cannon,50,
+Cloyster,Explosion,0,machine
+Cloyster,Rest,0,machine
+Cloyster,Tri Attack,0,machine
+Cloyster,Substitute,0,machine
+Gastly,Mega Drain,0,machine
+Gastly,Thunderbolt,0,machine
+Gastly,Thunder,0,machine
+Gastly,Toxic,0,machine
+Gastly,Psychic,0,machine
+Gastly,Hypnosis,27,
+Gastly,Rage,0,machine
+Gastly,Night Shade,1,
+Gastly,Mimic,0,machine
+Gastly,Double Team,0,machine
+Gastly,Confuse Ray,1,
+Gastly,Bide,0,machine
+Gastly,Selfdestruct,0,machine
+Gastly,Lick,1,
+Gastly,Dream Eater,35,
+Gastly,Psywave,0,machine
+Gastly,Explosion,0,machine
+Gastly,Rest,0,machine
+Gastly,Substitute,0,machine
+Haunter,Mega Drain,0,machine
+Haunter,Thunderbolt,0,machine
+Haunter,Thunder,0,machine
+Haunter,Toxic,0,machine
+Haunter,Psychic,0,machine
+Haunter,Hypnosis,29,
+Haunter,Rage,0,machine
+Haunter,Night Shade,1,
+Haunter,Mimic,0,machine
+Haunter,Double Team,0,machine
+Haunter,Confuse Ray,1,
+Haunter,Bide,0,machine
+Haunter,Selfdestruct,0,machine
+Haunter,Lick,1,
+Haunter,Dream Eater,38,
+Haunter,Psywave,0,machine
+Haunter,Explosion,0,machine
+Haunter,Rest,0,machine
+Haunter,Substitute,0,machine
+Gengar,Mega Punch,0,machine
+Gengar,Mega Kick,0,machine
+Gengar,Body Slam,0,machine
+Gengar,Take Down,0,machine
+Gengar,Double-Edge,0,machine
+Gengar,Hyper Beam,0,machine
+Gengar,Submission,0,machine
+Gengar,Counter,0,machine
+Gengar,Seismic Toss,0,machine
+Gengar,Strength,0,machine
+Gengar,Mega Drain,0,machine
+Gengar,Thunderbolt,0,machine
+Gengar,Thunder,0,machine
+Gengar,Toxic,0,machine
+Gengar,Psychic,0,machine
+Gengar,Hypnosis,29,
+Gengar,Rage,0,machine
+Gengar,Night Shade,1,
+Gengar,Mimic,0,machine
+Gengar,Double Team,0,machine
+Gengar,Confuse Ray,1,
+Gengar,Bide,0,machine
+Gengar,Metronome,0,machine
+Gengar,Selfdestruct,0,machine
+Gengar,Lick,1,
+Gengar,Skull Bash,0,machine
+Gengar,Dream Eater,38,
+Gengar,Psywave,0,machine
+Gengar,Explosion,0,machine
+Gengar,Rest,0,machine
+Gengar,Substitute,0,machine
+Onix,Bind,15,
+Onix,Slam,33,
+Onix,Tackle,1,
+Onix,Body Slam,0,machine
+Onix,Take Down,0,machine
+Onix,Double-Edge,0,machine
+Onix,Strength,0,machine
+Onix,Rock Throw,19,
+Onix,Earthquake,0,machine
+Onix,Fissure,0,machine
+Onix,Dig,0,machine
+Onix,Toxic,0,machine
+Onix,Rage,25,
+Onix,Mimic,0,machine
+Onix,Screech,1,
+Onix,Double Team,0,machine
+Onix,Harden,43,
+Onix,Bide,0,machine
+Onix,Selfdestruct,0,machine
+Onix,Skull Bash,0,machine
+Onix,Explosion,0,machine
+Onix,Rest,0,machine
+Onix,Rock Slide,0,machine
+Onix,Substitute,0,machine
+Drowzee,Pound,1,
+Drowzee,Mega Punch,0,machine
+Drowzee,Mega Kick,0,machine
+Drowzee,Headbutt,24,
+Drowzee,Body Slam,0,machine
+Drowzee,Take Down,0,machine
+Drowzee,Double-Edge,0,machine
+Drowzee,Disable,12,
+Drowzee,Submission,0,machine
+Drowzee,Counter,0,machine
+Drowzee,Seismic Toss,0,machine
+Drowzee,Thunder Wave,0,machine
+Drowzee,Toxic,0,machine
+Drowzee,Confusion,17,
+Drowzee,Psychic,32,
+Drowzee,Hypnosis,1,
+Drowzee,Meditate,37,
+Drowzee,Rage,0,machine
+Drowzee,Teleport,0,machine
+Drowzee,Mimic,0,machine
+Drowzee,Double Team,0,machine
+Drowzee,Reflect,0,machine
+Drowzee,Bide,0,machine
+Drowzee,Metronome,0,machine
+Drowzee,Skull Bash,0,machine
+Drowzee,Dream Eater,0,machine
+Drowzee,Poison Gas,29,
+Drowzee,Flash,0,machine
+Drowzee,Psywave,0,machine
+Drowzee,Rest,0,machine
+Drowzee,Tri Attack,0,machine
+Drowzee,Substitute,0,machine
+Hypno,Pound,1,
+Hypno,Mega Punch,0,machine
+Hypno,Mega Kick,0,machine
+Hypno,Headbutt,24,
+Hypno,Body Slam,0,machine
+Hypno,Take Down,0,machine
+Hypno,Double-Edge,0,machine
+Hypno,Disable,1,
+Hypno,Hyper Beam,0,machine
+Hypno,Submission,0,machine
+Hypno,Counter,0,machine
+Hypno,Seismic Toss,0,machine
+Hypno,Thunder Wave,0,machine
+Hypno,Toxic,0,machine
+Hypno,Confusion,1,
+Hypno,Psychic,37,
+Hypno,Hypnosis,1,
+Hypno,Meditate,43,
+Hypno,Rage,0,machine
+Hypno,Teleport,0,machine
+Hypno,Mimic,0,machine
+Hypno,Double Team,0,machine
+Hypno,Reflect,0,machine
+Hypno,Bide,0,machine
+Hypno,Metronome,0,machine
+Hypno,Skull Bash,0,machine
+Hypno,Dream Eater,0,machine
+Hypno,Poison Gas,33,
+Hypno,Flash,0,machine
+Hypno,Psywave,0,machine
+Hypno,Rest,0,machine
+Hypno,Tri Attack,0,machine
+Hypno,Substitute,0,machine
+Krabby,Vice Grip,20,
+Krabby,Guillotine,25,
+Krabby,Swords Dance,0,machine
+Krabby,Cut,0,machine
+Krabby,Stomp,30,
+Krabby,Body Slam,0,machine
+Krabby,Take Down,0,machine
+Krabby,Double-Edge,0,machine
+Krabby,Leer,1,
+Krabby,Water Gun,0,machine
+Krabby,Surf,0,machine
+Krabby,Ice Beam,0,machine
+Krabby,Blizzard,0,machine
+Krabby,BubbleBeam,0,machine
+Krabby,Strength,0,machine
+Krabby,Toxic,0,machine
+Krabby,Rage,0,machine
+Krabby,Mimic,0,machine
+Krabby,Double Team,0,machine
+Krabby,Harden,40,
+Krabby,Bide,0,machine
+Krabby,Bubble,1,
+Krabby,Crabhammer,35,
+Krabby,Rest,0,machine
+Krabby,Substitute,0,machine
+Kingler,Vice Grip,1,
+Kingler,Guillotine,25,
+Kingler,Swords Dance,0,machine
+Kingler,Cut,0,machine
+Kingler,Stomp,34,
+Kingler,Body Slam,0,machine
+Kingler,Take Down,0,machine
+Kingler,Double-Edge,0,machine
+Kingler,Leer,1,
+Kingler,Water Gun,0,machine
+Kingler,Surf,0,machine
+Kingler,Ice Beam,0,machine
+Kingler,Blizzard,0,machine
+Kingler,BubbleBeam,0,machine
+Kingler,Hyper Beam,0,machine
+Kingler,Strength,0,machine
+Kingler,Toxic,0,machine
+Kingler,Rage,0,machine
+Kingler,Mimic,0,machine
+Kingler,Double Team,0,machine
+Kingler,Harden,49,
+Kingler,Bide,0,machine
+Kingler,Bubble,1,
+Kingler,Crabhammer,42,
+Kingler,Rest,0,machine
+Kingler,Substitute,0,machine
+Voltorb,Tackle,1,
+Voltorb,Take Down,0,machine
+Voltorb,SonicBoom,17,
+Voltorb,Thunderbolt,0,machine
+Voltorb,Thunder Wave,0,machine
+Voltorb,Thunder,0,machine
+Voltorb,Toxic,0,machine
+Voltorb,Rage,0,machine
+Voltorb,Teleport,0,machine
+Voltorb,Mimic,0,machine
+Voltorb,Screech,1,
+Voltorb,Double Team,0,machine
+Voltorb,Light Screen,29,
+Voltorb,Reflect,0,machine
+Voltorb,Bide,0,machine
+Voltorb,Selfdestruct,22,
+Voltorb,Swift,36,
+Voltorb,Flash,0,machine
+Voltorb,Explosion,43,
+Voltorb,Rest,0,machine
+Voltorb,Substitute,0,machine
+Electrode,Tackle,1,
+Electrode,Take Down,0,machine
+Electrode,SonicBoom,1,
+Electrode,Hyper Beam,0,machine
+Electrode,Thunderbolt,0,machine
+Electrode,Thunder Wave,0,machine
+Electrode,Thunder,0,machine
+Electrode,Toxic,0,machine
+Electrode,Rage,0,machine
+Electrode,Teleport,0,machine
+Electrode,Mimic,0,machine
+Electrode,Screech,1,
+Electrode,Double Team,0,machine
+Electrode,Light Screen,29,
+Electrode,Reflect,0,machine
+Electrode,Bide,0,machine
+Electrode,Selfdestruct,22,
+Electrode,Swift,40,
+Electrode,Skull Bash,0,machine
+Electrode,Flash,0,machine
+Electrode,Explosion,50,
+Electrode,Rest,0,machine
+Electrode,Substitute,0,machine
+Exeggcute,Take Down,0,machine
+Exeggcute,Double-Edge,0,machine
+Exeggcute,Leech Seed,28,
+Exeggcute,SolarBeam,42,
+Exeggcute,PoisonPowder,37,
+Exeggcute,Stun Spore,32,
+Exeggcute,Sleep Powder,48,
+Exeggcute,Toxic,0,machine
+Exeggcute,Psychic,0,machine
+Exeggcute,Hypnosis,1,
+Exeggcute,Rage,0,machine
+Exeggcute,Teleport,0,machine
+Exeggcute,Mimic,0,machine
+Exeggcute,Double Team,0,machine
+Exeggcute,Reflect,25,
+Exeggcute,Bide,0,machine
+Exeggcute,Selfdestruct,0,machine
+Exeggcute,Egg Bomb,0,machine
+Exeggcute,Barrage,1,
+Exeggcute,Psywave,0,machine
+Exeggcute,Explosion,0,machine
+Exeggcute,Rest,0,machine
+Exeggcute,Substitute,0,machine
+Exeggutor,Stomp,28,
+Exeggutor,Take Down,0,machine
+Exeggutor,Double-Edge,0,machine
+Exeggutor,Hyper Beam,0,machine
+Exeggutor,Strength,0,machine
+Exeggutor,Mega Drain,0,machine
+Exeggutor,SolarBeam,0,machine
+Exeggutor,Toxic,0,machine
+Exeggutor,Psychic,0,machine
+Exeggutor,Hypnosis,1,
+Exeggutor,Rage,0,machine
+Exeggutor,Teleport,0,machine
+Exeggutor,Mimic,0,machine
+Exeggutor,Double Team,0,machine
+Exeggutor,Reflect,0,machine
+Exeggutor,Bide,0,machine
+Exeggutor,Selfdestruct,0,machine
+Exeggutor,Egg Bomb,0,machine
+Exeggutor,Barrage,1,
+Exeggutor,Psywave,0,machine
+Exeggutor,Explosion,0,machine
+Exeggutor,Rest,0,machine
+Exeggutor,Substitute,0,machine
+Cubone,Mega Punch,0,machine
+Cubone,Mega Kick,0,machine
+Cubone,Headbutt,18,
+Cubone,Body Slam,0,machine
+Cubone,Take Down,0,machine
+Cubone,Thrash,38,
+Cubone,Double-Edge,0,machine
+Cubone,Tail Whip,13,
+Cubone,Leer,25,
+Cubone,Growl,1,
+Cubone,Water Gun,0,machine
+Cubone,Ice Beam,0,machine
+Cubone,Blizzard,0,machine
+Cubone,BubbleBeam,0,machine
+Cubone,Submission,0,machine
+Cubone,Counter,0,machine
+Cubone,Seismic Toss,0,machine
+Cubone,Strength,0,machine
+Cubone,Earthquake,0,machine
+Cubone,Fissure,0,machine
+Cubone,Dig,0,machine
+Cubone,Toxic,0,machine
+Cubone,Rage,46,
+Cubone,Mimic,0,machine
+Cubone,Double Team,0,machine
+Cubone,Focus Energy,31,
+Cubone,Bide,0,machine
+Cubone,Bone Club,1,
+Cubone,Fire Blast,0,machine
+Cubone,Skull Bash,0,machine
+Cubone,Bonemerang,43,
+Cubone,Rest,0,machine
+Cubone,Substitute,0,machine
+Marowak,Mega Punch,0,machine
+Marowak,Mega Kick,0,machine
+Marowak,Headbutt,18,
+Marowak,Body Slam,0,machine
+Marowak,Take Down,0,machine
+Marowak,Thrash,41,
+Marowak,Double-Edge,0,machine
+Marowak,Tail Whip,1,
+Marowak,Leer,1,
+Marowak,Growl,1,
+Marowak,Water Gun,0,machine
+Marowak,Ice Beam,0,machine
+Marowak,Blizzard,0,machine
+Marowak,BubbleBeam,0,machine
+Marowak,Hyper Beam,0,machine
+Marowak,Submission,0,machine
+Marowak,Counter,0,machine
+Marowak,Seismic Toss,0,machine
+Marowak,Strength,0,machine
+Marowak,Earthquake,0,machine
+Marowak,Fissure,0,machine
+Marowak,Dig,0,machine
+Marowak,Toxic,0,machine
+Marowak,Rage,55,
+Marowak,Mimic,0,machine
+Marowak,Double Team,0,machine
+Marowak,Focus Energy,1,
+Marowak,Bide,0,machine
+Marowak,Bone Club,1,
+Marowak,Fire Blast,0,machine
+Marowak,Skull Bash,0,machine
+Marowak,Bonemerang,48,
+Marowak,Rest,0,machine
+Marowak,Substitute,0,machine
+Hitmonlee,Mega Punch,0,machine
+Hitmonlee,Double Kick,1,
+Hitmonlee,Mega Kick,53,
+Hitmonlee,Jump Kick,38,
+Hitmonlee,Rolling Kick,33,
+Hitmonlee,Body Slam,0,machine
+Hitmonlee,Take Down,0,machine
+Hitmonlee,Double-Edge,0,machine
+Hitmonlee,Submission,0,machine
+Hitmonlee,Counter,0,machine
+Hitmonlee,Seismic Toss,0,machine
+Hitmonlee,Strength,0,machine
+Hitmonlee,Toxic,0,machine
+Hitmonlee,Meditate,1,
+Hitmonlee,Rage,0,machine
+Hitmonlee,Mimic,0,machine
+Hitmonlee,Double Team,0,machine
+Hitmonlee,Focus Energy,43,
+Hitmonlee,Bide,0,machine
+Hitmonlee,Metronome,0,machine
+Hitmonlee,Swift,0,machine
+Hitmonlee,Skull Bash,0,machine
+Hitmonlee,High Jump Kick,48,
+Hitmonlee,Rest,0,machine
+Hitmonlee,Substitute,0,machine
+Hitmonchan,Comet Punch,1,
+Hitmonchan,Mega Punch,48,
+Hitmonchan,Fire Punch,33,
+Hitmonchan,Ice Punch,38,
+Hitmonchan,ThunderPunch,43,
+Hitmonchan,Mega Kick,0,machine
+Hitmonchan,Body Slam,0,machine
+Hitmonchan,Take Down,0,machine
+Hitmonchan,Double-Edge,0,machine
+Hitmonchan,Submission,0,machine
+Hitmonchan,Counter,53,
+Hitmonchan,Seismic Toss,0,machine
+Hitmonchan,Strength,0,machine
+Hitmonchan,Toxic,0,machine
+Hitmonchan,Agility,1,
+Hitmonchan,Rage,0,machine
+Hitmonchan,Mimic,0,machine
+Hitmonchan,Double Team,0,machine
+Hitmonchan,Bide,0,machine
+Hitmonchan,Metronome,0,machine
+Hitmonchan,Swift,0,machine
+Hitmonchan,Skull Bash,0,machine
+Hitmonchan,Rest,0,machine
+Hitmonchan,Substitute,0,machine
+Lickitung,Mega Punch,0,machine
+Lickitung,Swords Dance,0,machine
+Lickitung,Cut,0,machine
+Lickitung,Slam,31,
+Lickitung,Stomp,7,
+Lickitung,Mega Kick,0,machine
+Lickitung,Body Slam,0,machine
+Lickitung,Wrap,1,
+Lickitung,Take Down,0,machine
+Lickitung,Double-Edge,0,machine
+Lickitung,Supersonic,1,
+Lickitung,Disable,15,
+Lickitung,Water Gun,0,machine
+Lickitung,Surf,0,machine
+Lickitung,Ice Beam,0,machine
+Lickitung,Blizzard,0,machine
+Lickitung,BubbleBeam,0,machine
+Lickitung,Hyper Beam,0,machine
+Lickitung,Submission,0,machine
+Lickitung,Counter,0,machine
+Lickitung,Seismic Toss,0,machine
+Lickitung,Strength,0,machine
+Lickitung,Thunderbolt,0,machine
+Lickitung,Thunder,0,machine
+Lickitung,Earthquake,0,machine
+Lickitung,Fissure,0,machine
+Lickitung,Toxic,0,machine
+Lickitung,Rage,0,machine
+Lickitung,Mimic,0,machine
+Lickitung,Screech,39,
+Lickitung,Double Team,0,machine
+Lickitung,Defense Curl,23,
+Lickitung,Bide,0,machine
+Lickitung,Fire Blast,0,machine
+Lickitung,Skull Bash,0,machine
+Lickitung,Rest,0,machine
+Lickitung,Substitute,0,machine
+Koffing,Tackle,1,
+Koffing,Thunderbolt,0,machine
+Koffing,Thunder,0,machine
+Koffing,Toxic,0,machine
+Koffing,Rage,0,machine
+Koffing,Mimic,0,machine
+Koffing,Double Team,0,machine
+Koffing,Smokescreen,37,
+Koffing,Haze,45,
+Koffing,Bide,0,machine
+Koffing,Selfdestruct,40,
+Koffing,Smog,1,
+Koffing,Sludge,32,
+Koffing,Fire Blast,0,machine
+Koffing,Explosion,48,
+Koffing,Rest,0,machine
+Koffing,Substitute,0,machine
+Weezing,Tackle,1,
+Weezing,Hyper Beam,0,machine
+Weezing,Thunderbolt,0,machine
+Weezing,Thunder,0,machine
+Weezing,Toxic,0,machine
+Weezing,Rage,0,machine
+Weezing,Mimic,0,machine
+Weezing,Double Team,0,machine
+Weezing,Smokescreen,39,
+Weezing,Haze,49,
+Weezing,Bide,0,machine
+Weezing,Selfdestruct,43,
+Weezing,Smog,1,
+Weezing,Sludge,1,
+Weezing,Fire Blast,0,machine
+Weezing,Explosion,53,
+Weezing,Rest,0,machine
+Weezing,Substitute,0,machine
+Rhyhorn,Stomp,30,
+Rhyhorn,Horn Attack,1,
+Rhyhorn,Fury Attack,40,
+Rhyhorn,Horn Drill,45,
+Rhyhorn,Body Slam,0,machine
+Rhyhorn,Take Down,55,
+Rhyhorn,Double-Edge,0,machine
+Rhyhorn,Tail Whip,35,
+Rhyhorn,Leer,50,
+Rhyhorn,Strength,0,machine
+Rhyhorn,Thunderbolt,0,machine
+Rhyhorn,Thunder,0,machine
+Rhyhorn,Earthquake,0,machine
+Rhyhorn,Fissure,0,machine
+Rhyhorn,Dig,0,machine
+Rhyhorn,Toxic,0,machine
+Rhyhorn,Rage,0,machine
+Rhyhorn,Mimic,0,machine
+Rhyhorn,Double Team,0,machine
+Rhyhorn,Bide,0,machine
+Rhyhorn,Fire Blast,0,machine
+Rhyhorn,Skull Bash,0,machine
+Rhyhorn,Rest,0,machine
+Rhyhorn,Rock Slide,0,machine
+Rhyhorn,Substitute,0,machine
+Rhydon,Mega Punch,0,machine
+Rhydon,Pay Day,0,machine
+Rhydon,Stomp,1,
+Rhydon,Mega Kick,0,machine
+Rhydon,Horn Attack,1,
+Rhydon,Fury Attack,1,
+Rhydon,Horn Drill,48,
+Rhydon,Body Slam,0,machine
+Rhydon,Take Down,64,
+Rhydon,Double-Edge,0,machine
+Rhydon,Tail Whip,1,
+Rhydon,Leer,55,
+Rhydon,Water Gun,0,machine
+Rhydon,Surf,0,machine
+Rhydon,Ice Beam,0,machine
+Rhydon,Blizzard,0,machine
+Rhydon,BubbleBeam,0,machine
+Rhydon,Hyper Beam,0,machine
+Rhydon,Submission,0,machine
+Rhydon,Counter,0,machine
+Rhydon,Seismic Toss,0,machine
+Rhydon,Strength,0,machine
+Rhydon,Thunderbolt,0,machine
+Rhydon,Thunder,0,machine
+Rhydon,Earthquake,0,machine
+Rhydon,Fissure,0,machine
+Rhydon,Dig,0,machine
+Rhydon,Toxic,0,machine
+Rhydon,Rage,0,machine
+Rhydon,Mimic,0,machine
+Rhydon,Double Team,0,machine
+Rhydon,Bide,0,machine
+Rhydon,Fire Blast,0,machine
+Rhydon,Skull Bash,0,machine
+Rhydon,Rest,0,machine
+Rhydon,Rock Slide,0,machine
+Rhydon,Substitute,0,machine
+Chansey,Pound,1,
+Chansey,DoubleSlap,1,
+Chansey,Mega Punch,0,machine
+Chansey,Mega Kick,0,machine
+Chansey,Body Slam,0,machine
+Chansey,Take Down,0,machine
+Chansey,Double-Edge,54,
+Chansey,Tail Whip,1,
+Chansey,Growl,30,
+Chansey,Sing,24,
+Chansey,Water Gun,0,machine
+Chansey,Ice Beam,0,machine
+Chansey,Blizzard,0,machine
+Chansey,BubbleBeam,0,machine
+Chansey,Hyper Beam,0,machine
+Chansey,Submission,0,machine
+Chansey,Counter,0,machine
+Chansey,Seismic Toss,0,machine
+Chansey,Strength,0,machine
+Chansey,SolarBeam,0,machine
+Chansey,Thunderbolt,0,machine
+Chansey,Thunder Wave,0,machine
+Chansey,Thunder,0,machine
+Chansey,Toxic,0,machine
+Chansey,Psychic,0,machine
+Chansey,Rage,0,machine
+Chansey,Teleport,0,machine
+Chansey,Mimic,0,machine
+Chansey,Double Team,0,machine
+Chansey,Minimize,38,
+Chansey,Defense Curl,44,
+Chansey,Light Screen,48,
+Chansey,Reflect,0,machine
+Chansey,Bide,0,machine
+Chansey,Metronome,0,machine
+Chansey,Egg Bomb,0,machine
+Chansey,Fire Blast,0,machine
+Chansey,Skull Bash,0,machine
+Chansey,Softboiled,0,machine
+Chansey,Flash,0,machine
+Chansey,Psywave,0,machine
+Chansey,Rest,0,machine
+Chansey,Tri Attack,0,machine
+Chansey,Substitute,0,machine
+Tangela,Swords Dance,0,machine
+Tangela,Cut,0,machine
+Tangela,Bind,1,
+Tangela,Slam,45,
+Tangela,Vine Whip,29,
+Tangela,Body Slam,0,machine
+Tangela,Take Down,0,machine
+Tangela,Double-Edge,0,machine
+Tangela,Hyper Beam,0,machine
+Tangela,Absorb,29,
+Tangela,Mega Drain,0,machine
+Tangela,Growth,49,
+Tangela,SolarBeam,0,machine
+Tangela,PoisonPowder,32,
+Tangela,Stun Spore,36,
+Tangela,Sleep Powder,39,
+Tangela,Toxic,0,machine
+Tangela,Rage,0,machine
+Tangela,Mimic,0,machine
+Tangela,Double Team,0,machine
+Tangela,Bide,0,machine
+Tangela,Skull Bash,0,machine
+Tangela,Constrict,1,
+Tangela,Rest,0,machine
+Tangela,Substitute,0,machine
+Kangaskhan,Comet Punch,1,
+Kangaskhan,Mega Punch,36,
+Kangaskhan,Mega Kick,0,machine
+Kangaskhan,Body Slam,0,machine
+Kangaskhan,Take Down,0,machine
+Kangaskhan,Double-Edge,0,machine
+Kangaskhan,Tail Whip,31,
+Kangaskhan,Leer,41,
+Kangaskhan,Bite,26,
+Kangaskhan,Water Gun,0,machine
+Kangaskhan,Surf,0,machine
+Kangaskhan,Ice Beam,0,machine
+Kangaskhan,Blizzard,0,machine
+Kangaskhan,BubbleBeam,0,machine
+Kangaskhan,Hyper Beam,0,machine
+Kangaskhan,Submission,0,machine
+Kangaskhan,Counter,0,machine
+Kangaskhan,Seismic Toss,0,machine
+Kangaskhan,Strength,0,machine
+Kangaskhan,Thunderbolt,0,machine
+Kangaskhan,Thunder,0,machine
+Kangaskhan,Earthquake,0,machine
+Kangaskhan,Fissure,0,machine
+Kangaskhan,Toxic,0,machine
+Kangaskhan,Rage,1,
+Kangaskhan,Mimic,0,machine
+Kangaskhan,Double Team,0,machine
+Kangaskhan,Bide,0,machine
+Kangaskhan,Fire Blast,0,machine
+Kangaskhan,Skull Bash,0,machine
+Kangaskhan,Dizzy Punch,46,
+Kangaskhan,Rest,0,machine
+Kangaskhan,Rock Slide,0,machine
+Kangaskhan,Substitute,0,machine
+Horsea,Take Down,0,machine
+Horsea,Double-Edge,0,machine
+Horsea,Leer,24,
+Horsea,Water Gun,30,
+Horsea,Hydro Pump,45,
+Horsea,Surf,0,machine
+Horsea,Ice Beam,0,machine
+Horsea,Blizzard,0,machine
+Horsea,BubbleBeam,0,machine
+Horsea,Toxic,0,machine
+Horsea,Agility,37,
+Horsea,Rage,0,machine
+Horsea,Mimic,0,machine
+Horsea,Double Team,0,machine
+Horsea,Smokescreen,19,
+Horsea,Bide,0,machine
+Horsea,Swift,0,machine
+Horsea,Skull Bash,0,machine
+Horsea,Bubble,1,
+Horsea,Rest,0,machine
+Horsea,Substitute,0,machine
+Seadra,Take Down,0,machine
+Seadra,Double-Edge,0,machine
+Seadra,Leer,24,
+Seadra,Water Gun,30,
+Seadra,Hydro Pump,52,
+Seadra,Surf,0,machine
+Seadra,Ice Beam,0,machine
+Seadra,Blizzard,0,machine
+Seadra,BubbleBeam,0,machine
+Seadra,Hyper Beam,0,machine
+Seadra,Toxic,0,machine
+Seadra,Agility,41,
+Seadra,Rage,0,machine
+Seadra,Mimic,0,machine
+Seadra,Double Team,0,machine
+Seadra,Smokescreen,1,
+Seadra,Bide,0,machine
+Seadra,Swift,0,machine
+Seadra,Skull Bash,0,machine
+Seadra,Bubble,1,
+Seadra,Rest,0,machine
+Seadra,Substitute,0,machine
+Goldeen,Horn Attack,24,
+Goldeen,Fury Attack,30,
+Goldeen,Horn Drill,45,
+Goldeen,Take Down,0,machine
+Goldeen,Double-Edge,0,machine
+Goldeen,Tail Whip,1,
+Goldeen,Supersonic,19,
+Goldeen,Water Gun,0,machine
+Goldeen,Surf,0,machine
+Goldeen,Ice Beam,0,machine
+Goldeen,Blizzard,0,machine
+Goldeen,BubbleBeam,0,machine
+Goldeen,Peck,1,
+Goldeen,Toxic,0,machine
+Goldeen,Agility,54,
+Goldeen,Rage,0,machine
+Goldeen,Mimic,0,machine
+Goldeen,Double Team,0,machine
+Goldeen,Bide,0,machine
+Goldeen,Waterfall,37,
+Goldeen,Swift,0,machine
+Goldeen,Skull Bash,0,machine
+Goldeen,Rest,0,machine
+Goldeen,Substitute,0,machine
+Seaking,Horn Attack,24,
+Seaking,Fury Attack,30,
+Seaking,Horn Drill,48,
+Seaking,Take Down,0,machine
+Seaking,Double-Edge,0,machine
+Seaking,Tail Whip,1,
+Seaking,Supersonic,1,
+Seaking,Water Gun,0,machine
+Seaking,Surf,0,machine
+Seaking,Ice Beam,0,machine
+Seaking,Blizzard,0,machine
+Seaking,BubbleBeam,0,machine
+Seaking,Hyper Beam,0,machine
+Seaking,Peck,1,
+Seaking,Toxic,0,machine
+Seaking,Agility,54,
+Seaking,Rage,0,machine
+Seaking,Mimic,0,machine
+Seaking,Double Team,0,machine
+Seaking,Bide,0,machine
+Seaking,Waterfall,39,
+Seaking,Swift,0,machine
+Seaking,Skull Bash,0,machine
+Seaking,Rest,0,machine
+Seaking,Substitute,0,machine
+Staryu,Tackle,1,
+Staryu,Take Down,0,machine
+Staryu,Double-Edge,0,machine
+Staryu,Water Gun,17,
+Staryu,Hydro Pump,47,
+Staryu,Surf,0,machine
+Staryu,Ice Beam,0,machine
+Staryu,Blizzard,0,machine
+Staryu,BubbleBeam,0,machine
+Staryu,Thunderbolt,0,machine
+Staryu,Thunder Wave,0,machine
+Staryu,Thunder,0,machine
+Staryu,Toxic,0,machine
+Staryu,Psychic,0,machine
+Staryu,Rage,0,machine
+Staryu,Teleport,0,machine
+Staryu,Mimic,0,machine
+Staryu,Double Team,0,machine
+Staryu,Recover,27,
+Staryu,Harden,22,
+Staryu,Minimize,37,
+Staryu,Light Screen,42,
+Staryu,Reflect,0,machine
+Staryu,Bide,0,machine
+Staryu,Swift,32,
+Staryu,Skull Bash,0,machine
+Staryu,Flash,0,machine
+Staryu,Psywave,0,machine
+Staryu,Rest,0,machine
+Staryu,Tri Attack,0,machine
+Staryu,Substitute,0,machine
+Starmie,Tackle,1,
+Starmie,Take Down,0,machine
+Starmie,Double-Edge,0,machine
+Starmie,Water Gun,1,
+Starmie,Surf,0,machine
+Starmie,Ice Beam,0,machine
+Starmie,Blizzard,0,machine
+Starmie,BubbleBeam,0,machine
+Starmie,Hyper Beam,0,machine
+Starmie,Thunderbolt,0,machine
+Starmie,Thunder Wave,0,machine
+Starmie,Thunder,0,machine
+Starmie,Toxic,0,machine
+Starmie,Psychic,0,machine
+Starmie,Rage,0,machine
+Starmie,Teleport,0,machine
+Starmie,Mimic,0,machine
+Starmie,Double Team,0,machine
+Starmie,Harden,1,
+Starmie,Reflect,0,machine
+Starmie,Bide,0,machine
+Starmie,Swift,0,machine
+Starmie,Skull Bash,0,machine
+Starmie,Flash,0,machine
+Starmie,Psywave,0,machine
+Starmie,Rest,0,machine
+Starmie,Tri Attack,0,machine
+Starmie,Substitute,0,machine
+Mr_Mime,DoubleSlap,31,
+Mr_Mime,Mega Punch,0,machine
+Mr_Mime,Mega Kick,0,machine
+Mr_Mime,Body Slam,0,machine
+Mr_Mime,Take Down,0,machine
+Mr_Mime,Double-Edge,0,machine
+Mr_Mime,Hyper Beam,0,machine
+Mr_Mime,Submission,0,machine
+Mr_Mime,Counter,0,machine
+Mr_Mime,Seismic Toss,0,machine
+Mr_Mime,SolarBeam,0,machine
+Mr_Mime,Thunderbolt,0,machine
+Mr_Mime,Thunder Wave,0,machine
+Mr_Mime,Thunder,0,machine
+Mr_Mime,Toxic,0,machine
+Mr_Mime,Confusion,1,
+Mr_Mime,Psychic,0,machine
+Mr_Mime,Meditate,39,
+Mr_Mime,Rage,0,machine
+Mr_Mime,Teleport,0,machine
+Mr_Mime,Mimic,0,machine
+Mr_Mime,Double Team,0,machine
+Mr_Mime,Barrier,1,
+Mr_Mime,Light Screen,23,
+Mr_Mime,Reflect,0,machine
+Mr_Mime,Bide,0,machine
+Mr_Mime,Metronome,0,machine
+Mr_Mime,Skull Bash,0,machine
+Mr_Mime,Flash,0,machine
+Mr_Mime,Psywave,0,machine
+Mr_Mime,Rest,0,machine
+Mr_Mime,Substitute,47,
+Scyther,Swords Dance,35,
+Scyther,Cut,0,machine
+Scyther,Wing Attack,50,
+Scyther,Take Down,0,machine
+Scyther,Double-Edge,0,machine
+Scyther,Leer,17,
+Scyther,Hyper Beam,0,machine
+Scyther,Toxic,0,machine
+Scyther,Agility,42,
+Scyther,Quick Attack,1,
+Scyther,Rage,0,machine
+Scyther,Mimic,0,machine
+Scyther,Double Team,24,
+Scyther,Focus Energy,20,
+Scyther,Bide,0,machine
+Scyther,Swift,0,machine
+Scyther,Skull Bash,0,machine
+Scyther,Rest,0,machine
+Scyther,Slash,29,
+Scyther,Substitute,0,machine
+Jynx,Pound,1,
+Jynx,DoubleSlap,23,
+Jynx,Mega Punch,0,machine
+Jynx,Ice Punch,31,
+Jynx,Mega Kick,0,machine
+Jynx,Body Slam,39,
+Jynx,Take Down,0,machine
+Jynx,Thrash,47,
+Jynx,Double-Edge,0,machine
+Jynx,Water Gun,0,machine
+Jynx,Ice Beam,0,machine
+Jynx,Blizzard,58,
+Jynx,BubbleBeam,0,machine
+Jynx,Hyper Beam,0,machine
+Jynx,Submission,0,machine
+Jynx,Counter,0,machine
+Jynx,Seismic Toss,0,machine
+Jynx,Toxic,0,machine
+Jynx,Psychic,0,machine
+Jynx,Rage,0,machine
+Jynx,Teleport,0,machine
+Jynx,Mimic,0,machine
+Jynx,Double Team,0,machine
+Jynx,Reflect,0,machine
+Jynx,Bide,0,machine
+Jynx,Metronome,0,machine
+Jynx,Lick,18,
+Jynx,Skull Bash,0,machine
+Jynx,Lovely Kiss,1,
+Jynx,Psywave,0,machine
+Jynx,Rest,0,machine
+Jynx,Substitute,0,machine
+Electabuzz,Mega Punch,0,machine
+Electabuzz,ThunderPunch,42,
+Electabuzz,Mega Kick,0,machine
+Electabuzz,Body Slam,0,machine
+Electabuzz,Take Down,0,machine
+Electabuzz,Double-Edge,0,machine
+Electabuzz,Leer,1,
+Electabuzz,Hyper Beam,0,machine
+Electabuzz,Submission,0,machine
+Electabuzz,Counter,0,machine
+Electabuzz,Seismic Toss,0,machine
+Electabuzz,Strength,0,machine
+Electabuzz,ThunderShock,34,
+Electabuzz,Thunderbolt,0,machine
+Electabuzz,Thunder Wave,0,machine
+Electabuzz,Thunder,54,
+Electabuzz,Toxic,0,machine
+Electabuzz,Psychic,0,machine
+Electabuzz,Quick Attack,1,
+Electabuzz,Rage,0,machine
+Electabuzz,Teleport,0,machine
+Electabuzz,Mimic,0,machine
+Electabuzz,Screech,37,
+Electabuzz,Double Team,0,machine
+Electabuzz,Light Screen,49,
+Electabuzz,Reflect,0,machine
+Electabuzz,Bide,0,machine
+Electabuzz,Metronome,0,machine
+Electabuzz,Swift,0,machine
+Electabuzz,Skull Bash,0,machine
+Electabuzz,Flash,0,machine
+Electabuzz,Psywave,0,machine
+Electabuzz,Rest,0,machine
+Electabuzz,Substitute,0,machine
+Magmar,Mega Punch,0,machine
+Magmar,Fire Punch,43,
+Magmar,Mega Kick,0,machine
+Magmar,Body Slam,0,machine
+Magmar,Take Down,0,machine
+Magmar,Double-Edge,0,machine
+Magmar,Leer,36,
+Magmar,Ember,1,
+Magmar,Flamethrower,55,
+Magmar,Hyper Beam,0,machine
+Magmar,Submission,0,machine
+Magmar,Counter,0,machine
+Magmar,Seismic Toss,0,machine
+Magmar,Strength,0,machine
+Magmar,Toxic,0,machine
+Magmar,Psychic,0,machine
+Magmar,Rage,0,machine
+Magmar,Teleport,0,machine
+Magmar,Mimic,0,machine
+Magmar,Double Team,0,machine
+Magmar,Smokescreen,48,
+Magmar,Confuse Ray,39,
+Magmar,Bide,0,machine
+Magmar,Metronome,0,machine
+Magmar,Smog,52,
+Magmar,Fire Blast,0,machine
+Magmar,Skull Bash,0,machine
+Magmar,Psywave,0,machine
+Magmar,Rest,0,machine
+Magmar,Substitute,0,machine
+Pinsir,Vice Grip,1,
+Pinsir,Guillotine,30,
+Pinsir,Swords Dance,54,
+Pinsir,Cut,0,machine
+Pinsir,Bind,21,
+Pinsir,Body Slam,0,machine
+Pinsir,Take Down,0,machine
+Pinsir,Double-Edge,0,machine
+Pinsir,Hyper Beam,0,machine
+Pinsir,Submission,0,machine
+Pinsir,Seismic Toss,25,
+Pinsir,Strength,0,machine
+Pinsir,Toxic,0,machine
+Pinsir,Rage,0,machine
+Pinsir,Mimic,0,machine
+Pinsir,Double Team,0,machine
+Pinsir,Harden,43,
+Pinsir,Focus Energy,36,
+Pinsir,Bide,0,machine
+Pinsir,Rest,0,machine
+Pinsir,Slash,49,
+Pinsir,Substitute,0,machine
+Tauros,Stomp,21,
+Tauros,Horn Drill,0,machine
+Tauros,Tackle,1,
+Tauros,Body Slam,0,machine
+Tauros,Take Down,51,
+Tauros,Double-Edge,0,machine
+Tauros,Tail Whip,28,
+Tauros,Leer,35,
+Tauros,Ice Beam,0,machine
+Tauros,Blizzard,0,machine
+Tauros,Hyper Beam,0,machine
+Tauros,Strength,0,machine
+Tauros,Thunderbolt,0,machine
+Tauros,Thunder,0,machine
+Tauros,Earthquake,0,machine
+Tauros,Fissure,0,machine
+Tauros,Toxic,0,machine
+Tauros,Rage,44,
+Tauros,Mimic,0,machine
+Tauros,Double Team,0,machine
+Tauros,Bide,0,machine
+Tauros,Fire Blast,0,machine
+Tauros,Skull Bash,0,machine
+Tauros,Rest,0,machine
+Tauros,Substitute,0,machine
+Magikarp,Tackle,15,
+Magikarp,Splash,1,
+Gyarados,Tackle,1,
+Gyarados,Body Slam,0,machine
+Gyarados,Take Down,0,machine
+Gyarados,Double-Edge,0,machine
+Gyarados,Leer,1,
+Gyarados,Bite,1,
+Gyarados,Water Gun,0,machine
+Gyarados,Hydro Pump,1,
+Gyarados,Surf,0,machine
+Gyarados,Ice Beam,0,machine
+Gyarados,Blizzard,0,machine
+Gyarados,BubbleBeam,0,machine
+Gyarados,Hyper Beam,52,
+Gyarados,Strength,0,machine
+Gyarados,Dragon Rage,1,
+Gyarados,Thunderbolt,0,machine
+Gyarados,Thunder,0,machine
+Gyarados,Toxic,0,machine
+Gyarados,Rage,0,machine
+Gyarados,Mimic,0,machine
+Gyarados,Double Team,0,machine
+Gyarados,Reflect,0,machine
+Gyarados,Bide,0,machine
+Gyarados,Fire Blast,0,machine
+Gyarados,Skull Bash,0,machine
+Gyarados,Rest,0,machine
+Gyarados,Substitute,0,machine
+Lapras,Horn Drill,0,machine
+Lapras,Body Slam,25,
+Lapras,Take Down,0,machine
+Lapras,Double-Edge,0,machine
+Lapras,Growl,1,
+Lapras,Sing,16,
+Lapras,Mist,20,
+Lapras,Water Gun,1,
+Lapras,Hydro Pump,46,
+Lapras,Surf,0,machine
+Lapras,Ice Beam,38,
+Lapras,Blizzard,0,machine
+Lapras,BubbleBeam,0,machine
+Lapras,Hyper Beam,0,machine
+Lapras,Strength,0,machine
+Lapras,SolarBeam,0,machine
+Lapras,Dragon Rage,0,machine
+Lapras,Thunderbolt,0,machine
+Lapras,Thunder,0,machine
+Lapras,Toxic,0,machine
+Lapras,Psychic,0,machine
+Lapras,Rage,0,machine
+Lapras,Mimic,0,machine
+Lapras,Double Team,0,machine
+Lapras,Confuse Ray,31,
+Lapras,Reflect,0,machine
+Lapras,Bide,0,machine
+Lapras,Skull Bash,0,machine
+Lapras,Psywave,0,machine
+Lapras,Rest,0,machine
+Lapras,Substitute,0,machine
+Ditto,Transform,1,
+Eevee,Sand-Attack,1,
+Eevee,Tackle,1,
+Eevee,Body Slam,0,machine
+Eevee,Take Down,45,
+Eevee,Double-Edge,0,machine
+Eevee,Tail Whip,31,
+Eevee,Bite,37,
+Eevee,Growl,16,
+Eevee,Toxic,0,machine
+Eevee,Quick Attack,27,
+Eevee,Rage,0,machine
+Eevee,Mimic,0,machine
+Eevee,Double Team,0,machine
+Eevee,Reflect,0,machine
+Eevee,Focus Energy,36,
+Eevee,Bide,0,machine
+Eevee,Swift,0,machine
+Eevee,Skull Bash,0,machine
+Eevee,Rest,0,machine
+Eevee,Substitute,0,machine
+Vaporeon,Sand-Attack,1,
+Vaporeon,Tackle,1,
+Vaporeon,Body Slam,0,machine
+Vaporeon,Take Down,0,machine
+Vaporeon,Double-Edge,0,machine
+Vaporeon,Tail Whip,37,
+Vaporeon,Bite,40,
+Vaporeon,Mist,48,
+Vaporeon,Water Gun,1,
+Vaporeon,Hydro Pump,54,
+Vaporeon,Surf,0,machine
+Vaporeon,Ice Beam,0,machine
+Vaporeon,Blizzard,0,machine
+Vaporeon,BubbleBeam,0,machine
+Vaporeon,Aurora Beam,36,
+Vaporeon,Hyper Beam,0,machine
+Vaporeon,Toxic,0,machine
+Vaporeon,Quick Attack,1,
+Vaporeon,Rage,0,machine
+Vaporeon,Mimic,0,machine
+Vaporeon,Double Team,0,machine
+Vaporeon,Haze,44,
+Vaporeon,Reflect,0,machine
+Vaporeon,Bide,0,machine
+Vaporeon,Swift,0,machine
+Vaporeon,Skull Bash,0,machine
+Vaporeon,Acid Armor,42,
+Vaporeon,Rest,0,machine
+Vaporeon,Substitute,0,machine
+Jolteon,Double Kick,42,
+Jolteon,Sand-Attack,1,
+Jolteon,Tackle,1,
+Jolteon,Body Slam,0,machine
+Jolteon,Take Down,0,machine
+Jolteon,Double-Edge,0,machine
+Jolteon,Tail Whip,37,
+Jolteon,Pin Missile,48,
+Jolteon,Hyper Beam,0,machine
+Jolteon,ThunderShock,1,
+Jolteon,Thunderbolt,0,machine
+Jolteon,Thunder Wave,40,
+Jolteon,Thunder,54,
+Jolteon,Toxic,0,machine
+Jolteon,Agility,44,
+Jolteon,Quick Attack,1,
+Jolteon,Rage,0,machine
+Jolteon,Mimic,0,machine
+Jolteon,Double Team,0,machine
+Jolteon,Reflect,0,machine
+Jolteon,Bide,0,machine
+Jolteon,Swift,0,machine
+Jolteon,Skull Bash,0,machine
+Jolteon,Flash,0,machine
+Jolteon,Rest,0,machine
+Jolteon,Substitute,0,machine
+Flareon,Sand-Attack,1,
+Flareon,Tackle,1,
+Flareon,Body Slam,0,machine
+Flareon,Take Down,0,machine
+Flareon,Double-Edge,0,machine
+Flareon,Tail Whip,37,
+Flareon,Leer,42,
+Flareon,Bite,40,
+Flareon,Ember,1,
+Flareon,Flamethrower,54,
+Flareon,Hyper Beam,0,machine
+Flareon,Fire Spin,44,
+Flareon,Toxic,0,machine
+Flareon,Quick Attack,1,
+Flareon,Rage,48,
+Flareon,Mimic,0,machine
+Flareon,Double Team,0,machine
+Flareon,Reflect,0,machine
+Flareon,Bide,0,machine
+Flareon,Smog,42,
+Flareon,Fire Blast,0,machine
+Flareon,Swift,0,machine
+Flareon,Skull Bash,0,machine
+Flareon,Rest,0,machine
+Flareon,Substitute,0,machine
+Porygon,Tackle,1,
+Porygon,Take Down,0,machine
+Porygon,Double-Edge,0,machine
+Porygon,Ice Beam,0,machine
+Porygon,Blizzard,0,machine
+Porygon,Psybeam,23,
+Porygon,Hyper Beam,0,machine
+Porygon,Thunderbolt,0,machine
+Porygon,Thunder Wave,0,machine
+Porygon,Thunder,0,machine
+Porygon,Toxic,0,machine
+Porygon,Psychic,0,machine
+Porygon,Agility,35,
+Porygon,Rage,0,machine
+Porygon,Teleport,0,machine
+Porygon,Mimic,0,machine
+Porygon,Double Team,0,machine
+Porygon,Recover,28,
+Porygon,Reflect,0,machine
+Porygon,Bide,0,machine
+Porygon,Swift,0,machine
+Porygon,Skull Bash,0,machine
+Porygon,Flash,0,machine
+Porygon,Psywave,0,machine
+Porygon,Rest,0,machine
+Porygon,Sharpen,1,
+Porygon,Conversion,1,
+Porygon,Tri Attack,42,
+Porygon,Substitute,0,machine
+Omanyte,Horn Attack,34,
+Omanyte,Body Slam,0,machine
+Omanyte,Take Down,0,machine
+Omanyte,Double-Edge,0,machine
+Omanyte,Leer,39,
+Omanyte,Water Gun,1,
+Omanyte,Hydro Pump,53,
+Omanyte,Surf,0,machine
+Omanyte,Ice Beam,0,machine
+Omanyte,Blizzard,0,machine
+Omanyte,BubbleBeam,0,machine
+Omanyte,Toxic,0,machine
+Omanyte,Rage,0,machine
+Omanyte,Mimic,0,machine
+Omanyte,Double Team,0,machine
+Omanyte,Withdraw,1,
+Omanyte,Reflect,0,machine
+Omanyte,Bide,0,machine
+Omanyte,Spike Cannon,46,
+Omanyte,Rest,0,machine
+Omanyte,Substitute,0,machine
+Omastar,Horn Attack,1,
+Omastar,Horn Drill,0,machine
+Omastar,Body Slam,0,machine
+Omastar,Take Down,0,machine
+Omastar,Double-Edge,0,machine
+Omastar,Leer,39,
+Omastar,Water Gun,1,
+Omastar,Hydro Pump,49,
+Omastar,Surf,0,machine
+Omastar,Ice Beam,0,machine
+Omastar,Blizzard,0,machine
+Omastar,BubbleBeam,0,machine
+Omastar,Hyper Beam,0,machine
+Omastar,Submission,0,machine
+Omastar,Seismic Toss,0,machine
+Omastar,Toxic,0,machine
+Omastar,Rage,0,machine
+Omastar,Mimic,0,machine
+Omastar,Double Team,0,machine
+Omastar,Withdraw,1,
+Omastar,Reflect,0,machine
+Omastar,Bide,0,machine
+Omastar,Skull Bash,0,machine
+Omastar,Spike Cannon,44,
+Omastar,Rest,0,machine
+Omastar,Substitute,0,machine
+Kabuto,Scratch,1,
+Kabuto,Body Slam,0,machine
+Kabuto,Take Down,0,machine
+Kabuto,Double-Edge,0,machine
+Kabuto,Leer,44,
+Kabuto,Water Gun,0,machine
+Kabuto,Hydro Pump,49,
+Kabuto,Surf,0,machine
+Kabuto,Ice Beam,0,machine
+Kabuto,Blizzard,0,machine
+Kabuto,BubbleBeam,0,machine
+Kabuto,Absorb,34,
+Kabuto,Toxic,0,machine
+Kabuto,Rage,0,machine
+Kabuto,Mimic,0,machine
+Kabuto,Double Team,0,machine
+Kabuto,Harden,1,
+Kabuto,Reflect,0,machine
+Kabuto,Bide,0,machine
+Kabuto,Rest,0,machine
+Kabuto,Slash,39,
+Kabuto,Substitute,0,machine
+Kabutops,Scratch,1,
+Kabutops,Razor Wind,0,machine
+Kabutops,Swords Dance,0,machine
+Kabutops,Cut,0,machine
+Kabutops,Mega Kick,0,machine
+Kabutops,Body Slam,0,machine
+Kabutops,Take Down,0,machine
+Kabutops,Double-Edge,0,machine
+Kabutops,Leer,46,
+Kabutops,Water Gun,0,machine
+Kabutops,Hydro Pump,53,
+Kabutops,Surf,0,machine
+Kabutops,Ice Beam,0,machine
+Kabutops,Blizzard,0,machine
+Kabutops,BubbleBeam,0,machine
+Kabutops,Hyper Beam,0,machine
+Kabutops,Submission,0,machine
+Kabutops,Seismic Toss,0,machine
+Kabutops,Absorb,1,
+Kabutops,Toxic,0,machine
+Kabutops,Rage,0,machine
+Kabutops,Mimic,0,machine
+Kabutops,Double Team,0,machine
+Kabutops,Harden,1,
+Kabutops,Reflect,0,machine
+Kabutops,Bide,0,machine
+Kabutops,Skull Bash,0,machine
+Kabutops,Rest,0,machine
+Kabutops,Slash,39,
+Kabutops,Substitute,0,machine
+Aerodactyl,Razor Wind,0,machine
+Aerodactyl,Wing Attack,1,
+Aerodactyl,Whirlwind,0,machine
+Aerodactyl,Fly,0,machine
+Aerodactyl,Take Down,45,
+Aerodactyl,Double-Edge,0,machine
+Aerodactyl,Bite,38,
+Aerodactyl,Supersonic,33,
+Aerodactyl,Hyper Beam,54,
+Aerodactyl,Dragon Rage,0,machine
+Aerodactyl,Toxic,0,machine
+Aerodactyl,Agility,1,
+Aerodactyl,Rage,0,machine
+Aerodactyl,Mimic,0,machine
+Aerodactyl,Double Team,0,machine
+Aerodactyl,Reflect,0,machine
+Aerodactyl,Bide,0,machine
+Aerodactyl,Fire Blast,0,machine
+Aerodactyl,Swift,0,machine
+Aerodactyl,Sky Attack,0,machine
+Aerodactyl,Rest,0,machine
+Aerodactyl,Substitute,0,machine
+Snorlax,Mega Punch,0,machine
+Snorlax,Pay Day,0,machine
+Snorlax,Mega Kick,0,machine
+Snorlax,Headbutt,1,
+Snorlax,Body Slam,35,
+Snorlax,Take Down,0,machine
+Snorlax,Double-Edge,48,
+Snorlax,Water Gun,0,machine
+Snorlax,Surf,0,machine
+Snorlax,Ice Beam,0,machine
+Snorlax,Blizzard,0,machine
+Snorlax,BubbleBeam,0,machine
+Snorlax,Hyper Beam,56,
+Snorlax,Submission,0,machine
+Snorlax,Counter,0,machine
+Snorlax,Seismic Toss,0,machine
+Snorlax,Strength,0,machine
+Snorlax,SolarBeam,0,machine
+Snorlax,Thunderbolt,0,machine
+Snorlax,Thunder,0,machine
+Snorlax,Earthquake,0,machine
+Snorlax,Fissure,0,machine
+Snorlax,Toxic,0,machine
+Snorlax,Psychic,0,machine
+Snorlax,Rage,0,machine
+Snorlax,Mimic,0,machine
+Snorlax,Double Team,0,machine
+Snorlax,Harden,41,
+Snorlax,Reflect,0,machine
+Snorlax,Bide,0,machine
+Snorlax,Metronome,0,machine
+Snorlax,Selfdestruct,0,machine
+Snorlax,Fire Blast,0,machine
+Snorlax,Skull Bash,0,machine
+Snorlax,Amnesia,1,
+Snorlax,Psywave,0,machine
+Snorlax,Rest,1,
+Snorlax,Rock Slide,0,machine
+Snorlax,Substitute,0,machine
+Articuno,Razor Wind,0,machine
+Articuno,Whirlwind,0,machine
+Articuno,Fly,0,machine
+Articuno,Take Down,0,machine
+Articuno,Double-Edge,0,machine
+Articuno,Mist,60,
+Articuno,Water Gun,0,machine
+Articuno,Ice Beam,1,
+Articuno,Blizzard,51,
+Articuno,BubbleBeam,0,machine
+Articuno,Hyper Beam,0,machine
+Articuno,Peck,1,
+Articuno,Toxic,0,machine
+Articuno,Agility,55,
+Articuno,Rage,0,machine
+Articuno,Mimic,0,machine
+Articuno,Double Team,0,machine
+Articuno,Reflect,0,machine
+Articuno,Bide,0,machine
+Articuno,Swift,0,machine
+Articuno,Sky Attack,0,machine
+Articuno,Rest,0,machine
+Articuno,Substitute,0,machine
+Zapdos,Razor Wind,0,machine
+Zapdos,Whirlwind,0,machine
+Zapdos,Fly,0,machine
+Zapdos,Take Down,0,machine
+Zapdos,Double-Edge,0,machine
+Zapdos,Hyper Beam,0,machine
+Zapdos,Drill Peck,1,
+Zapdos,ThunderShock,1,
+Zapdos,Thunderbolt,0,machine
+Zapdos,Thunder Wave,0,machine
+Zapdos,Thunder,51,
+Zapdos,Toxic,0,machine
+Zapdos,Agility,55,
+Zapdos,Rage,0,machine
+Zapdos,Mimic,0,machine
+Zapdos,Double Team,0,machine
+Zapdos,Light Screen,60,
+Zapdos,Reflect,0,machine
+Zapdos,Bide,0,machine
+Zapdos,Swift,0,machine
+Zapdos,Sky Attack,0,machine
+Zapdos,Flash,0,machine
+Zapdos,Rest,0,machine
+Zapdos,Substitute,0,machine
+Moltres,Razor Wind,0,machine
+Moltres,Whirlwind,0,machine
+Moltres,Fly,0,machine
+Moltres,Take Down,0,machine
+Moltres,Double-Edge,0,machine
+Moltres,Leer,51,
+Moltres,Hyper Beam,0,machine
+Moltres,Peck,1,
+Moltres,Fire Spin,1,
+Moltres,Toxic,0,machine
+Moltres,Agility,55,
+Moltres,Rage,0,machine
+Moltres,Mimic,0,machine
+Moltres,Double Team,0,machine
+Moltres,Reflect,0,machine
+Moltres,Bide,0,machine
+Moltres,Fire Blast,0,machine
+Moltres,Swift,0,machine
+Moltres,Sky Attack,60,
+Moltres,Rest,0,machine
+Moltres,Substitute,0,machine
+Dratini,Slam,30,
+Dratini,Body Slam,0,machine
+Dratini,Wrap,1,
+Dratini,Take Down,0,machine
+Dratini,Double-Edge,0,machine
+Dratini,Leer,1,
+Dratini,Water Gun,0,machine
+Dratini,Surf,0,machine
+Dratini,Ice Beam,0,machine
+Dratini,Blizzard,0,machine
+Dratini,BubbleBeam,0,machine
+Dratini,Hyper Beam,50,
+Dratini,Dragon Rage,40,
+Dratini,Thunderbolt,0,machine
+Dratini,Thunder Wave,10,
+Dratini,Thunder,0,machine
+Dratini,Toxic,0,machine
+Dratini,Agility,20,
+Dratini,Rage,0,machine
+Dratini,Mimic,0,machine
+Dratini,Double Team,0,machine
+Dratini,Reflect,0,machine
+Dratini,Bide,0,machine
+Dratini,Fire Blast,0,machine
+Dratini,Swift,0,machine
+Dratini,Skull Bash,0,machine
+Dratini,Rest,0,machine
+Dratini,Substitute,0,machine
+Dragonair,Slam,35,
+Dragonair,Horn Drill,0,machine
+Dragonair,Body Slam,0,machine
+Dragonair,Wrap,1,
+Dragonair,Take Down,0,machine
+Dragonair,Double-Edge,0,machine
+Dragonair,Leer,1,
+Dragonair,Water Gun,0,machine
+Dragonair,Surf,0,machine
+Dragonair,Ice Beam,0,machine
+Dragonair,Blizzard,0,machine
+Dragonair,BubbleBeam,0,machine
+Dragonair,Hyper Beam,55,
+Dragonair,Dragon Rage,45,
+Dragonair,Thunderbolt,0,machine
+Dragonair,Thunder Wave,1,
+Dragonair,Thunder,0,machine
+Dragonair,Toxic,0,machine
+Dragonair,Agility,20,
+Dragonair,Rage,0,machine
+Dragonair,Mimic,0,machine
+Dragonair,Double Team,0,machine
+Dragonair,Reflect,0,machine
+Dragonair,Bide,0,machine
+Dragonair,Fire Blast,0,machine
+Dragonair,Swift,0,machine
+Dragonair,Skull Bash,0,machine
+Dragonair,Rest,0,machine
+Dragonair,Substitute,0,machine
+Dragonite,Razor Wind,0,machine
+Dragonite,Slam,35,
+Dragonite,Horn Drill,0,machine
+Dragonite,Body Slam,0,machine
+Dragonite,Wrap,1,
+Dragonite,Take Down,0,machine
+Dragonite,Double-Edge,0,machine
+Dragonite,Leer,1,
+Dragonite,Water Gun,0,machine
+Dragonite,Surf,0,machine
+Dragonite,Ice Beam,0,machine
+Dragonite,Blizzard,0,machine
+Dragonite,BubbleBeam,0,machine
+Dragonite,Hyper Beam,60,
+Dragonite,Strength,0,machine
+Dragonite,Dragon Rage,45,
+Dragonite,Thunderbolt,0,machine
+Dragonite,Thunder Wave,1,
+Dragonite,Thunder,0,machine
+Dragonite,Toxic,0,machine
+Dragonite,Agility,1,
+Dragonite,Rage,0,machine
+Dragonite,Mimic,0,machine
+Dragonite,Double Team,0,machine
+Dragonite,Reflect,0,machine
+Dragonite,Bide,0,machine
+Dragonite,Fire Blast,0,machine
+Dragonite,Swift,0,machine
+Dragonite,Skull Bash,0,machine
+Dragonite,Rest,0,machine
+Dragonite,Substitute,0,machine
+Mewtwo,Mega Punch,0,machine
+Mewtwo,Pay Day,0,machine
+Mewtwo,Mega Kick,0,machine
+Mewtwo,Body Slam,0,machine
+Mewtwo,Take Down,0,machine
+Mewtwo,Double-Edge,0,machine
+Mewtwo,Disable,1,
+Mewtwo,Mist,75,
+Mewtwo,Water Gun,0,machine
+Mewtwo,Ice Beam,0,machine
+Mewtwo,Blizzard,0,machine
+Mewtwo,BubbleBeam,0,machine
+Mewtwo,Hyper Beam,0,machine
+Mewtwo,Submission,0,machine
+Mewtwo,Counter,0,machine
+Mewtwo,Seismic Toss,0,machine
+Mewtwo,Strength,0,machine
+Mewtwo,SolarBeam,0,machine
+Mewtwo,Thunderbolt,0,machine
+Mewtwo,Thunder Wave,0,machine
+Mewtwo,Thunder,0,machine
+Mewtwo,Toxic,0,machine
+Mewtwo,Confusion,1,
+Mewtwo,Psychic,1,
+Mewtwo,Rage,0,machine
+Mewtwo,Teleport,0,machine
+Mewtwo,Mimic,0,machine
+Mewtwo,Double Team,0,machine
+Mewtwo,Recover,70,
+Mewtwo,Barrier,63,
+Mewtwo,Reflect,0,machine
+Mewtwo,Bide,0,machine
+Mewtwo,Metronome,0,machine
+Mewtwo,Selfdestruct,0,machine
+Mewtwo,Fire Blast,0,machine
+Mewtwo,Swift,1,
+Mewtwo,Skull Bash,0,machine
+Mewtwo,Amnesia,81,
+Mewtwo,Flash,0,machine
+Mewtwo,Psywave,0,machine
+Mewtwo,Rest,0,machine
+Mewtwo,Tri Attack,0,machine
+Mewtwo,Substitute,0,machine
+Mew,Pound,1,
+Mew,Mega Punch,20,
+Mew,Pay Day,0,machine
+Mew,Razor Wind,0,machine
+Mew,Swords Dance,0,machine
+Mew,Cut,0,machine
+Mew,Whirlwind,0,machine
+Mew,Fly,0,machine
+Mew,Mega Kick,0,machine
+Mew,Horn Drill,0,machine
+Mew,Body Slam,0,machine
+Mew,Take Down,0,machine
+Mew,Double-Edge,0,machine
+Mew,Water Gun,0,machine
+Mew,Surf,0,machine
+Mew,Ice Beam,0,machine
+Mew,Blizzard,0,machine
+Mew,BubbleBeam,0,machine
+Mew,Hyper Beam,0,machine
+Mew,Submission,0,machine
+Mew,Counter,0,machine
+Mew,Seismic Toss,0,machine
+Mew,Strength,0,machine
+Mew,Mega Drain,0,machine
+Mew,SolarBeam,0,machine
+Mew,Dragon Rage,0,machine
+Mew,Thunderbolt,0,machine
+Mew,Thunder Wave,0,machine
+Mew,Thunder,0,machine
+Mew,Earthquake,0,machine
+Mew,Fissure,0,machine
+Mew,Dig,0,machine
+Mew,Toxic,0,machine
+Mew,Psychic,40,
+Mew,Rage,0,machine
+Mew,Teleport,0,machine
+Mew,Mimic,0,machine
+Mew,Double Team,0,machine
+Mew,Reflect,0,machine
+Mew,Bide,0,machine
+Mew,Metronome,30,
+Mew,Selfdestruct,0,machine
+Mew,Egg Bomb,0,machine
+Mew,Fire Blast,0,machine
+Mew,Swift,0,machine
+Mew,Skull Bash,0,machine
+Mew,Softboiled,0,machine
+Mew,Dream Eater,0,machine
+Mew,Sky Attack,0,machine
+Mew,Transform,10,
+Mew,Flash,0,machine
+Mew,Psywave,0,machine
+Mew,Explosion,0,machine
+Mew,Rest,0,machine
+Mew,Rock Slide,0,machine
+Mew,Tri Attack,0,machine
+Mew,Substitute,0,machine

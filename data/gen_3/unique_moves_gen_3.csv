@@ -1,0 +1,180 @@
+move,type,power,accuracy,crit
+Absorb,Grass,20.0,1.0,False
+Acid,Poison,40.0,1.0,False
+Aerial Ace,Flying,60.0,1.0,False
+Aeroblast,Flying,100.0,0.95,True
+Air Cutter,Flying,55.0,0.95,True
+AncientPower,Rock,60.0,1.0,False
+Arm Thrust,Fighting,45.0,1.0,False
+Astonish,Ghost,30.0,1.0,False
+Aurora Beam,Ice,65.0,1.0,False
+Barrage,Normal,45.0,0.85,False
+Bind,Normal,15.0,0.75,False
+Bite,Dark,60.0,1.0,False
+Blaze Kick,Fire,85.0,0.9,True
+Blizzard,Ice,120.0,0.7,False
+Body Slam,Normal,85.0,1.0,False
+Bone Club,Ground,65.0,0.85,False
+Bone Rush,Ground,75.0,0.8,False
+Bonemerang,Ground,100.0,0.9,False
+Bounce,Flying,85.0,0.85,False
+Brick Break,Fighting,75.0,1.0,False
+Bubble,Water,20.0,1.0,False
+BubbleBeam,Water,65.0,1.0,False
+Bullet Seed,Grass,30.0,1.0,False
+Clamp,Water,35.0,0.75,False
+Comet Punch,Normal,54.0,0.85,False
+Confusion,Psychic,50.0,1.0,False
+Constrict,Normal,10.0,1.0,False
+Covet,Normal,40.0,1.0,False
+Crabhammer,Water,90.0,0.85,True
+Cross Chop,Fighting,100.0,0.8,True
+Crunch,Dark,80.0,1.0,False
+Crush Claw,Normal,75.0,0.95,False
+Cut,Normal,50.0,0.95,False
+Dig,Ground,60.0,1.0,False
+Dive,Water,60.0,1.0,False
+Dizzy Punch,Normal,70.0,1.0,False
+Doom Desire,Steel,120.0,0.85,False
+Double Kick,Fighting,60.0,1.0,False
+DoubleSlap,Normal,45.0,0.85,False
+Dragon Claw,Dragon,80.0,1.0,False
+DragonBreath,Dragon,60.0,1.0,False
+Drill Peck,Flying,80.0,1.0,False
+DynamicPunch,Fighting,100.0,0.5,False
+Earthquake,Ground,100.0,1.0,False
+Egg Bomb,Normal,100.0,0.75,False
+Ember,Fire,40.0,1.0,False
+Eruption,Fire,150.0,1.0,False
+Extrasensory,Psychic,80.0,1.0,False
+ExtremeSpeed,Normal,80.0,1.0,False
+Facade,Normal,70.0,1.0,False
+Faint Attack,Dark,60.0,1.0,False
+Fake Out,Normal,40.0,1.0,False
+False Swipe,Normal,40.0,1.0,False
+Fire Blast,Fire,120.0,0.85,False
+Fire Punch,Fire,75.0,1.0,False
+Fire Spin,Fire,15.0,0.7,False
+Flame Wheel,Fire,60.0,1.0,False
+Flamethrower,Fire,95.0,1.0,False
+Fly,Flying,70.0,0.95,False
+Fury Attack,Normal,45.0,0.85,False
+Fury Cutter,Bug,10.0,0.95,False
+Fury Swipes,Normal,54.0,0.8,False
+Future Sight,Psychic,80.0,0.9,False
+Giga Drain,Grass,60.0,1.0,False
+Gust,Flying,40.0,1.0,False
+Headbutt,Normal,70.0,1.0,False
+Heat Wave,Fire,100.0,0.9,False
+Hi Jump Kick,Fighting,85.0,0.9,False
+Hidden Power,Normal,60.0,1.0,False
+Horn Attack,Normal,65.0,1.0,False
+Hydro Pump,Water,120.0,0.8,False
+Hyper Beam,Normal,75.0,0.9,False
+Hyper Fang,Normal,80.0,0.9,False
+Hyper Voice,Normal,90.0,1.0,False
+Ice Ball,Ice,30.0,0.9,False
+Ice Beam,Ice,95.0,1.0,False
+Ice Punch,Ice,75.0,1.0,False
+Icicle Spear,Ice,30.0,1.0,False
+Icy Wind,Ice,55.0,0.95,False
+Iron Tail,Steel,100.0,0.75,False
+Jump Kick,Fighting,70.0,0.95,False
+Karate Chop,Fighting,50.0,1.0,True
+Knock Off,Dark,20.0,1.0,False
+Leaf Blade,Grass,70.0,1.0,True
+Leech Life,Bug,20.0,1.0,False
+Lick,Ghost,20.0,1.0,False
+Luster Purge,Psychic,70.0,1.0,False
+Mach Punch,Fighting,40.0,1.0,False
+Magical Leaf,Grass,60.0,1.0,False
+Mega Drain,Grass,40.0,1.0,False
+Mega Kick,Normal,120.0,0.75,False
+Mega Punch,Normal,80.0,0.85,False
+Megahorn,Bug,120.0,0.85,False
+Metal Claw,Steel,50.0,0.95,False
+Meteor Mash,Steel,100.0,0.85,False
+Mist Ball,Psychic,70.0,1.0,False
+Mud Shot,Ground,55.0,0.95,False
+Mud-Slap,Ground,20.0,1.0,False
+Muddy Water,Water,95.0,0.85,False
+Needle Arm,Grass,60.0,1.0,False
+Octazooka,Water,65.0,0.85,False
+Outrage,Dragon,90.0,1.0,False
+Overheat,Fire,140.0,0.9,False
+Pay Day,Normal,40.0,1.0,False
+Peck,Flying,35.0,1.0,False
+Petal Dance,Grass,70.0,1.0,False
+Pin Missile,Bug,42.0,0.85,False
+Poison Fang,Poison,50.0,1.0,False
+Poison Sting,Poison,15.0,1.0,False
+Poison Tail,Poison,50.0,1.0,True
+Pound,Normal,40.0,1.0,False
+Powder Snow,Ice,40.0,1.0,False
+Psybeam,Psychic,65.0,1.0,False
+Psychic,Psychic,90.0,1.0,False
+Psycho Boost,Psychic,140.0,0.9,False
+Pursuit,Dark,40.0,1.0,False
+Quick Attack,Normal,40.0,1.0,False
+Rage,Normal,20.0,1.0,False
+Rapid Spin,Normal,20.0,1.0,False
+Razor Leaf,Grass,55.0,0.95,True
+Return,Normal,102.0,1.0,False
+Revenge,Fighting,60.0,1.0,False
+Rock Blast,Rock,75.0,0.8,False
+Rock Slide,Rock,75.0,0.9,False
+Rock Smash,Fighting,20.0,1.0,False
+Rock Throw,Rock,50.0,0.9,False
+Rock Tomb,Rock,50.0,0.8,False
+Rolling Kick,Fighting,60.0,0.85,False
+Rollout,Rock,30.0,0.9,False
+Sacred Fire,Fire,100.0,0.95,False
+Sand Tomb,Ground,15.0,0.7,False
+Scratch,Normal,40.0,1.0,False
+Secret Power,Normal,70.0,1.0,False
+Shadow Ball,Ghost,80.0,1.0,False
+Shadow Punch,Ghost,60.0,1.0,False
+Shock Wave,Electric,60.0,1.0,False
+Signal Beam,Bug,75.0,1.0,False
+Silver Wind,Bug,60.0,1.0,False
+Sky Uppercut,Fighting,85.0,0.9,False
+Slam,Normal,80.0,0.75,False
+Slash,Normal,70.0,1.0,True
+Sludge,Poison,65.0,1.0,False
+Sludge Bomb,Poison,90.0,1.0,False
+SmellingSalt,Normal,60.0,1.0,False
+Smog,Poison,20.0,0.7,False
+Snore,Normal,1,1.0,False
+Spark,Electric,65.0,1.0,False
+Spike Cannon,Normal,60.0,1.0,False
+Steel Wing,Steel,70.0,0.9,False
+Stomp,Normal,65.0,1.0,False
+Strength,Normal,80.0,1.0,False
+Struggle,Normal,1.0,1.0,False
+Superpower,Fighting,120.0,1.0,False
+Surf,Water,95.0,1.0,False
+Swift,Normal,60.0,1.0,False
+Tackle,Normal,35.0,0.95,False
+Thief,Dark,40.0,1.0,False
+Thrash,Normal,90.0,1.0,False
+Thunder,Electric,120.0,0.7,False
+ThunderPunch,Electric,75.0,1.0,False
+ThunderShock,Electric,40.0,1.0,False
+Thunderbolt,Electric,95.0,1.0,False
+Tri Attack,Normal,80.0,1.0,False
+Triple Kick,Fighting,10.0,0.9,False
+Twineedle,Bug,50.0,1.0,False
+Twister,Dragon,40.0,1.0,False
+Uproar,Normal,50.0,1.0,False
+ViceGrip,Normal,55.0,1.0,False
+Vine Whip,Grass,35.0,1.0,False
+Vital Throw,Fighting,70.0,1.0,False
+Water Gun,Water,40.0,1.0,False
+Water Pulse,Water,60.0,1.0,False
+Water Spout,Water,150.0,1.0,False
+Waterfall,Water,80.0,1.0,False
+Weather Ball,Normal,50.0,1.0,False
+Whirlpool,Water,15.0,0.7,False
+Wing Attack,Flying,60.0,1.0,False
+Wrap,Normal,15.0,0.85,False
+Zap Cannon,Electric,100.0,0.5,False

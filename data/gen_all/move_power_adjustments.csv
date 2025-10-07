@@ -1,0 +1,41 @@
+﻿Name,new_power,Power,Strikes
+Bonemerang,100,50,2
+Double Hit,70,35,2
+Double Kick,60,30,2
+Twineedle,50,25,2
+Arm Thrust,45,15,3
+Barrage,45,15,3
+Bone Rush,75,25,3
+Bullet Seed,30,10,3
+Comet Punch,54,18,3
+Double Slap,45,15,3
+Fury Attack,45,15,3
+Fury Swipes,54,18,3
+Icicle Spear,30,10,3
+Pin Missile,42,14,3
+Rock Blast,75,25,3
+Spike Cannon,60,20,3
+Tail Slap,75,25,3
+Triple Kick,60,10,6
+Magnitude,71,71,1
+Water Spout,150,150,1
+Eruption,150,150,1
+Return,102,102,1
+Razor Wind,0,80,0.5
+Skull Bash,0,100,0.5
+Sky Attack,0,140,0.5
+Solarbeam,0,120,0.5
+Blast Burn,75,150,0.5
+Frenzy Plant,75,150,0.5
+Hydro Cannon,75,150,0.5
+Hyper Beam,75,150,0.5
+DoubleEdge,75,100,1
+Struggle,1,0,1
+Submission,60,80,1
+Take Down,67,90,1
+Selfdestruct,0,0,1
+Explosion,0,0,1
+Focus Punch,0,0,1
+Future Sight,0,0,1
+Dream Eater,0,0,1
+Volt Tackle,80,120,1

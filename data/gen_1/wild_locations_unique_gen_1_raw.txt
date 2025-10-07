@@ -1,0 +1,133 @@
+Magikarp
+A salesman in Route 4's Pokémon Center will offer a Magikarp to the player for $500.
+
+Spr 1g 129.png	Pokémon Info	Trainer Memo	Pokémon Skills
+Poké Ball battle I.png MAGIKARP	Dex No.	129	Route 4	Normal	Splash	--	--
+Lv.5	Water	Met at Lv. 5.	--	--	--	--
+Can be obtained with:		R	G	B	Y
+R	B
+Snorlax
+There are two set encounters with Snorlax accessible via the Poké Flute; one on Route 12 and one on Route 16. The player must capture or defeat at least one of them to proceed to Fuchsia City.
+
+Spr 1g 143.png	Pokémon Info	Trainer Memo	Pokémon Skills
+Poké Ball battle I.png SNORLAX	Dex No.	143	Route 12/Route 16	Normal	Headbutt	Psychic	Amnesia
+Lv.30	Normal	Met at Lv. 30.	Psychic	Rest	--	--
+Can be obtained with:		R	G	B	Y
+R	B
+Hitmonlee
+Kiyo, the master of the Fighting Dojo in Saffron City, will reward the player with their choice of either Hitmonlee or Hitmonchan after defeating him.
+
+Spr 1g 143.png	Pokémon Info	Trainer Memo	Pokémon Skills
+Poké Ball battle I.png SNORLAX	Dex No.	143	Route 12/Route 16	Normal	Headbutt	Psychic	Amnesia
+Lv.30	Normal	Met at Lv. 30.	Psychic	Rest	--	--
+Can be obtained with:		R	G	B	Y
+R	B
+Hitmonchan
+Kiyo, the master of the Fighting Dojo in Saffron City, will reward the player with their choice of either Hitmonlee or Hitmonchan after defeating him.
+
+Spr 1g 106.png	Pokémon Info	Trainer Memo	Pokémon Skills
+Poké Ball battle I.png HITMONLEE	Dex No.	106	Saffron City	Fighting	Double Kick	Psychic	Meditate
+Lv.30	Fighting	Met at Lv. 30.	--	--	--	--
+Can be obtained with:		R	G	B	Y
+R	B
+Spr 1g 107.png	Pokémon Info	Trainer Memo	Pokémon Skills
+Poké Ball battle I.png HITMONCHAN	Dex No.	107	Saffron City	Normal	Comet Punch	Psychic	Agility
+Lv.30	Fighting	Met at Lv. 30.	--	--	--	--
+Can be obtained with:		R	G	B	Y
+R	B
+Lapras
+After defeating Blue during Team Rocket's invasion of Silph Co., an onlooking Silph employee will entrust the player with a Lapras.
+
+Spr 1g 131.png	Pokémon Info	Trainer Memo	Pokémon Skills
+Poké Ball battle I.png LAPRAS	Dex No.	131	Silph Co.	Water	Water Gun	Normal	Growl
+Lv.15	Water	Ice	Met at Lv. 15.	--	--	--	--
+Can be obtained with:		R	G	B	Y
+R	B
+Fossil Pokémon
+Omanyte
+The Helix and Dome Fossils are found at the end of Mt. Moon, but the player may only choose one to keep. The player may revive the Fossil in the Pokémon Lab on Cinnabar Island.
+
+Spr 1g 131.png	Pokémon Info	Trainer Memo	Pokémon Skills
+Poké Ball battle I.png LAPRAS	Dex No.	131	Silph Co.	Water	Water Gun	Normal	Growl
+Lv.15	Water	Ice	Met at Lv. 15.	--	--	--	--
+Can be obtained with:		R	G	B	Y
+R	B
+Fossil Pokémon
+Kabuto
+The Helix and Dome Fossils are found at the end of Mt. Moon, but the player may only choose one to keep. The player may revive the Fossil in the Pokémon Lab on Cinnabar Island.
+
+Spr 1g 138.png	Pokémon Info	Trainer Memo	Pokémon Skills
+Poké Ball battle I.png OMANYTE	Dex No.	138	Cinnabar Island	Water	Water Gun	Water	Withdraw
+Lv.30	Rock	Water	Met at Lv. 30.	--	--	--	--
+Can be obtained with:		R	G	B	Y
+R	B
+Spr 1g 140.png	Pokémon Info	Trainer Memo	Pokémon Skills
+Poké Ball battle I.png KABUTO	Dex No.	140	Cinnabar Island	Normal	Scratch	Normal	Harden
+Lv.30	Rock	Water	Met at Lv. 30.	--	--	--	--
+Can be obtained with:		R	G	B	Y
+R	B
+Aerodactyl
+The Old Amber is located in the secret part of the Pewter Museum of Science, which can only be accessed with HM01 (Cut). The player may revive the Fossil in the Pokémon Lab on Cinnabar Island.
+
+Spr 1g 142.png	Pokémon Info	Trainer Memo	Pokémon Skills
+Poké Ball battle I.png AERODACTYL	Dex No.	142	Cinnabar Island	Flying	Wing Attack	Psychic	Agility
+Lv.30	Rock	Flying	Met at Lv. 30.	--	--	--	--
+Can be obtained with:		R	G	B	Y
+R	B
+Articuno
+Articuno is found within the depths of the Seafoam Islands.
+
+Spr 1g 144.png	Pokémon Info	Trainer Memo	Pokémon Skills
+Poké Ball battle I.png ARTICUNO	Dex No.	144	Seafoam Islands	Flying	Peck	Ice	Ice Beam
+Lv.50	Ice	Flying	Met at Lv. 50.	--	--	--	--
+Can be obtained with:		R	G	B	Y
+R	B
+Zapdos
+Zapdos is found inside the abandoned Power Plant.
+
+Spr 1g 145.png	Pokémon Info	Trainer Memo	Pokémon Skills
+Poké Ball battle I.png ZAPDOS	Dex No.	145	Power Plant	Electric	ThunderShock	Flying	Drill Peck
+Lv.50	Electric	Flying	Met at Lv. 50.	--	--	--	--
+Can be obtained with:		R	G	B	Y
+R	B
+Moltres
+Moltres can be found in Victory Road.
+
+Spr 1g 146.png	Pokémon Info	Trainer Memo	Pokémon Skills
+Poké Ball battle I.png MOLTRES	Dex No.	146	Victory Road	Flying	Peck	Fire	Fire Spin
+Lv.50	Fire	Flying	Met at Lv. 50.	--	--	--	--
+Can be obtained with:		R	G	B	Y
+R	B
+Mewtwo
+Mewtwo is found within the depths of Cerulean Cave, accessible only to powerful Trainers who have entered the Hall of Fame.
+
+Spr 1b 150.png	Pokémon Info	Trainer Memo	Pokémon Skills
+Poké Ball battle I.png MEWTWO	Dex No.	150	Cerulean Cave	Normal	Swift	Psychic	Psychic
+Lv.70	Psychic	Met at Lv. 70.	Psychic	Barrier	Normal	Recover
+Can be obtained with:		R	G	B	Y
+R	B
+Eevee
+A Poké Ball containing Eevee can be found on the roof floor of Celadon Mansion in Celadon City.
+
+Spr 1b 133.png	Pokémon Info	Trainer Memo	Pokémon Skills
+Poké Ball battle I.png EEVEE	Dex No.	133	Celadon City	Normal	Tackle	Normal	Sand-Attack
+Lv.25	Normal	Met at Lv. 25.	--	--	--	--
+Can be obtained with:		R	G	B	Y
+R	B
+Professor Oak gives the player a choice of Bulbasaur, Charmander, or Squirtle as first partner Pokémon.
+
+Spr 1g 001.png	Pokémon Info	Trainer Memo	Pokémon Skills
+Poké Ball battle I.png BULBASAUR	Dex No.	001	Pallet Town	Normal	Tackle	Normal	Growl
+Lv.5	Grass	Poison	Met at Lv. 5.	--	--	--	--
+Can be obtained with:		R	G	B	Y
+R	B
+Spr 1g 004.png	Pokémon Info	Trainer Memo	Pokémon Skills
+Poké Ball battle I.png CHARMANDER	Dex No.	004	Pallet Town	Normal	Scratch	Normal	Growl
+Lv.5	Fire	Met at Lv. 5.	--	--	--	--
+Can be obtained with:		R	G	B	Y
+R	B
+Spr 1g 007.png	Pokémon Info	Trainer Memo	Pokémon Skills
+Poké Ball battle I.png SQUIRTLE	Dex No.	007	Pallet Town	Normal	Tackle	Normal	Tail Whip
+Lv.5	Water	Met at Lv. 5.	--	--	--	--
+Can be obtained with:		R	G	B	Y
+R	B

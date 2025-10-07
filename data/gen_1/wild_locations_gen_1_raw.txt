@@ -1,0 +1,1714 @@
+(https://gamefaqs.gamespot.com/gameboy/367023-pokemon-red-version/faqs/64175/encounter-tables)
+
+Pallet Town encounters
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/2	50%	Tentacool Lv.15	Tentacool Lv.15
+1/2	50%	Poliwag Lv.15	Poliwag Lv.15
+Average Exp.	195.00	195.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Staryu Lv.10
+76/256	30%	Tentacool Lv.10
+51/256	20%	Staryu Lv.5
+27/256	10%	Tentacool Lv.20
+Average Exp.	151.28
+Route 1 encounters
+Tall grass
+Encounter Rate: 25
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Pidgey Lv.3	Pidgey Lv.3	Pidgey Lv.3
+51/256	20%	Rattata Lv.3	Rattata Lv.3	Pidgey Lv.4
+39/256	15%	Rattata Lv.3	Rattata Lv.3	Rattata Lv.2
+25/256	10%	Rattata Lv.2	Rattata Lv.2	Rattata Lv.3
+25/256	10%	Pidgey Lv.2	Pidgey Lv.2	Pidgey Lv.2
+25/256	10%	Pidgey Lv.3	Pidgey Lv.3	Pidgey Lv.3
+13/256	5%	Pidgey Lv.3	Pidgey Lv.3	Pidgey Lv.5
+13/256	5%	Rattata Lv.4	Rattata Lv.4	Rattata Lv.4
+11/256	4%	Pidgey Lv.4	Pidgey Lv.4	Pidgey Lv.6
+3/256	1%	Pidgey Lv.5	Pidgey Lv.5	Pidgey Lv.7
+Average Exp.	22.88	22.88	25.52
+Viridian City encounters
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/2	50%	Tentacool Lv.15	Tentacool Lv.15
+1/2	50%	Poliwag Lv.15	Poliwag Lv.15
+Average Exp.	195.00	195.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Poliwag Lv.5
+76/256	30%	Poliwag Lv.10
+51/256	20%	Poliwag Lv.15
+27/256	10%	Poliwag Lv.10
+Average Exp.	99.04
+Route 22 encounters
+Tall grass
+Encounter Rate: 25
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Rattata Lv.3	Rattata Lv.3	Nidoran_m Lv.2
+51/256	20%	Nidoran_m Lv.3	Nidoran_f Lv.3	Nidoran_f Lv.2
+39/256	15%	Rattata Lv.4	Rattata Lv.4	Mankey Lv.3
+25/256	10%	Nidoran_m Lv.4	Nidoran_f Lv.4	Rattata Lv.3
+25/256	10%	Rattata Lv.2	Rattata Lv.2	Nidoran_m Lv.4
+25/256	10%	Nidoran_m Lv.2	Nidoran_f Lv.2	Nidoran_f Lv.4
+13/256	5%	Spearow Lv.3	Spearow Lv.3	Mankey Lv.5
+13/256	5%	Spearow Lv.5	Spearow Lv.5	Spearow Lv.2
+11/256	4%	Nidoran_f Lv.3	Nidoran_m Lv.3	Spearow Lv.4
+3/256	1%	Nidoran_f Lv.4	Nidoran_m Lv.4	Spearow Lv.6
+Average Exp.	25.94	25.76	25.63
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/2	50%	Goldeen Lv.15	Goldeen Lv.15
+1/2	50%	Poliwag Lv.15	Poliwag Lv.15
+Average Exp.	201.00	201.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Poliwag Lv.5
+76/256	30%	Poliwag Lv.10
+51/256	20%	Poliwag Lv.15
+27/256	10%	Poliwhirl Lv.15
+Average Exp.	116.97
+Route 2 encounters
+Tall grass
+Encounter Rate: 25
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Rattata Lv.3	Rattata Lv.3	Rattata Lv.3
+51/256	20%	Pidgey Lv.3	Pidgey Lv.3	Pidgey Lv.3
+39/256	15%	Pidgey Lv.4	Pidgey Lv.4	Rattata Lv.4
+25/256	10%	Rattata Lv.4	Rattata Lv.4	Nidoran_m Lv.4
+25/256	10%	Pidgey Lv.5	Pidgey Lv.5	Nidoran_f Lv.4
+25/256	10%	Weedle Lv.3	Caterpie Lv.3	Pidgey Lv.5
+13/256	5%	Rattata Lv.2	Rattata Lv.2	Nidoran_m Lv.6
+13/256	5%	Rattata Lv.5	Rattata Lv.5	Nidoran_f Lv.6
+11/256	4%	Weedle Lv.4	Caterpie Lv.4	Pidgey Lv.7
+3/256	1%	Weedle Lv.5	Caterpie Lv.5	Pidgey Lv.7
+Average Exp.	27.69	27.73	32.73
+Viridian Forest encounters
+Tall grass
+Encounter RateRB: 8
+Encounter RateY: 25
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Weedle Lv.4	Caterpie Lv.4	Caterpie Lv.3
+51/256	20%	Kakuna Lv.5	Metapod Lv.5	Metapod Lv.4
+39/256	15%	Weedle Lv.3	Caterpie Lv.3	Caterpie Lv.4
+25/256	10%	Weedle Lv.5	Caterpie Lv.5	Caterpie Lv.5
+25/256	10%	Kakuna Lv.4	Metapod Lv.4	Pidgey Lv.4
+25/256	10%	Kakuna Lv.6	Metapod Lv.6	Pidgey Lv.6
+13/256	5%	Metapod Lv.4	Kakuna Lv.4	Caterpie Lv.6
+13/256	5%	Caterpie Lv.3	Weedle Lv.3	Metapod Lv.6
+11/256	4%	Pikachu Lv.3	Pikachu Lv.3	Pidgey Lv.8
+3/256	1%	Pikachu Lv.5	Pikachu Lv.5	Pidgeotto Lv.9
+Average Exp.	37.85	38.39	38.10
+Route 3 encounters
+Tall grass
+Encounter Rate: 20
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Pidgey Lv.6	Pidgey Lv.6	Spearow Lv.8
+51/256	20%	Spearow Lv.5	Spearow Lv.5	Spearow Lv.9
+39/256	15%	Pidgey Lv.7	Pidgey Lv.7	Mankey Lv.9
+25/256	10%	Spearow Lv.6	Spearow Lv.6	Spearow Lv.10
+25/256	10%	Spearow Lv.7	Spearow Lv.7	Sandshrew Lv.8
+25/256	10%	Pidgey Lv.8	Pidgey Lv.8	Rattata Lv.10
+13/256	5%	Spearow Lv.8	Spearow Lv.8	Sandshrew Lv.10
+13/256	5%	Jigglypuff Lv.3	Jigglypuff Lv.3	Rattata Lv.12
+11/256	4%	Jigglypuff Lv.5	Jigglypuff Lv.5	Spearow Lv.11
+3/256	1%	Jigglypuff Lv.7	Jigglypuff Lv.7	Spearow Lv.12
+Average Exp.	50.60	50.60	85.33
+Mt. Moon (1F) encounters
+Cave
+Encounter Rate: 10
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Zubat Lv.8	Zubat Lv.8	Zubat Lv.8
+51/256	20%	Zubat Lv.7	Zubat Lv.7	Zubat Lv.9
+39/256	15%	Zubat Lv.9	Zubat Lv.9	Geodude Lv.10
+25/256	10%	Geodude Lv.8	Geodude Lv.8	Zubat Lv.6
+25/256	10%	Zubat Lv.6	Zubat Lv.6	Zubat Lv.7
+25/256	10%	Zubat Lv.10	Zubat Lv.10	Zubat Lv.10
+13/256	5%	Geodude Lv.10	Geodude Lv.10	Geodude Lv.10
+13/256	5%	Paras Lv.8	Paras Lv.8	Zubat Lv.11
+11/256	4%	Zubat Lv.11	Zubat Lv.11	Sandshrew Lv.12
+3/256	1%	Clefairy Lv.8	Clefairy Lv.8	Clefairy Lv.11
+Average Exp.	69.77	69.77	80.30
+Mt. Moon (B1F) encounters
+Cave
+Encounter Rate: 10
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Zubat Lv.8	Zubat Lv.8	Zubat Lv.8
+51/256	20%	Zubat Lv.7	Zubat Lv.7	Zubat Lv.9
+39/256	15%	Geodude Lv.7	Geodude Lv.7	Zubat Lv.10
+25/256	10%	Geodude Lv.8	Geodude Lv.8	Geodude Lv.10
+25/256	10%	Zubat Lv.9	Zubat Lv.9	Geodude Lv.11
+25/256	10%	Paras Lv.10	Paras Lv.10	Zubat Lv.11
+13/256	5%	Zubat Lv.10	Zubat Lv.10	Paras Lv.9
+13/256	5%	Zubat Lv.11	Zubat Lv.11	Paras Lv.11
+11/256	4%	Clefairy Lv.9	Clefairy Lv.9	Clefairy Lv.10
+3/256	1%	Geodude Lv.9	Geodude Lv.9	Clefairy Lv.12
+Average Exp.	75.29	75.29	86.61
+Mt. Moon (B2F) encounters
+Cave
+Encounter Rate: 10
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Zubat Lv.9	Zubat Lv.9	Zubat Lv.10
+51/256	20%	Geodude Lv.9	Geodude Lv.9	Geodude Lv.11
+39/256	15%	Zubat Lv.10	Zubat Lv.10	Paras Lv.13
+25/256	10%	Geodude Lv.10	Geodude Lv.10	Zubat Lv.11
+25/256	10%	Zubat Lv.11	Zubat Lv.11	Zubat Lv.11
+25/256	10%	Paras Lv.10	Paras Lv.10	Zubat Lv.12
+13/256	5%	Paras Lv.12	Paras Lv.12	Zubat Lv.13
+13/256	5%	Clefairy Lv.10	Clefairy Lv.10	Clefairy Lv.9
+11/256	4%	Zubat Lv.12	Zubat Lv.12	Clefairy Lv.11
+3/256	1%	Clefairy Lv.12	Clefairy Lv.12	Clefairy Lv.13
+Average Exp.	93.61	93.61	102.96
+Route 4 encounters
+Tall grass
+Encounter Rate: 20
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Rattata Lv.10	Rattata Lv.10	Spearow Lv.8
+51/256	20%	Spearow Lv.10	Spearow Lv.10	Spearow Lv.9
+39/256	15%	Rattata Lv.8	Rattata Lv.8	Mankey Lv.9
+25/256	10%	Ekans Lv.6	Sandshrew Lv.6	Spearow Lv.10
+25/256	10%	Spearow Lv.8	Spearow Lv.8	Sandshrew Lv.8
+25/256	10%	Ekans Lv.10	Sandshrew Lv.10	Rattata Lv.10
+13/256	5%	Rattata Lv.12	Rattata Lv.12	Sandshrew Lv.10
+13/256	5%	Spearow Lv.12	Spearow Lv.12	Rattata Lv.12
+11/256	4%	Ekans Lv.8	Sandshrew Lv.8	Spearow Lv.11
+3/256	1%	Ekans Lv.12	Sandshrew Lv.12	Spearow Lv.12
+Average Exp.	76.79	85.80	85.33
+Note that while fishing data exists for Route 4, there is no way to fish on this route as the body of water here is only accessible while surfing.
+
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/3	33%	Psyduck Lv.15	Psyduck Lv.15
+1/3	33%	Goldeen Lv.15	Goldeen Lv.15
+1/3	33%	Krabby Lv.15	Krabby Lv.15
+Average Exp.	218.00	218.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Goldeen Lv.20
+76/256	30%	Goldeen Lv.25
+51/256	20%	Goldeen Lv.30
+27/256	10%	Seaking Lv.30
+Average Exp.	415.28
+Cerulean City encounters
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/3	33%	Psyduck Lv.15	Psyduck Lv.15
+1/3	33%	Goldeen Lv.15	Goldeen Lv.15
+1/3	33%	Krabby Lv.15	Krabby Lv.15
+Average Exp.	218.00	218.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Goldeen Lv.25
+76/256	30%	Goldeen Lv.30
+51/256	20%	Seaking Lv.30
+27/256	10%	Seaking Lv.40
+Average Exp.	546.24
+Route 24 encounters
+Tall grass
+Encounter Rate: 25
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Weedle Lv.7	Caterpie Lv.7	Oddish Lv.12
+51/256	20%	Kakuna Lv.8	Metapod Lv.8	Bellsprout Lv.12
+39/256	15%	Pidgey Lv.12	Pidgey Lv.12	Pidgey Lv.13
+25/256	10%	Oddish Lv.12	Bellsprout Lv.12	Oddish Lv.14
+25/256	10%	Oddish Lv.13	Bellsprout Lv.13	Bellsprout Lv.14
+25/256	10%	Abra Lv.10	Abra Lv.10	Pidgey Lv.15
+13/256	5%	Oddish Lv.14	Bellsprout Lv.14	Venonat Lv.13
+13/256	5%	Pidgey Lv.13	Pidgey Lv.13	Venonat Lv.16
+11/256	4%	Abra Lv.8	Abra Lv.8	Pidgey Lv.17
+3/256	1%	Abra Lv.12	Abra Lv.12	Pidgeotto Lv.17
+Average Exp.	96.16	99.41	138.46
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/3	33%	Psyduck Lv.15	Psyduck Lv.15
+1/3	33%	Goldeen Lv.15	Goldeen Lv.15
+1/3	33%	Krabby Lv.15	Krabby Lv.15
+Average Exp.	218.00	218.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Goldeen Lv.20
+76/256	30%	Goldeen Lv.25
+51/256	20%	Goldeen Lv.30
+27/256	10%	Seaking Lv.30
+Average Exp.	415.28
+Route 25 encounters
+Tall grass
+Encounter Rate: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Weedle Lv.8	Caterpie Lv.8	Oddish Lv.12
+51/256	20%	Kakuna Lv.9	Metapod Lv.9	Bellsprout Lv.12
+39/256	15%	Pidgey Lv.13	Pidgey Lv.13	Pidgey Lv.13
+25/256	10%	Oddish Lv.12	Bellsprout Lv.12	Oddish Lv.14
+25/256	10%	Oddish Lv.13	Bellsprout Lv.13	Bellsprout Lv.14
+25/256	10%	Abra Lv.12	Abra Lv.12	Pidgey Lv.15
+13/256	5%	Oddish Lv.14	Bellsprout Lv.14	Venonat Lv.13
+13/256	5%	Abra Lv.10	Abra Lv.10	Venonat Lv.16
+11/256	4%	Metapod Lv.7	Kakuna Lv.7	Pidgey Lv.17
+3/256	1%	Caterpie Lv.8	Weedle Lv.8	Pidgeotto Lv.17
+Average Exp.	101.68	104.88	138.46
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/3	33%	Psyduck Lv.15	Psyduck Lv.15
+1/3	33%	Goldeen Lv.15	Goldeen Lv.15
+1/3	33%	Krabby Lv.15	Krabby Lv.15
+Average Exp.	218.00	218.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Krabby Lv.10
+76/256	30%	Krabby Lv.15
+51/256	20%	Kingler Lv.15
+27/256	10%	Kingler Lv.25
+Average Exp.	303.75
+Route 5 encounters
+Tall grass
+Encounter Rate: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Oddish Lv.13	Bellsprout Lv.13	Pidgey Lv.15
+51/256	20%	Pidgey Lv.13	Pidgey Lv.13	Rattata Lv.14
+39/256	15%	Pidgey Lv.15	Pidgey Lv.15	Abra Lv.7
+25/256	10%	Mankey Lv.10	Meowth Lv.10	Pidgey Lv.16
+25/256	10%	Mankey Lv.12	Meowth Lv.12	Rattata Lv.16
+25/256	10%	Oddish Lv.15	Bellsprout Lv.15	Pidgey Lv.17
+13/256	5%	Oddish Lv.16	Bellsprout Lv.16	Pidgeotto Lv.17
+13/256	5%	Pidgey Lv.16	Pidgey Lv.16	Jigglypuff Lv.3
+11/256	4%	Mankey Lv.14	Meowth Lv.14	Jigglypuff Lv.5
+3/256	1%	Mankey Lv.16	Meowth Lv.16	Jigglypuff Lv.7
+Average Exp.	129.43	131.76	113.78
+Cerulean Gym encounters
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/3	33%	Psyduck Lv.15	Psyduck Lv.15
+1/3	33%	Goldeen Lv.15	Goldeen Lv.15
+1/3	33%	Krabby Lv.15	Krabby Lv.15
+Average Exp.	218.00	218.00
+Route 6 encounters
+Tall grass
+Encounter Rate: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Oddish Lv.13	Bellsprout Lv.13	Pidgey Lv.15
+51/256	20%	Pidgey Lv.13	Pidgey Lv.13	Rattata Lv.14
+39/256	15%	Pidgey Lv.15	Pidgey Lv.15	Abra Lv.7
+25/256	10%	Mankey Lv.10	Meowth Lv.10	Pidgey Lv.16
+25/256	10%	Mankey Lv.12	Meowth Lv.12	Rattata Lv.16
+25/256	10%	Oddish Lv.15	Bellsprout Lv.15	Pidgey Lv.17
+13/256	5%	Oddish Lv.16	Bellsprout Lv.16	Pidgeotto Lv.17
+13/256	5%	Pidgey Lv.16	Pidgey Lv.16	Jigglypuff Lv.3
+11/256	4%	Mankey Lv.14	Meowth Lv.14	Jigglypuff Lv.5
+3/256	1%	Mankey Lv.16	Meowth Lv.16	Jigglypuff Lv.7
+Average Exp.	129.43	131.76	113.78
+Surfing
+Encounter Rate: 3
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	—	—	Psyduck Lv.15
+51/256	20%	—	—	Psyduck Lv.15
+39/256	15%	—	—	Psyduck Lv.15
+25/256	10%	—	—	Psyduck Lv.15
+25/256	10%	—	—	Psyduck Lv.15
+25/256	10%	—	—	Psyduck Lv.15
+13/256	5%	—	—	Psyduck Lv.15
+13/256	5%	—	—	Psyduck Lv.15
+11/256	4%	—	—	Golduck Lv.15
+3/256	1%	—	—	Golduck Lv.20
+Average Exp.	—	—	183.46
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/2	50%	Krabby Lv.15	Krabby Lv.15
+1/2	50%	Shellder Lv.15	Shellder Lv.15
+Average Exp.	226.50	226.50
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Goldeen Lv.5
+76/256	30%	Goldeen Lv.10
+51/256	20%	Goldeen Lv.15
+27/256	10%	Goldeen Lv.20
+Average Exp.	159.03
+Vermilion City encounters
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/2	50%	Krabby Lv.15	Krabby Lv.15
+1/2	50%	Shellder Lv.15	Shellder Lv.15
+Average Exp.	226.50	226.50
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Tentacool Lv.15
+76/256	30%	Tentacool Lv.20
+51/256	20%	Tentacool Lv.10
+27/256	10%	Horsea Lv.5
+Average Exp.	214.82
+Vermilion Harbor encounters
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/2	50%	Krabby Lv.15	Krabby Lv.15
+1/2	50%	Shellder Lv.15	Shellder Lv.15
+Average Exp.	226.50	226.50
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Tentacool Lv.10
+76/256	30%	Tentacool Lv.15
+51/256	20%	Staryu Lv.15
+27/256	10%	Shellder Lv.10
+Average Exp.	186.34
+Diglett's Cave encounters
+Cave
+Encounter Rate: 20
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Diglett Lv.18	Diglett Lv.18	Diglett Lv.18
+51/256	20%	Diglett Lv.19	Diglett Lv.19	Diglett Lv.19
+39/256	15%	Diglett Lv.17	Diglett Lv.17	Diglett Lv.17
+25/256	10%	Diglett Lv.20	Diglett Lv.20	Diglett Lv.20
+25/256	10%	Diglett Lv.16	Diglett Lv.16	Diglett Lv.16
+25/256	10%	Diglett Lv.15	Diglett Lv.15	Diglett Lv.15
+13/256	5%	Diglett Lv.21	Diglett Lv.21	Diglett Lv.21
+13/256	5%	Diglett Lv.22	Diglett Lv.22	Diglett Lv.22
+11/256	4%	Dugtrio Lv.29	Dugtrio Lv.29	Dugtrio Lv.29
+3/256	1%	Dugtrio Lv.31	Dugtrio Lv.31	Dugtrio Lv.31
+Average Exp.	232.82	232.82	232.82
+Route 11 encounters
+Tall grass
+Encounter Rate: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Ekans Lv.14	Sandshrew Lv.14	Pidgey Lv.16
+51/256	20%	Spearow Lv.15	Spearow Lv.15	Rattata Lv.15
+39/256	15%	Ekans Lv.12	Sandshrew Lv.12	Pidgey Lv.18
+25/256	10%	Drowzee Lv.9	Drowzee Lv.9	Drowzee Lv.15
+25/256	10%	Spearow Lv.13	Spearow Lv.13	Rattata Lv.17
+25/256	10%	Drowzee Lv.13	Drowzee Lv.13	Drowzee Lv.17
+13/256	5%	Ekans Lv.15	Sandshrew Lv.15	Pidgeotto Lv.18
+13/256	5%	Spearow Lv.17	Spearow Lv.17	Pidgeotto Lv.20
+11/256	4%	Drowzee Lv.11	Drowzee Lv.11	Drowzee Lv.19
+3/256	1%	Drowzee Lv.15	Drowzee Lv.15	Raticate Lv.17
+Average Exp.	130.50	154.32	175.80
+Route 9 encounters
+Tall grass
+Encounter Rate: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Rattata Lv.16	Rattata Lv.16	Nidoran_m Lv.16
+51/256	20%	Spearow Lv.16	Spearow Lv.16	Nidoran_f Lv.16
+39/256	15%	Rattata Lv.14	Rattata Lv.14	Rattata Lv.18
+25/256	10%	Ekans Lv.11	Sandshrew Lv.11	Nidoran_m Lv.18
+25/256	10%	Spearow Lv.13	Spearow Lv.13	Nidoran_f Lv.18
+25/256	10%	Ekans Lv.15	Sandshrew Lv.15	Spearow Lv.17
+13/256	5%	Rattata Lv.17	Rattata Lv.17	Nidorino Lv.18
+13/256	5%	Spearow Lv.17	Spearow Lv.17	Nidorina Lv.18
+11/256	4%	Ekans Lv.13	Sandshrew Lv.13	Raticate Lv.20
+3/256	1%	Ekans Lv.17	Sandshrew Lv.17	Fearow Lv.19
+Average Exp.	123.19	137.85	169.68
+Route 10 encounters
+Tall grass
+Encounter Rate: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Voltorb Lv.16	Voltorb Lv.16	Magnemite Lv.16
+51/256	20%	Spearow Lv.16	Spearow Lv.16	Rattata Lv.18
+39/256	15%	Voltorb Lv.14	Voltorb Lv.14	Magnemite Lv.18
+25/256	10%	Ekans Lv.11	Sandshrew Lv.11	Magnemite Lv.20
+25/256	10%	Spearow Lv.13	Spearow Lv.13	Nidoran_m Lv.17
+25/256	10%	Ekans Lv.15	Sandshrew Lv.15	Nidoran_f Lv.17
+13/256	5%	Voltorb Lv.17	Voltorb Lv.17	Magnemite Lv.22
+13/256	5%	Spearow Lv.17	Spearow Lv.17	Raticate Lv.20
+11/256	4%	Ekans Lv.13	Sandshrew Lv.13	Machop Lv.16
+3/256	1%	Ekans Lv.17	Sandshrew Lv.17	Machop Lv.18
+Average Exp.	163.81	178.47	199.45
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/2	50%	Poliwhirl Lv.23	Poliwhirl Lv.23
+1/2	50%	Slowpoke Lv.15	Slowpoke Lv.15
+Average Exp.	321.00	321.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Krabby Lv.15
+76/256	30%	Krabby Lv.20
+51/256	20%	Horsea Lv.10
+27/256	10%	Kingler Lv.25
+Average Exp.	296.42
+Rock Tunnel (1F) encounters
+Cave
+Encounter Rate: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Zubat Lv.16	Zubat Lv.16	Zubat Lv.15
+51/256	20%	Zubat Lv.17	Zubat Lv.17	Geodude Lv.16
+39/256	15%	Geodude Lv.17	Geodude Lv.17	Zubat Lv.17
+25/256	10%	Machop Lv.15	Machop Lv.15	Zubat Lv.19
+25/256	10%	Geodude Lv.16	Geodude Lv.16	Geodude Lv.18
+25/256	10%	Zubat Lv.18	Zubat Lv.18	Geodude Lv.20
+13/256	5%	Zubat Lv.15	Zubat Lv.15	Zubat Lv.21
+13/256	5%	Machop Lv.17	Machop Lv.17	Machop Lv.17
+11/256	4%	Onix Lv.13	Onix Lv.13	Machop Lv.19
+3/256	1%	Onix Lv.15	Onix Lv.15	Machop Lv.21
+Average Exp.	161.22	161.22	174.04
+Rock Tunnel (B1F) encounters
+Cave
+Encounter Rate: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Zubat Lv.16	Zubat Lv.16	Zubat Lv.20
+51/256	20%	Zubat Lv.17	Zubat Lv.17	Geodude Lv.17
+39/256	15%	Geodude Lv.17	Geodude Lv.17	Machop Lv.18
+25/256	10%	Machop Lv.15	Machop Lv.15	Zubat Lv.21
+25/256	10%	Geodude Lv.16	Geodude Lv.16	Zubat Lv.22
+25/256	10%	Zubat Lv.18	Zubat Lv.18	Geodude Lv.21
+13/256	5%	Machop Lv.17	Machop Lv.17	Machop Lv.20
+13/256	5%	Onix Lv.17	Onix Lv.17	Onix Lv.14
+11/256	4%	Onix Lv.13	Onix Lv.13	Onix Lv.18
+3/256	1%	Geodude Lv.18	Geodude Lv.18	Onix Lv.22
+Average Exp.	168.57	168.57	203.66
+Route 8 encounters
+Tall grass
+Encounter Rate: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Pidgey Lv.18	Pidgey Lv.18	Pidgey Lv.20
+51/256	20%	Mankey Lv.18	Meowth Lv.18	Pidgey Lv.22
+39/256	15%	Ekans Lv.17	Sandshrew Lv.17	Rattata Lv.20
+25/256	10%	Growlithe Lv.16	Vulpix Lv.16	Abra Lv.15
+25/256	10%	Pidgey Lv.20	Pidgey Lv.20	Abra Lv.19
+25/256	10%	Mankey Lv.20	Meowth Lv.20	Pidgeotto Lv.24
+13/256	5%	Ekans Lv.19	Sandshrew Lv.19	Jigglypuff Lv.19
+13/256	5%	Growlithe Lv.17	Vulpix Lv.17	Jigglypuff Lv.24
+11/256	4%	Growlithe Lv.15	Vulpix Lv.15	Kadabra Lv.20
+3/256	1%	Growlithe Lv.18	Vulpix Lv.18	Kadabra Lv.27
+Average Exp.	175.92	174.53	210.59
+Route 7 encounters
+Tall grass
+Encounter Rate: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Pidgey Lv.19	Pidgey Lv.19	Pidgey Lv.20
+51/256	20%	Oddish Lv.19	Bellsprout Lv.19	Pidgey Lv.22
+39/256	15%	Mankey Lv.17	Meowth Lv.17	Rattata Lv.20
+25/256	10%	Oddish Lv.22	Bellsprout Lv.22	Abra Lv.15
+25/256	10%	Pidgey Lv.22	Pidgey Lv.22	Abra Lv.19
+25/256	10%	Mankey Lv.18	Meowth Lv.18	Pidgeotto Lv.24
+13/256	5%	Growlithe Lv.18	Vulpix Lv.18	Abra Lv.26
+13/256	5%	Growlithe Lv.20	Vulpix Lv.20	Jigglypuff Lv.19
+11/256	4%	Mankey Lv.19	Meowth Lv.19	Jigglypuff Lv.24
+3/256	1%	Mankey Lv.20	Meowth Lv.20	Jigglypuff Lv.24
+Average Exp.	194.42	188.12	201.03
+Celadon City encounters
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/2	50%	Poliwhirl Lv.23	Poliwhirl Lv.23
+1/2	50%	Slowpoke Lv.15	Slowpoke Lv.15
+Average Exp.	321.00	321.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Goldeen Lv.5
+76/256	30%	Goldeen Lv.10
+51/256	20%	Goldeen Lv.15
+27/256	10%	Goldeen Lv.20
+Average Exp.	159.03
+Pokémon Tower (3F) encounters
+Cave
+Encounter Rate: 10
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Gastly Lv.20	Gastly Lv.20	Gastly Lv.20
+51/256	20%	Gastly Lv.21	Gastly Lv.21	Gastly Lv.21
+39/256	15%	Gastly Lv.22	Gastly Lv.22	Gastly Lv.22
+25/256	10%	Gastly Lv.23	Gastly Lv.23	Gastly Lv.23
+25/256	10%	Gastly Lv.19	Gastly Lv.19	Gastly Lv.24
+25/256	10%	Gastly Lv.18	Gastly Lv.18	Gastly Lv.19
+13/256	5%	Gastly Lv.24	Gastly Lv.24	Gastly Lv.18
+13/256	5%	Cubone Lv.20	Cubone Lv.20	Gastly Lv.25
+11/256	4%	Cubone Lv.22	Cubone Lv.22	Haunter Lv.20
+3/256	1%	Haunter Lv.25	Haunter Lv.25	Haunter Lv.25
+Average Exp.	281.66	281.66	293.82
+Pokémon Tower (4F) encounters
+Cave
+Encounter Rate: 10
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Gastly Lv.20	Gastly Lv.20	Gastly Lv.20
+51/256	20%	Gastly Lv.21	Gastly Lv.21	Gastly Lv.21
+39/256	15%	Gastly Lv.22	Gastly Lv.22	Gastly Lv.22
+25/256	10%	Gastly Lv.23	Gastly Lv.23	Gastly Lv.23
+25/256	10%	Gastly Lv.19	Gastly Lv.19	Gastly Lv.24
+25/256	10%	Gastly Lv.18	Gastly Lv.18	Gastly Lv.19
+13/256	5%	Haunter Lv.25	Haunter Lv.25	Gastly Lv.18
+13/256	5%	Cubone Lv.20	Cubone Lv.20	Gastly Lv.25
+11/256	4%	Cubone Lv.22	Cubone Lv.22	Haunter Lv.20
+3/256	1%	Gastly Lv.24	Gastly Lv.24	Haunter Lv.25
+Average Exp.	286.54	286.54	293.82
+Pokémon Tower (5F) encounters
+Cave
+Encounter RateRB: 10
+Encounter RateY: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Gastly Lv.20	Gastly Lv.20	Gastly Lv.22
+51/256	20%	Gastly Lv.21	Gastly Lv.21	Gastly Lv.23
+39/256	15%	Gastly Lv.22	Gastly Lv.22	Gastly Lv.24
+25/256	10%	Gastly Lv.23	Gastly Lv.23	Gastly Lv.25
+25/256	10%	Gastly Lv.19	Gastly Lv.19	Gastly Lv.26
+25/256	10%	Gastly Lv.18	Gastly Lv.18	Gastly Lv.21
+13/256	5%	Haunter Lv.25	Haunter Lv.25	Cubone Lv.20
+13/256	5%	Cubone Lv.20	Cubone Lv.20	Gastly Lv.27
+11/256	4%	Cubone Lv.22	Cubone Lv.22	Haunter Lv.22
+3/256	1%	Gastly Lv.24	Gastly Lv.24	Haunter Lv.27
+Average Exp.	286.54	286.54	320.24
+Pokémon Tower (6F) encounters
+Cave
+Encounter Rate: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Gastly Lv.21	Gastly Lv.21	Gastly Lv.22
+51/256	20%	Gastly Lv.22	Gastly Lv.22	Gastly Lv.23
+39/256	15%	Gastly Lv.23	Gastly Lv.23	Gastly Lv.24
+25/256	10%	Gastly Lv.24	Gastly Lv.24	Gastly Lv.25
+25/256	10%	Gastly Lv.20	Gastly Lv.20	Gastly Lv.26
+25/256	10%	Gastly Lv.19	Gastly Lv.19	Gastly Lv.21
+13/256	5%	Haunter Lv.26	Haunter Lv.26	Cubone Lv.22
+13/256	5%	Cubone Lv.22	Cubone Lv.22	Gastly Lv.27
+11/256	4%	Cubone Lv.24	Cubone Lv.24	Haunter Lv.22
+3/256	1%	Haunter Lv.28	Haunter Lv.28	Haunter Lv.27
+Average Exp.	303.32	303.32	321.51
+Pokémon Tower (7F) encounters
+Cave
+Encounter RateRB: 15
+Encounter RateY: 20
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Gastly Lv.21	Gastly Lv.21	Gastly Lv.24
+51/256	20%	Gastly Lv.22	Gastly Lv.22	Gastly Lv.25
+39/256	15%	Gastly Lv.23	Gastly Lv.23	Gastly Lv.26
+25/256	10%	Gastly Lv.24	Gastly Lv.24	Gastly Lv.27
+25/256	10%	Gastly Lv.20	Gastly Lv.20	Gastly Lv.28
+25/256	10%	Haunter Lv.28	Haunter Lv.28	Gastly Lv.23
+13/256	5%	Cubone Lv.22	Cubone Lv.22	Cubone Lv.24
+13/256	5%	Cubone Lv.24	Cubone Lv.24	Gastly Lv.29
+11/256	4%	Haunter Lv.28	Haunter Lv.28	Haunter Lv.24
+3/256	1%	Haunter Lv.30	Haunter Lv.30	Haunter Lv.29
+Average Exp.	328.08	328.08	349.00
+Route 12 encounters
+Tall grass
+Encounter Rate: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Oddish Lv.24	Bellsprout Lv.24	Oddish Lv.25
+51/256	20%	Pidgey Lv.25	Pidgey Lv.25	Bellsprout Lv.25
+39/256	15%	Pidgey Lv.23	Pidgey Lv.23	Pidgey Lv.28
+25/256	10%	Venonat Lv.24	Venonat Lv.24	Pidgeotto Lv.28
+25/256	10%	Oddish Lv.22	Bellsprout Lv.22	Oddish Lv.27
+25/256	10%	Venonat Lv.26	Venonat Lv.26	Bellsprout Lv.27
+13/256	5%	Oddish Lv.26	Bellsprout Lv.26	Gloom Lv.29
+13/256	5%	Pidgey Lv.27	Pidgey Lv.27	Weepinbell Lv.29
+11/256	4%	Gloom Lv.28	Weepinbell Lv.28	Farfetchd Lv.26
+3/256	1%	Gloom Lv.30	Weepinbell Lv.30	Farfetchd Lv.31
+Average Exp.	250.58	262.02	333.08
+Surfing
+Encounter Rate: 3
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	—	—	Slowpoke Lv.15
+51/256	20%	—	—	Slowpoke Lv.15
+39/256	15%	—	—	Slowpoke Lv.15
+25/256	10%	—	—	Slowpoke Lv.15
+25/256	10%	—	—	Slowpoke Lv.15
+25/256	10%	—	—	Slowpoke Lv.15
+13/256	5%	—	—	Slowpoke Lv.15
+13/256	5%	—	—	Slowpoke Lv.15
+11/256	4%	—	—	Slowbro Lv.15
+3/256	1%	—	—	Slowbro Lv.20
+Average Exp.	—	—	220.97
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/4	25%	Tentacool Lv.5	Tentacool Lv.5
+1/4	25%	Krabby Lv.15	Krabby Lv.15
+1/4	25%	Goldeen Lv.15	Goldeen Lv.15
+1/4	25%	Magikarp Lv.15	Magikarp Lv.15
+Average Exp.	150.00	150.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Horsea Lv.20
+76/256	30%	Horsea Lv.25
+51/256	20%	Seadra Lv.25
+27/256	10%	Seadra Lv.35
+Average Exp.	374.21
+Route 13 encounters
+Tall grass
+Encounter RateRB: 20
+Encounter RateY: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Oddish Lv.24	Bellsprout Lv.24	Oddish Lv.25
+51/256	20%	Pidgey Lv.25	Pidgey Lv.25	Bellsprout Lv.25
+39/256	15%	Pidgey Lv.27	Pidgey Lv.27	Pidgeotto Lv.28
+25/256	10%	Venonat Lv.24	Venonat Lv.24	Pidgey Lv.28
+25/256	10%	Oddish Lv.22	Bellsprout Lv.22	Oddish Lv.27
+25/256	10%	Venonat Lv.26	Venonat Lv.26	Bellsprout Lv.27
+13/256	5%	Oddish Lv.26	Bellsprout Lv.26	Gloom Lv.29
+13/256	5%	Ditto Lv.25	Ditto Lv.25	Weepinbell Lv.29
+11/256	4%	Gloom Lv.28	Weepinbell Lv.28	Farfetchd Lv.26
+3/256	1%	Gloom Lv.30	Weepinbell Lv.30	Farfetchd Lv.31
+Average Exp.	255.71	267.14	345.77
+Surfing
+Encounter Rate: 3
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	—	—	Slowpoke Lv.15
+51/256	20%	—	—	Slowpoke Lv.15
+39/256	15%	—	—	Slowpoke Lv.15
+25/256	10%	—	—	Slowpoke Lv.15
+25/256	10%	—	—	Slowpoke Lv.15
+25/256	10%	—	—	Slowpoke Lv.15
+13/256	5%	—	—	Slowpoke Lv.15
+13/256	5%	—	—	Slowpoke Lv.15
+11/256	4%	—	—	Slowbro Lv.15
+3/256	1%	—	—	Slowbro Lv.20
+Average Exp.	—	—	220.97
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/4	25%	Tentacool Lv.5	Tentacool Lv.5
+1/4	25%	Krabby Lv.15	Krabby Lv.15
+1/4	25%	Goldeen Lv.15	Goldeen Lv.15
+1/4	25%	Magikarp Lv.15	Magikarp Lv.15
+Average Exp.	150.00	150.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Horsea Lv.15
+76/256	30%	Horsea Lv.20
+51/256	20%	Tentacool Lv.10
+27/256	10%	Seadra Lv.20
+Average Exp.	217.38
+Route 14 encounters
+Tall grass
+Encounter Rate: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Oddish Lv.24	Bellsprout Lv.24	Oddish Lv.26
+51/256	20%	Pidgey Lv.26	Pidgey Lv.26	Bellsprout Lv.26
+39/256	15%	Ditto Lv.23	Ditto Lv.23	Venonat Lv.24
+25/256	10%	Venonat Lv.24	Venonat Lv.24	Pidgeotto Lv.30
+25/256	10%	Oddish Lv.22	Bellsprout Lv.22	Oddish Lv.28
+25/256	10%	Venonat Lv.26	Venonat Lv.26	Bellsprout Lv.28
+13/256	5%	Oddish Lv.26	Bellsprout Lv.26	Gloom Lv.30
+13/256	5%	Gloom Lv.30	Weepinbell Lv.30	Weepinbell Lv.30
+11/256	4%	Pidgeotto Lv.28	Pidgeotto Lv.28	Venonat Lv.27
+3/256	1%	Pidgeotto Lv.30	Pidgeotto Lv.30	Venomoth Lv.30
+Average Exp.	268.93	280.30	350.32
+Route 15 encounters
+Tall grass
+Encounter Rate: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Oddish Lv.24	Bellsprout Lv.24	Oddish Lv.26
+51/256	20%	Ditto Lv.26	Ditto Lv.26	Bellsprout Lv.26
+39/256	15%	Pidgey Lv.23	Pidgey Lv.23	Venonat Lv.24
+25/256	10%	Venonat Lv.26	Venonat Lv.26	Pidgeotto Lv.32
+25/256	10%	Oddish Lv.22	Bellsprout Lv.22	Oddish Lv.28
+25/256	10%	Venonat Lv.28	Venonat Lv.28	Bellsprout Lv.28
+13/256	5%	Oddish Lv.26	Bellsprout Lv.26	Gloom Lv.30
+13/256	5%	Gloom Lv.30	Weepinbell Lv.30	Weepinbell Lv.30
+11/256	4%	Pidgeotto Lv.28	Pidgeotto Lv.28	Venonat Lv.27
+3/256	1%	Pidgeotto Lv.30	Pidgeotto Lv.30	Venomoth Lv.30
+Average Exp.	274.47	285.84	353.45
+Fuchsia City encounters
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/4	25%	Seaking Lv.23	Seaking Lv.23
+1/4	25%	Krabby Lv.15	Krabby Lv.15
+1/4	25%	Goldeen Lv.15	Goldeen Lv.15
+1/4	25%	Magikarp Lv.15	Magikarp Lv.15
+Average Exp.	270.75	270.75
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Magikarp Lv.5
+76/256	30%	Magikarp Lv.10
+51/256	20%	Magikarp Lv.15
+27/256	10%	Gyarados Lv.15
+Average Exp.	70.56
+Route 16 encounters
+Tall grass
+Encounter Rate: 25
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Spearow Lv.20	Spearow Lv.20	Spearow Lv.22
+51/256	20%	Spearow Lv.22	Spearow Lv.22	Doduo Lv.22
+39/256	15%	Rattata Lv.18	Rattata Lv.18	Rattata Lv.23
+25/256	10%	Doduo Lv.20	Doduo Lv.20	Doduo Lv.24
+25/256	10%	Rattata Lv.20	Rattata Lv.20	Rattata Lv.24
+25/256	10%	Doduo Lv.18	Doduo Lv.18	Doduo Lv.26
+13/256	5%	Doduo Lv.22	Doduo Lv.22	Spearow Lv.23
+13/256	5%	Rattata Lv.22	Rattata Lv.22	Fearow Lv.24
+11/256	4%	Raticate Lv.23	Raticate Lv.23	Raticate Lv.25
+3/256	1%	Raticate Lv.25	Raticate Lv.25	Raticate Lv.26
+Average Exp.	203.57	203.57	271.31
+Route 17 encounters
+Tall grass
+Encounter Rate: 25
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Spearow Lv.20	Spearow Lv.20	Doduo Lv.26
+51/256	20%	Spearow Lv.22	Spearow Lv.22	Fearow Lv.27
+39/256	15%	Raticate Lv.25	Raticate Lv.25	Doduo Lv.27
+25/256	10%	Doduo Lv.24	Doduo Lv.24	Doduo Lv.28
+25/256	10%	Raticate Lv.27	Raticate Lv.27	Ponyta Lv.28
+25/256	10%	Doduo Lv.26	Doduo Lv.26	Ponyta Lv.30
+13/256	5%	Doduo Lv.28	Doduo Lv.28	Fearow Lv.29
+13/256	5%	Raticate Lv.29	Raticate Lv.29	Doduo Lv.28
+11/256	4%	Fearow Lv.25	Fearow Lv.25	Ponyta Lv.32
+3/256	1%	Fearow Lv.27	Fearow Lv.27	Dodrio Lv.29
+Average Exp.	318.77	318.77	503.11
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/4	25%	Tentacool Lv.5	Tentacool Lv.5
+1/4	25%	Krabby Lv.15	Krabby Lv.15
+1/4	25%	Goldeen Lv.15	Goldeen Lv.15
+1/4	25%	Magikarp Lv.15	Magikarp Lv.15
+Average Exp.	150.00	150.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Tentacool Lv.5
+76/256	30%	Tentacool Lv.15
+51/256	20%	Shellder Lv.25
+27/256	10%	Shellder Lv.35
+Average Exp.	216.76
+Route 18 encounters
+Tall grass
+Encounter Rate: 25
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Spearow Lv.20	Spearow Lv.20	Spearow Lv.22
+51/256	20%	Spearow Lv.22	Spearow Lv.22	Doduo Lv.22
+39/256	15%	Raticate Lv.25	Raticate Lv.25	Rattata Lv.23
+25/256	10%	Doduo Lv.24	Doduo Lv.24	Doduo Lv.24
+25/256	10%	Fearow Lv.25	Fearow Lv.25	Rattata Lv.24
+25/256	10%	Doduo Lv.26	Doduo Lv.26	Doduo Lv.26
+13/256	5%	Doduo Lv.28	Doduo Lv.28	Spearow Lv.23
+13/256	5%	Raticate Lv.29	Raticate Lv.29	Fearow Lv.24
+11/256	4%	Fearow Lv.27	Fearow Lv.27	Raticate Lv.25
+3/256	1%	Fearow Lv.29	Fearow Lv.29	Raticate Lv.26
+Average Exp.	334.09	334.09	271.31
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/4	25%	Tentacool Lv.5	Tentacool Lv.5
+1/4	25%	Krabby Lv.15	Krabby Lv.15
+1/4	25%	Goldeen Lv.15	Goldeen Lv.15
+1/4	25%	Magikarp Lv.15	Magikarp Lv.15
+Average Exp.	150.00	150.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Tentacool Lv.15
+76/256	30%	Shellder Lv.20
+51/256	20%	Shellder Lv.30
+27/256	10%	Shellder Lv.40
+Average Exp.	312.99
+Safari Zone Center Area encounters
+Tall grass
+Encounter Rate: 30
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Nidoran_m Lv.24	Nidoran_f Lv.24	Nidoran_m Lv.21
+51/256	20%	Doduo Lv.26	Doduo Lv.26	Nidoran_f Lv.29
+39/256	15%	Paras Lv.22	Paras Lv.22	Exeggcute Lv.22
+25/256	10%	Exeggcute Lv.25	Exeggcute Lv.25	Tauros Lv.21
+25/256	10%	Nidorino Lv.33	Nidorina Lv.33	Nidorina Lv.32
+25/256	10%	Exeggcute Lv.23	Exeggcute Lv.23	Cubone Lv.19
+13/256	5%	Nidoran_f Lv.24	Nidoran_m Lv.24	Exeggcute Lv.26
+13/256	5%	Parasect Lv.25	Parasect Lv.25	Marowak Lv.24
+11/256	4%	Kangaskhan Lv.25	Kangaskhan Lv.25	Chansey Lv.21
+3/256	1%	Scyther Lv.28	Pinsir Lv.28	Scyther Lv.15
+Average Exp.	334.29	333.96	346.03
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/4	25%	Dratini Lv.15	Dratini Lv.15
+1/4	25%	Krabby Lv.15	Krabby Lv.15
+1/4	25%	Psyduck Lv.15	Psyduck Lv.15
+1/4	25%	Slowpoke Lv.15	Slowpoke Lv.15
+Average Exp.	193.00	193.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Magikarp Lv.5
+76/256	30%	Magikarp Lv.10
+51/256	20%	Dratini Lv.10
+27/256	10%	Dragonair Lv.15
+Average Exp.	65.30
+Safari Zone Center Area (east) encounters
+Tall grass
+Encounter Rate: 30
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Nidoran_m Lv.22	Nidoran_f Lv.22	Nidoran_m Lv.36
+51/256	20%	Rhyhorn Lv.26	Rhyhorn Lv.26	Nidoran_f Lv.14
+39/256	15%	Paras Lv.23	Paras Lv.23	Exeggcute Lv.20
+25/256	10%	Exeggcute Lv.25	Exeggcute Lv.25	Rhyhorn Lv.25
+25/256	10%	Nidorino Lv.30	Nidorina Lv.30	Nidorina Lv.23
+25/256	10%	Exeggcute Lv.27	Exeggcute Lv.27	Kangaskhan Lv.28
+13/256	5%	Nidorina Lv.30	Nidorino Lv.30	Cubone Lv.16
+13/256	5%	Venomoth Lv.32	Venomoth Lv.32	Kangaskhan Lv.33
+11/256	4%	Chansey Lv.26	Chansey Lv.26	Scyther Lv.25
+3/256	1%	Tauros Lv.28	Tauros Lv.28	Pinsir Lv.15
+Average Exp.	400.73	399.94	366.08
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/4	25%	Dratini Lv.15	Dratini Lv.15
+1/4	25%	Krabby Lv.15	Krabby Lv.15
+1/4	25%	Psyduck Lv.15	Psyduck Lv.15
+1/4	25%	Slowpoke Lv.15	Slowpoke Lv.15
+Average Exp.	193.00	193.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Magikarp Lv.5
+76/256	30%	Magikarp Lv.10
+51/256	20%	Magikarp Lv.15
+27/256	10%	Dratini Lv.15
+Average Exp.	37.34
+Safari Zone Area 2 encounters
+Tall grass
+Encounter Rate: 30
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Nidoran_m Lv.25	Nidoran_f Lv.25	Nidoran_m Lv.29
+51/256	20%	Doduo Lv.26	Doduo Lv.26	Nidoran_f Lv.21
+39/256	15%	Venonat Lv.23	Venonat Lv.23	Exeggcute Lv.22
+25/256	10%	Exeggcute Lv.24	Exeggcute Lv.24	Tauros Lv.21
+25/256	10%	Nidorino Lv.33	Nidorina Lv.33	Nidorino Lv.32
+25/256	10%	Exeggcute Lv.26	Exeggcute Lv.26	Cubone Lv.19
+13/256	5%	Nidoran_f Lv.25	Nidoran_m Lv.25	Exeggcute Lv.26
+13/256	5%	Venomoth Lv.31	Venomoth Lv.31	Marowak Lv.24
+11/256	4%	Tauros Lv.26	Tauros Lv.26	Pinsir Lv.25
+3/256	1%	Kangaskhan Lv.28	Kangaskhan Lv.28	Tangela Lv.27
+Average Exp.	357.23	356.14	347.34
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/4	25%	Dratini Lv.15	Dratini Lv.15
+1/4	25%	Krabby Lv.15	Krabby Lv.15
+1/4	25%	Psyduck Lv.15	Psyduck Lv.15
+1/4	25%	Slowpoke Lv.15	Slowpoke Lv.15
+Average Exp.	193.00	193.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Magikarp Lv.5
+76/256	30%	Magikarp Lv.10
+51/256	20%	Magikarp Lv.15
+27/256	10%	Dratini Lv.15
+Average Exp.	37.34
+Safari Zone Area 3 encounters
+Tall grass
+Encounter Rate: 30
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Nidoran_m Lv.22	Nidoran_f Lv.22	Nidoran_m Lv.14
+51/256	20%	Rhyhorn Lv.25	Rhyhorn Lv.25	Nidoran_f Lv.36
+39/256	15%	Venonat Lv.22	Venonat Lv.22	Exeggcute Lv.24
+25/256	10%	Exeggcute Lv.24	Exeggcute Lv.24	Rhyhorn Lv.20
+25/256	10%	Nidorino Lv.31	Nidorina Lv.31	Nidorino Lv.23
+25/256	10%	Exeggcute Lv.25	Exeggcute Lv.25	Parasect Lv.27
+13/256	5%	Nidorina Lv.31	Nidorino Lv.31	Paras Lv.27
+13/256	5%	Parasect Lv.30	Parasect Lv.30	Parasect Lv.32
+11/256	4%	Scyther Lv.23	Pinsir Lv.23	Tangela Lv.22
+3/256	1%	Chansey Lv.23	Chansey Lv.23	Chansey Lv.7
+Average Exp.	377.57	378.63	327.79
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/4	25%	Dratini Lv.15	Dratini Lv.15
+1/4	25%	Krabby Lv.15	Krabby Lv.15
+1/4	25%	Psyduck Lv.15	Psyduck Lv.15
+1/4	25%	Slowpoke Lv.15	Slowpoke Lv.15
+Average Exp.	193.00	193.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Magikarp Lv.5
+76/256	30%	Magikarp Lv.10
+51/256	20%	Magikarp Lv.15
+27/256	10%	Dratini Lv.15
+Average Exp.	37.34
+Power Plant encounters
+Cave
+Encounter Rate: 10
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Voltorb Lv.21	Voltorb Lv.21	Magnemite Lv.30
+51/256	20%	Magnemite Lv.21	Magnemite Lv.21	Magnemite Lv.35
+39/256	15%	Pikachu Lv.20	Pikachu Lv.20	Magneton Lv.33
+25/256	10%	Pikachu Lv.24	Pikachu Lv.24	Voltorb Lv.33
+25/256	10%	Magnemite Lv.23	Magnemite Lv.23	Voltorb Lv.37
+25/256	10%	Voltorb Lv.23	Voltorb Lv.23	Grimer Lv.33
+13/256	5%	Magneton Lv.32	Magneton Lv.32	Grimer Lv.37
+13/256	5%	Magneton Lv.35	Magneton Lv.35	Magneton Lv.38
+11/256	4%	Electabuzz Lv.33	Raichu Lv.33	Muk Lv.33
+3/256	1%	Electabuzz Lv.36	Raichu Lv.36	Muk Lv.37
+Average Exp.	358.60	349.67	532.09
+Sea Route 19 encounters
+Surfing
+Encounter Rate: 5
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Tentacool Lv.5	Tentacool Lv.5	Tentacool Lv.5
+51/256	20%	Tentacool Lv.10	Tentacool Lv.10	Tentacool Lv.10
+39/256	15%	Tentacool Lv.15	Tentacool Lv.15	Tentacool Lv.15
+25/256	10%	Tentacool Lv.5	Tentacool Lv.5	Tentacool Lv.5
+25/256	10%	Tentacool Lv.10	Tentacool Lv.10	Tentacool Lv.10
+25/256	10%	Tentacool Lv.15	Tentacool Lv.15	Tentacool Lv.15
+13/256	5%	Tentacool Lv.20	Tentacool Lv.20	Tentacool Lv.20
+13/256	5%	Tentacool Lv.30	Tentacool Lv.30	Tentacool Lv.30
+11/256	4%	Tentacool Lv.35	Tentacool Lv.35	Tentacool Lv.35
+3/256	1%	Tentacool Lv.40	Tentacool Lv.40	Tentacool Lv.40
+Average Exp.	190.72	190.72	190.72
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/4	25%	Staryu Lv.15	Staryu Lv.15
+1/4	25%	Horsea Lv.15	Horsea Lv.15
+1/4	25%	Shellder Lv.15	Shellder Lv.15
+1/4	25%	Goldeen Lv.15	Goldeen Lv.15
+Average Exp.	212.00	212.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Tentacool Lv.15
+76/256	30%	Staryu Lv.20
+51/256	20%	Tentacool Lv.30
+27/256	10%	Tentacruel Lv.30
+Average Exp.	361.55
+Sea Route 20 encounters
+Surfing
+Encounter Rate: 5
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Tentacool Lv.5	Tentacool Lv.5	Tentacool Lv.5
+51/256	20%	Tentacool Lv.10	Tentacool Lv.10	Tentacool Lv.10
+39/256	15%	Tentacool Lv.15	Tentacool Lv.15	Tentacool Lv.15
+25/256	10%	Tentacool Lv.5	Tentacool Lv.5	Tentacool Lv.5
+25/256	10%	Tentacool Lv.10	Tentacool Lv.10	Tentacool Lv.10
+25/256	10%	Tentacool Lv.15	Tentacool Lv.15	Tentacool Lv.15
+13/256	5%	Tentacool Lv.20	Tentacool Lv.20	Tentacool Lv.20
+13/256	5%	Tentacool Lv.30	Tentacool Lv.30	Tentacool Lv.30
+11/256	4%	Tentacool Lv.35	Tentacool Lv.35	Tentacool Lv.35
+3/256	1%	Tentacool Lv.40	Tentacool Lv.40	Tentacool Lv.40
+Average Exp.	190.72	190.72	190.72
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/4	25%	Staryu Lv.15	Staryu Lv.15
+1/4	25%	Horsea Lv.15	Horsea Lv.15
+1/4	25%	Shellder Lv.15	Shellder Lv.15
+1/4	25%	Goldeen Lv.15	Goldeen Lv.15
+Average Exp.	212.00	212.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Tentacool Lv.20
+76/256	30%	Tentacruel Lv.20
+51/256	20%	Staryu Lv.30
+27/256	10%	Tentacruel Lv.40
+Average Exp.	507.15
+Seafoam Islands (1F) encounters
+Cave
+Encounter Rate: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Seel Lv.30	Seel Lv.30	Zubat Lv.18
+51/256	20%	Slowpoke Lv.30	Psyduck Lv.30	Krabby Lv.25
+39/256	15%	Shellder Lv.30	Staryu Lv.30	Krabby Lv.27
+25/256	10%	Horsea Lv.30	Krabby Lv.30	Zubat Lv.27
+25/256	10%	Horsea Lv.28	Krabby Lv.28	Zubat Lv.36
+25/256	10%	Zubat Lv.21	Zubat Lv.21	Slowpoke Lv.28
+13/256	5%	Golbat Lv.29	Golbat Lv.29	Slowpoke Lv.30
+13/256	5%	Psyduck Lv.28	Slowpoke Lv.28	Zubat Lv.9
+11/256	4%	Shellder Lv.28	Staryu Lv.28	Golbat Lv.27
+3/256	1%	Golduck Lv.38	Slowbro Lv.38	Golbat Lv.36
+Average Exp.	395.80	416.06	326.35
+Seafoam Islands (B1F) encounters
+Cave
+Encounter Rate: 10
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Staryu Lv.30	Shellder Lv.30	Zubat Lv.27
+51/256	20%	Horsea Lv.30	Krabby Lv.30	Krabby Lv.26
+39/256	15%	Shellder Lv.32	Staryu Lv.32	Zubat Lv.36
+25/256	10%	Horsea Lv.32	Krabby Lv.32	Krabby Lv.28
+25/256	10%	Slowpoke Lv.28	Psyduck Lv.28	Golbat Lv.27
+25/256	10%	Seel Lv.30	Seel Lv.30	Slowpoke Lv.29
+13/256	5%	Slowpoke Lv.30	Psyduck Lv.30	Zubat Lv.18
+13/256	5%	Seel Lv.28	Seel Lv.28	Kingler Lv.28
+11/256	4%	Dewgong Lv.38	Dewgong Lv.38	Seel Lv.22
+3/256	1%	Seadra Lv.37	Kingler Lv.37	Seel Lv.26
+Average Exp.	438.61	470.21	384.71
+Seafoam Islands (B2F) encounters
+Cave
+Encounter Rate: 10
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Seel Lv.30	Seel Lv.30	Zubat Lv.27
+51/256	20%	Slowpoke Lv.30	Psyduck Lv.30	Krabby Lv.27
+39/256	15%	Seel Lv.32	Seel Lv.32	Zubat Lv.36
+25/256	10%	Slowpoke Lv.32	Psyduck Lv.32	Golbat Lv.27
+25/256	10%	Horsea Lv.28	Krabby Lv.28	Kingler Lv.28
+25/256	10%	Staryu Lv.30	Shellder Lv.30	Seel Lv.24
+13/256	5%	Horsea Lv.30	Krabby Lv.30	Krabby Lv.29
+13/256	5%	Shellder Lv.28	Staryu Lv.28	Golbat Lv.36
+11/256	4%	Golbat Lv.30	Golbat Lv.30	Slowpoke Lv.31
+3/256	1%	Slowbro Lv.37	Golduck Lv.37	Slowbro Lv.31
+Average Exp.	439.59	432.85	446.25
+Seafoam Islands (B3F) encounters
+Cave
+Encounter Rate: 10
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Slowpoke Lv.31	Psyduck Lv.31	Golbat Lv.27
+51/256	20%	Seel Lv.31	Seel Lv.31	Zubat Lv.36
+39/256	15%	Slowpoke Lv.33	Psyduck Lv.33	Krabby Lv.29
+25/256	10%	Seel Lv.33	Seel Lv.33	Zubat Lv.27
+25/256	10%	Horsea Lv.29	Krabby Lv.29	Kingler Lv.30
+25/256	10%	Shellder Lv.31	Staryu Lv.31	Seel Lv.26
+13/256	5%	Horsea Lv.31	Krabby Lv.31	Krabby Lv.31
+13/256	5%	Shellder Lv.29	Staryu Lv.29	Seel Lv.30
+11/256	4%	Seadra Lv.39	Kingler Lv.39	Dewgong Lv.28
+3/256	1%	Dewgong Lv.37	Dewgong Lv.37	Dewgong Lv.32
+Average Exp.	454.67	462.62	488.91
+Surfing
+Encounter Rate: 5
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	—	—	Tentacool Lv.25
+51/256	20%	—	—	Tentacool Lv.30
+39/256	15%	—	—	Tentacool Lv.20
+25/256	10%	—	—	Staryu Lv.30
+25/256	10%	—	—	Tentacool Lv.35
+25/256	10%	—	—	Staryu Lv.30
+13/256	5%	—	—	Tentacool Lv.40
+13/256	5%	—	—	Staryu Lv.30
+11/256	4%	—	—	Staryu Lv.30
+3/256	1%	—	—	Staryu Lv.30
+Average Exp.	—	—	428.35
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/4	25%	Staryu Lv.15	Staryu Lv.15
+1/4	25%	Horsea Lv.15	Horsea Lv.15
+1/4	25%	Shellder Lv.15	Shellder Lv.15
+1/4	25%	Goldeen Lv.15	Goldeen Lv.15
+Average Exp.	212.00	212.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Krabby Lv.25
+76/256	30%	Staryu Lv.20
+51/256	20%	Kingler Lv.35
+27/256	10%	Staryu Lv.40
+Average Exp.	522.02
+Seafoam Islands (B4F) encounters
+Cave
+Encounter Rate: 10
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Horsea Lv.31	Krabby Lv.31	Golbat Lv.36
+51/256	20%	Shellder Lv.31	Staryu Lv.31	Zubat Lv.36
+39/256	15%	Horsea Lv.33	Krabby Lv.33	Krabby Lv.30
+25/256	10%	Shellder Lv.33	Staryu Lv.33	Kingler Lv.32
+25/256	10%	Slowpoke Lv.29	Psyduck Lv.29	Seel Lv.28
+25/256	10%	Seel Lv.31	Seel Lv.31	Seel Lv.32
+13/256	5%	Slowpoke Lv.31	Psyduck Lv.31	Golbat Lv.27
+13/256	5%	Seel Lv.29	Seel Lv.29	Zubat Lv.45
+11/256	4%	Slowbro Lv.39	Golduck Lv.39	Dewgong Lv.30
+3/256	1%	Golbat Lv.32	Golbat Lv.32	Dewgong Lv.34
+Average Exp.	437.63	491.41	574.33
+Surfing
+Encounter Rate: 5
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	—	—	Tentacool Lv.25
+51/256	20%	—	—	Tentacool Lv.30
+39/256	15%	—	—	Tentacool Lv.20
+25/256	10%	—	—	Staryu Lv.30
+25/256	10%	—	—	Tentacool Lv.35
+25/256	10%	—	—	Staryu Lv.30
+13/256	5%	—	—	Tentacool Lv.40
+13/256	5%	—	—	Staryu Lv.30
+11/256	4%	—	—	Staryu Lv.30
+3/256	1%	—	—	Staryu Lv.30
+Average Exp.	—	—	428.35
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/4	25%	Staryu Lv.15	Staryu Lv.15
+1/4	25%	Horsea Lv.15	Horsea Lv.15
+1/4	25%	Shellder Lv.15	Shellder Lv.15
+1/4	25%	Goldeen Lv.15	Goldeen Lv.15
+Average Exp.	212.00	212.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Krabby Lv.25
+76/256	30%	Staryu Lv.20
+51/256	20%	Kingler Lv.35
+27/256	10%	Staryu Lv.40
+Average Exp.	522.02
+Sea Route 21 encounters
+Tall grass
+Encounter Rate: 25
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Rattata Lv.21	Rattata Lv.21	Pidgey Lv.15
+51/256	20%	Pidgey Lv.23	Pidgey Lv.23	Rattata Lv.13
+39/256	15%	Raticate Lv.30	Raticate Lv.30	Pidgey Lv.13
+25/256	10%	Rattata Lv.23	Rattata Lv.23	Pidgey Lv.11
+25/256	10%	Pidgey Lv.21	Pidgey Lv.21	Pidgey Lv.17
+25/256	10%	Pidgeotto Lv.30	Pidgeotto Lv.30	Rattata Lv.15
+13/256	5%	Pidgeotto Lv.32	Pidgeotto Lv.32	Raticate Lv.15
+13/256	5%	Tangela Lv.28	Tangela Lv.28	Pidgeotto Lv.17
+11/256	4%	Tangela Lv.30	Tangela Lv.30	Pidgeotto Lv.19
+3/256	1%	Tangela Lv.32	Tangela Lv.32	Pidgeotto Lv.15
+Average Exp.	326.64	326.64	135.56
+Surfing
+Encounter Rate: 5
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Tentacool Lv.5	Tentacool Lv.5	Tentacool Lv.5
+51/256	20%	Tentacool Lv.10	Tentacool Lv.10	Tentacool Lv.10
+39/256	15%	Tentacool Lv.15	Tentacool Lv.15	Tentacool Lv.15
+25/256	10%	Tentacool Lv.5	Tentacool Lv.5	Tentacool Lv.5
+25/256	10%	Tentacool Lv.10	Tentacool Lv.10	Tentacool Lv.10
+25/256	10%	Tentacool Lv.15	Tentacool Lv.15	Tentacool Lv.15
+13/256	5%	Tentacool Lv.20	Tentacool Lv.20	Tentacool Lv.20
+13/256	5%	Tentacool Lv.30	Tentacool Lv.30	Tentacool Lv.30
+11/256	4%	Tentacool Lv.35	Tentacool Lv.35	Tentacool Lv.35
+3/256	1%	Tentacool Lv.40	Tentacool Lv.40	Tentacool Lv.40
+Average Exp.	190.72	190.72	190.72
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/4	25%	Staryu Lv.15	Staryu Lv.15
+1/4	25%	Horsea Lv.15	Horsea Lv.15
+1/4	25%	Shellder Lv.15	Shellder Lv.15
+1/4	25%	Goldeen Lv.15	Goldeen Lv.15
+Average Exp.	212.00	212.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Tentacool Lv.15
+76/256	30%	Staryu Lv.20
+51/256	20%	Tentacool Lv.30
+27/256	10%	Tentacruel Lv.30
+Average Exp.	361.55
+Cinnabar Island encounters
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/4	25%	Staryu Lv.15	Staryu Lv.15
+1/4	25%	Horsea Lv.15	Horsea Lv.15
+1/4	25%	Shellder Lv.15	Shellder Lv.15
+1/4	25%	Goldeen Lv.15	Goldeen Lv.15
+Average Exp.	212.00	212.00
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Staryu Lv.15
+76/256	30%	Tentacool Lv.15
+51/256	20%	Staryu Lv.10
+27/256	10%	Tentacool Lv.30
+Average Exp.	234.79
+Pokémon Mansion (1F) encounters
+Cave
+Encounter Rate: 10
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Koffing Lv.32	Grimer Lv.32	Rattata Lv.34
+51/256	20%	Koffing Lv.30	Grimer Lv.30	Raticate Lv.34
+39/256	15%	Ponyta Lv.34	Ponyta Lv.34	Grimer Lv.23
+25/256	10%	Ponyta Lv.30	Ponyta Lv.30	Growlithe Lv.26
+25/256	10%	Growlithe Lv.34	Vulpix Lv.34	Rattata Lv.37
+25/256	10%	Ponyta Lv.32	Ponyta Lv.32	Raticate Lv.37
+13/256	5%	Grimer Lv.30	Koffing Lv.30	Growlithe Lv.30
+13/256	5%	Ponyta Lv.28	Ponyta Lv.28	Grimer Lv.26
+11/256	4%	Weezing Lv.37	Muk Lv.37	Growlithe Lv.34
+3/256	1%	Muk Lv.39	Weezing Lv.39	Growlithe Lv.38
+Average Exp.	587.89	534.80	395.90
+Pokémon Mansion (2F) encounters
+Cave
+Encounter Rate: 10
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Growlithe Lv.32	Vulpix Lv.32	Rattata Lv.37
+51/256	20%	Koffing Lv.34	Grimer Lv.34	Raticate Lv.37
+39/256	15%	Koffing Lv.34	Grimer Lv.34	Grimer Lv.26
+25/256	10%	Ponyta Lv.30	Ponyta Lv.30	Grimer Lv.29
+25/256	10%	Koffing Lv.30	Grimer Lv.30	Rattata Lv.40
+25/256	10%	Ponyta Lv.32	Ponyta Lv.32	Raticate Lv.40
+13/256	5%	Grimer Lv.30	Koffing Lv.30	Grimer Lv.32
+13/256	5%	Ponyta Lv.28	Ponyta Lv.28	Grimer Lv.35
+11/256	4%	Weezing Lv.39	Muk Lv.39	Muk Lv.35
+3/256	1%	Muk Lv.37	Weezing Lv.37	Muk Lv.38
+Average Exp.	557.81	483.88	453.12
+Pokémon Mansion (3F) encounters
+Cave
+Encounter Rate: 10
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Koffing Lv.31	Grimer Lv.31	Rattata Lv.40
+51/256	20%	Growlithe Lv.33	Vulpix Lv.33	Raticate Lv.40
+39/256	15%	Koffing Lv.35	Grimer Lv.35	Grimer Lv.32
+25/256	10%	Ponyta Lv.32	Ponyta Lv.32	Grimer Lv.35
+25/256	10%	Ponyta Lv.34	Magmar Lv.34	Rattata Lv.43
+25/256	10%	Weezing Lv.40	Muk Lv.40	Raticate Lv.43
+13/256	5%	Grimer Lv.34	Koffing Lv.34	Grimer Lv.38
+13/256	5%	Weezing Lv.38	Muk Lv.38	Grimer Lv.38
+11/256	4%	Ponyta Lv.36	Ponyta Lv.36	Muk Lv.38
+3/256	1%	Muk Lv.42	Weezing Lv.42	Muk Lv.41
+Average Exp.	623.51	558.65	503.84
+Pokémon Mansion (B1F) encounters
+Cave
+Encounter Rate: 10
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Koffing Lv.33	Grimer Lv.33	Grimer Lv.35
+51/256	20%	Koffing Lv.31	Grimer Lv.31	Grimer Lv.38
+39/256	15%	Growlithe Lv.35	Vulpix Lv.35	Raticate Lv.37
+25/256	10%	Ponyta Lv.32	Ponyta Lv.32	Raticate Lv.40
+25/256	10%	Koffing Lv.31	Grimer Lv.31	Muk Lv.41
+25/256	10%	Weezing Lv.40	Muk Lv.40	Raticate Lv.43
+13/256	5%	Ponyta Lv.34	Ponyta Lv.34	Ditto Lv.24
+13/256	5%	Grimer Lv.35	Koffing Lv.35	Raticate Lv.46
+11/256	4%	Weezing Lv.42	Magmar Lv.38	Ditto Lv.18
+3/256	1%	Muk Lv.42	Weezing Lv.42	Ditto Lv.12
+Average Exp.	606.15	523.50	561.41
+Route 23 encounters
+Tall grass
+Encounter Rate: 10
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Ekans Lv.26	Sandshrew Lv.26	Nidorino Lv.41
+51/256	20%	Ditto Lv.33	Ditto Lv.33	Nidorina Lv.41
+39/256	15%	Spearow Lv.26	Spearow Lv.26	Mankey Lv.36
+25/256	10%	Fearow Lv.38	Fearow Lv.38	Nidorino Lv.44
+25/256	10%	Ditto Lv.38	Ditto Lv.38	Nidorina Lv.44
+25/256	10%	Fearow Lv.38	Fearow Lv.38	Fearow Lv.40
+13/256	5%	Arbok Lv.41	Sandslash Lv.41	Mankey Lv.41
+13/256	5%	Ditto Lv.43	Ditto Lv.43	Fearow Lv.45
+11/256	4%	Fearow Lv.41	Fearow Lv.41	Primeape Lv.41
+3/256	1%	Fearow Lv.43	Fearow Lv.43	Primeape Lv.46
+Average Exp.	454.86	482.50	690.28
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/4	25%	Slowbro Lv.23	Slowbro Lv.23
+1/4	25%	Seaking Lv.23	Seaking Lv.23
+1/4	25%	Kingler Lv.23	Kingler Lv.23
+1/4	25%	Seadra Lv.23	Seadra Lv.23
+Average Exp.	570.25	570.25
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Poliwag Lv.25
+76/256	30%	Poliwag Lv.30
+51/256	20%	Poliwhirl Lv.30
+27/256	10%	Poliwhirl Lv.40
+Average Exp.	398.19
+Victory Road (1F) encounters
+Cave
+Encounter Rate: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Machop Lv.24	Machop Lv.24	Geodude Lv.26
+51/256	20%	Geodude Lv.26	Geodude Lv.26	Geodude Lv.31
+39/256	15%	Zubat Lv.22	Zubat Lv.22	Geodude Lv.36
+25/256	10%	Onix Lv.36	Onix Lv.36	Zubat Lv.39
+25/256	10%	Onix Lv.39	Onix Lv.39	Zubat Lv.44
+25/256	10%	Onix Lv.42	Onix Lv.42	Geodude Lv.41
+13/256	5%	Graveler Lv.41	Graveler Lv.41	Onix Lv.43
+13/256	5%	Golbat Lv.41	Golbat Lv.41	Onix Lv.45
+11/256	4%	Machoke Lv.42	Machoke Lv.42	Graveler Lv.41
+3/256	1%	Marowak Lv.43	Marowak Lv.43	Graveler Lv.47
+Average Exp.	462.64	462.64	431.25
+Victory Road (2F) encounters
+Cave
+Encounter Rate: 10
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Machop Lv.22	Machop Lv.22	Geodude Lv.31
+51/256	20%	Geodude Lv.24	Geodude Lv.24	Geodude Lv.36
+39/256	15%	Zubat Lv.26	Zubat Lv.26	Geodude Lv.41
+25/256	10%	Onix Lv.36	Onix Lv.36	Zubat Lv.44
+25/256	10%	Onix Lv.39	Onix Lv.39	Golbat Lv.39
+25/256	10%	Onix Lv.42	Onix Lv.42	Graveler Lv.44
+13/256	5%	Machoke Lv.41	Machoke Lv.41	Onix Lv.45
+13/256	5%	Golbat Lv.40	Golbat Lv.40	Onix Lv.47
+11/256	4%	Marowak Lv.40	Marowak Lv.40	Machoke Lv.39
+3/256	1%	Graveler Lv.43	Graveler Lv.43	Machoke Lv.42
+Average Exp.	453.29	453.29	565.95
+Victory Road (3F) encounters
+Cave
+Encounter Rate: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Machop Lv.24	Machop Lv.24	Geodude Lv.36
+51/256	20%	Geodude Lv.26	Geodude Lv.26	Golbat Lv.44
+39/256	15%	Zubat Lv.22	Zubat Lv.22	Geodude Lv.41
+25/256	10%	Onix Lv.42	Onix Lv.42	Onix Lv.49
+25/256	10%	Venomoth Lv.40	Venomoth Lv.40	Geodude Lv.46
+25/256	10%	Onix Lv.45	Onix Lv.45	Graveler Lv.41
+13/256	5%	Graveler Lv.43	Graveler Lv.43	Machoke Lv.42
+13/256	5%	Golbat Lv.41	Golbat Lv.41	Machoke Lv.45
+11/256	4%	Machoke Lv.42	Machoke Lv.42	Graveler Lv.47
+3/256	1%	Machoke Lv.45	Machoke Lv.45	Graveler Lv.47
+Average Exp.	498.53	498.53	725.49
+Indigo Plateau (Lorelei's Room) encounters
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Cerulean Cave (1F) encounters
+Cave
+Encounter Rate: 10
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Golbat Lv.46	Golbat Lv.46	Golbat Lv.50
+51/256	20%	Hypno Lv.46	Hypno Lv.46	Golbat Lv.55
+39/256	15%	Magneton Lv.46	Magneton Lv.46	Graveler Lv.45
+25/256	10%	Dodrio Lv.49	Dodrio Lv.49	Gloom Lv.55
+25/256	10%	Venomoth Lv.49	Venomoth Lv.49	Weepinbell Lv.55
+25/256	10%	Arbok Lv.52	Sandslash Lv.52	Sandslash Lv.52
+13/256	5%	Kadabra Lv.49	Kadabra Lv.49	Venomoth Lv.54
+13/256	5%	Parasect Lv.52	Parasect Lv.52	Parasect Lv.54
+11/256	4%	Raichu Lv.53	Raichu Lv.53	Ditto Lv.55
+3/256	1%	Ditto Lv.53	Ditto Lv.53	Ditto Lv.60
+Average Exp.	1054.69	1066.21	1108.07
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/4	25%	Slowbro Lv.23	Slowbro Lv.23
+1/4	25%	Seaking Lv.23	Seaking Lv.23
+1/4	25%	Kingler Lv.23	Kingler Lv.23
+1/4	25%	Seadra Lv.23	Seadra Lv.23
+Average Exp.	570.25	570.25
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Goldeen Lv.25
+76/256	30%	Seaking Lv.35
+51/256	20%	Seaking Lv.45
+27/256	10%	Seaking Lv.55
+Average Exp.	768.47
+Cerulean Cave (2F) encounters
+Cave
+Encounter Rate: 15
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Dodrio Lv.51	Dodrio Lv.51	Golbat Lv.52
+51/256	20%	Venomoth Lv.51	Venomoth Lv.51	Golbat Lv.57
+39/256	15%	Kadabra Lv.51	Kadabra Lv.51	Graveler Lv.50
+25/256	10%	Rhydon Lv.52	Rhydon Lv.52	Sandslash Lv.56
+25/256	10%	Marowak Lv.52	Marowak Lv.52	Rhyhorn Lv.50
+25/256	10%	Electrode Lv.52	Electrode Lv.52	Ditto Lv.60
+13/256	5%	Chansey Lv.56	Chansey Lv.56	Gloom Lv.58
+13/256	5%	Wigglytuff Lv.54	Wigglytuff Lv.54	Weepinbell Lv.58
+11/256	4%	Ditto Lv.55	Ditto Lv.55	Rhydon Lv.60
+3/256	1%	Ditto Lv.60	Ditto Lv.60	Rhydon Lv.58
+Average Exp.	1110.02	1110.02	1162.52
+Cerulean Cave (B1F) encounters
+Cave
+Encounter Rate: 25
+
+Chance	Approx.	Red	Blue	Yellow
+51/256	20%	Rhydon Lv.55	Rhydon Lv.55	Golbat Lv.54
+51/256	20%	Marowak Lv.55	Marowak Lv.55	Golbat Lv.59
+39/256	15%	Electrode Lv.55	Electrode Lv.55	Graveler Lv.55
+25/256	10%	Chansey Lv.64	Chansey Lv.64	Rhyhorn Lv.52
+25/256	10%	Parasect Lv.64	Parasect Lv.64	Rhydon Lv.62
+25/256	10%	Raichu Lv.64	Raichu Lv.64	Ditto Lv.60
+13/256	5%	Arbok Lv.57	Sandslash Lv.57	Chansey Lv.56
+13/256	5%	Ditto Lv.65	Ditto Lv.65	Ditto Lv.65
+11/256	4%	Ditto Lv.63	Ditto Lv.63	Lickitung Lv.55
+3/256	1%	Ditto Lv.67	Ditto Lv.67	Lickitung Lv.50
+Average Exp.	1263.38	1269.98	1221.11
+Old Rod
+Chance	Approx.	Red	Blue	Yellow
+1	100%	Magikarp Lv.5	Magikarp Lv.5	Magikarp Lv.5
+Average Exp.	14.00	14.00	14.00
+Good Rod
+Chance	Approx.	Red	Blue	Yellow
+1/2	50%	Goldeen Lv.10	Goldeen Lv.10	Goldeen Lv.10
+1/2	50%	Poliwag Lv.10	Poliwag Lv.10	Poliwag Lv.10
+Average Exp.	134.00	134.00	134.00
+Super RodRB
+Chance	Approx.	Red	Blue
+1/4	25%	Slowbro Lv.23	Slowbro Lv.23
+1/4	25%	Seaking Lv.23	Seaking Lv.23
+1/4	25%	Kingler Lv.23	Kingler Lv.23
+1/4	25%	Seadra Lv.23	Seadra Lv.23
+Average Exp.	570.25	570.25
+Super RodY
+Chance	Approx.	Yellow
+102/256	40%	Goldeen Lv.30
+76/256	30%	Seaking Lv.40
+51/256	20%	Seaking Lv.50
+27/256	10%	Seaking Lv.60
+Average Exp.	873.04

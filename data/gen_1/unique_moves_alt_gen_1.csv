@@ -1,0 +1,166 @@
+﻿Move,Type,Power,Acc
+Absorb,Grass,20,1
+Acid,Poison,40,1
+Acid Armor,Poison,0,1
+Agility,Psychic,0,1
+Amnesia,Psychic,0,1
+Aurora Beam,Ice,65,1
+Barrage,Normal,15,0.85
+Barrier,Psychic,0,1
+Bide,Normal,0,1
+Bind,Normal,15,0.75
+Bite,Normal,60,1
+Blizzard,Ice,120,0.9
+Body Slam,Normal,85,1
+Bone Club,Ground,65,0.85
+Bonemerang,Ground,50,0.9
+Bubble,Water,20,1
+Bubblebeam,Water,65,1
+Clamp,Water,35,0.75
+Comet Punch,Normal,18,0.85
+Confuse Ray,Ghost,0,1
+Confusion,Psychic,50,1
+Constrict,Normal,10,1
+Conversion,Normal,0,1
+Counter,Fighting,0,1
+Crabhammer,Water,90,0.85
+Cut,Normal,50,0.95
+Defense Curl,Normal,0,1
+Dig,Ground,100,1
+Disable,Normal,0,0.55
+Dizzy Punch,Normal,70,1
+Double Kick,Fighting,30,1
+Double Team,Normal,0,1
+Double-edge,Normal,100,1
+Doubleslap,Normal,15,0.85
+Dragon Rage,Dragon,0,1
+Dream Eater,Psychic,100,1
+Drill Peck,Flying,80,1
+Earthquake,Ground,100,1
+Egg Bomb,Normal,100,0.75
+Ember,Fire,40,1
+Explosion,Normal,170,1
+Fire Blast,Fire,120,0.85
+Fire Punch,Fire,75,1
+Fire Spin,Fire,15,0.7
+Fissure,Ground,0,0.3
+Flamethrower,Fire,95,1
+Flash,Normal,0,0.7
+Fly,Flying,70,0.95
+Focus Energy,Normal,0,1
+Fury Attack,Normal,15,0.85
+Fury Swipes,Normal,10,0.8
+Glare,Normal,0,0.75
+Growl,Normal,0,1
+Growth,Normal,0,1
+Guillotine,Normal,0,0.3
+Gust,Normal,40,1
+Harden,Normal,0,1
+Haze,Ice,0,1
+Headbutt,Normal,70,1
+Hi Jump Kick,Fighting,85,0.9
+Horn Attack,Normal,65,1
+Horn Drill,Normal,0,0.3
+Hydro Pump,Water,120,0.8
+Hyper Beam,Normal,150,0.9
+Hyper Fang,Normal,80,0.9
+Hypnosis,Psychic,0,0.6
+Ice Beam,Ice,95,1
+Ice Punch,Ice,75,1
+Jump Kick,Fighting,70,0.95
+Karate Chop,Normal,55,1
+Kinesis,Psychic,0,0.8
+Leech Life,Bug,20,1
+Leech Seed,Grass,0,0.9
+Leer,Normal,0,1
+Lick,Ghost,20,1
+Light Screen,Psychic,0,1
+Lovely Kiss,Normal,0,0.75
+Low Kick,Fighting,50,0.9
+Meditate,Psychic,0,1
+Mega Drain,Grass,40,1
+Mega Kick,Normal,120,0.75
+Mega Punch,Normal,80,0.85
+Metronome,Normal,0,1
+Mimic,Normal,0,1
+Minimize,Normal,0,1
+Mirror Move,Flying,0,1
+Mist,Ice,0,1
+Night Shade,Ghost,0,1
+Pay Day,Normal,40,1
+Peck,Flying,35,1
+Petal Dance,Grass,70,1
+Pin Missile,Bug,14,0.85
+Poison Gas,Poison,0,0.55
+Poison Sting,Poison,15,1
+Poisonpowder,Poison,0,0.75
+Pound,Normal,40,1
+Psybeam,Psychic,65,1
+Psychic,Psychic,90,1
+Psywave,Psychic,0,0.8
+Quick Attack,Normal,40,1
+Rage,Normal,20,1
+Razor Leaf,Grass,55,0.95
+Razor Wind,Normal,80,0.75
+Recover,Normal,0,1
+Reflect,Psychic,0,1
+Rest,Psychic,0,1
+Roar,Normal,0,1
+Rock Slide,Rock,75,0.9
+Rock Throw,Rock,50,0.65
+Rolling Kick,Fighting,60,0.85
+Sand-Attack,Normal,0,1
+Scratch,Normal,40,1
+Screech,Normal,0,0.85
+Seismic Toss,Fighting,0,1
+Selfdestruct,Normal,130,1
+Sharpen,Normal,0,1
+Sing,Normal,0,0.55
+Skull Bash,Normal,100,1
+Sky Attack,Flying,140,0.9
+Slam,Normal,80,0.75
+Slash,Normal,70,1
+Sleep Powder,Grass,0,0.75
+Sludge,Poison,65,1
+Smog,Poison,20,1
+Smokescreen,Normal,0,1
+Softboiled,Normal,0,1
+Solarbeam,Grass,120,1
+Sonicboom,Normal,0,0.9
+Spike Cannon,Normal,20,1
+Splash,Normal,0,1
+Spore,Grass,0,1
+Stomp,Normal,65,1
+Strength,Normal,80,1
+String Shot,Bug,0,0.95
+Struggle,Normal,50,1
+Stun Spore,Grass,0,0.75
+Submission,Fighting,80,0.8
+Substitute,Normal,0,1
+Super Fang,Normal,0,0.9
+Supersonic,Normal,0,0.55
+Surf,Water,95,1
+Swift,Normal,60,1
+Swords Dance,Normal,0,1
+Tackle,Normal,35,0.95
+Tail Whip,Normal,0,1
+Take Down,Normal,90,0.85
+Teleport,Psychic,0,1
+Thrash,Normal,90,1
+Thunder,Electric,120,0.7
+Thunder Wave,Electric,0,1
+Thunderbolt,Electric,95,1
+Thunderpunch,Electric,75,1
+Thundershock,Electric,40,1
+Toxic,Poison,0,0.85
+Transform,Normal,0,1
+Tri Attack,Normal,80,1
+Twineedle,Bug,25,1
+Vicegrip,Normal,55,1
+Vine Whip,Grass,35,1
+Water Gun,Water,40,1
+Waterfall,Water,80,1
+Whirlwind,Normal,0,0.85
+Wing Attack,Flying,35,1
+Withdraw,Water,0,1
+Wrap,Normal,15,0.85

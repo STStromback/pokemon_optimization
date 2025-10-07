@@ -1,0 +1,1640 @@
+pokemon,move_level,move_name,move_type,power,accuracy,crit,move_stage
+Bulbasaur,1.0,Tackle,Normal,35,0.95,False,
+Bulbasaur,13.0,Vine Whip,Grass,35,1.0,False,
+Bulbasaur,27.0,Razor Leaf,Grass,55,0.95,True,
+Bulbasaur,,Cut,Normal,50,0.95,False,ss_anne
+Bulbasaur,,Body Slam,Normal,85,1.0,False,ss_anne
+Bulbasaur,,Rage,Normal,20,1.0,False,route_15
+Bulbasaur,,Mega Drain,Grass,40,1.0,False,celadon_city
+Ivysaur,1.0,Tackle,Normal,35,0.95,False,
+Ivysaur,13.0,Vine Whip,Grass,35,1.0,False,
+Ivysaur,30.0,Razor Leaf,Grass,55,0.95,True,
+Ivysaur,,Cut,Normal,50,0.95,False,ss_anne
+Ivysaur,,Body Slam,Normal,85,1.0,False,ss_anne
+Ivysaur,,Rage,Normal,20,1.0,False,route_15
+Ivysaur,,Mega Drain,Grass,40,1.0,False,celadon_city
+Venusaur,1.0,Tackle,Normal,35,0.95,False,
+Venusaur,1.0,Vine Whip,Grass,35,1.0,False,
+Venusaur,30.0,Razor Leaf,Grass,55,0.95,True,
+Venusaur,,Cut,Normal,50,0.95,False,ss_anne
+Venusaur,,Body Slam,Normal,85,1.0,False,ss_anne
+Venusaur,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Venusaur,,Rage,Normal,20,1.0,False,route_15
+Venusaur,,Mega Drain,Grass,40,1.0,False,celadon_city
+Charmander,1.0,Scratch,Normal,40,1.0,False,
+Charmander,9.0,Ember,Fire,40,1.0,False,
+Charmander,22.0,Rage,Normal,20,1.0,False,route_15
+Charmander,30.0,Slash,Normal,70,1.0,True,
+Charmander,38.0,Flamethrower,Fire,95,1.0,False,
+Charmander,46.0,Fire Spin,Fire,45,0.7,False,
+Charmander,,Cut,Normal,50,0.95,False,ss_anne
+Charmander,,Strength,Normal,80,1.0,False,safari_zone
+Charmander,,Mega Punch,Normal,80,0.85,False,celadon_city
+Charmander,,Mega Kick,Normal,120,0.75,False,celadon_city
+Charmander,,Body Slam,Normal,85,1.0,False,ss_anne
+Charmander,,Dig,Ground,100,1.0,False,cerulean_city
+Charmander,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Charmander,,Swift,Normal,60,1.0,False,route_12
+Charmeleon,1.0,Ember,Fire,40,1.0,False,
+Charmeleon,1.0,Scratch,Normal,40,1.0,False,
+Charmeleon,24.0,Rage,Normal,20,1.0,False,route_15
+Charmeleon,33.0,Slash,Normal,70,1.0,True,
+Charmeleon,42.0,Flamethrower,Fire,95,1.0,False,
+Charmeleon,56.0,Fire Spin,Fire,45,0.7,False,
+Charmeleon,,Cut,Normal,50,0.95,False,ss_anne
+Charmeleon,,Strength,Normal,80,1.0,False,safari_zone
+Charmeleon,,Mega Punch,Normal,80,0.85,False,celadon_city
+Charmeleon,,Mega Kick,Normal,120,0.75,False,celadon_city
+Charmeleon,,Body Slam,Normal,85,1.0,False,ss_anne
+Charmeleon,,Dig,Ground,100,1.0,False,cerulean_city
+Charmeleon,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Charmeleon,,Swift,Normal,60,1.0,False,route_12
+Charizard,1.0,Ember,Fire,40,1.0,False,
+Charizard,1.0,Scratch,Normal,40,1.0,False,
+Charizard,24.0,Rage,Normal,20,1.0,False,route_15
+Charizard,36.0,Slash,Normal,70,1.0,True,
+Charizard,46.0,Flamethrower,Fire,95,1.0,False,
+Charizard,55.0,Fire Spin,Fire,45,0.7,False,
+Charizard,,Cut,Normal,50,0.95,False,ss_anne
+Charizard,,Strength,Normal,80,1.0,False,safari_zone
+Charizard,,Mega Punch,Normal,80,0.85,False,celadon_city
+Charizard,,Mega Kick,Normal,120,0.75,False,celadon_city
+Charizard,,Body Slam,Normal,85,1.0,False,ss_anne
+Charizard,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Charizard,,Earthquake,Ground,100,1.0,False,silph_co
+Charizard,,Dig,Ground,100,1.0,False,cerulean_city
+Charizard,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Charizard,,Swift,Normal,60,1.0,False,route_12
+Charizard,,Fly,Flying,70,0.95,False,route_16
+Squirtle,1.0,Tackle,Normal,35,0.95,False,
+Squirtle,8.0,Bubble,Water,20,1.0,False,
+Squirtle,15.0,Water Gun,Water,40,1.0,False,mt_moon
+Squirtle,22.0,Bite,Normal,60,1.0,False,
+Squirtle,42.0,Hydro Pump,Water,120,0.8,False,
+Squirtle,,Surf,Water,95,1.0,False,safari_zone
+Squirtle,,Strength,Normal,80,1.0,False,safari_zone
+Squirtle,,Mega Punch,Normal,80,0.85,False,celadon_city
+Squirtle,,Mega Kick,Normal,120,0.75,False,celadon_city
+Squirtle,,Body Slam,Normal,85,1.0,False,ss_anne
+Squirtle,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Squirtle,,Ice Beam,Ice,95,1.0,False,celadon_city
+Squirtle,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Squirtle,,Rage,Normal,20,1.0,False,route_15
+Squirtle,,Dig,Ground,100,1.0,False,cerulean_city
+Wartortle,1.0,Bubble,Water,20,1.0,False,
+Wartortle,1.0,Tackle,Normal,35,0.95,False,
+Wartortle,15.0,Water Gun,Water,40,1.0,False,mt_moon
+Wartortle,24.0,Bite,Normal,60,1.0,False,
+Wartortle,47.0,Hydro Pump,Water,120,0.8,False,
+Wartortle,,Surf,Water,95,1.0,False,safari_zone
+Wartortle,,Strength,Normal,80,1.0,False,safari_zone
+Wartortle,,Mega Punch,Normal,80,0.85,False,celadon_city
+Wartortle,,Mega Kick,Normal,120,0.75,False,celadon_city
+Wartortle,,Body Slam,Normal,85,1.0,False,ss_anne
+Wartortle,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Wartortle,,Ice Beam,Ice,95,1.0,False,celadon_city
+Wartortle,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Wartortle,,Rage,Normal,20,1.0,False,route_15
+Wartortle,,Dig,Ground,100,1.0,False,cerulean_city
+Blastoise,1.0,Bubble,Water,20,1.0,False,
+Blastoise,1.0,Tackle,Normal,35,0.95,False,
+Blastoise,1.0,Water Gun,Water,40,1.0,False,mt_moon
+Blastoise,24.0,Bite,Normal,60,1.0,False,
+Blastoise,52.0,Hydro Pump,Water,120,0.8,False,
+Blastoise,,Surf,Water,95,1.0,False,safari_zone
+Blastoise,,Strength,Normal,80,1.0,False,safari_zone
+Blastoise,,Mega Punch,Normal,80,0.85,False,celadon_city
+Blastoise,,Mega Kick,Normal,120,0.75,False,celadon_city
+Blastoise,,Body Slam,Normal,85,1.0,False,ss_anne
+Blastoise,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Blastoise,,Ice Beam,Ice,95,1.0,False,celadon_city
+Blastoise,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Blastoise,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Blastoise,,Rage,Normal,20,1.0,False,route_15
+Blastoise,,Earthquake,Ground,100,1.0,False,silph_co
+Blastoise,,Dig,Ground,100,1.0,False,cerulean_city
+Caterpie,1.0,Tackle,Normal,35,0.95,False,
+Metapod,0.0,Struggle,Normal,1,1.0,False,
+Butterfree,1.0,Confusion,Psychic,50,1.0,False,
+Butterfree,12.0,Confusion,Psychic,50,1.0,False,
+Butterfree,32.0,Psybeam,Psychic,65,1.0,False,
+Butterfree,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Butterfree,,Rage,Normal,20,1.0,False,route_15
+Butterfree,,Mega Drain,Grass,40,1.0,False,celadon_city
+Butterfree,,Psychic,Psychic,90,1.0,False,saffron_city
+Butterfree,,Swift,Normal,60,1.0,False,route_12
+Weedle,1.0,Poison Sting,Poison,15,1.0,False,
+Kakuna,0.0,Struggle,Normal,1,1.0,False,
+Beedrill,1.0,Fury Attack,Normal,45,0.85,False,
+Beedrill,20.0,Twineedle,Bug,50,1.0,False,
+Beedrill,25.0,Rage,Normal,20,1.0,False,route_15
+Beedrill,30.0,Pin Missile,Bug,44,0.85,False,
+Beedrill,,Cut,Normal,50,0.95,False,ss_anne
+Beedrill,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Beedrill,,Mega Drain,Grass,40,1.0,False,celadon_city
+Beedrill,,Swift,Normal,60,1.0,False,route_12
+Pidgey,1.0,Gust,Normal,40,1.0,False,
+Pidgey,12.0,Quick Attack,Normal,40,1.0,False,
+Pidgey,28.0,Wing Attack,Flying,35,1.0,False,
+Pidgey,,Fly,Flying,70,0.95,False,route_16
+Pidgey,,Rage,Normal,20,1.0,False,route_15
+Pidgey,,Swift,Normal,60,1.0,False,route_12
+Pidgeotto,1.0,Gust,Normal,40,1.0,False,
+Pidgeotto,12.0,Quick Attack,Normal,40,1.0,False,
+Pidgeotto,31.0,Wing Attack,Flying,35,1.0,False,
+Pidgeotto,,Fly,Flying,70,0.95,False,route_16
+Pidgeotto,,Rage,Normal,20,1.0,False,route_15
+Pidgeotto,,Swift,Normal,60,1.0,False,route_12
+Pidgeot,1.0,Gust,Normal,40,1.0,False,
+Pidgeot,1.0,Quick Attack,Normal,40,1.0,False,
+Pidgeot,31.0,Wing Attack,Flying,35,1.0,False,
+Pidgeot,,Fly,Flying,70,0.95,False,route_16
+Pidgeot,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Pidgeot,,Rage,Normal,20,1.0,False,route_15
+Pidgeot,,Swift,Normal,60,1.0,False,route_12
+Rattata,1.0,Tackle,Normal,35,0.95,False,
+Rattata,7.0,Quick Attack,Normal,40,1.0,False,
+Rattata,14.0,Hyper Fang,Normal,80,0.9,False,
+Rattata,,Body Slam,Normal,85,1.0,False,ss_anne
+Rattata,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Rattata,,Water Gun,Water,40,1.0,False,mt_moon
+Rattata,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Rattata,,Rage,Normal,20,1.0,False,route_15
+Rattata,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Rattata,,Thunder,Electric,120,0.7,False,power_plant
+Rattata,,Dig,Ground,100,1.0,False,cerulean_city
+Rattata,,Swift,Normal,60,1.0,False,route_12
+Raticate,1.0,Quick Attack,Normal,40,1.0,False,
+Raticate,1.0,Tackle,Normal,35,0.95,False,
+Raticate,14.0,Hyper Fang,Normal,80,0.9,False,
+Raticate,,Body Slam,Normal,85,1.0,False,ss_anne
+Raticate,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Raticate,,Water Gun,Water,40,1.0,False,mt_moon
+Raticate,,Ice Beam,Ice,95,1.0,False,celadon_city
+Raticate,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Raticate,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Raticate,,Rage,Normal,20,1.0,False,route_15
+Raticate,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Raticate,,Thunder,Electric,120,0.7,False,power_plant
+Raticate,,Dig,Ground,100,1.0,False,cerulean_city
+Raticate,,Swift,Normal,60,1.0,False,route_12
+Spearow,1.0,Peck,Flying,35,1.0,False,
+Spearow,15.0,Fury Attack,Normal,45,0.85,False,
+Spearow,29.0,Drill Peck,Flying,80,1.0,False,
+Spearow,,Fly,Flying,70,0.95,False,route_16
+Spearow,,Rage,Normal,20,1.0,False,route_15
+Spearow,,Swift,Normal,60,1.0,False,route_12
+Fearow,1.0,Peck,Flying,35,1.0,False,
+Fearow,15.0,Fury Attack,Normal,45,0.85,False,
+Fearow,34.0,Drill Peck,Flying,80,1.0,False,
+Fearow,,Fly,Flying,70,0.95,False,route_16
+Fearow,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Fearow,,Rage,Normal,20,1.0,False,route_15
+Fearow,,Swift,Normal,60,1.0,False,route_12
+Ekans,1.0,Wrap,Normal,45,0.85,False,
+Ekans,10.0,Poison Sting,Poison,15,1.0,False,
+Ekans,17.0,Bite,Normal,60,1.0,False,
+Ekans,38.0,Acid,Poison,40,1.0,False,
+Ekans,,Strength,Normal,80,1.0,False,safari_zone
+Ekans,,Body Slam,Normal,85,1.0,False,ss_anne
+Ekans,,Rage,Normal,20,1.0,False,route_15
+Ekans,,Mega Drain,Grass,40,1.0,False,celadon_city
+Ekans,,Earthquake,Ground,100,1.0,False,silph_co
+Ekans,,Dig,Ground,100,1.0,False,cerulean_city
+Ekans,,Rock Slide,Rock,75,0.9,False,celadon_city
+Arbok,1.0,Poison Sting,Poison,15,1.0,False,
+Arbok,1.0,Wrap,Normal,45,0.85,False,
+Arbok,17.0,Bite,Normal,60,1.0,False,
+Arbok,47.0,Acid,Poison,40,1.0,False,
+Arbok,,Strength,Normal,80,1.0,False,safari_zone
+Arbok,,Body Slam,Normal,85,1.0,False,ss_anne
+Arbok,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Arbok,,Rage,Normal,20,1.0,False,route_15
+Arbok,,Mega Drain,Grass,40,1.0,False,celadon_city
+Arbok,,Earthquake,Ground,100,1.0,False,silph_co
+Arbok,,Dig,Ground,100,1.0,False,cerulean_city
+Arbok,,Rock Slide,Rock,75,0.9,False,celadon_city
+Pikachu,1.0,ThunderShock,Electric,40,1.0,False,
+Pikachu,16.0,Quick Attack,Normal,40,1.0,False,
+Pikachu,26.0,Swift,Normal,60,1.0,False,route_12
+Pikachu,43.0,Thunder,Electric,120,0.7,False,power_plant
+Pikachu,,Mega Punch,Normal,80,0.85,False,celadon_city
+Pikachu,,Mega Kick,Normal,120,0.75,False,celadon_city
+Pikachu,,Body Slam,Normal,85,1.0,False,ss_anne
+Pikachu,,Pay Day,Normal,40,1.0,False,route_12
+Pikachu,,Rage,Normal,20,1.0,False,route_15
+Pikachu,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Raichu,1.0,ThunderShock,Electric,40,1.0,False,
+Raichu,,Mega Punch,Normal,80,0.85,False,celadon_city
+Raichu,,Mega Kick,Normal,120,0.75,False,celadon_city
+Raichu,,Body Slam,Normal,85,1.0,False,ss_anne
+Raichu,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Raichu,,Pay Day,Normal,40,1.0,False,route_12
+Raichu,,Rage,Normal,20,1.0,False,route_15
+Raichu,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Raichu,,Thunder,Electric,120,0.7,False,power_plant
+Raichu,,Swift,Normal,60,1.0,False,route_12
+Sandshrew,1.0,Scratch,Normal,40,1.0,False,
+Sandshrew,17.0,Slash,Normal,70,1.0,True,
+Sandshrew,24.0,Poison Sting,Poison,15,1.0,False,
+Sandshrew,31.0,Swift,Normal,60,1.0,False,route_12
+Sandshrew,38.0,Fury Swipes,Normal,54,0.8,False,
+Sandshrew,,Cut,Normal,50,0.95,False,ss_anne
+Sandshrew,,Strength,Normal,80,1.0,False,safari_zone
+Sandshrew,,Body Slam,Normal,85,1.0,False,ss_anne
+Sandshrew,,Rage,Normal,20,1.0,False,route_15
+Sandshrew,,Earthquake,Ground,100,1.0,False,silph_co
+Sandshrew,,Dig,Ground,100,1.0,False,cerulean_city
+Sandshrew,,Rock Slide,Rock,75,0.9,False,celadon_city
+Sandslash,1.0,Scratch,Normal,40,1.0,False,
+Sandslash,17.0,Slash,Normal,70,1.0,True,
+Sandslash,27.0,Poison Sting,Poison,15,1.0,False,
+Sandslash,36.0,Swift,Normal,60,1.0,False,route_12
+Sandslash,47.0,Fury Swipes,Normal,54,0.8,False,
+Sandslash,,Cut,Normal,50,0.95,False,ss_anne
+Sandslash,,Strength,Normal,80,1.0,False,safari_zone
+Sandslash,,Body Slam,Normal,85,1.0,False,ss_anne
+Sandslash,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Sandslash,,Rage,Normal,20,1.0,False,route_15
+Sandslash,,Earthquake,Ground,100,1.0,False,silph_co
+Sandslash,,Dig,Ground,100,1.0,False,cerulean_city
+Sandslash,,Rock Slide,Rock,75,0.9,False,celadon_city
+Nidoran_f,1.0,Tackle,Normal,35,0.95,False,
+Nidoran_f,8.0,Scratch,Normal,40,1.0,False,
+Nidoran_f,14.0,Poison Sting,Poison,15,1.0,False,
+Nidoran_f,29.0,Bite,Normal,60,1.0,False,
+Nidoran_f,36.0,Fury Swipes,Normal,54,0.8,False,
+Nidoran_f,43.0,Double Kick,Fighting,60,1.0,False,
+Nidoran_f,,Body Slam,Normal,85,1.0,False,ss_anne
+Nidoran_f,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Nidoran_f,,Rage,Normal,20,1.0,False,route_15
+Nidoran_f,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Nidoran_f,,Thunder,Electric,120,0.7,False,power_plant
+Nidorina,1.0,Scratch,Normal,40,1.0,False,
+Nidorina,1.0,Tackle,Normal,35,0.95,False,
+Nidorina,14.0,Poison Sting,Poison,15,1.0,False,
+Nidorina,32.0,Bite,Normal,60,1.0,False,
+Nidorina,41.0,Fury Swipes,Normal,54,0.8,False,
+Nidorina,50.0,Double Kick,Fighting,60,1.0,False,
+Nidorina,,Body Slam,Normal,85,1.0,False,ss_anne
+Nidorina,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Nidorina,,Water Gun,Water,40,1.0,False,mt_moon
+Nidorina,,Ice Beam,Ice,95,1.0,False,celadon_city
+Nidorina,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Nidorina,,Rage,Normal,20,1.0,False,route_15
+Nidorina,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Nidorina,,Thunder,Electric,120,0.7,False,power_plant
+Nidoqueen,1.0,Body Slam,Normal,85,1.0,False,ss_anne
+Nidoqueen,23.0,Body Slam,Normal,85,1.0,False,ss_anne
+Nidoqueen,1.0,Scratch,Normal,40,1.0,False,
+Nidoqueen,1.0,Tackle,Normal,35,0.95,False,
+Nidoqueen,14.0,Poison Sting,Poison,15,1.0,False,
+Nidoqueen,,Surf,Water,95,1.0,False,safari_zone
+Nidoqueen,,Strength,Normal,80,1.0,False,safari_zone
+Nidoqueen,,Mega Punch,Normal,80,0.85,False,celadon_city
+Nidoqueen,,Mega Kick,Normal,120,0.75,False,celadon_city
+Nidoqueen,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Nidoqueen,,Water Gun,Water,40,1.0,False,mt_moon
+Nidoqueen,,Ice Beam,Ice,95,1.0,False,celadon_city
+Nidoqueen,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Nidoqueen,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Nidoqueen,,Pay Day,Normal,40,1.0,False,route_12
+Nidoqueen,,Rage,Normal,20,1.0,False,route_15
+Nidoqueen,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Nidoqueen,,Thunder,Electric,120,0.7,False,power_plant
+Nidoqueen,,Earthquake,Ground,100,1.0,False,silph_co
+Nidoqueen,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Nidoqueen,,Rock Slide,Rock,75,0.9,False,celadon_city
+Nidoran_m,1.0,Tackle,Normal,35,0.95,False,
+Nidoran_m,8.0,Horn Attack,Normal,65,1.0,False,
+Nidoran_m,14.0,Poison Sting,Poison,15,1.0,False,
+Nidoran_m,29.0,Fury Attack,Normal,45,0.85,False,
+Nidoran_m,43.0,Double Kick,Fighting,60,1.0,False,
+Nidoran_m,,Body Slam,Normal,85,1.0,False,ss_anne
+Nidoran_m,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Nidoran_m,,Rage,Normal,20,1.0,False,route_15
+Nidoran_m,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Nidoran_m,,Thunder,Electric,120,0.7,False,power_plant
+Nidorino,1.0,Horn Attack,Normal,65,1.0,False,
+Nidorino,1.0,Tackle,Normal,35,0.95,False,
+Nidorino,14.0,Poison Sting,Poison,15,1.0,False,
+Nidorino,32.0,Fury Attack,Normal,45,0.85,False,
+Nidorino,50.0,Double Kick,Fighting,60,1.0,False,
+Nidorino,,Body Slam,Normal,85,1.0,False,ss_anne
+Nidorino,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Nidorino,,Water Gun,Water,40,1.0,False,mt_moon
+Nidorino,,Ice Beam,Ice,95,1.0,False,celadon_city
+Nidorino,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Nidorino,,Rage,Normal,20,1.0,False,route_15
+Nidorino,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Nidorino,,Thunder,Electric,120,0.7,False,power_plant
+Nidoking,1.0,Horn Attack,Normal,65,1.0,False,
+Nidoking,8.0,Horn Attack,Normal,65,1.0,False,
+Nidoking,1.0,Poison Sting,Poison,15,1.0,False,
+Nidoking,1.0,Tackle,Normal,35,0.95,False,
+Nidoking,1.0,Thrash,Normal,90,1.0,False,
+Nidoking,23.0,Thrash,Normal,90,1.0,False,
+Nidoking,,Surf,Water,95,1.0,False,safari_zone
+Nidoking,,Strength,Normal,80,1.0,False,safari_zone
+Nidoking,,Mega Punch,Normal,80,0.85,False,celadon_city
+Nidoking,,Mega Kick,Normal,120,0.75,False,celadon_city
+Nidoking,,Body Slam,Normal,85,1.0,False,ss_anne
+Nidoking,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Nidoking,,Water Gun,Water,40,1.0,False,mt_moon
+Nidoking,,Ice Beam,Ice,95,1.0,False,celadon_city
+Nidoking,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Nidoking,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Nidoking,,Pay Day,Normal,40,1.0,False,route_12
+Nidoking,,Rage,Normal,20,1.0,False,route_15
+Nidoking,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Nidoking,,Thunder,Electric,120,0.7,False,power_plant
+Nidoking,,Earthquake,Ground,100,1.0,False,silph_co
+Nidoking,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Nidoking,,Rock Slide,Rock,75,0.9,False,celadon_city
+Clefairy,1.0,Pound,Normal,40,1.0,False,
+Clefairy,18.0,DoubleSlap,Normal,45,0.85,False,
+Clefairy,,Strength,Normal,80,1.0,False,safari_zone
+Clefairy,,Mega Punch,Normal,80,0.85,False,celadon_city
+Clefairy,,Mega Kick,Normal,120,0.75,False,celadon_city
+Clefairy,,Body Slam,Normal,85,1.0,False,ss_anne
+Clefairy,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Clefairy,,Water Gun,Water,40,1.0,False,mt_moon
+Clefairy,,Ice Beam,Ice,95,1.0,False,celadon_city
+Clefairy,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Clefairy,,Rage,Normal,20,1.0,False,route_15
+Clefairy,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Clefairy,,Thunder,Electric,120,0.7,False,power_plant
+Clefairy,,Psychic,Psychic,90,1.0,False,saffron_city
+Clefairy,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Clefairy,,Tri Attack,Normal,80,1.0,False,celadon_city
+Clefable,1.0,DoubleSlap,Normal,45,0.85,False,
+Clefable,,Strength,Normal,80,1.0,False,safari_zone
+Clefable,,Mega Punch,Normal,80,0.85,False,celadon_city
+Clefable,,Mega Kick,Normal,120,0.75,False,celadon_city
+Clefable,,Body Slam,Normal,85,1.0,False,ss_anne
+Clefable,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Clefable,,Water Gun,Water,40,1.0,False,mt_moon
+Clefable,,Ice Beam,Ice,95,1.0,False,celadon_city
+Clefable,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Clefable,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Clefable,,Rage,Normal,20,1.0,False,route_15
+Clefable,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Clefable,,Thunder,Electric,120,0.7,False,power_plant
+Clefable,,Psychic,Psychic,90,1.0,False,saffron_city
+Clefable,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Clefable,,Tri Attack,Normal,80,1.0,False,celadon_city
+Vulpix,1.0,Ember,Fire,40,1.0,False,
+Vulpix,16.0,Quick Attack,Normal,40,1.0,False,
+Vulpix,35.0,Flamethrower,Fire,95,1.0,False,
+Vulpix,42.0,Fire Spin,Fire,45,0.7,False,
+Vulpix,,Body Slam,Normal,85,1.0,False,ss_anne
+Vulpix,,Rage,Normal,20,1.0,False,route_15
+Vulpix,,Dig,Ground,100,1.0,False,cerulean_city
+Vulpix,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Vulpix,,Swift,Normal,60,1.0,False,route_12
+Ninetales,1.0,Ember,Fire,40,1.0,False,
+Ninetales,1.0,Quick Attack,Normal,40,1.0,False,
+Ninetales,,Body Slam,Normal,85,1.0,False,ss_anne
+Ninetales,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Ninetales,,Rage,Normal,20,1.0,False,route_15
+Ninetales,,Dig,Ground,100,1.0,False,cerulean_city
+Ninetales,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Ninetales,,Swift,Normal,60,1.0,False,route_12
+Jigglypuff,9.0,Pound,Normal,40,1.0,False,
+Jigglypuff,24.0,DoubleSlap,Normal,45,0.85,False,
+Jigglypuff,34.0,Body Slam,Normal,85,1.0,False,ss_anne
+Jigglypuff,,Strength,Normal,80,1.0,False,safari_zone
+Jigglypuff,,Mega Punch,Normal,80,0.85,False,celadon_city
+Jigglypuff,,Mega Kick,Normal,120,0.75,False,celadon_city
+Jigglypuff,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Jigglypuff,,Water Gun,Water,40,1.0,False,mt_moon
+Jigglypuff,,Ice Beam,Ice,95,1.0,False,celadon_city
+Jigglypuff,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Jigglypuff,,Rage,Normal,20,1.0,False,route_15
+Jigglypuff,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Jigglypuff,,Thunder,Electric,120,0.7,False,power_plant
+Jigglypuff,,Psychic,Psychic,90,1.0,False,saffron_city
+Jigglypuff,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Jigglypuff,,Tri Attack,Normal,80,1.0,False,celadon_city
+Wigglytuff,1.0,DoubleSlap,Normal,45,0.85,False,
+Wigglytuff,,Strength,Normal,80,1.0,False,safari_zone
+Wigglytuff,,Mega Punch,Normal,80,0.85,False,celadon_city
+Wigglytuff,,Mega Kick,Normal,120,0.75,False,celadon_city
+Wigglytuff,,Body Slam,Normal,85,1.0,False,ss_anne
+Wigglytuff,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Wigglytuff,,Water Gun,Water,40,1.0,False,mt_moon
+Wigglytuff,,Ice Beam,Ice,95,1.0,False,celadon_city
+Wigglytuff,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Wigglytuff,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Wigglytuff,,Rage,Normal,20,1.0,False,route_15
+Wigglytuff,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Wigglytuff,,Thunder,Electric,120,0.7,False,power_plant
+Wigglytuff,,Psychic,Psychic,90,1.0,False,saffron_city
+Wigglytuff,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Wigglytuff,,Tri Attack,Normal,80,1.0,False,celadon_city
+Zubat,1.0,Leech Life,Bug,20,1.0,False,
+Zubat,15.0,Bite,Normal,60,1.0,False,
+Zubat,28.0,Wing Attack,Flying,35,1.0,False,
+Zubat,,Rage,Normal,20,1.0,False,route_15
+Zubat,,Mega Drain,Grass,40,1.0,False,celadon_city
+Zubat,,Swift,Normal,60,1.0,False,route_12
+Golbat,1.0,Bite,Normal,60,1.0,False,
+Golbat,1.0,Leech Life,Bug,20,1.0,False,
+Golbat,32.0,Wing Attack,Flying,35,1.0,False,
+Golbat,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Golbat,,Rage,Normal,20,1.0,False,route_15
+Golbat,,Mega Drain,Grass,40,1.0,False,celadon_city
+Golbat,,Swift,Normal,60,1.0,False,route_12
+Oddish,1.0,Absorb,Grass,20,1.0,False,
+Oddish,24.0,Acid,Poison,40,1.0,False,
+Oddish,33.0,Petal Dance,Grass,70,1.0,False,
+Oddish,,Cut,Normal,50,0.95,False,ss_anne
+Oddish,,Rage,Normal,20,1.0,False,route_15
+Oddish,,Mega Drain,Grass,40,1.0,False,celadon_city
+Gloom,1.0,Absorb,Grass,20,1.0,False,
+Gloom,28.0,Acid,Poison,40,1.0,False,
+Gloom,38.0,Petal Dance,Grass,70,1.0,False,
+Gloom,,Cut,Normal,50,0.95,False,ss_anne
+Gloom,,Rage,Normal,20,1.0,False,route_15
+Gloom,,Mega Drain,Grass,40,1.0,False,celadon_city
+Vileplume,1.0,Acid,Poison,40,1.0,False,
+Vileplume,1.0,Petal Dance,Grass,70,1.0,False,
+Vileplume,,Cut,Normal,50,0.95,False,ss_anne
+Vileplume,,Body Slam,Normal,85,1.0,False,ss_anne
+Vileplume,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Vileplume,,Rage,Normal,20,1.0,False,route_15
+Vileplume,,Mega Drain,Grass,40,1.0,False,celadon_city
+Paras,1.0,Scratch,Normal,40,1.0,False,
+Paras,20.0,Leech Life,Bug,20,1.0,False,
+Paras,34.0,Slash,Normal,70,1.0,True,
+Paras,,Cut,Normal,50,0.95,False,ss_anne
+Paras,,Body Slam,Normal,85,1.0,False,ss_anne
+Paras,,Rage,Normal,20,1.0,False,route_15
+Paras,,Mega Drain,Grass,40,1.0,False,celadon_city
+Paras,,Dig,Ground,100,1.0,False,cerulean_city
+Parasect,1.0,Leech Life,Bug,20,1.0,False,
+Parasect,1.0,Scratch,Normal,40,1.0,False,
+Parasect,39.0,Slash,Normal,70,1.0,True,
+Parasect,,Cut,Normal,50,0.95,False,ss_anne
+Parasect,,Body Slam,Normal,85,1.0,False,ss_anne
+Parasect,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Parasect,,Rage,Normal,20,1.0,False,route_15
+Parasect,,Mega Drain,Grass,40,1.0,False,celadon_city
+Parasect,,Dig,Ground,100,1.0,False,cerulean_city
+Venonat,1.0,Tackle,Normal,35,0.95,False,
+Venonat,27.0,Leech Life,Bug,20,1.0,False,
+Venonat,35.0,Psybeam,Psychic,65,1.0,False,
+Venonat,43.0,Psychic,Psychic,90,1.0,False,saffron_city
+Venonat,,Rage,Normal,20,1.0,False,route_15
+Venonat,,Mega Drain,Grass,40,1.0,False,celadon_city
+Venomoth,1.0,Leech Life,Bug,20,1.0,False,
+Venomoth,1.0,Tackle,Normal,35,0.95,False,
+Venomoth,38.0,Psybeam,Psychic,65,1.0,False,
+Venomoth,50.0,Psychic,Psychic,90,1.0,False,saffron_city
+Venomoth,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Venomoth,,Rage,Normal,20,1.0,False,route_15
+Venomoth,,Mega Drain,Grass,40,1.0,False,celadon_city
+Venomoth,,Swift,Normal,60,1.0,False,route_12
+Diglett,1.0,Scratch,Normal,40,1.0,False,
+Diglett,19.0,Dig,Ground,100,1.0,False,cerulean_city
+Diglett,31.0,Slash,Normal,70,1.0,True,
+Diglett,40.0,Earthquake,Ground,100,1.0,False,silph_co
+Diglett,,Body Slam,Normal,85,1.0,False,ss_anne
+Diglett,,Rage,Normal,20,1.0,False,route_15
+Diglett,,Rock Slide,Rock,75,0.9,False,celadon_city
+Diglett,,Cut,Normal,50,0.95,False,ss_anne
+Dugtrio,1.0,Dig,Ground,100,1.0,False,cerulean_city
+Dugtrio,1.0,Scratch,Normal,40,1.0,False,
+Dugtrio,35.0,Slash,Normal,70,1.0,True,
+Dugtrio,47.0,Earthquake,Ground,100,1.0,False,silph_co
+Dugtrio,,Body Slam,Normal,85,1.0,False,ss_anne
+Dugtrio,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Dugtrio,,Rage,Normal,20,1.0,False,route_15
+Dugtrio,,Rock Slide,Rock,75,0.9,False,celadon_city
+Dugtrio,,Cut,Normal,50,0.95,False,ss_anne
+Meowth,1.0,Scratch,Normal,40,1.0,False,
+Meowth,12.0,Bite,Normal,60,1.0,False,
+Meowth,17.0,Pay Day,Normal,40,1.0,False,route_12
+Meowth,33.0,Fury Swipes,Normal,54,0.8,False,
+Meowth,44.0,Slash,Normal,70,1.0,True,
+Meowth,,Body Slam,Normal,85,1.0,False,ss_anne
+Meowth,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Meowth,,Water Gun,Water,40,1.0,False,mt_moon
+Meowth,,Rage,Normal,20,1.0,False,route_15
+Meowth,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Meowth,,Thunder,Electric,120,0.7,False,power_plant
+Meowth,,Swift,Normal,60,1.0,False,route_12
+Persian,1.0,Bite,Normal,60,1.0,False,
+Persian,1.0,Scratch,Normal,40,1.0,False,
+Persian,17.0,Pay Day,Normal,40,1.0,False,route_12
+Persian,37.0,Fury Swipes,Normal,54,0.8,False,
+Persian,51.0,Slash,Normal,70,1.0,True,
+Persian,,Body Slam,Normal,85,1.0,False,ss_anne
+Persian,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Persian,,Water Gun,Water,40,1.0,False,mt_moon
+Persian,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Persian,,Rage,Normal,20,1.0,False,route_15
+Persian,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Persian,,Thunder,Electric,120,0.7,False,power_plant
+Persian,,Swift,Normal,60,1.0,False,route_12
+Psyduck,1.0,Scratch,Normal,40,1.0,False,
+Psyduck,36.0,Confusion,Psychic,50,1.0,False,
+Psyduck,43.0,Fury Swipes,Normal,54,0.8,False,
+Psyduck,52.0,Hydro Pump,Water,120,0.8,False,
+Psyduck,,Surf,Water,95,1.0,False,safari_zone
+Psyduck,,Strength,Normal,80,1.0,False,safari_zone
+Psyduck,,Mega Punch,Normal,80,0.85,False,celadon_city
+Psyduck,,Mega Kick,Normal,120,0.75,False,celadon_city
+Psyduck,,Body Slam,Normal,85,1.0,False,ss_anne
+Psyduck,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Psyduck,,Water Gun,Water,40,1.0,False,mt_moon
+Psyduck,,Ice Beam,Ice,95,1.0,False,celadon_city
+Psyduck,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Psyduck,,Pay Day,Normal,40,1.0,False,route_12
+Psyduck,,Rage,Normal,20,1.0,False,route_15
+Psyduck,,Dig,Ground,100,1.0,False,cerulean_city
+Psyduck,,Swift,Normal,60,1.0,False,route_12
+Golduck,1.0,Scratch,Normal,40,1.0,False,
+Golduck,39.0,Confusion,Psychic,50,1.0,False,
+Golduck,48.0,Fury Swipes,Normal,54,0.8,False,
+Golduck,59.0,Hydro Pump,Water,120,0.8,False,
+Golduck,,Surf,Water,95,1.0,False,safari_zone
+Golduck,,Strength,Normal,80,1.0,False,safari_zone
+Golduck,,Mega Punch,Normal,80,0.85,False,celadon_city
+Golduck,,Mega Kick,Normal,120,0.75,False,celadon_city
+Golduck,,Body Slam,Normal,85,1.0,False,ss_anne
+Golduck,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Golduck,,Water Gun,Water,40,1.0,False,mt_moon
+Golduck,,Ice Beam,Ice,95,1.0,False,celadon_city
+Golduck,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Golduck,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Golduck,,Pay Day,Normal,40,1.0,False,route_12
+Golduck,,Rage,Normal,20,1.0,False,route_15
+Golduck,,Dig,Ground,100,1.0,False,cerulean_city
+Golduck,,Swift,Normal,60,1.0,False,route_12
+Mankey,1.0,Scratch,Normal,40,1.0,False,
+Mankey,15.0,Karate Chop,Normal,50,1.0,True,
+Mankey,21.0,Fury Swipes,Normal,54,0.8,False,
+Mankey,39.0,Thrash,Normal,90,1.0,False,
+Mankey,,Strength,Normal,80,1.0,False,safari_zone
+Mankey,,Mega Punch,Normal,80,0.85,False,celadon_city
+Mankey,,Mega Kick,Normal,120,0.75,False,celadon_city
+Mankey,,Body Slam,Normal,85,1.0,False,ss_anne
+Mankey,,Pay Day,Normal,40,1.0,False,route_12
+Mankey,,Rage,Normal,20,1.0,False,route_15
+Mankey,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Mankey,,Thunder,Electric,120,0.7,False,power_plant
+Mankey,,Dig,Ground,100,1.0,False,cerulean_city
+Mankey,,Swift,Normal,60,1.0,False,route_12
+Mankey,,Rock Slide,Rock,75,0.9,False,celadon_city
+Primeape,1.0,Fury Swipes,Normal,54,0.8,False,
+Primeape,1.0,Karate Chop,Normal,50,1.0,True,
+Primeape,1.0,Scratch,Normal,40,1.0,False,
+Primeape,46.0,Thrash,Normal,90,1.0,False,
+Primeape,,Strength,Normal,80,1.0,False,safari_zone
+Primeape,,Mega Punch,Normal,80,0.85,False,celadon_city
+Primeape,,Mega Kick,Normal,120,0.75,False,celadon_city
+Primeape,,Body Slam,Normal,85,1.0,False,ss_anne
+Primeape,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Primeape,,Pay Day,Normal,40,1.0,False,route_12
+Primeape,,Rage,Normal,20,1.0,False,route_15
+Primeape,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Primeape,,Thunder,Electric,120,0.7,False,power_plant
+Primeape,,Dig,Ground,100,1.0,False,cerulean_city
+Primeape,,Swift,Normal,60,1.0,False,route_12
+Primeape,,Rock Slide,Rock,75,0.9,False,celadon_city
+Primeape,1.0,Low Kick,Fighting,50,0.9,False,
+Growlithe,1.0,Bite,Normal,60,1.0,False,
+Growlithe,18.0,Ember,Fire,40,1.0,False,
+Growlithe,50.0,Flamethrower,Fire,95,1.0,False,
+Growlithe,,Body Slam,Normal,85,1.0,False,ss_anne
+Growlithe,,Rage,Normal,20,1.0,False,route_15
+Growlithe,,Dig,Ground,100,1.0,False,cerulean_city
+Growlithe,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Growlithe,,Swift,Normal,60,1.0,False,route_12
+Arcanine,1.0,Ember,Fire,40,1.0,False,
+Arcanine,,Body Slam,Normal,85,1.0,False,ss_anne
+Arcanine,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Arcanine,,Rage,Normal,20,1.0,False,route_15
+Arcanine,,Dig,Ground,100,1.0,False,cerulean_city
+Arcanine,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Arcanine,,Swift,Normal,60,1.0,False,route_12
+Poliwag,1.0,Bubble,Water,20,1.0,False,
+Poliwag,19.0,Water Gun,Water,40,1.0,False,mt_moon
+Poliwag,25.0,DoubleSlap,Normal,45,0.85,False,
+Poliwag,31.0,Body Slam,Normal,85,1.0,False,ss_anne
+Poliwag,45.0,Hydro Pump,Water,120,0.8,False,
+Poliwag,,Surf,Water,95,1.0,False,safari_zone
+Poliwag,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Poliwag,,Ice Beam,Ice,95,1.0,False,celadon_city
+Poliwag,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Poliwag,,Rage,Normal,20,1.0,False,route_15
+Poliwag,,Psychic,Psychic,90,1.0,False,saffron_city
+Poliwhirl,1.0,Bubble,Water,20,1.0,False,
+Poliwhirl,1.0,Water Gun,Water,40,1.0,False,mt_moon
+Poliwhirl,26.0,DoubleSlap,Normal,45,0.85,False,
+Poliwhirl,33.0,Body Slam,Normal,85,1.0,False,ss_anne
+Poliwhirl,49.0,Hydro Pump,Water,120,0.8,False,
+Poliwhirl,,Surf,Water,95,1.0,False,safari_zone
+Poliwhirl,,Strength,Normal,80,1.0,False,safari_zone
+Poliwhirl,,Mega Punch,Normal,80,0.85,False,celadon_city
+Poliwhirl,,Mega Kick,Normal,120,0.75,False,celadon_city
+Poliwhirl,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Poliwhirl,,Ice Beam,Ice,95,1.0,False,celadon_city
+Poliwhirl,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Poliwhirl,,Rage,Normal,20,1.0,False,route_15
+Poliwhirl,,Earthquake,Ground,100,1.0,False,silph_co
+Poliwhirl,,Psychic,Psychic,90,1.0,False,saffron_city
+Poliwrath,1.0,Body Slam,Normal,85,1.0,False,ss_anne
+Poliwrath,1.0,DoubleSlap,Normal,45,0.85,False,
+Poliwrath,1.0,Water Gun,Water,40,1.0,False,mt_moon
+Poliwrath,,Surf,Water,95,1.0,False,safari_zone
+Poliwrath,,Strength,Normal,80,1.0,False,safari_zone
+Poliwrath,,Mega Punch,Normal,80,0.85,False,celadon_city
+Poliwrath,,Mega Kick,Normal,120,0.75,False,celadon_city
+Poliwrath,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Poliwrath,,Ice Beam,Ice,95,1.0,False,celadon_city
+Poliwrath,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Poliwrath,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Poliwrath,,Rage,Normal,20,1.0,False,route_15
+Poliwrath,,Earthquake,Ground,100,1.0,False,silph_co
+Poliwrath,,Psychic,Psychic,90,1.0,False,saffron_city
+Abra,0.0,Struggle,Normal,1,1.0,False,
+Abra,,Mega Punch,Normal,80,0.85,False,celadon_city
+Abra,,Mega Kick,Normal,120,0.75,False,celadon_city
+Abra,,Body Slam,Normal,85,1.0,False,ss_anne
+Abra,,Rage,Normal,20,1.0,False,route_15
+Abra,,Psychic,Psychic,90,1.0,False,saffron_city
+Abra,,Tri Attack,Normal,80,1.0,False,celadon_city
+Kadabra,1.0,Confusion,Psychic,50,1.0,False,
+Kadabra,16.0,Confusion,Psychic,50,1.0,False,
+Kadabra,27.0,Psybeam,Psychic,65,1.0,False,
+Kadabra,38.0,Psychic,Psychic,90,1.0,False,saffron_city
+Kadabra,,Mega Punch,Normal,80,0.85,False,celadon_city
+Kadabra,,Mega Kick,Normal,120,0.75,False,celadon_city
+Kadabra,,Body Slam,Normal,85,1.0,False,ss_anne
+Kadabra,,Rage,Normal,20,1.0,False,route_15
+Kadabra,,Dig,Ground,100,1.0,False,cerulean_city
+Kadabra,,Tri Attack,Normal,80,1.0,False,celadon_city
+Alakazam,16.0,Confusion,Psychic,50,1.0,False,
+Alakazam,27.0,Psybeam,Psychic,65,1.0,False,
+Alakazam,38.0,Psychic,Psychic,90,1.0,False,saffron_city
+Alakazam,,Mega Punch,Normal,80,0.85,False,celadon_city
+Alakazam,,Mega Kick,Normal,120,0.75,False,celadon_city
+Alakazam,,Body Slam,Normal,85,1.0,False,ss_anne
+Alakazam,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Alakazam,,Rage,Normal,20,1.0,False,route_15
+Alakazam,,Dig,Ground,100,1.0,False,cerulean_city
+Alakazam,,Tri Attack,Normal,80,1.0,False,celadon_city
+Machop,1.0,Karate Chop,Normal,50,1.0,True,
+Machop,20.0,Low Kick,Fighting,50,0.9,False,
+Machop,,Strength,Normal,80,1.0,False,safari_zone
+Machop,,Mega Punch,Normal,80,0.85,False,celadon_city
+Machop,,Mega Kick,Normal,120,0.75,False,celadon_city
+Machop,,Body Slam,Normal,85,1.0,False,ss_anne
+Machop,,Rage,Normal,20,1.0,False,route_15
+Machop,,Earthquake,Ground,100,1.0,False,silph_co
+Machop,,Dig,Ground,100,1.0,False,cerulean_city
+Machop,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Machop,,Rock Slide,Rock,75,0.9,False,celadon_city
+Machoke,1.0,Karate Chop,Normal,50,1.0,True,
+Machoke,1.0,Low Kick,Fighting,50,0.9,False,
+Machoke,,Strength,Normal,80,1.0,False,safari_zone
+Machoke,,Mega Punch,Normal,80,0.85,False,celadon_city
+Machoke,,Mega Kick,Normal,120,0.75,False,celadon_city
+Machoke,,Body Slam,Normal,85,1.0,False,ss_anne
+Machoke,,Rage,Normal,20,1.0,False,route_15
+Machoke,,Earthquake,Ground,100,1.0,False,silph_co
+Machoke,,Dig,Ground,100,1.0,False,cerulean_city
+Machoke,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Machoke,,Rock Slide,Rock,75,0.9,False,celadon_city
+Machamp,1.0,Karate Chop,Normal,50,1.0,True,
+Machamp,1.0,Low Kick,Fighting,50,0.9,False,
+Machamp,,Strength,Normal,80,1.0,False,safari_zone
+Machamp,,Mega Punch,Normal,80,0.85,False,celadon_city
+Machamp,,Mega Kick,Normal,120,0.75,False,celadon_city
+Machamp,,Body Slam,Normal,85,1.0,False,ss_anne
+Machamp,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Machamp,,Rage,Normal,20,1.0,False,route_15
+Machamp,,Earthquake,Ground,100,1.0,False,silph_co
+Machamp,,Dig,Ground,100,1.0,False,cerulean_city
+Machamp,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Machamp,,Rock Slide,Rock,75,0.9,False,celadon_city
+Bellsprout,1.0,Vine Whip,Grass,35,1.0,False,
+Bellsprout,13.0,Wrap,Normal,45,0.85,False,
+Bellsprout,26.0,Acid,Poison,40,1.0,False,
+Bellsprout,33.0,Razor Leaf,Grass,55,0.95,True,
+Bellsprout,42.0,Slam,Normal,80,0.75,False,
+Bellsprout,,Cut,Normal,50,0.95,False,ss_anne
+Bellsprout,,Rage,Normal,20,1.0,False,route_15
+Bellsprout,,Mega Drain,Grass,40,1.0,False,celadon_city
+Weepinbell,1.0,Vine Whip,Grass,35,1.0,False,
+Weepinbell,1.0,Wrap,Normal,45,0.85,False,
+Weepinbell,29.0,Acid,Poison,40,1.0,False,
+Weepinbell,38.0,Razor Leaf,Grass,55,0.95,True,
+Weepinbell,49.0,Slam,Normal,80,0.75,False,
+Weepinbell,,Cut,Normal,50,0.95,False,ss_anne
+Weepinbell,,Rage,Normal,20,1.0,False,route_15
+Weepinbell,,Mega Drain,Grass,40,1.0,False,celadon_city
+Victreebel,1.0,Acid,Poison,40,1.0,False,
+Victreebel,1.0,Razor Leaf,Grass,55,0.95,True,
+Victreebel,13.0,Wrap,Normal,45,0.85,False,
+Victreebel,,Cut,Normal,50,0.95,False,ss_anne
+Victreebel,,Body Slam,Normal,85,1.0,False,ss_anne
+Victreebel,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Victreebel,,Rage,Normal,20,1.0,False,route_15
+Victreebel,,Mega Drain,Grass,40,1.0,False,celadon_city
+Tentacool,1.0,Acid,Poison,40,1.0,False,
+Tentacool,13.0,Wrap,Normal,45,0.85,False,
+Tentacool,18.0,Poison Sting,Poison,15,1.0,False,
+Tentacool,22.0,Water Gun,Water,40,1.0,False,mt_moon
+Tentacool,27.0,Constrict,Normal,10,1.0,False,
+Tentacool,48.0,Hydro Pump,Water,120,0.8,False,
+Tentacool,,Cut,Normal,50,0.95,False,ss_anne
+Tentacool,,Surf,Water,95,1.0,False,safari_zone
+Tentacool,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Tentacool,,Ice Beam,Ice,95,1.0,False,celadon_city
+Tentacool,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Tentacool,,Rage,Normal,20,1.0,False,route_15
+Tentacool,,Mega Drain,Grass,40,1.0,False,celadon_city
+Tentacruel,1.0,Acid,Poison,40,1.0,False,
+Tentacruel,1.0,Wrap,Normal,45,0.85,False,
+Tentacruel,18.0,Poison Sting,Poison,15,1.0,False,
+Tentacruel,22.0,Water Gun,Water,40,1.0,False,mt_moon
+Tentacruel,27.0,Constrict,Normal,10,1.0,False,
+Tentacruel,50.0,Hydro Pump,Water,120,0.8,False,
+Tentacruel,,Cut,Normal,50,0.95,False,ss_anne
+Tentacruel,,Surf,Water,95,1.0,False,safari_zone
+Tentacruel,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Tentacruel,,Ice Beam,Ice,95,1.0,False,celadon_city
+Tentacruel,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Tentacruel,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Tentacruel,,Rage,Normal,20,1.0,False,route_15
+Tentacruel,,Mega Drain,Grass,40,1.0,False,celadon_city
+Geodude,1.0,Tackle,Normal,35,0.95,False,
+Geodude,16.0,Rock Throw,Rock,50,0.65,False,
+Geodude,31.0,Earthquake,Ground,100,1.0,False,silph_co
+Geodude,,Strength,Normal,80,1.0,False,safari_zone
+Geodude,,Mega Punch,Normal,80,0.85,False,celadon_city
+Geodude,,Body Slam,Normal,85,1.0,False,ss_anne
+Geodude,,Rage,Normal,20,1.0,False,route_15
+Geodude,,Dig,Ground,100,1.0,False,cerulean_city
+Geodude,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Geodude,,Rock Slide,Rock,75,0.9,False,celadon_city
+Graveler,1.0,Tackle,Normal,35,0.95,False,
+Graveler,16.0,Rock Throw,Rock,50,0.65,False,
+Graveler,36.0,Earthquake,Ground,100,1.0,False,silph_co
+Graveler,,Strength,Normal,80,1.0,False,safari_zone
+Graveler,,Mega Punch,Normal,80,0.85,False,celadon_city
+Graveler,,Body Slam,Normal,85,1.0,False,ss_anne
+Graveler,,Rage,Normal,20,1.0,False,route_15
+Graveler,,Dig,Ground,100,1.0,False,cerulean_city
+Graveler,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Graveler,,Rock Slide,Rock,75,0.9,False,celadon_city
+Golem,1.0,Tackle,Normal,35,0.95,False,
+Golem,16.0,Rock Throw,Rock,50,0.65,False,
+Golem,36.0,Earthquake,Ground,100,1.0,False,silph_co
+Golem,,Strength,Normal,80,1.0,False,safari_zone
+Golem,,Mega Punch,Normal,80,0.85,False,celadon_city
+Golem,,Mega Kick,Normal,120,0.75,False,celadon_city
+Golem,,Body Slam,Normal,85,1.0,False,ss_anne
+Golem,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Golem,,Rage,Normal,20,1.0,False,route_15
+Golem,,Dig,Ground,100,1.0,False,cerulean_city
+Golem,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Golem,,Rock Slide,Rock,75,0.9,False,celadon_city
+Ponyta,1.0,Ember,Fire,40,1.0,False,
+Ponyta,32.0,Stomp,Normal,65,1.0,False,
+Ponyta,39.0,Fire Spin,Fire,45,0.7,False,
+Ponyta,,Body Slam,Normal,85,1.0,False,ss_anne
+Ponyta,,Rage,Normal,20,1.0,False,route_15
+Ponyta,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Ponyta,,Swift,Normal,60,1.0,False,route_12
+Rapidash,1.0,Ember,Fire,40,1.0,False,
+Rapidash,1.0,Stomp,Normal,65,1.0,False,
+Rapidash,39.0,Fire Spin,Fire,45,0.7,False,
+Rapidash,,Body Slam,Normal,85,1.0,False,ss_anne
+Rapidash,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Rapidash,,Rage,Normal,20,1.0,False,route_15
+Rapidash,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Rapidash,,Swift,Normal,60,1.0,False,route_12
+Slowpoke,1.0,Confusion,Psychic,50,1.0,False,
+Slowpoke,22.0,Headbutt,Normal,70,1.0,False,
+Slowpoke,33.0,Water Gun,Water,40,1.0,False,mt_moon
+Slowpoke,48.0,Psychic,Psychic,90,1.0,False,saffron_city
+Slowpoke,,Surf,Water,95,1.0,False,safari_zone
+Slowpoke,,Strength,Normal,80,1.0,False,safari_zone
+Slowpoke,,Body Slam,Normal,85,1.0,False,ss_anne
+Slowpoke,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Slowpoke,,Ice Beam,Ice,95,1.0,False,celadon_city
+Slowpoke,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Slowpoke,,Pay Day,Normal,40,1.0,False,route_12
+Slowpoke,,Rage,Normal,20,1.0,False,route_15
+Slowpoke,,Earthquake,Ground,100,1.0,False,silph_co
+Slowpoke,,Dig,Ground,100,1.0,False,cerulean_city
+Slowpoke,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Slowpoke,,Swift,Normal,60,1.0,False,route_12
+Slowpoke,,Tri Attack,Normal,80,1.0,False,celadon_city
+Slowbro,1.0,Confusion,Psychic,50,1.0,False,
+Slowbro,1.0,Headbutt,Normal,70,1.0,False,
+Slowbro,33.0,Water Gun,Water,40,1.0,False,mt_moon
+Slowbro,55.0,Psychic,Psychic,90,1.0,False,saffron_city
+Slowbro,,Surf,Water,95,1.0,False,safari_zone
+Slowbro,,Strength,Normal,80,1.0,False,safari_zone
+Slowbro,,Mega Punch,Normal,80,0.85,False,celadon_city
+Slowbro,,Mega Kick,Normal,120,0.75,False,celadon_city
+Slowbro,,Body Slam,Normal,85,1.0,False,ss_anne
+Slowbro,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Slowbro,,Ice Beam,Ice,95,1.0,False,celadon_city
+Slowbro,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Slowbro,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Slowbro,,Pay Day,Normal,40,1.0,False,route_12
+Slowbro,,Rage,Normal,20,1.0,False,route_15
+Slowbro,,Earthquake,Ground,100,1.0,False,silph_co
+Slowbro,,Dig,Ground,100,1.0,False,cerulean_city
+Slowbro,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Slowbro,,Swift,Normal,60,1.0,False,route_12
+Slowbro,,Tri Attack,Normal,80,1.0,False,celadon_city
+Magnemite,1.0,Tackle,Normal,35,0.95,False,
+Magnemite,25.0,ThunderShock,Electric,40,1.0,False,
+Magnemite,41.0,Swift,Normal,60,1.0,False,route_12
+Magnemite,,Rage,Normal,20,1.0,False,route_15
+Magnemite,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Magnemite,,Thunder,Electric,120,0.7,False,power_plant
+Magneton,1.0,Tackle,Normal,35,0.95,False,
+Magneton,1.0,ThunderShock,Electric,40,1.0,False,
+Magneton,46.0,Swift,Normal,60,1.0,False,route_12
+Magneton,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Magneton,,Rage,Normal,20,1.0,False,route_15
+Magneton,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Magneton,,Thunder,Electric,120,0.7,False,power_plant
+Farfetchd,1.0,Peck,Flying,35,1.0,False,
+Farfetchd,15.0,Fury Attack,Normal,45,0.85,False,
+Farfetchd,39.0,Slash,Normal,70,1.0,True,
+Farfetchd,,Cut,Normal,50,0.95,False,ss_anne
+Farfetchd,,Fly,Flying,70,0.95,False,route_16
+Farfetchd,,Body Slam,Normal,85,1.0,False,ss_anne
+Farfetchd,,Rage,Normal,20,1.0,False,route_15
+Farfetchd,,Swift,Normal,60,1.0,False,route_12
+Doduo,1.0,Peck,Flying,35,1.0,False,
+Doduo,24.0,Fury Attack,Normal,45,0.85,False,
+Doduo,30.0,Drill Peck,Flying,80,1.0,False,
+Doduo,36.0,Rage,Normal,20,1.0,False,route_15
+Doduo,40.0,Tri Attack,Normal,80,1.0,False,celadon_city
+Doduo,,Fly,Flying,70,0.95,False,route_16
+Doduo,,Body Slam,Normal,85,1.0,False,ss_anne
+Dodrio,1.0,Fury Attack,Normal,45,0.85,False,
+Dodrio,1.0,Peck,Flying,35,1.0,False,
+Dodrio,30.0,Drill Peck,Flying,80,1.0,False,
+Dodrio,39.0,Rage,Normal,20,1.0,False,route_15
+Dodrio,45.0,Tri Attack,Normal,80,1.0,False,celadon_city
+Dodrio,,Fly,Flying,70,0.95,False,route_16
+Dodrio,,Body Slam,Normal,85,1.0,False,ss_anne
+Dodrio,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Seel,1.0,Headbutt,Normal,70,1.0,False,
+Seel,35.0,Aurora Beam,Ice,65,1.0,False,
+Seel,50.0,Ice Beam,Ice,95,1.0,False,celadon_city
+Seel,,Surf,Water,95,1.0,False,safari_zone
+Seel,,Strength,Normal,80,1.0,False,safari_zone
+Seel,,Body Slam,Normal,85,1.0,False,ss_anne
+Seel,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Seel,,Water Gun,Water,40,1.0,False,mt_moon
+Seel,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Seel,,Pay Day,Normal,40,1.0,False,route_12
+Seel,,Rage,Normal,20,1.0,False,route_15
+Dewgong,1.0,Aurora Beam,Ice,65,1.0,False,
+Dewgong,1.0,Headbutt,Normal,70,1.0,False,
+Dewgong,56.0,Ice Beam,Ice,95,1.0,False,celadon_city
+Dewgong,,Surf,Water,95,1.0,False,safari_zone
+Dewgong,,Strength,Normal,80,1.0,False,safari_zone
+Dewgong,,Body Slam,Normal,85,1.0,False,ss_anne
+Dewgong,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Dewgong,,Water Gun,Water,40,1.0,False,mt_moon
+Dewgong,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Dewgong,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Dewgong,,Pay Day,Normal,40,1.0,False,route_12
+Dewgong,,Rage,Normal,20,1.0,False,route_15
+Grimer,1.0,Pound,Normal,40,1.0,False,
+Grimer,37.0,Sludge,Poison,65,1.0,False,
+Grimer,,Body Slam,Normal,85,1.0,False,ss_anne
+Grimer,,Rage,Normal,20,1.0,False,route_15
+Grimer,,Mega Drain,Grass,40,1.0,False,celadon_city
+Grimer,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Grimer,,Thunder,Electric,120,0.7,False,power_plant
+Grimer,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Muk,1.0,Pound,Normal,40,1.0,False,
+Muk,37.0,Sludge,Poison,65,1.0,False,
+Muk,,Body Slam,Normal,85,1.0,False,ss_anne
+Muk,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Muk,,Rage,Normal,20,1.0,False,route_15
+Muk,,Mega Drain,Grass,40,1.0,False,celadon_city
+Muk,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Muk,,Thunder,Electric,120,0.7,False,power_plant
+Muk,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Shellder,1.0,Tackle,Normal,35,0.95,False,
+Shellder,23.0,Clamp,Water,35,0.75,False,
+Shellder,30.0,Aurora Beam,Ice,65,1.0,False,
+Shellder,50.0,Ice Beam,Ice,95,1.0,False,celadon_city
+Shellder,,Surf,Water,95,1.0,False,safari_zone
+Shellder,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Shellder,,Water Gun,Water,40,1.0,False,mt_moon
+Shellder,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Shellder,,Rage,Normal,20,1.0,False,route_15
+Shellder,,Swift,Normal,60,1.0,False,route_12
+Shellder,,Tri Attack,Normal,80,1.0,False,celadon_city
+Cloyster,1.0,Aurora Beam,Ice,65,1.0,False,
+Cloyster,1.0,Clamp,Water,35,0.75,False,
+Cloyster,50.0,Spike Cannon,Normal,60,1.0,False,
+Cloyster,,Surf,Water,95,1.0,False,safari_zone
+Cloyster,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Cloyster,,Water Gun,Water,40,1.0,False,mt_moon
+Cloyster,,Ice Beam,Ice,95,1.0,False,celadon_city
+Cloyster,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Cloyster,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Cloyster,,Rage,Normal,20,1.0,False,route_15
+Cloyster,,Swift,Normal,60,1.0,False,route_12
+Cloyster,,Tri Attack,Normal,80,1.0,False,celadon_city
+Gastly,1.0,Lick,Ghost,20,1.0,False,
+Gastly,,Rage,Normal,20,1.0,False,route_15
+Gastly,,Mega Drain,Grass,40,1.0,False,celadon_city
+Gastly,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Gastly,,Thunder,Electric,120,0.7,False,power_plant
+Gastly,,Psychic,Psychic,90,1.0,False,saffron_city
+Haunter,1.0,Lick,Ghost,20,1.0,False,
+Haunter,,Rage,Normal,20,1.0,False,route_15
+Haunter,,Mega Drain,Grass,40,1.0,False,celadon_city
+Haunter,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Haunter,,Thunder,Electric,120,0.7,False,power_plant
+Haunter,,Psychic,Psychic,90,1.0,False,saffron_city
+Gengar,1.0,Lick,Ghost,20,1.0,False,
+Gengar,,Strength,Normal,80,1.0,False,safari_zone
+Gengar,,Mega Punch,Normal,80,0.85,False,celadon_city
+Gengar,,Mega Kick,Normal,120,0.75,False,celadon_city
+Gengar,,Body Slam,Normal,85,1.0,False,ss_anne
+Gengar,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Gengar,,Rage,Normal,20,1.0,False,route_15
+Gengar,,Mega Drain,Grass,40,1.0,False,celadon_city
+Gengar,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Gengar,,Thunder,Electric,120,0.7,False,power_plant
+Gengar,,Psychic,Psychic,90,1.0,False,saffron_city
+Onix,1.0,Tackle,Normal,35,0.95,False,
+Onix,15.0,Bind,Normal,45,0.75,False,
+Onix,19.0,Rock Throw,Rock,50,0.65,False,
+Onix,25.0,Rage,Normal,20,1.0,False,route_15
+Onix,33.0,Slam,Normal,80,0.75,False,
+Onix,,Strength,Normal,80,1.0,False,safari_zone
+Onix,,Body Slam,Normal,85,1.0,False,ss_anne
+Onix,,Earthquake,Ground,100,1.0,False,silph_co
+Onix,,Dig,Ground,100,1.0,False,cerulean_city
+Onix,,Rock Slide,Rock,75,0.9,False,celadon_city
+Drowzee,1.0,Pound,Normal,40,1.0,False,
+Drowzee,17.0,Confusion,Psychic,50,1.0,False,
+Drowzee,24.0,Headbutt,Normal,70,1.0,False,
+Drowzee,32.0,Psychic,Psychic,90,1.0,False,saffron_city
+Drowzee,,Mega Punch,Normal,80,0.85,False,celadon_city
+Drowzee,,Mega Kick,Normal,120,0.75,False,celadon_city
+Drowzee,,Body Slam,Normal,85,1.0,False,ss_anne
+Drowzee,,Rage,Normal,20,1.0,False,route_15
+Drowzee,,Tri Attack,Normal,80,1.0,False,celadon_city
+Hypno,1.0,Confusion,Psychic,50,1.0,False,
+Hypno,1.0,Pound,Normal,40,1.0,False,
+Hypno,24.0,Headbutt,Normal,70,1.0,False,
+Hypno,37.0,Psychic,Psychic,90,1.0,False,saffron_city
+Hypno,,Mega Punch,Normal,80,0.85,False,celadon_city
+Hypno,,Mega Kick,Normal,120,0.75,False,celadon_city
+Hypno,,Body Slam,Normal,85,1.0,False,ss_anne
+Hypno,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Hypno,,Rage,Normal,20,1.0,False,route_15
+Hypno,,Tri Attack,Normal,80,1.0,False,celadon_city
+Krabby,1.0,Bubble,Water,20,1.0,False,
+Krabby,20.0,ViceGrip,Normal,55,1.0,False,
+Krabby,30.0,Stomp,Normal,65,1.0,False,
+Krabby,35.0,Crabhammer,Water,90,0.85,True,
+Krabby,,Cut,Normal,50,0.95,False,ss_anne
+Krabby,,Surf,Water,95,1.0,False,safari_zone
+Krabby,,Strength,Normal,80,1.0,False,safari_zone
+Krabby,,Body Slam,Normal,85,1.0,False,ss_anne
+Krabby,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Krabby,,Water Gun,Water,40,1.0,False,mt_moon
+Krabby,,Ice Beam,Ice,95,1.0,False,celadon_city
+Krabby,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Krabby,,Rage,Normal,20,1.0,False,route_15
+Kingler,1.0,Bubble,Water,20,1.0,False,
+Kingler,1.0,ViceGrip,Normal,55,1.0,False,
+Kingler,34.0,Stomp,Normal,65,1.0,False,
+Kingler,42.0,Crabhammer,Water,90,0.85,True,
+Kingler,,Cut,Normal,50,0.95,False,ss_anne
+Kingler,,Surf,Water,95,1.0,False,safari_zone
+Kingler,,Strength,Normal,80,1.0,False,safari_zone
+Kingler,,Body Slam,Normal,85,1.0,False,ss_anne
+Kingler,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Kingler,,Water Gun,Water,40,1.0,False,mt_moon
+Kingler,,Ice Beam,Ice,95,1.0,False,celadon_city
+Kingler,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Kingler,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Kingler,,Rage,Normal,20,1.0,False,route_15
+Voltorb,1.0,Tackle,Normal,35,0.95,False,
+Voltorb,36.0,Swift,Normal,60,1.0,False,route_12
+Voltorb,,Rage,Normal,20,1.0,False,route_15
+Voltorb,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Voltorb,,Thunder,Electric,120,0.7,False,power_plant
+Electrode,1.0,Tackle,Normal,35,0.95,False,
+Electrode,40.0,Swift,Normal,60,1.0,False,route_12
+Electrode,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Electrode,,Rage,Normal,20,1.0,False,route_15
+Electrode,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Electrode,,Thunder,Electric,120,0.7,False,power_plant
+Exeggcute,1.0,Barrage,Normal,45,0.85,False,
+Exeggcute,,Rage,Normal,20,1.0,False,route_15
+Exeggcute,,Psychic,Psychic,90,1.0,False,saffron_city
+Exeggcute,,Egg Bomb,Normal,100,0.75,False,celadon_city
+Exeggutor,1.0,Barrage,Normal,45,0.85,False,
+Exeggutor,28.0,Stomp,Normal,65,1.0,False,
+Exeggutor,,Strength,Normal,80,1.0,False,safari_zone
+Exeggutor,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Exeggutor,,Rage,Normal,20,1.0,False,route_15
+Exeggutor,,Mega Drain,Grass,40,1.0,False,celadon_city
+Exeggutor,,Psychic,Psychic,90,1.0,False,saffron_city
+Exeggutor,,Egg Bomb,Normal,100,0.75,False,celadon_city
+Cubone,1.0,Bone Club,Ground,65,0.85,False,
+Cubone,38.0,Thrash,Normal,90,1.0,False,
+Cubone,43.0,Bonemerang,Ground,100,0.9,False,
+Cubone,46.0,Rage,Normal,20,1.0,False,route_15
+Cubone,,Strength,Normal,80,1.0,False,safari_zone
+Cubone,,Mega Punch,Normal,80,0.85,False,celadon_city
+Cubone,,Mega Kick,Normal,120,0.75,False,celadon_city
+Cubone,,Body Slam,Normal,85,1.0,False,ss_anne
+Cubone,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Cubone,,Water Gun,Water,40,1.0,False,mt_moon
+Cubone,,Ice Beam,Ice,95,1.0,False,celadon_city
+Cubone,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Cubone,,Earthquake,Ground,100,1.0,False,silph_co
+Cubone,,Dig,Ground,100,1.0,False,cerulean_city
+Cubone,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Marowak,1.0,Bone Club,Ground,65,0.85,False,
+Marowak,41.0,Thrash,Normal,90,1.0,False,
+Marowak,48.0,Bonemerang,Ground,100,0.9,False,
+Marowak,55.0,Rage,Normal,20,1.0,False,route_15
+Marowak,,Strength,Normal,80,1.0,False,safari_zone
+Marowak,,Mega Punch,Normal,80,0.85,False,celadon_city
+Marowak,,Mega Kick,Normal,120,0.75,False,celadon_city
+Marowak,,Body Slam,Normal,85,1.0,False,ss_anne
+Marowak,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Marowak,,Water Gun,Water,40,1.0,False,mt_moon
+Marowak,,Ice Beam,Ice,95,1.0,False,celadon_city
+Marowak,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Marowak,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Marowak,,Earthquake,Ground,100,1.0,False,silph_co
+Marowak,,Dig,Ground,100,1.0,False,cerulean_city
+Marowak,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Hitmonlee,1.0,Double Kick,Fighting,60,1.0,False,
+Hitmonlee,33.0,Rolling Kick,Fighting,60,0.85,False,
+Hitmonlee,38.0,Jump Kick,Fighting,70,0.95,False,
+Hitmonlee,48.0,Hi Jump Kick,Fighting,85,0.9,False,
+Hitmonlee,53.0,Mega Kick,Normal,120,0.75,False,celadon_city
+Hitmonlee,,Strength,Normal,80,1.0,False,safari_zone
+Hitmonlee,,Mega Punch,Normal,80,0.85,False,celadon_city
+Hitmonlee,,Body Slam,Normal,85,1.0,False,ss_anne
+Hitmonlee,,Rage,Normal,20,1.0,False,route_15
+Hitmonlee,,Swift,Normal,60,1.0,False,route_12
+Hitmonchan,1.0,Comet Punch,Normal,54,0.85,False,
+Hitmonchan,33.0,Fire Punch,Fire,75,1.0,False,
+Hitmonchan,38.0,Ice Punch,Ice,75,1.0,False,
+Hitmonchan,43.0,ThunderPunch,Electric,75,1.0,False,
+Hitmonchan,48.0,Mega Punch,Normal,80,0.85,False,celadon_city
+Hitmonchan,,Strength,Normal,80,1.0,False,safari_zone
+Hitmonchan,,Mega Kick,Normal,120,0.75,False,celadon_city
+Hitmonchan,,Body Slam,Normal,85,1.0,False,ss_anne
+Hitmonchan,,Rage,Normal,20,1.0,False,route_15
+Hitmonchan,,Swift,Normal,60,1.0,False,route_12
+Lickitung,1.0,Wrap,Normal,45,0.85,False,
+Lickitung,7.0,Stomp,Normal,65,1.0,False,
+Lickitung,31.0,Slam,Normal,80,0.75,False,
+Lickitung,,Cut,Normal,50,0.95,False,ss_anne
+Lickitung,,Surf,Water,95,1.0,False,safari_zone
+Lickitung,,Strength,Normal,80,1.0,False,safari_zone
+Lickitung,,Mega Punch,Normal,80,0.85,False,celadon_city
+Lickitung,,Mega Kick,Normal,120,0.75,False,celadon_city
+Lickitung,,Body Slam,Normal,85,1.0,False,ss_anne
+Lickitung,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Lickitung,,Water Gun,Water,40,1.0,False,mt_moon
+Lickitung,,Ice Beam,Ice,95,1.0,False,celadon_city
+Lickitung,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Lickitung,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Lickitung,,Rage,Normal,20,1.0,False,route_15
+Lickitung,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Lickitung,,Thunder,Electric,120,0.7,False,power_plant
+Lickitung,,Earthquake,Ground,100,1.0,False,silph_co
+Lickitung,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Koffing,1.0,Smog,Poison,20,0.7,False,
+Koffing,1.0,Tackle,Normal,35,0.95,False,
+Koffing,32.0,Sludge,Poison,65,1.0,False,
+Koffing,,Rage,Normal,20,1.0,False,route_15
+Koffing,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Koffing,,Thunder,Electric,120,0.7,False,power_plant
+Koffing,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Weezing,1.0,Sludge,Poison,65,1.0,False,
+Weezing,1.0,Smog,Poison,20,0.7,False,
+Weezing,1.0,Tackle,Normal,35,0.95,False,
+Weezing,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Weezing,,Rage,Normal,20,1.0,False,route_15
+Weezing,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Weezing,,Thunder,Electric,120,0.7,False,power_plant
+Weezing,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Rhyhorn,1.0,Horn Attack,Normal,65,1.0,False,
+Rhyhorn,30.0,Stomp,Normal,65,1.0,False,
+Rhyhorn,40.0,Fury Attack,Normal,45,0.85,False,
+Rhyhorn,,Strength,Normal,80,1.0,False,safari_zone
+Rhyhorn,,Body Slam,Normal,85,1.0,False,ss_anne
+Rhyhorn,,Rage,Normal,20,1.0,False,route_15
+Rhyhorn,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Rhyhorn,,Thunder,Electric,120,0.7,False,power_plant
+Rhyhorn,,Earthquake,Ground,100,1.0,False,silph_co
+Rhyhorn,,Dig,Ground,100,1.0,False,cerulean_city
+Rhyhorn,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Rhyhorn,,Rock Slide,Rock,75,0.9,False,celadon_city
+Rhydon,1.0,Fury Attack,Normal,45,0.85,False,
+Rhydon,1.0,Horn Attack,Normal,65,1.0,False,
+Rhydon,1.0,Stomp,Normal,65,1.0,False,
+Rhydon,,Surf,Water,95,1.0,False,safari_zone
+Rhydon,,Strength,Normal,80,1.0,False,safari_zone
+Rhydon,,Mega Punch,Normal,80,0.85,False,celadon_city
+Rhydon,,Mega Kick,Normal,120,0.75,False,celadon_city
+Rhydon,,Body Slam,Normal,85,1.0,False,ss_anne
+Rhydon,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Rhydon,,Water Gun,Water,40,1.0,False,mt_moon
+Rhydon,,Ice Beam,Ice,95,1.0,False,celadon_city
+Rhydon,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Rhydon,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Rhydon,,Pay Day,Normal,40,1.0,False,route_12
+Rhydon,,Rage,Normal,20,1.0,False,route_15
+Rhydon,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Rhydon,,Thunder,Electric,120,0.7,False,power_plant
+Rhydon,,Earthquake,Ground,100,1.0,False,silph_co
+Rhydon,,Dig,Ground,100,1.0,False,cerulean_city
+Rhydon,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Rhydon,,Rock Slide,Rock,75,0.9,False,celadon_city
+Chansey,1.0,DoubleSlap,Normal,45,0.85,False,
+Chansey,1.0,Pound,Normal,40,1.0,False,
+Chansey,,Strength,Normal,80,1.0,False,safari_zone
+Chansey,,Mega Punch,Normal,80,0.85,False,celadon_city
+Chansey,,Mega Kick,Normal,120,0.75,False,celadon_city
+Chansey,,Body Slam,Normal,85,1.0,False,ss_anne
+Chansey,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Chansey,,Water Gun,Water,40,1.0,False,mt_moon
+Chansey,,Ice Beam,Ice,95,1.0,False,celadon_city
+Chansey,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Chansey,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Chansey,,Rage,Normal,20,1.0,False,route_15
+Chansey,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Chansey,,Thunder,Electric,120,0.7,False,power_plant
+Chansey,,Psychic,Psychic,90,1.0,False,saffron_city
+Chansey,,Egg Bomb,Normal,100,0.75,False,celadon_city
+Chansey,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Chansey,,Tri Attack,Normal,80,1.0,False,celadon_city
+Tangela,1.0,Bind,Normal,45,0.75,False,
+Tangela,1.0,Constrict,Normal,10,1.0,False,
+Tangela,29.0,Absorb,Grass,20,1.0,False,
+Tangela,45.0,Slam,Normal,80,0.75,False,
+Tangela,,Cut,Normal,50,0.95,False,ss_anne
+Tangela,,Body Slam,Normal,85,1.0,False,ss_anne
+Tangela,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Tangela,,Rage,Normal,20,1.0,False,route_15
+Tangela,,Mega Drain,Grass,40,1.0,False,celadon_city
+Kangaskhan,1.0,Comet Punch,Normal,54,0.85,False,
+Kangaskhan,1.0,Rage,Normal,20,1.0,False,route_15
+Kangaskhan,26.0,Bite,Normal,60,1.0,False,
+Kangaskhan,36.0,Mega Punch,Normal,80,0.85,False,celadon_city
+Kangaskhan,46.0,Dizzy Punch,Normal,70,1.0,False,
+Kangaskhan,,Surf,Water,95,1.0,False,safari_zone
+Kangaskhan,,Strength,Normal,80,1.0,False,safari_zone
+Kangaskhan,,Mega Kick,Normal,120,0.75,False,celadon_city
+Kangaskhan,,Body Slam,Normal,85,1.0,False,ss_anne
+Kangaskhan,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Kangaskhan,,Water Gun,Water,40,1.0,False,mt_moon
+Kangaskhan,,Ice Beam,Ice,95,1.0,False,celadon_city
+Kangaskhan,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Kangaskhan,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Kangaskhan,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Kangaskhan,,Thunder,Electric,120,0.7,False,power_plant
+Kangaskhan,,Earthquake,Ground,100,1.0,False,silph_co
+Kangaskhan,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Kangaskhan,,Rock Slide,Rock,75,0.9,False,celadon_city
+Horsea,1.0,Bubble,Water,20,1.0,False,
+Horsea,30.0,Water Gun,Water,40,1.0,False,mt_moon
+Horsea,45.0,Hydro Pump,Water,120,0.8,False,
+Horsea,,Surf,Water,95,1.0,False,safari_zone
+Horsea,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Horsea,,Ice Beam,Ice,95,1.0,False,celadon_city
+Horsea,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Horsea,,Rage,Normal,20,1.0,False,route_15
+Horsea,,Swift,Normal,60,1.0,False,route_12
+Seadra,1.0,Bubble,Water,20,1.0,False,
+Seadra,30.0,Water Gun,Water,40,1.0,False,mt_moon
+Seadra,52.0,Hydro Pump,Water,120,0.8,False,
+Seadra,,Surf,Water,95,1.0,False,safari_zone
+Seadra,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Seadra,,Ice Beam,Ice,95,1.0,False,celadon_city
+Seadra,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Seadra,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Seadra,,Rage,Normal,20,1.0,False,route_15
+Seadra,,Swift,Normal,60,1.0,False,route_12
+Goldeen,1.0,Peck,Flying,35,1.0,False,
+Goldeen,24.0,Horn Attack,Normal,65,1.0,False,
+Goldeen,30.0,Fury Attack,Normal,45,0.85,False,
+Goldeen,37.0,Waterfall,Water,80,1.0,False,
+Goldeen,,Surf,Water,95,1.0,False,safari_zone
+Goldeen,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Goldeen,,Water Gun,Water,40,1.0,False,mt_moon
+Goldeen,,Ice Beam,Ice,95,1.0,False,celadon_city
+Goldeen,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Goldeen,,Rage,Normal,20,1.0,False,route_15
+Goldeen,,Swift,Normal,60,1.0,False,route_12
+Seaking,1.0,Peck,Flying,35,1.0,False,
+Seaking,24.0,Horn Attack,Normal,65,1.0,False,
+Seaking,30.0,Fury Attack,Normal,45,0.85,False,
+Seaking,39.0,Waterfall,Water,80,1.0,False,
+Seaking,,Surf,Water,95,1.0,False,safari_zone
+Seaking,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Seaking,,Water Gun,Water,40,1.0,False,mt_moon
+Seaking,,Ice Beam,Ice,95,1.0,False,celadon_city
+Seaking,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Seaking,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Seaking,,Rage,Normal,20,1.0,False,route_15
+Seaking,,Swift,Normal,60,1.0,False,route_12
+Staryu,1.0,Tackle,Normal,35,0.95,False,
+Staryu,17.0,Water Gun,Water,40,1.0,False,mt_moon
+Staryu,32.0,Swift,Normal,60,1.0,False,route_12
+Staryu,47.0,Hydro Pump,Water,120,0.8,False,
+Staryu,,Surf,Water,95,1.0,False,safari_zone
+Staryu,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Staryu,,Ice Beam,Ice,95,1.0,False,celadon_city
+Staryu,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Staryu,,Rage,Normal,20,1.0,False,route_15
+Staryu,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Staryu,,Thunder,Electric,120,0.7,False,power_plant
+Staryu,,Psychic,Psychic,90,1.0,False,saffron_city
+Staryu,,Tri Attack,Normal,80,1.0,False,celadon_city
+Starmie,1.0,Tackle,Normal,35,0.95,False,
+Starmie,1.0,Water Gun,Water,40,1.0,False,mt_moon
+Starmie,,Surf,Water,95,1.0,False,safari_zone
+Starmie,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Starmie,,Ice Beam,Ice,95,1.0,False,celadon_city
+Starmie,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Starmie,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Starmie,,Rage,Normal,20,1.0,False,route_15
+Starmie,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Starmie,,Thunder,Electric,120,0.7,False,power_plant
+Starmie,,Psychic,Psychic,90,1.0,False,saffron_city
+Starmie,,Swift,Normal,60,1.0,False,route_12
+Starmie,,Tri Attack,Normal,80,1.0,False,celadon_city
+Mr_Mime,1.0,Confusion,Psychic,50,1.0,False,
+Mr_Mime,31.0,DoubleSlap,Normal,45,0.85,False,
+Mr_Mime,,Mega Punch,Normal,80,0.85,False,celadon_city
+Mr_Mime,,Mega Kick,Normal,120,0.75,False,celadon_city
+Mr_Mime,,Body Slam,Normal,85,1.0,False,ss_anne
+Mr_Mime,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Mr_Mime,,Rage,Normal,20,1.0,False,route_15
+Mr_Mime,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Mr_Mime,,Thunder,Electric,120,0.7,False,power_plant
+Mr_Mime,,Psychic,Psychic,90,1.0,False,saffron_city
+Scyther,1.0,Quick Attack,Normal,40,1.0,False,
+Scyther,29.0,Slash,Normal,70,1.0,True,
+Scyther,,Cut,Normal,50,0.95,False,ss_anne
+Scyther,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Scyther,,Rage,Normal,20,1.0,False,route_15
+Scyther,,Swift,Normal,60,1.0,False,route_12
+Jynx,1.0,Pound,Normal,40,1.0,False,
+Jynx,18.0,Lick,Ghost,20,1.0,False,
+Jynx,23.0,DoubleSlap,Normal,45,0.85,False,
+Jynx,31.0,Ice Punch,Ice,75,1.0,False,
+Jynx,39.0,Body Slam,Normal,85,1.0,False,ss_anne
+Jynx,47.0,Thrash,Normal,90,1.0,False,
+Jynx,58.0,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Jynx,,Mega Punch,Normal,80,0.85,False,celadon_city
+Jynx,,Mega Kick,Normal,120,0.75,False,celadon_city
+Jynx,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Jynx,,Water Gun,Water,40,1.0,False,mt_moon
+Jynx,,Ice Beam,Ice,95,1.0,False,celadon_city
+Jynx,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Jynx,,Rage,Normal,20,1.0,False,route_15
+Jynx,,Psychic,Psychic,90,1.0,False,saffron_city
+Electabuzz,1.0,Quick Attack,Normal,40,1.0,False,
+Electabuzz,34.0,ThunderShock,Electric,40,1.0,False,
+Electabuzz,42.0,ThunderPunch,Electric,75,1.0,False,
+Electabuzz,54.0,Thunder,Electric,120,0.7,False,power_plant
+Electabuzz,,Strength,Normal,80,1.0,False,safari_zone
+Electabuzz,,Mega Punch,Normal,80,0.85,False,celadon_city
+Electabuzz,,Mega Kick,Normal,120,0.75,False,celadon_city
+Electabuzz,,Body Slam,Normal,85,1.0,False,ss_anne
+Electabuzz,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Electabuzz,,Rage,Normal,20,1.0,False,route_15
+Electabuzz,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Electabuzz,,Psychic,Psychic,90,1.0,False,saffron_city
+Electabuzz,,Swift,Normal,60,1.0,False,route_12
+Magmar,1.0,Ember,Fire,40,1.0,False,
+Magmar,43.0,Fire Punch,Fire,75,1.0,False,
+Magmar,52.0,Smog,Poison,20,0.7,False,
+Magmar,55.0,Flamethrower,Fire,95,1.0,False,
+Magmar,,Strength,Normal,80,1.0,False,safari_zone
+Magmar,,Mega Punch,Normal,80,0.85,False,celadon_city
+Magmar,,Mega Kick,Normal,120,0.75,False,celadon_city
+Magmar,,Body Slam,Normal,85,1.0,False,ss_anne
+Magmar,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Magmar,,Rage,Normal,20,1.0,False,route_15
+Magmar,,Psychic,Psychic,90,1.0,False,saffron_city
+Magmar,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Pinsir,1.0,ViceGrip,Normal,55,1.0,False,
+Pinsir,49.0,Slash,Normal,70,1.0,True,
+Pinsir,,Cut,Normal,50,0.95,False,ss_anne
+Pinsir,,Strength,Normal,80,1.0,False,safari_zone
+Pinsir,,Body Slam,Normal,85,1.0,False,ss_anne
+Pinsir,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Pinsir,,Rage,Normal,20,1.0,False,route_15
+Tauros,1.0,Tackle,Normal,35,0.95,False,
+Tauros,21.0,Stomp,Normal,65,1.0,False,
+Tauros,44.0,Rage,Normal,20,1.0,False,route_15
+Tauros,,Strength,Normal,80,1.0,False,safari_zone
+Tauros,,Body Slam,Normal,85,1.0,False,ss_anne
+Tauros,,Ice Beam,Ice,95,1.0,False,celadon_city
+Tauros,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Tauros,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Tauros,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Tauros,,Thunder,Electric,120,0.7,False,power_plant
+Tauros,,Earthquake,Ground,100,1.0,False,silph_co
+Tauros,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Magikarp,0.0,Struggle,Normal,1,1.0,False,
+Magikarp,15.0,Tackle,Normal,35,0.95,False,
+Gyarados,1.0,Bite,Normal,60,1.0,False,
+Gyarados,1.0,Hydro Pump,Water,120,0.8,False,
+Gyarados,20.0,Bite,Normal,60,1.0,False,
+Gyarados,41.0,Hydro Pump,Water,120,0.8,False,
+Gyarados,52.0,Hyper Beam,Normal,75,0.9,False,celadon_city
+Gyarados,,Surf,Water,95,1.0,False,safari_zone
+Gyarados,,Strength,Normal,80,1.0,False,safari_zone
+Gyarados,,Body Slam,Normal,85,1.0,False,ss_anne
+Gyarados,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Gyarados,,Water Gun,Water,40,1.0,False,mt_moon
+Gyarados,,Ice Beam,Ice,95,1.0,False,celadon_city
+Gyarados,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Gyarados,,Rage,Normal,20,1.0,False,route_15
+Gyarados,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Gyarados,,Thunder,Electric,120,0.7,False,power_plant
+Gyarados,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Gyarados,1.0,Tackle,Normal,35,0.95,False,
+Lapras,1.0,Water Gun,Water,40,1.0,False,mt_moon
+Lapras,25.0,Body Slam,Normal,85,1.0,False,ss_anne
+Lapras,38.0,Ice Beam,Ice,95,1.0,False,celadon_city
+Lapras,46.0,Hydro Pump,Water,120,0.8,False,
+Lapras,,Surf,Water,95,1.0,False,safari_zone
+Lapras,,Strength,Normal,80,1.0,False,safari_zone
+Lapras,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Lapras,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Lapras,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Lapras,,Rage,Normal,20,1.0,False,route_15
+Lapras,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Lapras,,Thunder,Electric,120,0.7,False,power_plant
+Lapras,,Psychic,Psychic,90,1.0,False,saffron_city
+Ditto,0.0,Struggle,Normal,1,1.0,False,
+Eevee,1.0,Tackle,Normal,35,0.95,False,
+Eevee,27.0,Quick Attack,Normal,40,1.0,False,
+Eevee,37.0,Bite,Normal,60,1.0,False,
+Eevee,,Body Slam,Normal,85,1.0,False,ss_anne
+Eevee,,Rage,Normal,20,1.0,False,route_15
+Eevee,,Swift,Normal,60,1.0,False,route_12
+Vaporeon,1.0,Quick Attack,Normal,40,1.0,False,
+Vaporeon,1.0,Tackle,Normal,35,0.95,False,
+Vaporeon,1.0,Water Gun,Water,40,1.0,False,mt_moon
+Vaporeon,27.0,Quick Attack,Normal,40,1.0,False,
+Vaporeon,31.0,Water Gun,Water,40,1.0,False,mt_moon
+Vaporeon,40.0,Bite,Normal,60,1.0,False,
+Vaporeon,54.0,Hydro Pump,Water,120,0.8,False,
+Vaporeon,,Surf,Water,95,1.0,False,safari_zone
+Vaporeon,,Body Slam,Normal,85,1.0,False,ss_anne
+Vaporeon,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Vaporeon,,Ice Beam,Ice,95,1.0,False,celadon_city
+Vaporeon,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Vaporeon,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Vaporeon,,Rage,Normal,20,1.0,False,route_15
+Vaporeon,,Swift,Normal,60,1.0,False,route_12
+Jolteon,1.0,Quick Attack,Normal,40,1.0,False,
+Jolteon,1.0,Tackle,Normal,35,0.95,False,
+Jolteon,1.0,ThunderShock,Electric,40,1.0,False,
+Jolteon,27.0,Quick Attack,Normal,40,1.0,False,
+Jolteon,31.0,ThunderShock,Electric,40,1.0,False,
+Jolteon,42.0,Double Kick,Fighting,60,1.0,False,
+Jolteon,48.0,Pin Missile,Bug,44,0.85,False,
+Jolteon,54.0,Thunder,Electric,120,0.7,False,power_plant
+Jolteon,,Body Slam,Normal,85,1.0,False,ss_anne
+Jolteon,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Jolteon,,Rage,Normal,20,1.0,False,route_15
+Jolteon,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Jolteon,,Swift,Normal,60,1.0,False,route_12
+Flareon,1.0,Ember,Fire,40,1.0,False,
+Flareon,1.0,Quick Attack,Normal,40,1.0,False,
+Flareon,1.0,Tackle,Normal,35,0.95,False,
+Flareon,27.0,Quick Attack,Normal,40,1.0,False,
+Flareon,31.0,Ember,Fire,40,1.0,False,
+Flareon,40.0,Bite,Normal,60,1.0,False,
+Flareon,44.0,Fire Spin,Fire,45,0.7,False,
+Flareon,48.0,Rage,Normal,20,1.0,False,route_15
+Flareon,54.0,Flamethrower,Fire,95,1.0,False,
+Flareon,,Body Slam,Normal,85,1.0,False,ss_anne
+Flareon,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Flareon,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Flareon,,Swift,Normal,60,1.0,False,route_12
+Flareon,42.0,Smog,Poison,20,0.7,False,
+Porygon,1.0,Tackle,Normal,35,0.95,False,
+Porygon,23.0,Psybeam,Psychic,65,1.0,False,
+Porygon,42.0,Tri Attack,Normal,80,1.0,False,celadon_city
+Porygon,,Ice Beam,Ice,95,1.0,False,celadon_city
+Porygon,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Porygon,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Porygon,,Rage,Normal,20,1.0,False,route_15
+Porygon,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Porygon,,Thunder,Electric,120,0.7,False,power_plant
+Porygon,,Psychic,Psychic,90,1.0,False,saffron_city
+Porygon,,Swift,Normal,60,1.0,False,route_12
+Omanyte,1.0,Water Gun,Water,40,1.0,False,mt_moon
+Omanyte,34.0,Horn Attack,Normal,65,1.0,False,
+Omanyte,46.0,Spike Cannon,Normal,60,1.0,False,
+Omanyte,53.0,Hydro Pump,Water,120,0.8,False,
+Omanyte,,Surf,Water,95,1.0,False,safari_zone
+Omanyte,,Body Slam,Normal,85,1.0,False,ss_anne
+Omanyte,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Omanyte,,Ice Beam,Ice,95,1.0,False,celadon_city
+Omanyte,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Omanyte,,Rage,Normal,20,1.0,False,route_15
+Omastar,1.0,Horn Attack,Normal,65,1.0,False,
+Omastar,1.0,Water Gun,Water,40,1.0,False,mt_moon
+Omastar,44.0,Spike Cannon,Normal,60,1.0,False,
+Omastar,49.0,Hydro Pump,Water,120,0.8,False,
+Omastar,,Surf,Water,95,1.0,False,safari_zone
+Omastar,,Body Slam,Normal,85,1.0,False,ss_anne
+Omastar,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Omastar,,Ice Beam,Ice,95,1.0,False,celadon_city
+Omastar,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Omastar,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Omastar,,Rage,Normal,20,1.0,False,route_15
+Kabuto,1.0,Scratch,Normal,40,1.0,False,
+Kabuto,34.0,Absorb,Grass,20,1.0,False,
+Kabuto,39.0,Slash,Normal,70,1.0,True,
+Kabuto,49.0,Hydro Pump,Water,120,0.8,False,
+Kabuto,,Surf,Water,95,1.0,False,safari_zone
+Kabuto,,Body Slam,Normal,85,1.0,False,ss_anne
+Kabuto,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Kabuto,,Water Gun,Water,40,1.0,False,mt_moon
+Kabuto,,Ice Beam,Ice,95,1.0,False,celadon_city
+Kabuto,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Kabuto,,Rage,Normal,20,1.0,False,route_15
+Kabutops,1.0,Absorb,Grass,20,1.0,False,
+Kabutops,1.0,Scratch,Normal,40,1.0,False,
+Kabutops,39.0,Slash,Normal,70,1.0,True,
+Kabutops,53.0,Hydro Pump,Water,120,0.8,False,
+Kabutops,,Surf,Water,95,1.0,False,safari_zone
+Kabutops,,Mega Kick,Normal,120,0.75,False,celadon_city
+Kabutops,,Body Slam,Normal,85,1.0,False,ss_anne
+Kabutops,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Kabutops,,Water Gun,Water,40,1.0,False,mt_moon
+Kabutops,,Ice Beam,Ice,95,1.0,False,celadon_city
+Kabutops,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Kabutops,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Kabutops,,Rage,Normal,20,1.0,False,route_15
+Kabutops,,Cut,Normal,50,0.95,False,ss_anne
+Aerodactyl,1.0,Wing Attack,Flying,35,1.0,False,
+Aerodactyl,38.0,Bite,Normal,60,1.0,False,
+Aerodactyl,54.0,Hyper Beam,Normal,75,0.9,False,celadon_city
+Aerodactyl,,Fly,Flying,70,0.95,False,route_16
+Aerodactyl,,Rage,Normal,20,1.0,False,route_15
+Aerodactyl,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Aerodactyl,,Swift,Normal,60,1.0,False,route_12
+Snorlax,1.0,Headbutt,Normal,70,1.0,False,
+Snorlax,35.0,Body Slam,Normal,85,1.0,False,ss_anne
+Snorlax,56.0,Hyper Beam,Normal,75,0.9,False,celadon_city
+Snorlax,,Surf,Water,95,1.0,False,safari_zone
+Snorlax,,Strength,Normal,80,1.0,False,safari_zone
+Snorlax,,Mega Punch,Normal,80,0.85,False,celadon_city
+Snorlax,,Mega Kick,Normal,120,0.75,False,celadon_city
+Snorlax,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Snorlax,,Water Gun,Water,40,1.0,False,mt_moon
+Snorlax,,Ice Beam,Ice,95,1.0,False,celadon_city
+Snorlax,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Snorlax,,Pay Day,Normal,40,1.0,False,route_12
+Snorlax,,Rage,Normal,20,1.0,False,route_15
+Snorlax,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Snorlax,,Thunder,Electric,120,0.7,False,power_plant
+Snorlax,,Earthquake,Ground,100,1.0,False,silph_co
+Snorlax,,Psychic,Psychic,90,1.0,False,saffron_city
+Snorlax,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Snorlax,,Rock Slide,Rock,75,0.9,False,celadon_city
+Articuno,1.0,Ice Beam,Ice,95,1.0,False,celadon_city
+Articuno,1.0,Peck,Flying,35,1.0,False,
+Articuno,51.0,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Articuno,,Fly,Flying,70,0.95,False,route_16
+Articuno,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Articuno,,Water Gun,Water,40,1.0,False,mt_moon
+Articuno,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Articuno,,Rage,Normal,20,1.0,False,route_15
+Articuno,,Swift,Normal,60,1.0,False,route_12
+Zapdos,1.0,Drill Peck,Flying,80,1.0,False,
+Zapdos,1.0,ThunderShock,Electric,40,1.0,False,
+Zapdos,51.0,Thunder,Electric,120,0.7,False,power_plant
+Zapdos,,Fly,Flying,70,0.95,False,route_16
+Zapdos,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Zapdos,,Rage,Normal,20,1.0,False,route_15
+Zapdos,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Zapdos,,Swift,Normal,60,1.0,False,route_12
+Moltres,1.0,Fire Spin,Fire,45,0.7,False,
+Moltres,1.0,Peck,Flying,35,1.0,False,
+Moltres,,Fly,Flying,70,0.95,False,route_16
+Moltres,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Moltres,,Rage,Normal,20,1.0,False,route_15
+Moltres,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Moltres,,Swift,Normal,60,1.0,False,route_12
+Dratini,1.0,Wrap,Normal,45,0.85,False,
+Dratini,30.0,Slam,Normal,80,0.75,False,
+Dratini,50.0,Hyper Beam,Normal,75,0.9,False,celadon_city
+Dratini,,Surf,Water,95,1.0,False,safari_zone
+Dratini,,Body Slam,Normal,85,1.0,False,ss_anne
+Dratini,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Dratini,,Water Gun,Water,40,1.0,False,mt_moon
+Dratini,,Ice Beam,Ice,95,1.0,False,celadon_city
+Dratini,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Dratini,,Rage,Normal,20,1.0,False,route_15
+Dratini,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Dratini,,Thunder,Electric,120,0.7,False,power_plant
+Dratini,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Dratini,,Swift,Normal,60,1.0,False,route_12
+Dragonair,1.0,Wrap,Normal,45,0.85,False,
+Dragonair,35.0,Slam,Normal,80,0.75,False,
+Dragonair,55.0,Hyper Beam,Normal,75,0.9,False,celadon_city
+Dragonair,,Surf,Water,95,1.0,False,safari_zone
+Dragonair,,Body Slam,Normal,85,1.0,False,ss_anne
+Dragonair,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Dragonair,,Water Gun,Water,40,1.0,False,mt_moon
+Dragonair,,Ice Beam,Ice,95,1.0,False,celadon_city
+Dragonair,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Dragonair,,Rage,Normal,20,1.0,False,route_15
+Dragonair,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Dragonair,,Thunder,Electric,120,0.7,False,power_plant
+Dragonair,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Dragonair,,Swift,Normal,60,1.0,False,route_12
+Dragonite,1.0,Wrap,Normal,45,0.85,False,
+Dragonite,35.0,Slam,Normal,80,0.75,False,
+Dragonite,60.0,Hyper Beam,Normal,75,0.9,False,celadon_city
+Dragonite,,Surf,Water,95,1.0,False,safari_zone
+Dragonite,,Strength,Normal,80,1.0,False,safari_zone
+Dragonite,,Body Slam,Normal,85,1.0,False,ss_anne
+Dragonite,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Dragonite,,Water Gun,Water,40,1.0,False,mt_moon
+Dragonite,,Ice Beam,Ice,95,1.0,False,celadon_city
+Dragonite,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Dragonite,,Rage,Normal,20,1.0,False,route_15
+Dragonite,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Dragonite,,Thunder,Electric,120,0.7,False,power_plant
+Dragonite,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Dragonite,,Swift,Normal,60,1.0,False,route_12
+Mewtwo,1.0,Confusion,Psychic,50,1.0,False,
+Mewtwo,1.0,Psychic,Psychic,90,1.0,False,saffron_city
+Mewtwo,1.0,Swift,Normal,60,1.0,False,route_12
+Mewtwo,,Strength,Normal,80,1.0,False,safari_zone
+Mewtwo,,Mega Punch,Normal,80,0.85,False,celadon_city
+Mewtwo,,Mega Kick,Normal,120,0.75,False,celadon_city
+Mewtwo,,Body Slam,Normal,85,1.0,False,ss_anne
+Mewtwo,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Mewtwo,,Water Gun,Water,40,1.0,False,mt_moon
+Mewtwo,,Ice Beam,Ice,95,1.0,False,celadon_city
+Mewtwo,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Mewtwo,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Mewtwo,,Pay Day,Normal,40,1.0,False,route_12
+Mewtwo,,Rage,Normal,20,1.0,False,route_15
+Mewtwo,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Mewtwo,,Thunder,Electric,120,0.7,False,power_plant
+Mewtwo,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Mewtwo,,Tri Attack,Normal,80,1.0,False,celadon_city
+Mew,1.0,Pound,Normal,40,1.0,False,
+Mew,20.0,Mega Punch,Normal,80,0.85,False,celadon_city
+Mew,40.0,Psychic,Psychic,90,1.0,False,saffron_city
+Mew,,Cut,Normal,50,0.95,False,ss_anne
+Mew,,Fly,Flying,70,0.95,False,route_16
+Mew,,Surf,Water,95,1.0,False,safari_zone
+Mew,,Strength,Normal,80,1.0,False,safari_zone
+Mew,,Mega Kick,Normal,120,0.75,False,celadon_city
+Mew,,Body Slam,Normal,85,1.0,False,ss_anne
+Mew,,BubbleBeam,Water,65,1.0,False,cerulean_gym
+Mew,,Water Gun,Water,40,1.0,False,mt_moon
+Mew,,Ice Beam,Ice,95,1.0,False,celadon_city
+Mew,,Blizzard,Ice,120,0.9,False,pokemon_mansion
+Mew,,Hyper Beam,Normal,75,0.9,False,celadon_city
+Mew,,Pay Day,Normal,40,1.0,False,route_12
+Mew,,Rage,Normal,20,1.0,False,route_15
+Mew,,Mega Drain,Grass,40,1.0,False,celadon_city
+Mew,,Thunderbolt,Electric,95,1.0,False,vermilion_gym
+Mew,,Thunder,Electric,120,0.7,False,power_plant
+Mew,,Earthquake,Ground,100,1.0,False,silph_co
+Mew,,Dig,Ground,100,1.0,False,cerulean_city
+Mew,,Egg Bomb,Normal,100,0.75,False,celadon_city
+Mew,,Fire Blast,Fire,120,0.85,False,cinnabar_gym
+Mew,,Swift,Normal,60,1.0,False,route_12
+Mew,,Rock Slide,Rock,75,0.9,False,celadon_city
+Mew,,Tri Attack,Normal,80,1.0,False,celadon_city

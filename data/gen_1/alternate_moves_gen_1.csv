@@ -1,0 +1,15 @@
+trainer_name_enc,location_enc,pokemon_enc,move1_name_enc,move2_name_enc,move3_name_enc,move4_name_enc
+misty,cerulean_gym,starmie,tackle,water gun,bubblebeam,
+ltsurge,vermilion_gym,raichu,thundershock,thunderbolt,,
+erika,celadon_gym,vileplume,petal_dance,mega_drain,,
+sabrina,saffron_gym,alakazam,psybeam,psywave,,
+blaine,cinnabar_gym,arcanine,ember,fire_blast,take_down,
+giovanni,viridian_gym,rhydon,stomp,,,
+lorelei,indigo_plateau,lapras,body_slam,blizzard,hydro_pump,
+bruno,indigo_plateau,machamp,submission,,,
+agatha,indigo_plateau,gengar,night shade,,,
+lance,indigo_plateau,dragonite,slam,hyper_beam,,
+blue,indigo_plateau,pidgeot,wing_attack,sky_attack,,
+blue,indigo_plateau,charizard,rage,slash,fire_blast,fire_spin
+blue,indigo_plateau,blastoise,bite,blizzard,hydro_pump,
+blue,indigo_plateau,venusaur,razor_leaf,mega_drain,solarbeam,

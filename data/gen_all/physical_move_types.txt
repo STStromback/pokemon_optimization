@@ -1,0 +1,9 @@
+normal
+fighting
+poison
+ground
+flying
+bug
+rock
+ghost
+steel

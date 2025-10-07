@@ -1,0 +1,17 @@
+gen,move_name,exclude,new_location
+1,Surf,True,
+3,Double-Edge,False,Sootopolis City
+3,Dynamic Punch,False,Mossdeep City
+3,Fury Cutter,False,Route 117
+3,Rollout,False,Mauville City
+3,Mega Punch,True,
+3,Mega Kick,True,
+3,Body Slam,True,
+3,Rock Slide,True,
+3,Counter,True,
+3,Mud-Slap,True,
+3,Swift,True,
+3,Icy Wind,True,
+3,Ice Punch,True,
+3,Fire Punch,True,
+3,ThunderPunch,True,

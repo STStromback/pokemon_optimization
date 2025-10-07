@@ -1,0 +1,18 @@
+{
+    "initialize_repo": "n",
+    "gen": [1,2,3],
+    "level_calc_method (sequential_max/independent)": "sequential_max",
+    "trade_evolutions": "y",
+    "legendaries": "y",
+    "all_starters": "n",
+    "restrictions":
+    {
+        "A": [1,2,3],
+        "B": [68,69,70,102,103],
+        "C": [82,83,84],
+        "D": [139,140,141]
+    },
+    "exclusions": [155],
+    "easy_dog_catch": "n",
+    "drop_first_rival_encounter": "y"
+}

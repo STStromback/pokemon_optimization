@@ -1,0 +1,252 @@
+﻿Move,Type,Power,Acc
+Absorb,Grass,20,1
+Acid,Poison,40,1
+Acid Armor,Poison,0,1
+Aeroblast,Flying,100,0.95
+Agility,Psychic,0,1
+Amnesia,Psychic,0,1
+Ancientpower,Rock,60,1
+Attract,Normal,0,1
+Aurora Beam,Ice,65,1
+Barrage,Normal,15,0.85
+Barrier,Psychic,0,1
+Baton Pass,Normal,0,1
+Beat Up,Dark,10,1
+Belly Drum,Normal,0,1
+Bide,Normal,0,1
+Bind,Normal,15,0.75
+Bite,Dark,60,1
+Blizzard,Ice,120,0.7
+Body Slam,Normal,85,1
+Bone Club,Ground,65,0.85
+Bone Rush,Ground,25,0.8
+Bonemerang,Ground,50,0.9
+Bubble,Water,20,1
+Bubblebeam,Water,65,1
+Charm,Normal,0,1
+Clamp,Water,35,0.75
+Comet Punch,Normal,18,0.85
+Confuse Ray,Ghost,0,1
+Confusion,Psychic,50,1
+Constrict,Normal,10,1
+Conversion,Normal,0,1
+Conversion 2,Normal,0,1
+Cotton Spore,Grass,0,0.85
+Counter,Fighting,0,1
+Crabhammer,Water,90,0.85
+Cross Chop,Fighting,100,0.8
+Crunch,Dark,80,1
+Curse,???,0,1
+Cut,Normal,50,0.95
+Defense Curl,Normal,0,1
+Destiny Bond,Ghost,0,1
+Detect,Fighting,0,1
+Dig,Ground,60,1
+Disable,Normal,0,0.55
+Dizzy Punch,Normal,70,1
+Double Kick,Fighting,30,1
+Double Team,Normal,0,1
+Double-edge,Normal,120,1
+Doubleslap,Normal,15,0.85
+Dragon Rage,Dragon,0,1
+Dragonbreath,Dragon,60,1
+Dream Eater,Psychic,100,1
+Drill Peck,Flying,80,1
+Dynamicpunch,Fighting,100,0.5
+Earthquake,Ground,100,1
+Egg Bomb,Normal,100,0.75
+Ember,Fire,40,1
+Encore,Normal,0,1
+Endure,Normal,0,1
+Explosion,Normal,250,1
+Extremespeed,Normal,80,1
+Faint Attack,Dark,60,1
+False Swipe,Normal,40,1
+Fire Blast,Fire,120,0.85
+Fire Punch,Fire,75,1
+Fire Spin,Fire,15,0.7
+Fissure,Ground,0,0.3
+Flail,Normal,0,1
+Flame Wheel,Fire,60,1
+Flamethrower,Fire,95,1
+Flash,Normal,0,0.7
+Fly,Flying,70,0.95
+Focus Energy,Normal,0,1
+Foresight,Normal,0,1
+Frustration,Normal,0,1
+Fury Attack,Normal,15,0.85
+Fury Cutter,Bug,10,0.95
+Fury Swipes,Normal,10,0.8
+Future Sight,Psychic,80,0.9
+Giga Drain,Grass,60,1
+Glare,Normal,0,0.75
+Growl,Normal,0,1
+Growth,Normal,0,1
+Guillotine,Normal,0,0.3
+Gust,Flying,40,1
+Harden,Normal,0,1
+Haze,Ice,0,1
+Headbutt,Normal,70,1
+Heal Bell,Normal,0,1
+Hi Jump Kick,Fighting,85,0.9
+Hidden Power,Normal,0,1
+Horn Attack,Normal,65,1
+Horn Drill,Normal,0,0.3
+Hydro Pump,Water,120,0.8
+Hyper Beam,Normal,150,0.9
+Hyper Fang,Normal,80,0.9
+Hypnosis,Psychic,0,0.6
+Ice Beam,Ice,95,1
+Ice Punch,Ice,75,1
+Icy Wind,Ice,55,0.95
+Iron Tail,Steel,100,0.75
+Jump Kick,Fighting,70,0.95
+Karate Chop,Fighting,55,1
+Kinesis,Psychic,0,0.8
+Leech Life,Bug,20,1
+Leech Seed,Grass,0,0.9
+Leer,Normal,0,1
+Lick,Ghost,20,1
+Light Screen,Psychic,0,1
+Lock-On,Normal,0,1
+Lovely Kiss,Normal,0,0.75
+Low Kick,Fighting,50,0.9
+Mach Punch,Fighting,40,1
+Magnitude,Ground,0,1
+Mean Look,Normal,0,1
+Meditate,Psychic,0,1
+Mega Drain,Grass,40,1
+Mega Kick,Normal,120,0.75
+Mega Punch,Normal,80,0.85
+Megahorn,Bug,120,0.85
+Metal Claw,Steel,50,0.95
+Metronome,Normal,0,1
+Milk Drink,Normal,0,1
+Mimic,Normal,0,1
+Mind Reader,Normal,0,1
+Minimize,Normal,0,1
+Mirror Coat,Psychic,0,1
+Mirror Move,Flying,0,1
+Mist,Ice,0,1
+Moonlight,Normal,0,1
+Morning Sun,Normal,0,1
+Mud-Slap,Ground,20,1
+Night Shade,Ghost,0,1
+Nightmare,Ghost,0,1
+Octazooka,Water,65,0.85
+Outrage,Dragon,90,1
+Pain Split,Normal,0,1
+Pay Day,Normal,40,1
+Peck,Flying,35,1
+Perish Song,Normal,0,1
+Petal Dance,Grass,70,1
+Pin Missile,Bug,14,0.85
+Poison Gas,Poison,0,0.55
+Poison Sting,Poison,15,1
+Poisonpowder,Poison,0,0.75
+Pound,Normal,40,1
+Powder Snow,Ice,40,1
+Present,Normal,0,0.9
+Protect,Normal,0,1
+Psybeam,Psychic,65,1
+Psych Up,Normal,0,1
+Psychic,Psychic,90,1
+Psywave,Psychic,0,0.8
+Pursuit,Dark,40,1
+Quick Attack,Normal,40,1
+Rage,Normal,20,1
+Rain Dance,Water,0,1
+Rapid Spin,Normal,20,1
+Razor Leaf,Grass,55,0.95
+Razor Wind,Normal,80,0.75
+Recover,Normal,0,1
+Reflect,Psychic,0,1
+Rest,Psychic,0,1
+Return,Normal,0,1
+Reversal,Fighting,0,1
+Roar,Normal,0,1
+Rock Slide,Rock,75,0.9
+Rock Smash,Fighting,20,1
+Rock Throw,Rock,50,0.9
+Rolling Kick,Fighting,60,0.85
+Rollout,Rock,30,0.9
+Sacred Fire,Fire,100,0.95
+Safeguard,Normal,0,1
+Sand-Attack,Ground,0,1
+Sandstorm,Rock,0,1
+Scary Face,Normal,0,0.9
+Scratch,Normal,40,1
+Screech,Normal,0,0.85
+Seismic Toss,Fighting,0,1
+Selfdestruct,Normal,200,1
+Shadow Ball,Ghost,80,1
+Sharpen,Normal,0,1
+Sing,Normal,0,0.55
+Sketch,Normal,0,1
+Skull Bash,Normal,100,1
+Sky Attack,Flying,140,0.9
+Slam,Normal,80,0.75
+Slash,Normal,70,1
+Sleep Powder,Grass,0,0.75
+Sleep Talk,Normal,0,1
+Sludge,Poison,65,1
+Sludge Bomb,Poison,90,1
+Smog,Poison,20,1
+Smokescreen,Normal,0,1
+Snore,Normal,40,1
+Softboiled,Normal,0,1
+Solarbeam,Grass,120,1
+Sonicboom,Normal,0,0.9
+Spark,Electric,65,1
+Spider Web,Bug,0,1
+Spike Cannon,Normal,20,1
+Spikes,Ground,0,1
+Spite,Ghost,0,1
+Splash,Normal,0,1
+Spore,Grass,0,1
+Steel Wing,Steel,70,0.95
+Stomp,Normal,65,1
+Strength,Normal,80,1
+String Shot,Bug,0,0.95
+Struggle,None,50,1
+Stun Spore,Grass,0,0.75
+Submission,Fighting,80,0.8
+Substitute,Normal,0,1
+Sunny Day,Fire,0,1
+Super Fang,Normal,0,0.9
+Supersonic,Normal,0,0.55
+Surf,Water,95,1
+Swagger,Normal,0,0.9
+Sweet Kiss,Normal,0,0.75
+Sweet Scent,Normal,0,1
+Swift,Normal,60,1
+Swords Dance,Normal,0,1
+Synthesis,Grass,0,1
+Tackle,Normal,35,0.95
+Tail Whip,Normal,0,1
+Take Down,Normal,90,0.85
+Teleport,Psychic,0,1
+Thief,Dark,40,1
+Thrash,Normal,90,1
+Thunder,Electric,120,0.7
+Thunder Wave,Electric,0,1
+Thunderbolt,Electric,95,1
+Thunderpunch,Electric,75,1
+Thundershock,Electric,40,1
+Toxic,Poison,0,0.85
+Transform,Normal,0,1
+Tri Attack,Normal,80,1
+Triple Kick,Fighting,10,0.9
+Twineedle,Bug,25,1
+Twister,Dragon,40,1
+Vicegrip,Normal,55,1
+Vine Whip,Grass,35,1
+Vital Throw,Fighting,70,1
+Water Gun,Water,40,1
+Waterfall,Water,80,1
+Whirlpool,Water,15,0.7
+Whirlwind,Normal,0,1
+Wing Attack,Flying,60,1
+Withdraw,Water,0,1
+Wrap,Normal,15,0.85
+Zap Cannon,Electric,100,0.5

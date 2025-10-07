@@ -1,0 +1,2593 @@
+gen,location,sub_location,pokemon,levels,method
+1,Celadon City,Game Corner,Abra,9,gift
+1,Celadon City,Game Corner,Clefairy,8,gift
+1,Celadon City,Game Corner,Dratini,18,gift
+1,Celadon City,Celadon Mansion,Eevee,25,gift
+1,Celadon City,Main,Goldeen,10,good_rod
+1,Celadon City,Main,Magikarp,5,old_rod
+1,Celadon City,Game Corner,Nidorina,17,gift
+1,Celadon City,Main,Poliwag,10,good_rod
+1,Celadon City,Main,Poliwhirl,23,super_rod
+1,Celadon City,Game Corner,Porygon,26,gift
+1,Celadon City,Game Corner,Scyther,25,gift
+1,Celadon City,Main,Slowpoke,15,super_rod
+1,Cerulean Cave,1F,Arbok,52,walking
+1,Cerulean Cave,B1F,Arbok,57,walking
+1,Cerulean Cave,2F,Chansey,56,walking
+1,Cerulean Cave,B1F,Chansey,64,walking
+1,Cerulean Cave,1F,Ditto,53,walking
+1,Cerulean Cave,2F,Ditto,55-60,walking
+1,Cerulean Cave,B1F,Ditto,63-67,walking
+1,Cerulean Cave,1F,Dodrio,49,walking
+1,Cerulean Cave,2F,Dodrio,51,walking
+1,Cerulean Cave,2F,Electrode,52,walking
+1,Cerulean Cave,B1F,Electrode,55,walking
+1,Cerulean Cave,1F,Golbat,46,walking
+1,Cerulean Cave,1F,Goldeen,10,good_rod
+1,Cerulean Cave,B1F,Goldeen,10,good_rod
+1,Cerulean Cave,1F,Hypno,46,walking
+1,Cerulean Cave,1F,Kadabra,49,walking
+1,Cerulean Cave,2F,Kadabra,51,walking
+1,Cerulean Cave,1F,Kingler,23,super_rod
+1,Cerulean Cave,B1F,Kingler,23,super_rod
+1,Cerulean Cave,1F,Magikarp,5,old_rod
+1,Cerulean Cave,B1F,Magikarp,5,old_rod
+1,Cerulean Cave,1F,Magneton,46,walking
+1,Cerulean Cave,2F,Marowak,52,walking
+1,Cerulean Cave,B1F,Marowak,55,walking
+1,Cerulean Cave,B1F,Mewtwo,70,interact
+1,Cerulean Cave,1F,Parasect,52,walking
+1,Cerulean Cave,B1F,Parasect,64,walking
+1,Cerulean Cave,1F,Poliwag,10,good_rod
+1,Cerulean Cave,B1F,Poliwag,10,good_rod
+1,Cerulean Cave,1F,Raichu,53,walking
+1,Cerulean Cave,B1F,Raichu,64,walking
+1,Cerulean Cave,2F,Rhydon,52,walking
+1,Cerulean Cave,B1F,Rhydon,55,walking
+1,Cerulean Cave,1F,Seadra,23,super_rod
+1,Cerulean Cave,B1F,Seadra,23,super_rod
+1,Cerulean Cave,1F,Seaking,23,super_rod
+1,Cerulean Cave,B1F,Seaking,23,super_rod
+1,Cerulean Cave,1F,Slowbro,23,super_rod
+1,Cerulean Cave,B1F,Slowbro,23,super_rod
+1,Cerulean Cave,1F,Venomoth,49,walking
+1,Cerulean Cave,2F,Venomoth,51,walking
+1,Cerulean Cave,2F,Wigglytuff,54,walking
+1,Cerulean City,,Jynx,—,trade
+1,Cinnabar Island,Pokémon Lab,Aerodactyl,30,gift
+1,Cinnabar Island,Main,Electrode,—,trade
+1,Cinnabar Island,Pokémon Lab,Kabuto,30,gift
+1,Cinnabar Island,Pokémon Lab,Omanyte,30,gift
+1,Cinnabar Island,Main,Seel,—,trade
+1,Cinnabar Island,Main,Tangela,—,trade
+1,Diglett's Cave,1F,Diglett,15-22,walking
+1,Diglett's Cave,1F,Dugtrio,29-31,walking
+1,Fuchsia City,,Goldeen,15,super_rod
+1,Fuchsia City,,Goldeen,10,good_rod
+1,Fuchsia City,,Krabby,15,super_rod
+1,Fuchsia City,,Magikarp,15,super_rod
+1,Fuchsia City,,Magikarp,5,old_rod
+1,Fuchsia City,,Poliwag,10,good_rod
+1,Fuchsia City,,Seaking,23,super_rod
+1,Mt. Moon,1F,Clefairy,8,walking
+1,Mt. Moon,B1F,Clefairy,9,walking
+1,Mt. Moon,B2F,Clefairy,10-12,walking
+1,Mt. Moon,1F,Geodude,8-10,walking
+1,Mt. Moon,B1F,Geodude,7-9,walking
+1,Mt. Moon,B2F,Geodude,9-10,walking
+1,Mt. Moon,1F,Paras,8,walking
+1,Mt. Moon,B1F,Paras,10,walking
+1,Mt. Moon,B2F,Paras,10-12,walking
+1,Mt. Moon,1F,Zubat,6-11,walking
+1,Mt. Moon,B1F,Zubat,7-11,walking
+1,Mt. Moon,B2F,Zubat,9-12,walking
+1,Pallet Town,,Bulbasaur,5,gift
+1,Pallet Town,,Charmander,5,gift
+1,Pallet Town,,Goldeen,10,good_rod
+1,Pallet Town,,Magikarp,5,old_rod
+1,Pallet Town,,Poliwag,15,super_rod
+1,Pallet Town,,Poliwag,10,good_rod
+1,Pallet Town,,Squirtle,5,gift
+1,Pallet Town,,Tentacool,15,super_rod
+1,Pokémon Mansion,1F,Grimer,30,walking
+1,Pokémon Mansion,2F,Grimer,30,walking
+1,Pokémon Mansion,3F,Grimer,34,walking
+1,Pokémon Mansion,B1F,Grimer,35,walking
+1,Pokémon Mansion,1F,Growlithe,34,walking
+1,Pokémon Mansion,2F,Growlithe,32,walking
+1,Pokémon Mansion,3F,Growlithe,33,walking
+1,Pokémon Mansion,B1F,Growlithe,35,walking
+1,Pokémon Mansion,1F,Koffing,30-32,walking
+1,Pokémon Mansion,2F,Koffing,30-34,walking
+1,Pokémon Mansion,3F,Koffing,31-35,walking
+1,Pokémon Mansion,B1F,Koffing,31-33,walking
+1,Pokémon Mansion,1F,Muk,39,walking
+1,Pokémon Mansion,2F,Muk,37,walking
+1,Pokémon Mansion,3F,Muk,42,walking
+1,Pokémon Mansion,B1F,Muk,42,walking
+1,Pokémon Mansion,1F,Ponyta,28-34,walking
+1,Pokémon Mansion,2F,Ponyta,28-32,walking
+1,Pokémon Mansion,3F,Ponyta,32-36,walking
+1,Pokémon Mansion,B1F,Ponyta,32-34,walking
+1,Pokémon Mansion,1F,Weezing,37,walking
+1,Pokémon Mansion,2F,Weezing,39,walking
+1,Pokémon Mansion,3F,Weezing,38-40,walking
+1,Pokémon Mansion,B1F,Weezing,40-42,walking
+1,Pokémon Tower,3F,Cubone,20-22,walking
+1,Pokémon Tower,4F,Cubone,20-22,walking
+1,Pokémon Tower,5F,Cubone,20-22,walking
+1,Pokémon Tower,6F,Cubone,22-24,walking
+1,Pokémon Tower,7F,Cubone,22-24,walking
+1,Pokémon Tower,3F,Gastly,18-24,walking
+1,Pokémon Tower,4F,Gastly,18-24,walking
+1,Pokémon Tower,5F,Gastly,18-24,walking
+1,Pokémon Tower,6F,Gastly,19-24,walking
+1,Pokémon Tower,7F,Gastly,20-24,walking
+1,Pokémon Tower,3F,Haunter,25,walking
+1,Pokémon Tower,4F,Haunter,25,walking
+1,Pokémon Tower,5F,Haunter,25,walking
+1,Pokémon Tower,6F,Haunter,26-28,walking
+1,Pokémon Tower,7F,Haunter,28-30,walking
+1,Power Plant,,Electabuzz,33-36,walking
+1,Power Plant,,Magnemite,21-23,walking
+1,Power Plant,,Magneton,32-35,walking
+1,Power Plant,,Pikachu,20-24,walking
+1,Power Plant,,Voltorb,21-23,walking
+1,Power Plant,,Zapdos,50,interact
+1,Rock Tunnel,1F,Geodude,16-17,walking
+1,Rock Tunnel,B1F,Geodude,16-18,walking
+1,Rock Tunnel,1F,Machop,15-17,walking
+1,Rock Tunnel,B1F,Machop,15-17,walking
+1,Rock Tunnel,1F,Onix,13-15,walking
+1,Rock Tunnel,B1F,Onix,13-17,walking
+1,Rock Tunnel,1F,Zubat,15-18,walking
+1,Rock Tunnel,B1F,Zubat,16-18,walking
+1,Route 1,,Pidgey,2-5,walking
+1,Route 1,,Rattata,2-4,walking
+1,Route 10,,Ekans,11-17,walking
+1,Route 10,,Goldeen,10,good_rod
+1,Route 10,,Magikarp,5,old_rod
+1,Route 10,,Poliwag,10,good_rod
+1,Route 10,,Poliwhirl,23,super_rod
+1,Route 10,,Slowpoke,15,super_rod
+1,Route 10,,Spearow,13-17,walking
+1,Route 10,,Voltorb,14-17,walking
+1,Route 11,,Drowzee,9-15,walking
+1,Route 11,,Ekans,12-15,walking
+1,Route 11,,Goldeen,10,good_rod
+1,Route 11,,Krabby,15,super_rod
+1,Route 11,,Magikarp,5,old_rod
+1,Route 11,,Nidorina,—,trade
+1,Route 11,,Poliwag,10,good_rod
+1,Route 11,,Shellder,15,super_rod
+1,Route 11,,Spearow,13-17,walking
+1,Route 12,,Gloom,28-30,walking
+1,Route 12,,Goldeen,15,super_rod
+1,Route 12,,Goldeen,10,good_rod
+1,Route 12,,Krabby,15,super_rod
+1,Route 12,,Magikarp,15,super_rod
+1,Route 12,,Magikarp,5,old_rod
+1,Route 12,,Oddish,22-26,walking
+1,Route 12,,Pidgey,23-27,walking
+1,Route 12,,Poliwag,10,good_rod
+1,Route 12,,Snorlax,30,interact
+1,Route 12,,Tentacool,5,super_rod
+1,Route 12,,Venonat,24-26,walking
+1,Route 13,,Ditto,25,walking
+1,Route 13,,Gloom,28-30,walking
+1,Route 13,,Goldeen,15,super_rod
+1,Route 13,,Goldeen,10,good_rod
+1,Route 13,,Krabby,15,super_rod
+1,Route 13,,Magikarp,15,super_rod
+1,Route 13,,Magikarp,5,old_rod
+1,Route 13,,Oddish,22-26,walking
+1,Route 13,,Pidgey,25-27,walking
+1,Route 13,,Poliwag,10,good_rod
+1,Route 13,,Tentacool,5,super_rod
+1,Route 13,,Venonat,24-26,walking
+1,Route 14,,Ditto,23,walking
+1,Route 14,,Gloom,30,walking
+1,Route 14,,Oddish,22-26,walking
+1,Route 14,,Pidgeotto,28-30,walking
+1,Route 14,,Pidgey,26,walking
+1,Route 14,,Venonat,24-26,walking
+1,Route 15,,Ditto,26,walking
+1,Route 15,,Gloom,30,walking
+1,Route 15,,Oddish,22-26,walking
+1,Route 15,,Pidgeotto,28-30,walking
+1,Route 15,,Pidgey,23,walking
+1,Route 15,,Venonat,26-28,walking
+1,Route 16,,Doduo,18-22,walking
+1,Route 16,,Raticate,23-25,walking
+1,Route 16,,Rattata,18-22,walking
+1,Route 16,,Snorlax,30,interact
+1,Route 16,,Spearow,20-22,walking
+1,Route 17,,Doduo,24-28,walking
+1,Route 17,,Fearow,25-27,walking
+1,Route 17,,Goldeen,15,super_rod
+1,Route 17,,Goldeen,10,good_rod
+1,Route 17,,Krabby,15,super_rod
+1,Route 17,,Magikarp,15,super_rod
+1,Route 17,,Magikarp,5,old_rod
+1,Route 17,,Poliwag,10,good_rod
+1,Route 17,,Raticate,25-29,walking
+1,Route 17,,Spearow,20-22,walking
+1,Route 17,,Tentacool,5,super_rod
+1,Route 18,,Doduo,24-28,walking
+1,Route 18,,Fearow,25-29,walking
+1,Route 18,,Goldeen,15,super_rod
+1,Route 18,,Goldeen,10,good_rod
+1,Route 18,,Krabby,15,super_rod
+1,Route 18,,Lickitung,—,trade
+1,Route 18,,Magikarp,15,super_rod
+1,Route 18,,Magikarp,5,old_rod
+1,Route 18,,Poliwag,10,good_rod
+1,Route 18,,Raticate,25-29,walking
+1,Route 18,,Spearow,20-22,walking
+1,Route 18,,Tentacool,5,super_rod
+1,Route 19,,Goldeen,15,super_rod
+1,Route 19,,Goldeen,10,good_rod
+1,Route 19,,Horsea,15,super_rod
+1,Route 19,,Magikarp,5,old_rod
+1,Route 19,,Poliwag,10,good_rod
+1,Route 19,,Shellder,15,super_rod
+1,Route 19,,Staryu,15,super_rod
+1,Route 19,,Tentacool,5-40,surf
+1,Route 2,Main,Mr. Mime,—,trade
+1,Route 2,Main,Pidgey,3-5,walking
+1,Route 2,Main,Rattata,2-5,walking
+1,Route 2,Main,Weedle,3-5,walking
+1,Route 20,Main,Goldeen,15,super_rod
+1,Route 20,Main,Goldeen,10,good_rod
+1,Route 20,Main,Horsea,15,super_rod
+1,Route 20,Main,Magikarp,5,old_rod
+1,Route 20,Main,Poliwag,10,good_rod
+1,Route 20,Main,Shellder,15,super_rod
+1,Route 20,Main,Staryu,15,super_rod
+1,Route 20,Main,Tentacool,5-40,surf
+1,Route 21,,Goldeen,15,super_rod
+1,Route 21,,Goldeen,10,good_rod
+1,Route 21,,Horsea,15,super_rod
+1,Route 21,,Magikarp,5,old_rod
+1,Route 21,,Pidgeotto,30-32,walking
+1,Route 21,,Pidgey,21-23,walking
+1,Route 21,,Poliwag,10,good_rod
+1,Route 21,,Raticate,30,walking
+1,Route 21,,Rattata,21-23,walking
+1,Route 21,,Shellder,15,super_rod
+1,Route 21,,Staryu,15,super_rod
+1,Route 21,,Tangela,28-32,walking
+1,Route 21,,Tentacool,5-40,surf
+1,Route 22,,Goldeen,15,super_rod
+1,Route 22,,Goldeen,10,good_rod
+1,Route 22,,Magikarp,5,old_rod
+1,Route 22,,Nidoran♀,3-4,walking
+1,Route 22,,Nidoran♂,2-4,walking
+1,Route 22,,Poliwag,15,super_rod
+1,Route 22,,Poliwag,10,good_rod
+1,Route 22,,Rattata,2-4,walking
+1,Route 22,,Spearow,3-5,walking
+1,Route 23,,Arbok,41,walking
+1,Route 23,,Ditto,33-43,walking
+1,Route 23,,Ekans,26,walking
+1,Route 23,,Fearow,38-43,walking
+1,Route 23,,Goldeen,10,good_rod
+1,Route 23,,Kingler,23,super_rod
+1,Route 23,,Magikarp,5,old_rod
+1,Route 23,,Poliwag,10,good_rod
+1,Route 23,,Seadra,23,super_rod
+1,Route 23,,Seaking,23,super_rod
+1,Route 23,,Slowbro,23,super_rod
+1,Route 23,,Spearow,26,walking
+1,Route 24,,Abra,8-12,walking
+1,Route 24,,Goldeen,15,super_rod
+1,Route 24,,Goldeen,10,good_rod
+1,Route 24,,Kakuna,8,walking
+1,Route 24,,Krabby,15,super_rod
+1,Route 24,,Magikarp,5,old_rod
+1,Route 24,,Oddish,12-14,walking
+1,Route 24,,Pidgey,12-13,walking
+1,Route 24,,Poliwag,10,good_rod
+1,Route 24,,Psyduck,15,super_rod
+1,Route 24,,Weedle,7,walking
+1,Route 25,,Abra,10-12,walking
+1,Route 25,,Caterpie,8,walking
+1,Route 25,,Goldeen,10,good_rod
+1,Route 25,,Kakuna,9,walking
+1,Route 25,,Krabby,15,super_rod
+1,Route 25,,Magikarp,5,old_rod
+1,Route 25,,Metapod,7,walking
+1,Route 25,,Oddish,12-14,walking
+1,Route 25,,Pidgey,13,walking
+1,Route 25,,Poliwag,10,good_rod
+1,Route 25,,Psyduck,15,super_rod
+1,Route 25,,Weedle,8,walking
+1,Route 3,,Jigglypuff,3-7,walking
+1,Route 3,,Pidgey,6-8,walking
+1,Route 3,,Spearow,5-8,walking
+1,Route 4,,Ekans,6-12,walking
+1,Route 4,,Magikarp,5,gift
+1,Route 4,,Rattata,8-12,walking
+1,Route 4,,Spearow,8-12,walking
+1,Route 5,,Mankey,10-16,walking
+1,Route 5,,Nidoran♀,—,trade
+1,Route 5,,Oddish,13-16,walking
+1,Route 5,,Pidgey,13-16,walking
+1,Route 6,,Goldeen,10,good_rod
+1,Route 6,,Krabby,15,super_rod
+1,Route 6,,Magikarp,5,old_rod
+1,Route 6,,Mankey,10-16,walking
+1,Route 6,,Oddish,13-16,walking
+1,Route 6,,Pidgey,13-16,walking
+1,Route 6,,Poliwag,10,good_rod
+1,Route 6,,Shellder,15,super_rod
+1,Route 7,,Growlithe,18-20,walking
+1,Route 7,,Mankey,17-20,walking
+1,Route 7,,Oddish,19-22,walking
+1,Route 7,,Pidgey,19-22,walking
+1,Route 8,,Ekans,17-19,walking
+1,Route 8,,Growlithe,15-18,walking
+1,Route 8,,Mankey,18-20,walking
+1,Route 8,,Pidgey,18-20,walking
+1,Route 9,,Ekans,11-17,walking
+1,Route 9,,Rattata,14-17,walking
+1,Route 9,,Spearow,13-17,walking
+1,Safari Zone,Center,Chansey,23,walking
+1,Safari Zone,North,Chansey,26,walking
+1,Safari Zone,East,Doduo,26,walking
+1,Safari Zone,West,Doduo,26,walking
+1,Safari Zone,Center,Dratini,15,super_rod
+1,Safari Zone,East,Dratini,15,super_rod
+1,Safari Zone,North,Dratini,15,super_rod
+1,Safari Zone,West,Dratini,15,super_rod
+1,Safari Zone,Center,Exeggcute,24-25,walking
+1,Safari Zone,East,Exeggcute,23-25,walking
+1,Safari Zone,North,Exeggcute,25-27,walking
+1,Safari Zone,West,Exeggcute,24-26,walking
+1,Safari Zone,Center,Goldeen,10,good_rod
+1,Safari Zone,East,Goldeen,10,good_rod
+1,Safari Zone,North,Goldeen,10,good_rod
+1,Safari Zone,West,Goldeen,10,good_rod
+1,Safari Zone,East,Kangaskhan,25,walking
+1,Safari Zone,West,Kangaskhan,28,walking
+1,Safari Zone,Center,Krabby,15,super_rod
+1,Safari Zone,East,Krabby,15,super_rod
+1,Safari Zone,North,Krabby,15,super_rod
+1,Safari Zone,West,Krabby,15,super_rod
+1,Safari Zone,Center,Magikarp,5,old_rod
+1,Safari Zone,East,Magikarp,5,old_rod
+1,Safari Zone,North,Magikarp,5,old_rod
+1,Safari Zone,West,Magikarp,5,old_rod
+1,Safari Zone,East,Nidoran♀,24,walking
+1,Safari Zone,West,Nidoran♀,25,walking
+1,Safari Zone,Center,Nidoran♂,22,walking
+1,Safari Zone,East,Nidoran♂,24,walking
+1,Safari Zone,North,Nidoran♂,22,walking
+1,Safari Zone,West,Nidoran♂,25,walking
+1,Safari Zone,Center,Nidorina,31,walking
+1,Safari Zone,North,Nidorina,30,walking
+1,Safari Zone,Center,Nidorino,31,walking
+1,Safari Zone,East,Nidorino,33,walking
+1,Safari Zone,North,Nidorino,30,walking
+1,Safari Zone,West,Nidorino,33,walking
+1,Safari Zone,East,Paras,22,walking
+1,Safari Zone,North,Paras,23,walking
+1,Safari Zone,Center,Parasect,30,walking
+1,Safari Zone,East,Parasect,25,walking
+1,Safari Zone,Center,Poliwag,10,good_rod
+1,Safari Zone,East,Poliwag,10,good_rod
+1,Safari Zone,North,Poliwag,10,good_rod
+1,Safari Zone,West,Poliwag,10,good_rod
+1,Safari Zone,Center,Psyduck,15,super_rod
+1,Safari Zone,East,Psyduck,15,super_rod
+1,Safari Zone,North,Psyduck,15,super_rod
+1,Safari Zone,West,Psyduck,15,super_rod
+1,Safari Zone,Center,Rhyhorn,25,walking
+1,Safari Zone,North,Rhyhorn,26,walking
+1,Safari Zone,Center,Scyther,23,walking
+1,Safari Zone,East,Scyther,28,walking
+1,Safari Zone,Center,Slowpoke,15,super_rod
+1,Safari Zone,East,Slowpoke,15,super_rod
+1,Safari Zone,North,Slowpoke,15,super_rod
+1,Safari Zone,West,Slowpoke,15,super_rod
+1,Safari Zone,North,Tauros,28,walking
+1,Safari Zone,West,Tauros,26,walking
+1,Safari Zone,North,Venomoth,32,walking
+1,Safari Zone,West,Venomoth,31,walking
+1,Safari Zone,Center,Venonat,22,walking
+1,Safari Zone,West,Venonat,23,walking
+1,Saffron City,Fighting Dojo,Hitmonchan,30,gift
+1,Saffron City,Fighting Dojo,Hitmonlee,30,gift
+1,Seafoam Islands,B4F,Articuno,50,interact
+1,Seafoam Islands,B1F,Dewgong,38,walking
+1,Seafoam Islands,B3F,Dewgong,37,walking
+1,Seafoam Islands,1F,Golbat,29,walking
+1,Seafoam Islands,B2F,Golbat,30,walking
+1,Seafoam Islands,B4F,Golbat,32,walking
+1,Seafoam Islands,B3F,Goldeen,15,super_rod
+1,Seafoam Islands,B3F,Goldeen,10,good_rod
+1,Seafoam Islands,B4F,Goldeen,15,super_rod
+1,Seafoam Islands,B4F,Goldeen,10,good_rod
+1,Seafoam Islands,1F,Golduck,38,walking
+1,Seafoam Islands,1F,Horsea,28-30,walking
+1,Seafoam Islands,B1F,Horsea,30-32,walking
+1,Seafoam Islands,B2F,Horsea,28-30,walking
+1,Seafoam Islands,B3F,Horsea,29-31,walking
+1,Seafoam Islands,B3F,Horsea,15,super_rod
+1,Seafoam Islands,B4F,Horsea,31-33,walking
+1,Seafoam Islands,B4F,Horsea,15,super_rod
+1,Seafoam Islands,B3F,Magikarp,5,old_rod
+1,Seafoam Islands,B4F,Magikarp,5,old_rod
+1,Seafoam Islands,B3F,Poliwag,10,good_rod
+1,Seafoam Islands,B4F,Poliwag,10,good_rod
+1,Seafoam Islands,1F,Psyduck,28,walking
+1,Seafoam Islands,B1F,Seadra,37,walking
+1,Seafoam Islands,B3F,Seadra,39,walking
+1,Seafoam Islands,1F,Seel,30,walking
+1,Seafoam Islands,B1F,Seel,28-30,walking
+1,Seafoam Islands,B2F,Seel,30-32,walking
+1,Seafoam Islands,B3F,Seel,31-33,walking
+1,Seafoam Islands,B4F,Seel,29-31,walking
+1,Seafoam Islands,1F,Shellder,28-30,walking
+1,Seafoam Islands,B1F,Shellder,32,walking
+1,Seafoam Islands,B2F,Shellder,28,walking
+1,Seafoam Islands,B3F,Shellder,29-31,walking
+1,Seafoam Islands,B3F,Shellder,15,super_rod
+1,Seafoam Islands,B4F,Shellder,31-33,walking
+1,Seafoam Islands,B4F,Shellder,15,super_rod
+1,Seafoam Islands,B2F,Slowbro,37,walking
+1,Seafoam Islands,B4F,Slowbro,39,walking
+1,Seafoam Islands,1F,Slowpoke,30,walking
+1,Seafoam Islands,B1F,Slowpoke,28-30,walking
+1,Seafoam Islands,B2F,Slowpoke,30-32,walking
+1,Seafoam Islands,B3F,Slowpoke,31-33,walking
+1,Seafoam Islands,B4F,Slowpoke,29-31,walking
+1,Seafoam Islands,B1F,Staryu,30,walking
+1,Seafoam Islands,B2F,Staryu,30,walking
+1,Seafoam Islands,B3F,Staryu,15,super_rod
+1,Seafoam Islands,B4F,Staryu,15,super_rod
+1,Seafoam Islands,1F,Zubat,21,walking
+1,Silph Co.,,Lapras,15,gift
+1,Underground Path 5-6,,Nidoran♀,—,trade
+1,Vermilion City,City,Farfetch'd,—,trade
+1,Vermilion City,City,Goldeen,10,good_rod
+1,Vermilion City,Harbor,Goldeen,10,good_rod
+1,Vermilion City,City,Krabby,15,super_rod
+1,Vermilion City,Harbor,Krabby,15,super_rod
+1,Vermilion City,City,Magikarp,5,old_rod
+1,Vermilion City,Harbor,Magikarp,5,old_rod
+1,Vermilion City,City,Poliwag,10,good_rod
+1,Vermilion City,Harbor,Poliwag,10,good_rod
+1,Vermilion City,City,Shellder,15,super_rod
+1,Vermilion City,Harbor,Shellder,15,super_rod
+1,Victory Road,1F,Geodude,26,walking
+1,Victory Road,2F,Geodude,24,walking
+1,Victory Road,3F,Geodude,26,walking
+1,Victory Road,1F,Golbat,41,walking
+1,Victory Road,2F,Golbat,40,walking
+1,Victory Road,3F,Golbat,41,walking
+1,Victory Road,1F,Graveler,41,walking
+1,Victory Road,2F,Graveler,43,walking
+1,Victory Road,3F,Graveler,43,walking
+1,Victory Road,1F,Machoke,42,walking
+1,Victory Road,2F,Machoke,41,walking
+1,Victory Road,3F,Machoke,42-45,walking
+1,Victory Road,1F,Machop,24,walking
+1,Victory Road,2F,Machop,22,walking
+1,Victory Road,3F,Machop,24,walking
+1,Victory Road,1F,Marowak,43,walking
+1,Victory Road,2F,Marowak,40,walking
+1,Victory Road,2F,Moltres,50,interact
+1,Victory Road,1F,Onix,36-42,walking
+1,Victory Road,2F,Onix,36-42,walking
+1,Victory Road,3F,Onix,42-45,walking
+1,Victory Road,3F,Venomoth,40,walking
+1,Victory Road,1F,Zubat,22,walking
+1,Victory Road,2F,Zubat,26,walking
+1,Victory Road,3F,Zubat,22,walking
+1,Viridian City,,Goldeen,10,good_rod
+1,Viridian City,,Magikarp,5,old_rod
+1,Viridian City,,Poliwag,15,super_rod
+1,Viridian City,,Poliwag,10,good_rod
+1,Viridian City,,Tentacool,15,super_rod
+1,Viridian Forest,,Caterpie,3,walking
+1,Viridian Forest,,Kakuna,4-6,walking
+1,Viridian Forest,,Metapod,4,walking
+1,Viridian Forest,,Pikachu,3-5,walking
+1,Viridian Forest,,Weedle,3-5,walking
+2,Azalea Town,,Aipom,10,headbutt
+2,Azalea Town,,Ekans,10,headbutt
+2,Azalea Town,,Heracross,10,headbutt
+2,Azalea Town,,Spearow,10,headbutt
+2,Blackthorn City,,Dodrio,—,trade
+2,Blackthorn City,,Magikarp,5-19,surf
+2,Blackthorn City,,Magikarp,40,super_rod
+2,Blackthorn City,,Magikarp,20,good_rod
+2,Blackthorn City,,Magikarp,10,old_rod
+2,Blackthorn City,,Poliwag,40,super_rod
+2,Blackthorn City,,Poliwag,20,good_rod
+2,Blackthorn City,,Poliwag,10,old_rod
+2,Blackthorn City,,Poliwhirl,40,super_rod
+2,Burned Tower,1F,Koffing,14,walking
+2,Burned Tower,B1F,Koffing,12-16,walking
+2,Burned Tower,1F,Krabby,15,rock_smash
+2,Burned Tower,1F,Raticate,15,walking
+2,Burned Tower,1F,Rattata,13-15,walking
+2,Burned Tower,B1F,Rattata,14,walking
+2,Burned Tower,1F,Shuckle,15,rock_smash
+2,Burned Tower,B1F,Weezing,16,walking
+2,Burned Tower,1F,Zubat,14,walking
+2,Burned Tower,B1F,Zubat,15,walking
+2,Celadon City,Main,Grimer,15-24,surf
+2,Celadon City,Game Corner,Larvitar,40,gift
+2,Celadon City,Main,Muk,15-19,surf
+2,Celadon City,Game Corner,Pikachu,25,gift
+2,Celadon City,Game Corner,Porygon,15,gift
+2,Cerulean City,,Goldeen,5-14,surf
+2,Cerulean City,,Kingler,40,super_rod
+2,Cerulean City,,Krabby,40,super_rod
+2,Cerulean City,,Krabby,20,good_rod
+2,Cerulean City,,Krabby,10,old_rod
+2,Cerulean City,,Magikarp,20,good_rod
+2,Cerulean City,,Magikarp,10,old_rod
+2,Cerulean City,,Seaking,10-14,surf
+2,Cherrygrove City,,Corsola,40,super_rod
+2,Cherrygrove City,,Corsola,20,good_rod
+2,Cherrygrove City,,Kingler,40,super_rod
+2,Cherrygrove City,,Krabby,40,super_rod
+2,Cherrygrove City,,Krabby,20,good_rod
+2,Cherrygrove City,,Krabby,10,old_rod
+2,Cherrygrove City,,Magikarp,20,good_rod
+2,Cherrygrove City,,Magikarp,10,old_rod
+2,Cherrygrove City,,Staryu,40,super_rod
+2,Cherrygrove City,,Staryu,20,good_rod
+2,Cherrygrove City,,Tentacool,15-24,surf
+2,Cherrygrove City,,Tentacruel,20-40,surf
+2,Cianwood City,,Corsola,40,super_rod
+2,Cianwood City,,Corsola,20,good_rod
+2,Cianwood City,,Kingler,40,super_rod
+2,Cianwood City,,Krabby,40,super_rod
+2,Cianwood City,,Krabby,20,good_rod
+2,Cianwood City,,Krabby,10,old_rod
+2,Cianwood City,,Krabby,15,rock_smash
+2,Cianwood City,,Magikarp,20,good_rod
+2,Cianwood City,,Magikarp,10,old_rod
+2,Cianwood City,,Shuckle,15,gift
+2,Cianwood City,,Shuckle,15,rock_smash
+2,Cianwood City,,Staryu,40,super_rod
+2,Cianwood City,,Staryu,20,good_rod
+2,Cianwood City,,Tentacool,15-24,surf
+2,Cianwood City,,Tentacruel,20-40,surf
+2,Cinnabar Island,Gym,Kingler,40,super_rod
+2,Cinnabar Island,Gym,Krabby,40,super_rod
+2,Cinnabar Island,Gym,Krabby,20,good_rod
+2,Cinnabar Island,Gym,Krabby,10,old_rod
+2,Cinnabar Island,Gym,Magikarp,20,good_rod
+2,Cinnabar Island,Gym,Magikarp,10,old_rod
+2,Cinnabar Island,Gym,Tentacool,30-39,surf
+2,Cinnabar Island,Gym,Tentacruel,35-39,surf
+2,Dark Cave,West,Dunsparce,4,walking
+2,Dark Cave,East,Geodude,23,walking
+2,Dark Cave,West,Geodude,2-4,walking
+2,Dark Cave,East,Golbat,23,walking
+2,Dark Cave,East,Goldeen,40,super_rod
+2,Dark Cave,East,Goldeen,20,good_rod
+2,Dark Cave,East,Goldeen,10,old_rod
+2,Dark Cave,West,Goldeen,40,super_rod
+2,Dark Cave,West,Goldeen,20,good_rod
+2,Dark Cave,West,Goldeen,10,old_rod
+2,Dark Cave,East,Graveler,25,walking
+2,Dark Cave,East,Krabby,15,rock_smash
+2,Dark Cave,West,Krabby,15,rock_smash
+2,Dark Cave,East,Magikarp,5-19,surf
+2,Dark Cave,East,Magikarp,40,super_rod
+2,Dark Cave,East,Magikarp,20,good_rod
+2,Dark Cave,East,Magikarp,10,old_rod
+2,Dark Cave,West,Magikarp,5-19,surf
+2,Dark Cave,West,Magikarp,40,super_rod
+2,Dark Cave,West,Magikarp,20,good_rod
+2,Dark Cave,West,Magikarp,10,old_rod
+2,Dark Cave,East,Seaking,40,super_rod
+2,Dark Cave,West,Seaking,40,super_rod
+2,Dark Cave,East,Shuckle,15,rock_smash
+2,Dark Cave,West,Shuckle,15,rock_smash
+2,Dark Cave,East,Teddiursa,20,walking
+2,Dark Cave,West,Teddiursa,2,walking
+2,Dark Cave,East,Ursaring,25-30,walking
+2,Dark Cave,East,Ursaring,25,walking
+2,Dark Cave,East,Wobbuffet,20-25,walking
+2,Dark Cave,East,Zubat,23,walking
+2,Dark Cave,West,Zubat,2-4,walking
+2,Diglett's Cave,B1F,Diglett,2-16,walking
+2,Diglett's Cave,B1F,Diglett,3-24,walking
+2,Diglett's Cave,B1F,Diglett,4-32,walking
+2,Diglett's Cave,B1F,Dugtrio,16,walking
+2,Diglett's Cave,B1F,Dugtrio,24,walking
+2,Diglett's Cave,B1F,Dugtrio,32,walking
+2,Dragon's Den,,Dragonair,40,super_rod
+2,Dragon's Den,,Dratini,10-14,surf
+2,Dragon's Den,,Dratini,40,super_rod
+2,Dragon's Den,,Dratini,20,good_rod
+2,Dragon's Den,,Dratini,15,gift
+2,Dragon's Den,,Magikarp,10-19,surf
+2,Dragon's Den,,Magikarp,40,super_rod
+2,Dragon's Den,,Magikarp,20,good_rod
+2,Dragon's Den,,Magikarp,10,old_rod
+2,Ecruteak City,,Magikarp,40,super_rod
+2,Ecruteak City,,Magikarp,20,good_rod
+2,Ecruteak City,,Magikarp,10,old_rod
+2,Ecruteak City,,Poliwag,15-24,surf
+2,Ecruteak City,,Poliwag,40,super_rod
+2,Ecruteak City,,Poliwag,20,good_rod
+2,Ecruteak City,,Poliwag,10,old_rod
+2,Ecruteak City,,Poliwhirl,20-24,surf
+2,Ecruteak City,,Poliwhirl,40,super_rod
+2,Fuchsia City,,Gyarados,40,super_rod
+2,Fuchsia City,,Gyarados,20,good_rod
+2,Fuchsia City,,Magikarp,10-24,surf
+2,Fuchsia City,,Magikarp,40,super_rod
+2,Fuchsia City,,Magikarp,20,good_rod
+2,Fuchsia City,,Magikarp,10,old_rod
+2,Goldenrod City,Game Corner,Abra,5,gift
+2,Goldenrod City,Game Corner,Cubone,15,gift
+2,Goldenrod City,Main,Eevee,20,gift
+2,Goldenrod City,Main,Machop,—,trade
+2,Goldenrod City,Game Corner,Wobbuffet,15,gift
+2,Ice Path,1F,Delibird,21-23,walking
+2,Ice Path,B1F,Delibird,22-24,walking
+2,Ice Path,B2F,Delibird,23-25,walking
+2,Ice Path,B3F,Delibird,24-26,walking
+2,Ice Path,1F,Golbat,22-24,walking
+2,Ice Path,B1F,Golbat,23-25,walking
+2,Ice Path,B2F,Golbat,24-26,walking
+2,Ice Path,B3F,Golbat,25,walking
+2,Ice Path,1F,Jynx,21-23,walking
+2,Ice Path,B1F,Jynx,22,walking
+2,Ice Path,B2F,Jynx,22,walking
+2,Ice Path,B3F,Jynx,22,walking
+2,Ice Path,B1F,Sneasel,22,walking
+2,Ice Path,B2F,Sneasel,22,walking
+2,Ice Path,B3F,Sneasel,22-24,walking
+2,Ice Path,1F,Swinub,21-23,walking
+2,Ice Path,B1F,Swinub,22,walking
+2,Ice Path,B2F,Swinub,23-25,walking
+2,Ice Path,B3F,Swinub,23-26,walking
+2,Ice Path,1F,Zubat,22,walking
+2,Ice Path,B1F,Zubat,23,walking
+2,Ice Path,B2F,Zubat,24,walking
+2,Ice Path,B3F,Zubat,25,walking
+2,Ilex Forest,,Beedrill,10,headbutt
+2,Ilex Forest,,Butterfree,10,headbutt
+2,Ilex Forest,,Caterpie,5,walking
+2,Ilex Forest,,Caterpie,10,headbutt
+2,Ilex Forest,,Celebi,30,interact
+2,Ilex Forest,,Golduck,15-19,surf
+2,Ilex Forest,,Hoothoot,7,walking
+2,Ilex Forest,,Hoothoot,10,headbutt
+2,Ilex Forest,,Kakuna,7,walking
+2,Ilex Forest,,Kakuna,10,headbutt
+2,Ilex Forest,,Magikarp,40,super_rod
+2,Ilex Forest,,Magikarp,20,good_rod
+2,Ilex Forest,,Magikarp,10,old_rod
+2,Ilex Forest,,Metapod,7,walking
+2,Ilex Forest,,Metapod,10,headbutt
+2,Ilex Forest,,Noctowl,10,headbutt
+2,Ilex Forest,,Oddish,5-7,walking
+2,Ilex Forest,,Paras,6,walking
+2,Ilex Forest,,Pidgey,7,walking
+2,Ilex Forest,,Pineco,10,headbutt
+2,Ilex Forest,,Poliwag,40,super_rod
+2,Ilex Forest,,Poliwag,20,good_rod
+2,Ilex Forest,,Poliwag,10,old_rod
+2,Ilex Forest,,Poliwhirl,40,super_rod
+2,Ilex Forest,,Psyduck,7,walking
+2,Ilex Forest,,Psyduck,10-19,surf
+2,Ilex Forest,,Venonat,5,walking
+2,Ilex Forest,,Weedle,5,walking
+2,Ilex Forest,,Weedle,10,headbutt
+2,Lake of Rage,,Exeggcute,10,headbutt
+2,Lake of Rage,,Gyarados,15-19,surf
+2,Lake of Rage,,Gyarados,40,super_rod
+2,Lake of Rage,,Gyarados,20,good_rod
+2,Lake of Rage,,Gyarados,30,interact
+2,Lake of Rage,,Hoothoot,10,headbutt
+2,Lake of Rage,,Magikarp,10-19,surf
+2,Lake of Rage,,Magikarp,40,super_rod
+2,Lake of Rage,,Magikarp,20,good_rod
+2,Lake of Rage,,Magikarp,10,old_rod
+2,Lake of Rage,,Pineco,10,headbutt
+2,Lake of Rage,,Venonat,10,headbutt
+2,Mt. Moon,1F,Clefairy,8-12,walking
+2,Mt. Moon,1F,Clefairy,8,walking
+2,Mt. Moon,1F,Geodude,8-10,walking
+2,Mt. Moon,1F,Paras,12,walking
+2,Mt. Moon,1F,Sandshrew,8,walking
+2,Mt. Moon,1F,Zubat,6,walking
+2,Mt. Mortar,1F North,Geodude,13,walking
+2,Mt. Mortar,1F South,Geodude,14,walking
+2,Mt. Mortar,2F,Geodude,31,walking
+2,Mt. Mortar,B1F,Geodude,16,walking
+2,Mt. Mortar,1F North,Golbat,15,walking
+2,Mt. Mortar,1F South,Golbat,13,walking
+2,Mt. Mortar,2F,Golbat,30,walking
+2,Mt. Mortar,B1F,Golbat,17,walking
+2,Mt. Mortar,1F South,Goldeen,15-19,surf
+2,Mt. Mortar,1F South,Goldeen,40,super_rod
+2,Mt. Mortar,1F South,Goldeen,20,good_rod
+2,Mt. Mortar,1F South,Goldeen,10,old_rod
+2,Mt. Mortar,2F,Goldeen,20-24,surf
+2,Mt. Mortar,2F,Goldeen,40,super_rod
+2,Mt. Mortar,2F,Goldeen,20,good_rod
+2,Mt. Mortar,2F,Goldeen,10,old_rod
+2,Mt. Mortar,B1F,Goldeen,15-19,surf
+2,Mt. Mortar,B1F,Goldeen,40,super_rod
+2,Mt. Mortar,B1F,Goldeen,20,good_rod
+2,Mt. Mortar,B1F,Goldeen,10,old_rod
+2,Mt. Mortar,2F,Graveler,31,walking
+2,Mt. Mortar,2F,Machoke,32,walking
+2,Mt. Mortar,1F North,Machop,15,walking
+2,Mt. Mortar,1F South,Machop,14,walking
+2,Mt. Mortar,2F,Machop,28,walking
+2,Mt. Mortar,B1F,Machop,16,walking
+2,Mt. Mortar,1F South,Magikarp,40,super_rod
+2,Mt. Mortar,1F South,Magikarp,20,good_rod
+2,Mt. Mortar,1F South,Magikarp,10,old_rod
+2,Mt. Mortar,2F,Magikarp,40,super_rod
+2,Mt. Mortar,2F,Magikarp,20,good_rod
+2,Mt. Mortar,2F,Magikarp,10,old_rod
+2,Mt. Mortar,B1F,Magikarp,40,super_rod
+2,Mt. Mortar,B1F,Magikarp,20,good_rod
+2,Mt. Mortar,B1F,Magikarp,10,old_rod
+2,Mt. Mortar,1F North,Marill,15,walking
+2,Mt. Mortar,1F South,Marill,14,walking
+2,Mt. Mortar,1F South,Marill,20-24,surf
+2,Mt. Mortar,2F,Marill,28,walking
+2,Mt. Mortar,2F,Marill,25-29,surf
+2,Mt. Mortar,B1F,Marill,16,walking
+2,Mt. Mortar,B1F,Marill,20-24,surf
+2,Mt. Mortar,1F North,Raticate,14,walking
+2,Mt. Mortar,1F South,Raticate,16,walking
+2,Mt. Mortar,2F,Raticate,30,walking
+2,Mt. Mortar,B1F,Raticate,18,walking
+2,Mt. Mortar,1F North,Rattata,14,walking
+2,Mt. Mortar,1F South,Rattata,14,walking
+2,Mt. Mortar,1F South,Seaking,20-24,surf
+2,Mt. Mortar,1F South,Seaking,40,super_rod
+2,Mt. Mortar,2F,Seaking,25-29,surf
+2,Mt. Mortar,2F,Seaking,40,super_rod
+2,Mt. Mortar,B1F,Seaking,20-24,surf
+2,Mt. Mortar,B1F,Seaking,40,super_rod
+2,Mt. Mortar,B1F,Tyrogue,10,gift
+2,Mt. Mortar,1F North,Zubat,15,walking
+2,Mt. Mortar,1F South,Zubat,13,walking
+2,Mt. Mortar,B1F,Zubat,15-17,walking
+2,Mt. Silver,Outside,Arbok,42,walking
+2,Mt. Silver,Outside,Dodrio,43,walking
+2,Mt. Silver,Outside,Doduo,41,walking
+2,Mt. Silver,1F,Golbat,42-46,walking
+2,Mt. Silver,1F,Golbat,45,walking
+2,Mt. Silver,2F,Golbat,46-48,walking
+2,Mt. Silver,Outside,Golbat,40-44,walking
+2,Mt. Silver,Side chambers,Golbat,46-50,walking
+2,Mt. Silver,Summit,Golbat,49-53,walking
+2,Mt. Silver,Summit,Golbat,51,walking
+2,Mt. Silver,2F,Goldeen,35-39,surf
+2,Mt. Silver,2F,Goldeen,40,super_rod
+2,Mt. Silver,2F,Goldeen,20,good_rod
+2,Mt. Silver,2F,Goldeen,10,old_rod
+2,Mt. Silver,1F,Golduck,45,walking
+2,Mt. Silver,2F,Golduck,48,walking
+2,Mt. Silver,2F,Golduck,35-39,surf
+2,Mt. Silver,Summit,Golduck,45,walking
+2,Mt. Silver,1F,Graveler,43,walking
+2,Mt. Silver,Summit,Graveler,48,walking
+2,Mt. Silver,1F,Larvitar,15-20,walking
+2,Mt. Silver,2F,Larvitar,15-20,walking
+2,Mt. Silver,Summit,Larvitar,15-20,walking
+2,Mt. Silver,2F,Machoke,48,walking
+2,Mt. Silver,2F,Magikarp,40,super_rod
+2,Mt. Silver,2F,Magikarp,20,good_rod
+2,Mt. Silver,2F,Magikarp,10,old_rod
+2,Mt. Silver,Outside,Magikarp,40,super_rod
+2,Mt. Silver,Outside,Magikarp,20,good_rod
+2,Mt. Silver,Outside,Magikarp,10,old_rod
+2,Mt. Silver,1F,Magmar,45,walking
+2,Mt. Silver,2F,Misdreavus,45,walking
+2,Mt. Silver,Side chambers,Misdreavus,45,walking
+2,Mt. Silver,1F,Onix,42,walking
+2,Mt. Silver,Summit,Onix,48,walking
+2,Mt. Silver,2F,Parasect,46-48,walking
+2,Mt. Silver,Side chambers,Parasect,46-52,walking
+2,Mt. Silver,Outside,Poliwag,35-39,surf
+2,Mt. Silver,Outside,Poliwag,40,super_rod
+2,Mt. Silver,Outside,Poliwag,20,good_rod
+2,Mt. Silver,Outside,Poliwag,10,old_rod
+2,Mt. Silver,Outside,Poliwhirl,42-44,walking
+2,Mt. Silver,Outside,Poliwhirl,35-44,surf
+2,Mt. Silver,Outside,Ponyta,42,walking
+2,Mt. Silver,Summit,Pupitar,20,walking
+2,Mt. Silver,Outside,Rapidash,44,walking
+2,Mt. Silver,2F,Seaking,35-39,surf
+2,Mt. Silver,2F,Seaking,40,super_rod
+2,Mt. Silver,Outside,Tangela,41,walking
+2,Mt. Silver,1F,Ursaring,44,walking
+2,Mt. Silver,2F,Ursaring,47,walking
+2,Mt. Silver,Summit,Ursaring,50,walking
+2,National Park,Bug Catching Contest,Beedrill,12-15,walking
+2,National Park,Bug Catching Contest,Butterfree,12-15,walking
+2,National Park,Main,Caterpie,10,walking
+2,National Park,Bug Catching Contest,Caterpie,7-18,walking
+2,National Park,Main,Hoothoot,13-15,walking
+2,National Park,Bug Catching Contest,Kakuna,9-18,walking
+2,National Park,Main,Ledyba,14,walking
+2,National Park,Bug Catching Contest,Metapod,9-18,walking
+2,National Park,Main,Nidoran♀,12,walking
+2,National Park,Main,Nidoran♂,12,walking
+2,National Park,Bug Catching Contest,Paras,10-17,walking
+2,National Park,Main,Pidgey,13,walking
+2,National Park,Bug Catching Contest,Pinsir,13-14,walking
+2,National Park,Main,Psyduck,12,walking
+2,National Park,Bug Catching Contest,Scyther,13-14,walking
+2,National Park,Main,Spinarak,14,walking
+2,National Park,Main,Sunkern,14,walking
+2,National Park,Main,Venonat,10-12,walking
+2,National Park,Bug Catching Contest,Venonat,10-16,walking
+2,National Park,Main,Weedle,10,walking
+2,National Park,Bug Catching Contest,Weedle,7-18,walking
+2,New Bark Town,,Chikorita,5,gift
+2,New Bark Town,,Chinchou,40,super_rod
+2,New Bark Town,,Chinchou,20,good_rod
+2,New Bark Town,,Cyndaquil,5,gift
+2,New Bark Town,,Lanturn,40,super_rod
+2,New Bark Town,,Magikarp,20,good_rod
+2,New Bark Town,,Magikarp,10,old_rod
+2,New Bark Town,,Shellder,40,super_rod
+2,New Bark Town,,Shellder,20,good_rod
+2,New Bark Town,,Tentacool,15-24,surf
+2,New Bark Town,,Tentacool,20,good_rod
+2,New Bark Town,,Tentacool,10,old_rod
+2,New Bark Town,,Tentacruel,20-40,surf
+2,New Bark Town,,Tentacruel,40,super_rod
+2,New Bark Town,,Totodile,5,gift
+2,Olivine City,Harbor,Chinchou,40,super_rod
+2,Olivine City,Harbor,Chinchou,20,good_rod
+2,Olivine City,Main,Corsola,40,super_rod
+2,Olivine City,Main,Corsola,20,good_rod
+2,Olivine City,Main,Kingler,40,super_rod
+2,Olivine City,Main,Krabby,40,super_rod
+2,Olivine City,Main,Krabby,20,good_rod
+2,Olivine City,Main,Krabby,10,old_rod
+2,Olivine City,Harbor,Lanturn,40,super_rod
+2,Olivine City,Main,Magikarp,20,good_rod
+2,Olivine City,Main,Magikarp,10,old_rod
+2,Olivine City,Harbor,Magikarp,20,good_rod
+2,Olivine City,Harbor,Magikarp,10,old_rod
+2,Olivine City,Harbor,Shellder,40,super_rod
+2,Olivine City,Harbor,Shellder,20,good_rod
+2,Olivine City,Main,Staryu,40,super_rod
+2,Olivine City,Main,Staryu,20,good_rod
+2,Olivine City,Main,Tentacool,15-24,surf
+2,Olivine City,Harbor,Tentacool,15-24,surf
+2,Olivine City,Harbor,Tentacool,20,good_rod
+2,Olivine City,Harbor,Tentacool,10,old_rod
+2,Olivine City,Main,Tentacruel,20-40,surf
+2,Olivine City,Harbor,Tentacruel,20-24,surf
+2,Olivine City,Harbor,Tentacruel,40,super_rod
+2,Olivine City,Main,Voltorb,—,trade
+2,Pallet Town,,Chinchou,40,super_rod
+2,Pallet Town,,Chinchou,20,good_rod
+2,Pallet Town,,Lanturn,40,super_rod
+2,Pallet Town,,Magikarp,20,good_rod
+2,Pallet Town,,Magikarp,10,old_rod
+2,Pallet Town,,Shellder,40,super_rod
+2,Pallet Town,,Shellder,20,good_rod
+2,Pallet Town,,Tentacool,30-39,surf
+2,Pallet Town,,Tentacool,20,good_rod
+2,Pallet Town,,Tentacool,10,old_rod
+2,Pallet Town,,Tentacruel,35-39,surf
+2,Pallet Town,,Tentacruel,40,super_rod
+2,Pewter City,Main,Xatu,—,trade
+2,Power Plant,,Magneton,—,trade
+2,Roaming Johto,,Entei,40,walking
+2,Roaming Johto,,Raikou,40,walking
+2,Rock Tunnel,1F,Cubone,10,walking
+2,Rock Tunnel,B1F,Cubone,12,walking
+2,Rock Tunnel,1F,Geodude,11-12,walking
+2,Rock Tunnel,1F,Geodude,11,walking
+2,Rock Tunnel,B1F,Geodude,14,walking
+2,Rock Tunnel,B1F,Golbat,15,walking
+2,Rock Tunnel,1F,Haunter,17,walking
+2,Rock Tunnel,B1F,Haunter,15,walking
+2,Rock Tunnel,B1F,Kangaskhan,15,walking
+2,Rock Tunnel,1F,Machoke,15,walking
+2,Rock Tunnel,1F,Machop,12,walking
+2,Rock Tunnel,1F,Marowak,12,walking
+2,Rock Tunnel,B1F,Marowak,15,walking
+2,Rock Tunnel,B1F,Onix,16,walking
+2,Rock Tunnel,1F,Zubat,12-15,walking
+2,Rock Tunnel,1F,Zubat,12,walking
+2,Rock Tunnel,B1F,Zubat,12-15,walking
+2,Rock Tunnel,B1F,Zubat,12,walking
+2,Route 1,,Furret,6,walking
+2,Route 1,,Hoothoot,2-4,walking
+2,Route 1,,Pidgey,2-4,walking
+2,Route 1,,Raticate,6,walking
+2,Route 1,,Rattata,2,walking
+2,Route 1,,Rattata,2-3,walking
+2,Route 1,,Sentret,3,walking
+2,Route 10,,Electabuzz,16,walking
+2,Route 10,,Electabuzz,18,walking
+2,Route 10,,Fearow,15,walking
+2,Route 10,,Goldeen,10-19,surf
+2,Route 10,,Goldeen,40,super_rod
+2,Route 10,,Goldeen,20,good_rod
+2,Route 10,,Goldeen,10,old_rod
+2,Route 10,,Magikarp,40,super_rod
+2,Route 10,,Magikarp,20,good_rod
+2,Route 10,,Magikarp,10,old_rod
+2,Route 10,,Marowak,15,walking
+2,Route 10,,Raticate,15,walking
+2,Route 10,,Seaking,15-19,surf
+2,Route 10,,Seaking,40,super_rod
+2,Route 10,,Spearow,15,walking
+2,Route 10,,Venomoth,15,walking
+2,Route 10,,Venonat,15,walking
+2,Route 10,,Voltorb,17,walking
+2,Route 10,,Zubat,15,walking
+2,Route 11,,Drowzee,14,walking
+2,Route 11,,Hoppip,14-16,walking
+2,Route 11,,Hypno,16,walking
+2,Route 11,,Magnemite,15,walking
+2,Route 11,,Meowth,13,walking
+2,Route 11,,Noctowl,16,walking
+2,Route 11,,Pidgeotto,16,walking
+2,Route 11,,Raticate,13,walking
+2,Route 11,,Raticate,16,walking
+2,Route 11,,Rattata,16,walking
+2,Route 12,,Magikarp,40,super_rod
+2,Route 12,,Magikarp,20,good_rod
+2,Route 12,,Magikarp,10,old_rod
+2,Route 12,,Quagsire,25-29,surf
+2,Route 12,,Qwilfish,40,super_rod
+2,Route 12,,Tentacool,25-29,surf
+2,Route 12,,Tentacool,40,super_rod
+2,Route 12,,Tentacool,20,good_rod
+2,Route 12,,Tentacool,10,old_rod
+2,Route 12,,Tentacruel,25-29,surf
+2,Route 13,,Chansey,25,walking
+2,Route 13,,Hoppip,25-27,walking
+2,Route 13,,Magikarp,40,super_rod
+2,Route 13,,Magikarp,20,good_rod
+2,Route 13,,Magikarp,10,old_rod
+2,Route 13,,Nidorina,23,walking
+2,Route 13,,Nidorino,23,walking
+2,Route 13,,Noctowl,25,walking
+2,Route 13,,Pidgeotto,25,walking
+2,Route 13,,Quagsire,23-25,walking
+2,Route 13,,Quagsire,25-29,surf
+2,Route 13,,Qwilfish,40,super_rod
+2,Route 13,,Tentacool,25-29,surf
+2,Route 13,,Tentacool,40,super_rod
+2,Route 13,,Tentacool,20,good_rod
+2,Route 13,,Tentacool,10,old_rod
+2,Route 13,,Tentacruel,25-29,surf
+2,Route 13,,Venomoth,25,walking
+2,Route 13,,Venonat,23,walking
+2,Route 14,,Aerodactyl,—,trade
+2,Route 14,,Chansey,25,walking
+2,Route 14,,Hoppip,28,walking
+2,Route 14,,Nidorina,23,walking
+2,Route 14,,Nidorino,23,walking
+2,Route 14,,Noctowl,25,walking
+2,Route 14,,Pidgeotto,25,walking
+2,Route 14,,Quagsire,23-25,walking
+2,Route 14,,Skiploom,26,walking
+2,Route 14,,Skiploom,30,walking
+2,Route 14,,Venomoth,25,walking
+2,Route 14,,Venonat,23,walking
+2,Route 15,,Chansey,25,walking
+2,Route 15,,Hoppip,25-27,walking
+2,Route 15,,Nidorina,23,walking
+2,Route 15,,Nidorino,23,walking
+2,Route 15,,Noctowl,25,walking
+2,Route 15,,Pidgeotto,25,walking
+2,Route 15,,Quagsire,23-25,walking
+2,Route 15,,Venomoth,25,walking
+2,Route 15,,Venonat,23,walking
+2,Route 16,,Fearow,27-29,walking
+2,Route 16,,Grimer,26-28,walking
+2,Route 16,,Muk,30,walking
+2,Route 16,,Murkrow,29,walking
+2,Route 16,,Slugma,27,walking
+2,Route 17,,Fearow,30-32,walking
+2,Route 17,,Grimer,29-31,walking
+2,Route 17,,Grimer,29-33,walking
+2,Route 17,,Grimer,29,walking
+2,Route 17,,Muk,33,walking
+2,Route 17,,Slugma,29-32,walking
+2,Route 18,,Fearow,27-29,walking
+2,Route 18,,Grimer,26-28,walking
+2,Route 18,,Muk,30,walking
+2,Route 18,,Murkrow,29,walking
+2,Route 18,,Slugma,27,walking
+2,Route 19,,Corsola,40,super_rod
+2,Route 19,,Corsola,20,good_rod
+2,Route 19,,Kingler,40,super_rod
+2,Route 19,,Krabby,40,super_rod
+2,Route 19,,Krabby,20,good_rod
+2,Route 19,,Krabby,10,old_rod
+2,Route 19,,Magikarp,20,good_rod
+2,Route 19,,Magikarp,10,old_rod
+2,Route 19,,Staryu,40,super_rod
+2,Route 19,,Staryu,20,good_rod
+2,Route 19,,Tentacool,30-39,surf
+2,Route 19,,Tentacruel,35-39,surf
+2,Route 2,Main,Ariados,7,walking
+2,Route 2,Main,Butterfree,7,walking
+2,Route 2,Main,Caterpie,3,walking
+2,Route 2,Main,Hoothoot,3-5,walking
+2,Route 2,Main,Ledian,7,walking
+2,Route 2,Main,Ledyba,3,walking
+2,Route 2,Main,Noctowl,7,walking
+2,Route 2,Main,Pidgeotto,7,walking
+2,Route 2,Main,Pidgey,3-5,walking
+2,Route 2,Main,Pidgey,5,walking
+2,Route 2,Main,Pikachu,4,walking
+2,Route 2,Main,Spinarak,3,walking
+2,Route 20,Main,Corsola,40,super_rod
+2,Route 20,Main,Corsola,20,good_rod
+2,Route 20,Main,Kingler,40,super_rod
+2,Route 20,Main,Krabby,40,super_rod
+2,Route 20,Main,Krabby,20,good_rod
+2,Route 20,Main,Krabby,10,old_rod
+2,Route 20,Main,Magikarp,20,good_rod
+2,Route 20,Main,Magikarp,10,old_rod
+2,Route 20,Main,Staryu,40,super_rod
+2,Route 20,Main,Staryu,20,good_rod
+2,Route 20,Main,Tentacool,30-39,surf
+2,Route 20,Main,Tentacruel,35-39,surf
+2,Route 21,,Corsola,40,super_rod
+2,Route 21,,Corsola,20,good_rod
+2,Route 21,,Kingler,40,super_rod
+2,Route 21,,Krabby,40,super_rod
+2,Route 21,,Krabby,20,good_rod
+2,Route 21,,Krabby,10,old_rod
+2,Route 21,,Magikarp,20,good_rod
+2,Route 21,,Magikarp,10,old_rod
+2,Route 21,,Mr. Mime,28-30,walking
+2,Route 21,,Raticate,20,walking
+2,Route 21,,Rattata,25,walking
+2,Route 21,,Staryu,40,super_rod
+2,Route 21,,Staryu,20,good_rod
+2,Route 21,,Tangela,28-35,walking
+2,Route 21,,Tangela,30-35,walking
+2,Route 21,,Tentacool,30-39,surf
+2,Route 21,,Tentacruel,35-39,surf
+2,Route 22,,Doduo,4,walking
+2,Route 22,,Fearow,7,walking
+2,Route 22,,Magikarp,40,super_rod
+2,Route 22,,Magikarp,20,good_rod
+2,Route 22,,Magikarp,10,old_rod
+2,Route 22,,Poliwag,3-4,walking
+2,Route 22,,Poliwag,5-14,surf
+2,Route 22,,Poliwag,40,super_rod
+2,Route 22,,Poliwag,20,good_rod
+2,Route 22,,Poliwag,10,old_rod
+2,Route 22,,Poliwhirl,10-14,surf
+2,Route 22,,Poliwhirl,40,super_rod
+2,Route 22,,Ponyta,6,walking
+2,Route 22,,Rattata,3,walking
+2,Route 22,,Rattata,3-7,walking
+2,Route 22,,Spearow,3-5,walking
+2,Route 24,,Abra,12,walking
+2,Route 24,,Bellsprout,10,walking
+2,Route 24,,Butterfree,14,walking
+2,Route 24,,Caterpie,8-10,walking
+2,Route 24,,Gloom,14,walking
+2,Route 24,,Goldeen,5-14,surf
+2,Route 24,,Goldeen,40,super_rod
+2,Route 24,,Goldeen,20,good_rod
+2,Route 24,,Goldeen,10,old_rod
+2,Route 24,,Magikarp,40,super_rod
+2,Route 24,,Magikarp,20,good_rod
+2,Route 24,,Magikarp,10,old_rod
+2,Route 24,,Metapod,12,walking
+2,Route 24,,Oddish,10-12,walking
+2,Route 24,,Seaking,10-14,surf
+2,Route 24,,Seaking,40,super_rod
+2,Route 24,,Sunkern,12,walking
+2,Route 24,,Venonat,8,walking
+2,Route 25,,Bellsprout,10,walking
+2,Route 25,,Butterfree,14,walking
+2,Route 25,,Caterpie,10,walking
+2,Route 25,,Goldeen,5-14,surf
+2,Route 25,,Goldeen,40,super_rod
+2,Route 25,,Goldeen,20,good_rod
+2,Route 25,,Goldeen,10,old_rod
+2,Route 25,,Hoothoot,10,walking
+2,Route 25,,Magikarp,40,super_rod
+2,Route 25,,Magikarp,20,good_rod
+2,Route 25,,Magikarp,10,old_rod
+2,Route 25,,Metapod,12,walking
+2,Route 25,,Noctowl,12-14,walking
+2,Route 25,,Oddish,10,walking
+2,Route 25,,Pidgeotto,12,walking
+2,Route 25,,Pidgey,10,walking
+2,Route 25,,Seaking,10-14,surf
+2,Route 25,,Seaking,40,super_rod
+2,Route 25,,Venonat,10,walking
+2,Route 26,,Arbok,30,walking
+2,Route 26,,Chinchou,40,super_rod
+2,Route 26,,Chinchou,20,good_rod
+2,Route 26,,Doduo,28-30,walking
+2,Route 26,,Ekans,10,headbutt
+2,Route 26,,Exeggcute,10,headbutt
+2,Route 26,,Hoothoot,10,headbutt
+2,Route 26,,Lanturn,40,super_rod
+2,Route 26,,Magikarp,20,good_rod
+2,Route 26,,Magikarp,10,old_rod
+2,Route 26,,Noctowl,28-32,walking
+2,Route 26,,Pineco,10,headbutt
+2,Route 26,,Ponyta,32,walking
+2,Route 26,,Quagsire,30,walking
+2,Route 26,,Raticate,28-30,walking
+2,Route 26,,Raticate,30,walking
+2,Route 26,,Sandslash,28,walking
+2,Route 26,,Shellder,40,super_rod
+2,Route 26,,Shellder,20,good_rod
+2,Route 26,,Tentacool,25-34,surf
+2,Route 26,,Tentacool,20,good_rod
+2,Route 26,,Tentacool,10,old_rod
+2,Route 26,,Tentacruel,30-34,surf
+2,Route 26,,Tentacruel,40,super_rod
+2,Route 27,,Arbok,28,walking
+2,Route 27,,Chinchou,40,super_rod
+2,Route 27,,Chinchou,20,good_rod
+2,Route 27,,Dodrio,30,walking
+2,Route 27,,Doduo,28-30,walking
+2,Route 27,,Ekans,10,headbutt
+2,Route 27,,Exeggcute,10,headbutt
+2,Route 27,,Hoothoot,10,headbutt
+2,Route 27,,Lanturn,40,super_rod
+2,Route 27,,Magikarp,20,good_rod
+2,Route 27,,Magikarp,10,old_rod
+2,Route 27,,Noctowl,28-32,walking
+2,Route 27,,Pineco,10,headbutt
+2,Route 27,,Ponyta,32,walking
+2,Route 27,,Quagsire,28-30,walking
+2,Route 27,,Raticate,30,walking
+2,Route 27,,Shellder,40,super_rod
+2,Route 27,,Shellder,20,good_rod
+2,Route 27,,Tentacool,15-24,surf
+2,Route 27,,Tentacool,20,good_rod
+2,Route 27,,Tentacool,10,old_rod
+2,Route 27,,Tentacruel,20-24,surf
+2,Route 27,,Tentacruel,40,super_rod
+2,Route 28,,Arbok,42,walking
+2,Route 28,,Dodrio,43,walking
+2,Route 28,,Doduo,41,walking
+2,Route 28,,Golbat,40-42,walking
+2,Route 28,,Magikarp,40,super_rod
+2,Route 28,,Magikarp,20,good_rod
+2,Route 28,,Magikarp,10,old_rod
+2,Route 28,,Poliwag,35-44,surf
+2,Route 28,,Poliwag,40,super_rod
+2,Route 28,,Poliwag,20,good_rod
+2,Route 28,,Poliwag,10,old_rod
+2,Route 28,,Poliwhirl,40,walking
+2,Route 28,,Poliwhirl,40-44,surf
+2,Route 28,,Poliwhirl,40,super_rod
+2,Route 28,,Ponyta,40,walking
+2,Route 28,,Rapidash,40,walking
+2,Route 28,,Tangela,39,walking
+2,Route 29,,Exeggcute,10,headbutt
+2,Route 29,,Hoothoot,2-3,walking
+2,Route 29,,Hoothoot,10,headbutt
+2,Route 29,,Hoppip,3,walking
+2,Route 29,,Ledyba,10,headbutt
+2,Route 29,,Pidgey,2-3,walking
+2,Route 29,,Pineco,10,headbutt
+2,Route 29,,Rattata,2-3,walking
+2,Route 29,,Rattata,2,walking
+2,Route 29,,Sentret,2-3,walking
+2,Route 29,,Spinarak,10,headbutt
+2,Route 3,,Arbok,10,walking
+2,Route 3,,Clefairy,6,walking
+2,Route 3,,Ekans,8,walking
+2,Route 3,,Raticate,10,walking
+2,Route 3,,Rattata,5-10,walking
+2,Route 3,,Rattata,5,walking
+2,Route 3,,Sandshrew,10,walking
+2,Route 3,,Spearow,5,walking
+2,Route 3,,Zubat,6,walking
+2,Route 30,,Caterpie,3-4,walking
+2,Route 30,,Exeggcute,10,headbutt
+2,Route 30,,Hoothoot,3-4,walking
+2,Route 30,,Hoothoot,10,headbutt
+2,Route 30,,Hoppip,4,walking
+2,Route 30,,Ledyba,3,walking
+2,Route 30,,Ledyba,10,headbutt
+2,Route 30,,Magikarp,40,super_rod
+2,Route 30,,Magikarp,20,good_rod
+2,Route 30,,Magikarp,10,old_rod
+2,Route 30,,Marill,4,walking
+2,Route 30,,Pidgey,3-4,walking
+2,Route 30,,Pidgey,4,walking
+2,Route 30,,Pineco,10,headbutt
+2,Route 30,,Poliwag,4,walking
+2,Route 30,,Poliwag,15-24,surf
+2,Route 30,,Poliwag,40,super_rod
+2,Route 30,,Poliwag,20,good_rod
+2,Route 30,,Poliwag,10,old_rod
+2,Route 30,,Poliwhirl,20-24,surf
+2,Route 30,,Poliwhirl,40,super_rod
+2,Route 30,,Spinarak,3,walking
+2,Route 30,,Spinarak,10,headbutt
+2,Route 30,,Weedle,3,walking
+2,Route 30,,Zubat,3,walking
+2,Route 31,,Bellsprout,5,walking
+2,Route 31,,Caterpie,4,walking
+2,Route 31,,Exeggcute,10,headbutt
+2,Route 31,,Gastly,5,walking
+2,Route 31,,Hoothoot,5,walking
+2,Route 31,,Hoothoot,10,headbutt
+2,Route 31,,Hoppip,5,walking
+2,Route 31,,Ledyba,4,walking
+2,Route 31,,Ledyba,10,headbutt
+2,Route 31,,Magikarp,40,super_rod
+2,Route 31,,Magikarp,20,good_rod
+2,Route 31,,Magikarp,10,old_rod
+2,Route 31,,Pidgey,4-5,walking
+2,Route 31,,Pidgey,5,walking
+2,Route 31,,Pineco,10,headbutt
+2,Route 31,,Poliwag,4,walking
+2,Route 31,,Poliwag,15-24,surf
+2,Route 31,,Poliwag,40,super_rod
+2,Route 31,,Poliwag,20,good_rod
+2,Route 31,,Poliwag,10,old_rod
+2,Route 31,,Poliwhirl,20-24,surf
+2,Route 31,,Poliwhirl,40,super_rod
+2,Route 31,,Spinarak,4,walking
+2,Route 31,,Spinarak,10,headbutt
+2,Route 31,,Weedle,4,walking
+2,Route 31,,Zubat,4,walking
+2,Route 32,,Bellsprout,7,walking
+2,Route 32,,Ekans,4,walking
+2,Route 32,,Ekans,10,headbutt
+2,Route 32,,Exeggcute,10,headbutt
+2,Route 32,,Gastly,7,walking
+2,Route 32,,Hoothoot,7,walking
+2,Route 32,,Hoothoot,10,headbutt
+2,Route 32,,Hoppip,6-7,walking
+2,Route 32,,Magikarp,40,super_rod
+2,Route 32,,Magikarp,20,good_rod
+2,Route 32,,Magikarp,10,old_rod
+2,Route 32,,Pidgey,7,walking
+2,Route 32,,Pineco,10,headbutt
+2,Route 32,,Quagsire,20-24,surf
+2,Route 32,,Qwilfish,40,super_rod
+2,Route 32,,Rattata,5,walking
+2,Route 32,,Tentacool,15-19,surf
+2,Route 32,,Tentacool,40,super_rod
+2,Route 32,,Tentacool,20,good_rod
+2,Route 32,,Tentacool,10,old_rod
+2,Route 32,,Tentacruel,20-24,surf
+2,Route 32,,Wooper,4,walking
+2,Route 32,,Zubat,6,walking
+2,Route 33,,Aipom,10,headbutt
+2,Route 33,,Ekans,7,walking
+2,Route 33,,Ekans,10,headbutt
+2,Route 33,,Geodude,6,walking
+2,Route 33,,Heracross,10,headbutt
+2,Route 33,,Hoppip,6-7,walking
+2,Route 33,,Rattata,6,walking
+2,Route 33,,Rattata,7,walking
+2,Route 33,,Spearow,6,walking
+2,Route 33,,Spearow,10,headbutt
+2,Route 33,,Zubat,6,walking
+2,Route 34,,Abra,10,walking
+2,Route 34,,Cleffa,5,gift
+2,Route 34,,Corsola,40,super_rod
+2,Route 34,,Corsola,20,good_rod
+2,Route 34,,Ditto,10,walking
+2,Route 34,,Drowzee,12,walking
+2,Route 34,,Elekid,5,gift
+2,Route 34,,Exeggcute,10,headbutt
+2,Route 34,,Hoothoot,12,walking
+2,Route 34,,Hoothoot,10,headbutt
+2,Route 34,,Igglybuff,5,gift
+2,Route 34,,Jigglypuff,12,walking
+2,Route 34,,Kingler,40,super_rod
+2,Route 34,,Krabby,40,super_rod
+2,Route 34,,Krabby,20,good_rod
+2,Route 34,,Krabby,10,old_rod
+2,Route 34,,Ledyba,10,headbutt
+2,Route 34,,Magby,5,gift
+2,Route 34,,Magikarp,20,good_rod
+2,Route 34,,Magikarp,10,old_rod
+2,Route 34,,Pichu,5,gift
+2,Route 34,,Pidgey,12,walking
+2,Route 34,,Pineco,10,headbutt
+2,Route 34,,Rattata,11,walking
+2,Route 34,,Smoochum,5,gift
+2,Route 34,,Snubbull,10,walking
+2,Route 34,,Spinarak,10,headbutt
+2,Route 34,,Staryu,40,super_rod
+2,Route 34,,Staryu,20,good_rod
+2,Route 34,,Tentacool,15-24,surf
+2,Route 34,,Tentacruel,20-24,surf
+2,Route 34,,Tyrogue,5,gift
+2,Route 35,,Abra,10,walking
+2,Route 35,,Ditto,10,walking
+2,Route 35,,Drowzee,12,walking
+2,Route 35,,Exeggcute,10,headbutt
+2,Route 35,,Golduck,20-24,surf
+2,Route 35,,Growlithe,13,walking
+2,Route 35,,Hoothoot,14,walking
+2,Route 35,,Hoothoot,10,headbutt
+2,Route 35,,Jigglypuff,12,walking
+2,Route 35,,Ledyba,10,headbutt
+2,Route 35,,Magikarp,40,super_rod
+2,Route 35,,Magikarp,20,good_rod
+2,Route 35,,Magikarp,10,old_rod
+2,Route 35,,Pidgey,14,walking
+2,Route 35,,Pineco,10,headbutt
+2,Route 35,,Poliwag,40,super_rod
+2,Route 35,,Poliwag,20,good_rod
+2,Route 35,,Poliwag,10,old_rod
+2,Route 35,,Poliwhirl,40,super_rod
+2,Route 35,,Psyduck,13,walking
+2,Route 35,,Psyduck,15-24,surf
+2,Route 35,,Snubbull,12,walking
+2,Route 35,,Spearow,10,gift
+2,Route 35,,Spinarak,10,headbutt
+2,Route 35,,Yanma,12,walking
+2,Route 36,,Bellsprout,5,walking
+2,Route 36,,Exeggcute,10,headbutt
+2,Route 36,,Gastly,5,walking
+2,Route 36,,Growlithe,5,walking
+2,Route 36,,Hoothoot,4-5,walking
+2,Route 36,,Hoothoot,10,headbutt
+2,Route 36,,Ledyba,4,walking
+2,Route 36,,Ledyba,10,headbutt
+2,Route 36,,Pidgey,4-6,walking
+2,Route 36,,Pineco,10,headbutt
+2,Route 36,,Spinarak,4,walking
+2,Route 36,,Spinarak,10,headbutt
+2,Route 36,,Sudowoodo,20,interact
+2,Route 37,,Ariados,15,walking
+2,Route 37,,Exeggcute,10,headbutt
+2,Route 37,,Growlithe,16,walking
+2,Route 37,,Hoothoot,15,walking
+2,Route 37,,Hoothoot,10,headbutt
+2,Route 37,,Ledian,15,walking
+2,Route 37,,Ledyba,13,walking
+2,Route 37,,Ledyba,10,headbutt
+2,Route 37,,Noctowl,15,walking
+2,Route 37,,Pidgeotto,15,walking
+2,Route 37,,Pidgey,13-15,walking
+2,Route 37,,Pidgey,15,walking
+2,Route 37,,Pineco,10,headbutt
+2,Route 37,,Spinarak,13,walking
+2,Route 37,,Spinarak,10,headbutt
+2,Route 37,,Stantler,14-16,walking
+2,Route 38,,Exeggcute,10,headbutt
+2,Route 38,,Hoothoot,10,headbutt
+2,Route 38,,Ledyba,10,headbutt
+2,Route 38,,Magnemite,16,walking
+2,Route 38,,Meowth,16,walking
+2,Route 38,,Miltank,13,walking
+2,Route 38,,Noctowl,16,walking
+2,Route 38,,Pidgeotto,16,walking
+2,Route 38,,Pineco,10,headbutt
+2,Route 38,,Raticate,16,walking
+2,Route 38,,Rattata,16,walking
+2,Route 38,,Spinarak,10,headbutt
+2,Route 38,,Tauros,13,walking
+2,Route 39,,Exeggcute,10,headbutt
+2,Route 39,,Hoothoot,10,headbutt
+2,Route 39,,Ledyba,10,headbutt
+2,Route 39,,Magnemite,16,walking
+2,Route 39,,Meowth,16,walking
+2,Route 39,,Miltank,15,walking
+2,Route 39,,Noctowl,16,walking
+2,Route 39,,Pidgeotto,16,walking
+2,Route 39,,Pineco,10,headbutt
+2,Route 39,,Raticate,16,walking
+2,Route 39,,Rattata,16,walking
+2,Route 39,,Spinarak,10,headbutt
+2,Route 39,,Tauros,15,walking
+2,Route 4,,Arbok,10,walking
+2,Route 4,,Clefairy,6,walking
+2,Route 4,,Ekans,8,walking
+2,Route 4,,Goldeen,5-14,surf
+2,Route 4,,Raticate,10,walking
+2,Route 4,,Rattata,5-10,walking
+2,Route 4,,Rattata,5,walking
+2,Route 4,,Sandshrew,10,walking
+2,Route 4,,Seaking,10-14,surf
+2,Route 4,,Spearow,5,walking
+2,Route 4,,Zubat,6,walking
+2,Route 40,,Corsola,40,super_rod
+2,Route 40,,Corsola,20,good_rod
+2,Route 40,,Kingler,40,super_rod
+2,Route 40,,Krabby,40,super_rod
+2,Route 40,,Krabby,20,good_rod
+2,Route 40,,Krabby,10,old_rod
+2,Route 40,,Krabby,15,rock_smash
+2,Route 40,,Magikarp,20,good_rod
+2,Route 40,,Magikarp,10,old_rod
+2,Route 40,,Shuckle,15,rock_smash
+2,Route 40,,Staryu,40,super_rod
+2,Route 40,,Staryu,20,good_rod
+2,Route 40,,Tentacool,15-24,surf
+2,Route 40,,Tentacruel,20-24,surf
+2,Route 41,,Corsola,40,super_rod
+2,Route 41,,Corsola,20,good_rod
+2,Route 41,,Kingler,40,super_rod
+2,Route 41,,Krabby,40,super_rod
+2,Route 41,,Krabby,20,good_rod
+2,Route 41,,Krabby,10,old_rod
+2,Route 41,,Magikarp,20,good_rod
+2,Route 41,,Magikarp,10,old_rod
+2,Route 41,,Mantine,20-24,surf
+2,Route 41,,Staryu,40,super_rod
+2,Route 41,,Staryu,20,good_rod
+2,Route 41,,Tentacool,20-24,surf
+2,Route 41,,Tentacruel,20-24,surf
+2,Route 42,,Aipom,10,headbutt
+2,Route 42,,Arbok,15,walking
+2,Route 42,,Ekans,13,walking
+2,Route 42,,Ekans,10,headbutt
+2,Route 42,,Fearow,16,walking
+2,Route 42,,Golbat,16,walking
+2,Route 42,,Goldeen,15-24,surf
+2,Route 42,,Goldeen,40,super_rod
+2,Route 42,,Goldeen,20,good_rod
+2,Route 42,,Goldeen,10,old_rod
+2,Route 42,,Heracross,10,headbutt
+2,Route 42,,Magikarp,40,super_rod
+2,Route 42,,Magikarp,20,good_rod
+2,Route 42,,Magikarp,10,old_rod
+2,Route 42,,Marill,15,walking
+2,Route 42,,Raticate,6-16,walking
+2,Route 42,,Raticate,15,walking
+2,Route 42,,Rattata,13,walking
+2,Route 42,,Rattata,15,walking
+2,Route 42,,Seaking,20-24,surf
+2,Route 42,,Seaking,40,super_rod
+2,Route 42,,Spearow,14,walking
+2,Route 42,,Spearow,10,headbutt
+2,Route 42,,Zubat,14,walking
+2,Route 43,,Exeggcute,10,headbutt
+2,Route 43,,Farfetch'd,16,walking
+2,Route 43,,Furret,15-17,walking
+2,Route 43,,Hoothoot,10,headbutt
+2,Route 43,,Magikarp,15-24,surf
+2,Route 43,,Noctowl,16,walking
+2,Route 43,,Pidgeotto,16,walking
+2,Route 43,,Pineco,10,headbutt
+2,Route 43,,Raticate,16-17,walking
+2,Route 43,,Raticate,17,walking
+2,Route 43,,Sentret,15,walking
+2,Route 43,,Venomoth,17,walking
+2,Route 43,,Venonat,15-17,walking
+2,Route 43,,Venonat,10,headbutt
+2,Route 44,,Aipom,10,headbutt
+2,Route 44,,Bellsprout,22,walking
+2,Route 44,,Heracross,10,headbutt
+2,Route 44,,Lickitung,22-26,walking
+2,Route 44,,Magikarp,40,super_rod
+2,Route 44,,Magikarp,20,good_rod
+2,Route 44,,Magikarp,10,old_rod
+2,Route 44,,Poliwag,22,walking
+2,Route 44,,Poliwag,15-24,surf
+2,Route 44,,Poliwag,40,super_rod
+2,Route 44,,Poliwag,20,good_rod
+2,Route 44,,Poliwag,10,old_rod
+2,Route 44,,Poliwhirl,24-26,walking
+2,Route 44,,Poliwhirl,20-24,surf
+2,Route 44,,Spearow,10,headbutt
+2,Route 44,,Tangela,23,walking
+2,Route 44,,Weepinbell,24,walking
+2,Route 45,,Donphan,25,walking
+2,Route 45,,Dragonair,40,super_rod
+2,Route 45,,Dratini,40,super_rod
+2,Route 45,,Dratini,20,good_rod
+2,Route 45,,Geodude,23,walking
+2,Route 45,,Gligar,24,walking
+2,Route 45,,Graveler,23-27,walking
+2,Route 45,,Graveler,23,walking
+2,Route 45,,Magikarp,15-24,surf
+2,Route 45,,Magikarp,40,super_rod
+2,Route 45,,Magikarp,20,good_rod
+2,Route 45,,Magikarp,10,old_rod
+2,Route 45,,Phanpy,20,walking
+2,Route 45,,Skarmory,27,walking
+2,Route 46,,Geodude,2-3,walking
+2,Route 46,,Phanpy,2,walking
+2,Route 46,,Rattata,2-3,walking
+2,Route 46,,Spearow,2,walking
+2,Route 5,,Abra,12-14,walking
+2,Route 5,,Granbull,13,walking
+2,Route 5,,Hoothoot,13,walking
+2,Route 5,,Jigglypuff,14,walking
+2,Route 5,,Meowth,13,walking
+2,Route 5,,Noctowl,15,walking
+2,Route 5,,Pidgeotto,15,walking
+2,Route 5,,Pidgey,13,walking
+2,Route 6,,Drowzee,13,walking
+2,Route 6,,Golduck,10-14,surf
+2,Route 6,,Granbull,15,walking
+2,Route 6,,Jigglypuff,12,walking
+2,Route 6,,Magikarp,40,super_rod
+2,Route 6,,Magikarp,20,good_rod
+2,Route 6,,Magikarp,10,old_rod
+2,Route 6,,Magnemite,14,walking
+2,Route 6,,Meowth,13,walking
+2,Route 6,,Poliwag,40,super_rod
+2,Route 6,,Poliwag,20,good_rod
+2,Route 6,,Poliwag,10,old_rod
+2,Route 6,,Poliwhirl,40,super_rod
+2,Route 6,,Psyduck,15,walking
+2,Route 6,,Psyduck,5-14,surf
+2,Route 6,,Raticate,15,walking
+2,Route 6,,Rattata,13,walking
+2,Route 6,,Snubbull,13,walking
+2,Route 7,,Abra,16,walking
+2,Route 7,,Houndour,18,walking
+2,Route 7,,Jigglypuff,18,walking
+2,Route 7,,Meowth,17,walking
+2,Route 7,,Murkrow,17,walking
+2,Route 7,,Persian,18,walking
+2,Route 7,,Raticate,18,walking
+2,Route 7,,Rattata,17,walking
+2,Route 7,,Snubbull,18,walking
+2,Route 7,,Spearow,17,walking
+2,Route 8,,Abra,16,walking
+2,Route 8,,Growlithe,17,walking
+2,Route 8,,Haunter,17,walking
+2,Route 8,,Jigglypuff,16,walking
+2,Route 8,,Kadabra,18,walking
+2,Route 8,,Meowth,17,walking
+2,Route 8,,Noctowl,20,walking
+2,Route 8,,Pidgeotto,19,walking
+2,Route 8,,Snubbull,17,walking
+2,Route 9,,Fearow,15,walking
+2,Route 9,,Goldeen,10-19,surf
+2,Route 9,,Goldeen,40,super_rod
+2,Route 9,,Goldeen,20,good_rod
+2,Route 9,,Goldeen,10,old_rod
+2,Route 9,,Magikarp,40,super_rod
+2,Route 9,,Magikarp,20,good_rod
+2,Route 9,,Magikarp,10,old_rod
+2,Route 9,,Marowak,18,walking
+2,Route 9,,Raticate,15-18,walking
+2,Route 9,,Raticate,15,walking
+2,Route 9,,Rattata,15,walking
+2,Route 9,,Seaking,15-19,surf
+2,Route 9,,Seaking,40,super_rod
+2,Route 9,,Spearow,15,walking
+2,Route 9,,Venomoth,15,walking
+2,Route 9,,Venonat,15,walking
+2,Route 9,,Zubat,15,walking
+2,Ruins of Alph,Outside,Magikarp,40,super_rod
+2,Ruins of Alph,Outside,Magikarp,20,good_rod
+2,Ruins of Alph,Outside,Magikarp,10,old_rod
+2,Ruins of Alph,Outside,Natu,18-24,walking
+2,Ruins of Alph,Outside,Poliwag,40,super_rod
+2,Ruins of Alph,Outside,Poliwag,20,good_rod
+2,Ruins of Alph,Outside,Poliwag,10,old_rod
+2,Ruins of Alph,Outside,Poliwhirl,40,super_rod
+2,Ruins of Alph,Outside,Quagsire,22,walking
+2,Ruins of Alph,Outside,Quagsire,15-24,surf
+2,Ruins of Alph,Outside,Smeargle,20-22,walking
+2,Ruins of Alph,Inside,Unown,5,walking
+2,Ruins of Alph,Outside,Wooper,22,walking
+2,Ruins of Alph,Outside,Wooper,15-19,surf
+2,Slowpoke Well,B1F,Golbat,23,walking
+2,Slowpoke Well,1F,Goldeen,40,super_rod
+2,Slowpoke Well,1F,Goldeen,20,good_rod
+2,Slowpoke Well,1F,Goldeen,10,old_rod
+2,Slowpoke Well,B1F,Goldeen,40,super_rod
+2,Slowpoke Well,B1F,Goldeen,20,good_rod
+2,Slowpoke Well,B1F,Goldeen,10,old_rod
+2,Slowpoke Well,1F,Magikarp,40,super_rod
+2,Slowpoke Well,1F,Magikarp,20,good_rod
+2,Slowpoke Well,1F,Magikarp,10,old_rod
+2,Slowpoke Well,B1F,Magikarp,40,super_rod
+2,Slowpoke Well,B1F,Magikarp,20,good_rod
+2,Slowpoke Well,B1F,Magikarp,10,old_rod
+2,Slowpoke Well,1F,Seaking,40,super_rod
+2,Slowpoke Well,B1F,Seaking,40,super_rod
+2,Slowpoke Well,B1F,Slowbro,20-24,surf
+2,Slowpoke Well,1F,Slowpoke,6-8,walking
+2,Slowpoke Well,1F,Slowpoke,10-24,surf
+2,Slowpoke Well,B1F,Slowpoke,21-23,walking
+2,Slowpoke Well,B1F,Slowpoke,15-24,surf
+2,Slowpoke Well,1F,Zubat,5-8,walking
+2,Slowpoke Well,B1F,Zubat,19-23,walking
+2,Sprout Tower,,Gastly,3-6,walking
+2,Sprout Tower,,Rattata,3-6,walking
+2,Sprout Tower,,Rattata,3-5,walking
+2,Team Rocket HQ,B2F,Electrode,23,interact
+2,Team Rocket HQ,B1F,Geodude,21,interact
+2,Team Rocket HQ,B1F,Koffing,21,interact
+2,Team Rocket HQ,B1F,Voltorb,23,interact
+2,Tin Tower,2F-9F,Gastly,20-22,walking
+2,Tin Tower,Summit,Ho-oh,60,interact
+2,Tin Tower,2F-9F,Rattata,20-24,walking
+2,Tin Tower,2F-9F,Rattata,22-24,walking
+2,Tin Tower,Summit,Suicune,40,interact
+2,Tohjo Falls,,Golbat,24,walking
+2,Tohjo Falls,,Goldeen,20-24,surf
+2,Tohjo Falls,,Raticate,22,walking
+2,Tohjo Falls,,Rattata,20,walking
+2,Tohjo Falls,,Seaking,20-24,surf
+2,Tohjo Falls,,Slowpoke,21-23,walking
+2,Tohjo Falls,,Slowpoke,20-24,surf
+2,Tohjo Falls,,Zubat,22,walking
+2,Union Cave,B2F,Corsola,40,super_rod
+2,Union Cave,B2F,Corsola,20,good_rod
+2,Union Cave,1F,Geodude,6,walking
+2,Union Cave,B1F,Geodude,8,walking
+2,Union Cave,B2F,Geodude,20,walking
+2,Union Cave,B2F,Golbat,22,walking
+2,Union Cave,1F,Goldeen,40,super_rod
+2,Union Cave,1F,Goldeen,20,good_rod
+2,Union Cave,1F,Goldeen,10,old_rod
+2,Union Cave,B1F,Goldeen,40,super_rod
+2,Union Cave,B1F,Goldeen,20,good_rod
+2,Union Cave,B1F,Goldeen,10,old_rod
+2,Union Cave,B2F,Kingler,40,super_rod
+2,Union Cave,B2F,Krabby,40,super_rod
+2,Union Cave,B2F,Krabby,20,good_rod
+2,Union Cave,B2F,Krabby,10,old_rod
+2,Union Cave,B2F,Lapras,20,interact
+2,Union Cave,1F,Magikarp,40,super_rod
+2,Union Cave,1F,Magikarp,20,good_rod
+2,Union Cave,1F,Magikarp,10,old_rod
+2,Union Cave,B1F,Magikarp,40,super_rod
+2,Union Cave,B1F,Magikarp,20,good_rod
+2,Union Cave,B1F,Magikarp,10,old_rod
+2,Union Cave,B2F,Magikarp,20,good_rod
+2,Union Cave,B2F,Magikarp,10,old_rod
+2,Union Cave,1F,Onix,6,walking
+2,Union Cave,B1F,Onix,8,walking
+2,Union Cave,B2F,Onix,23,walking
+2,Union Cave,1F,Quagsire,15-24,surf
+2,Union Cave,B1F,Quagsire,15-24,surf
+2,Union Cave,B2F,Quagsire,22,walking
+2,Union Cave,B2F,Quagsire,20-24,surf
+2,Union Cave,B2F,Raticate,21,walking
+2,Union Cave,1F,Rattata,4-6,walking
+2,Union Cave,1F,Rattata,4,walking
+2,Union Cave,B1F,Rattata,6-8,walking
+2,Union Cave,1F,Sandshrew,6,walking
+2,Union Cave,1F,Seaking,40,super_rod
+2,Union Cave,B1F,Seaking,40,super_rod
+2,Union Cave,B2F,Staryu,40,super_rod
+2,Union Cave,B2F,Staryu,20,good_rod
+2,Union Cave,B2F,Tentacool,15-19,surf
+2,Union Cave,B2F,Tentacruel,20-24,surf
+2,Union Cave,1F,Wooper,5,walking
+2,Union Cave,1F,Wooper,15-19,surf
+2,Union Cave,B1F,Wooper,8,walking
+2,Union Cave,B1F,Wooper,15-19,surf
+2,Union Cave,1F,Zubat,5-7,walking
+2,Union Cave,1F,Zubat,7,walking
+2,Union Cave,B1F,Zubat,6-8,walking
+2,Union Cave,B1F,Zubat,6,walking
+2,Union Cave,B2F,Zubat,22,walking
+2,Vermilion City,City,Chinchou,40,super_rod
+2,Vermilion City,City,Chinchou,20,good_rod
+2,Vermilion City,Harbor,Chinchou,40,super_rod
+2,Vermilion City,Harbor,Chinchou,20,good_rod
+2,Vermilion City,City,Lanturn,40,super_rod
+2,Vermilion City,Harbor,Lanturn,40,super_rod
+2,Vermilion City,City,Magikarp,20,good_rod
+2,Vermilion City,City,Magikarp,10,old_rod
+2,Vermilion City,Harbor,Magikarp,20,good_rod
+2,Vermilion City,Harbor,Magikarp,10,old_rod
+2,Vermilion City,City,Shellder,40,super_rod
+2,Vermilion City,City,Shellder,20,good_rod
+2,Vermilion City,Harbor,Shellder,40,super_rod
+2,Vermilion City,Harbor,Shellder,20,good_rod
+2,Vermilion City,City,Snorlax,50,interact
+2,Vermilion City,City,Tentacool,30-39,surf
+2,Vermilion City,City,Tentacool,20,good_rod
+2,Vermilion City,City,Tentacool,10,old_rod
+2,Vermilion City,Harbor,Tentacool,30-39,surf
+2,Vermilion City,Harbor,Tentacool,20,good_rod
+2,Vermilion City,Harbor,Tentacool,10,old_rod
+2,Vermilion City,City,Tentacruel,35-39,surf
+2,Vermilion City,City,Tentacruel,40,super_rod
+2,Vermilion City,Harbor,Tentacruel,35-39,surf
+2,Vermilion City,Harbor,Tentacruel,40,super_rod
+2,Victory Road,1F,Golbat,34,walking
+2,Victory Road,1F,Graveler,34,walking
+2,Victory Road,1F,Onix,32,walking
+2,Victory Road,1F,Onix,33,walking
+2,Victory Road,1F,Rhydon,35,walking
+2,Victory Road,1F,Rhyhorn,32,walking
+2,Victory Road,1F,Sandslash,35,walking
+2,Violet City,,Magikarp,40,super_rod
+2,Violet City,,Magikarp,20,good_rod
+2,Violet City,,Magikarp,10,old_rod
+2,Violet City,,Onix,—,trade
+2,Violet City,,Poliwag,15-24,surf
+2,Violet City,,Poliwag,40,super_rod
+2,Violet City,,Poliwag,20,good_rod
+2,Violet City,,Poliwag,10,old_rod
+2,Violet City,,Poliwhirl,20-24,surf
+2,Violet City,,Poliwhirl,40,super_rod
+2,Violet City,,Togepi,5,gift
+2,Viridian City,,Magikarp,40,super_rod
+2,Viridian City,,Magikarp,20,good_rod
+2,Viridian City,,Magikarp,10,old_rod
+2,Viridian City,,Poliwag,5-14,surf
+2,Viridian City,,Poliwag,40,super_rod
+2,Viridian City,,Poliwag,20,good_rod
+2,Viridian City,,Poliwag,10,old_rod
+2,Viridian City,,Poliwhirl,10-14,surf
+2,Viridian City,,Poliwhirl,40,super_rod
+2,Whirl Islands,1F,Golbat,24-25,walking
+2,Whirl Islands,1F,Golbat,25,walking
+2,Whirl Islands,B1F,Golbat,25-26,walking
+2,Whirl Islands,B1F,Golbat,26,walking
+2,Whirl Islands,B2F,Golbat,26-27,walking
+2,Whirl Islands,B2F,Golbat,27,walking
+2,Whirl Islands,B2F Inner Cave,Golbat,27-28,walking
+2,Whirl Islands,B2F Inner Cave,Golbat,28,walking
+2,Whirl Islands,1F,Horsea,15-19,surf
+2,Whirl Islands,1F,Horsea,40,super_rod
+2,Whirl Islands,1F,Horsea,20,good_rod
+2,Whirl Islands,B2F,Horsea,15-24,surf
+2,Whirl Islands,B2F,Horsea,40,super_rod
+2,Whirl Islands,B2F,Horsea,20,good_rod
+2,Whirl Islands,B2F Inner Cave,Horsea,15-24,surf
+2,Whirl Islands,B2F Inner Cave,Horsea,40,super_rod
+2,Whirl Islands,B2F Inner Cave,Horsea,20,good_rod
+2,Whirl Islands,1F,Kingler,40,super_rod
+2,Whirl Islands,B2F,Kingler,40,super_rod
+2,Whirl Islands,B2F Inner Cave,Kingler,40,super_rod
+2,Whirl Islands,1F,Krabby,22-24,walking
+2,Whirl Islands,1F,Krabby,40,super_rod
+2,Whirl Islands,1F,Krabby,20,good_rod
+2,Whirl Islands,1F,Krabby,10,old_rod
+2,Whirl Islands,B1F,Krabby,23-25,walking
+2,Whirl Islands,B2F,Krabby,24-26,walking
+2,Whirl Islands,B2F,Krabby,40,super_rod
+2,Whirl Islands,B2F,Krabby,20,good_rod
+2,Whirl Islands,B2F,Krabby,10,old_rod
+2,Whirl Islands,B2F Inner Cave,Krabby,25-27,walking
+2,Whirl Islands,B2F Inner Cave,Krabby,40,super_rod
+2,Whirl Islands,B2F Inner Cave,Krabby,20,good_rod
+2,Whirl Islands,B2F Inner Cave,Krabby,10,old_rod
+2,Whirl Islands,B2F Inner Cave,Lugia,60,interact
+2,Whirl Islands,1F,Magikarp,20,good_rod
+2,Whirl Islands,1F,Magikarp,10,old_rod
+2,Whirl Islands,B2F,Magikarp,20,good_rod
+2,Whirl Islands,B2F,Magikarp,10,old_rod
+2,Whirl Islands,B2F Inner Cave,Magikarp,20,good_rod
+2,Whirl Islands,B2F Inner Cave,Magikarp,10,old_rod
+2,Whirl Islands,1F,Seadra,40,super_rod
+2,Whirl Islands,B2F,Seadra,40,super_rod
+2,Whirl Islands,B2F Inner Cave,Seadra,20-24,surf
+2,Whirl Islands,B2F Inner Cave,Seadra,40,super_rod
+2,Whirl Islands,1F,Seel,22-24,walking
+2,Whirl Islands,B1F,Seel,23-25,walking
+2,Whirl Islands,B2F,Seel,24-26,walking
+2,Whirl Islands,B2F Inner Cave,Seel,25-27,walking
+2,Whirl Islands,1F,Tentacool,20-24,surf
+2,Whirl Islands,B2F,Tentacool,20-24,surf
+2,Whirl Islands,1F,Tentacruel,20-24,surf
+2,Whirl Islands,B2F Inner Cave,Tentacruel,20-28,surf
+2,Whirl Islands,1F,Zubat,23,walking
+2,Whirl Islands,B1F,Zubat,24,walking
+2,Whirl Islands,B2F,Zubat,25,walking
+2,Whirl Islands,B2F Inner Cave,Zubat,26,walking
+3,Abandoned Ship,B1F,Magikarp,10-30,good_rod
+3,Abandoned Ship,B1F,Magikarp,5-10,old_rod
+3,Abandoned Ship,B2F,Magikarp,10-30,good_rod
+3,Abandoned Ship,B2F,Magikarp,5-10,old_rod
+3,Abandoned Ship,B1F,Tentacool,5-35,surf
+3,Abandoned Ship,B1F,Tentacool,25-35,super_rod
+3,Abandoned Ship,B1F,Tentacool,10-30,good_rod
+3,Abandoned Ship,B1F,Tentacool,5-10,old_rod
+3,Abandoned Ship,B2F,Tentacool,5-35,surf
+3,Abandoned Ship,B2F,Tentacool,25-35,super_rod
+3,Abandoned Ship,B2F,Tentacool,10-30,good_rod
+3,Abandoned Ship,B2F,Tentacool,5-10,old_rod
+3,Abandoned Ship,B1F,Tentacruel,30-35,surf
+3,Abandoned Ship,B1F,Tentacruel,20-35,super_rod
+3,Abandoned Ship,B2F,Tentacruel,30-35,surf
+3,Abandoned Ship,B2F,Tentacruel,20-35,super_rod
+3,Altering Cave,,Aipom,18-28,walking
+3,Altering Cave,,Houndour,12-20,walking
+3,Altering Cave,,Mareep,3-13,walking
+3,Altering Cave,,Pineco,19-29,walking
+3,Altering Cave,,Shuckle,18-28,walking
+3,Altering Cave,,Smeargle,18-28,walking
+3,Altering Cave,,Stantler,18-28,walking
+3,Altering Cave,,Teddiursa,18-28,walking
+3,Altering Cave,,Zubat,6-16,walking
+3,Artisan Cave,,Smeargle,40-50,walking
+3,Battle Tower,,Meowth,—,trade
+3,Birth Island,,Deoxys,30,interact
+3,Cave of Origin,Entrance,Golbat,33-36,walking
+3,Cave of Origin,Inside,Golbat,33-36,walking
+3,Cave of Origin,Inside,Sableye,30-34,walking
+3,Cave of Origin,Entrance,Zubat,28-35,walking
+3,Cave of Origin,Inside,Zubat,30-34,walking
+3,Desert Underpass,,Ditto,38-45,walking
+3,Desert Underpass,,Loudred,38-44,walking
+3,Desert Underpass,,Whismur,35-38,walking
+3,Dewford Town,,Magikarp,10-30,good_rod
+3,Dewford Town,,Magikarp,5-10,old_rod
+3,Dewford Town,,Tentacool,10-30,good_rod
+3,Dewford Town,,Tentacool,5-10,old_rod
+3,Dewford Town,,Wailmer,20-45,super_rod
+3,Dewford Town,,Wailmer,10-30,good_rod
+3,Ever Grande City,,Corsola,30-35,super_rod
+3,Ever Grande City,,Luvdisc,30-35,super_rod
+3,Ever Grande City,,Luvdisc,10-30,good_rod
+3,Ever Grande City,,Magikarp,10-30,good_rod
+3,Ever Grande City,,Magikarp,5-10,old_rod
+3,Ever Grande City,,Pelipper,25-30,surf
+3,Ever Grande City,,Tentacool,5-35,surf
+3,Ever Grande City,,Tentacool,5-10,old_rod
+3,Ever Grande City,,Wailmer,30-35,super_rod
+3,Ever Grande City,,Wailmer,10-30,good_rod
+3,Ever Grande City,,Wingull,10-30,surf
+3,Faraway Island,Forest,Mew,30,interact
+3,Fiery Path,,Grimer,14,walking
+3,Fiery Path,,Koffing,15-16,walking
+3,Fiery Path,,Machop,15-16,walking
+3,Fiery Path,,Numel,15-16,walking
+3,Fiery Path,,Slugma,15,walking
+3,Fiery Path,,Torkoal,14-16,walking
+3,Granite Cave,1F,Abra,8,walking
+3,Granite Cave,1F Room 2,Abra,8,walking
+3,Granite Cave,B1F,Abra,9,walking
+3,Granite Cave,B2F,Abra,10,walking
+3,Granite Cave,1F Room 2,Aron,7-8,walking
+3,Granite Cave,B1F,Aron,9-11,walking
+3,Granite Cave,B2F,Aron,10-12,walking
+3,Granite Cave,1F,Geodude,6-9,walking
+3,Granite Cave,B2F,Geodude,5-20,rock_smash
+3,Granite Cave,1F,Makuhita,6-10,walking
+3,Granite Cave,1F Room 2,Makuhita,6-10,walking
+3,Granite Cave,B1F,Makuhita,10-11,walking
+3,Granite Cave,B2F,Nosepass,10-20,rock_smash
+3,Granite Cave,B1F,Sableye,9-11,walking
+3,Granite Cave,B2F,Sableye,10-12,walking
+3,Granite Cave,1F,Zubat,7-8,walking
+3,Granite Cave,1F Room 2,Zubat,7-8,walking
+3,Granite Cave,B1F,Zubat,9-10,walking
+3,Granite Cave,B2F,Zubat,10-11,walking
+3,Jagged Pass,,Machop,20-22,walking
+3,Jagged Pass,,Numel,20-22,walking
+3,Jagged Pass,,Spoink,20-22,walking
+3,Lilycove City,,Magikarp,10-30,good_rod
+3,Lilycove City,,Magikarp,5-10,old_rod
+3,Lilycove City,,Pelipper,25-30,surf
+3,Lilycove City,,Staryu,25-30,super_rod
+3,Lilycove City,,Tentacool,5-35,surf
+3,Lilycove City,,Tentacool,10-30,good_rod
+3,Lilycove City,,Tentacool,5-10,old_rod
+3,Lilycove City,,Wailmer,25-45,super_rod
+3,Lilycove City,,Wailmer,10-30,good_rod
+3,Lilycove City,,Wingull,10-30,surf
+3,Littleroot Town,,Chikorita,5,gift
+3,Littleroot Town,,Cyndaquil,5,gift
+3,Littleroot Town,,Totodile,5,gift
+3,Marine Cave,Room 2,Kyogre,70,interact
+3,Meteor Falls,B1F Room 2,Bagon,25-35,walking
+3,Meteor Falls,1F Room 1,Barboach,20-45,super_rod
+3,Meteor Falls,1F Room 1,Barboach,10-30,good_rod
+3,Meteor Falls,1F Room 2,Barboach,25-35,super_rod
+3,Meteor Falls,1F Room 2,Barboach,10-30,good_rod
+3,Meteor Falls,B1F Room 1,Barboach,25-35,super_rod
+3,Meteor Falls,B1F Room 1,Barboach,10-30,good_rod
+3,Meteor Falls,B1F Room 2,Barboach,25-35,super_rod
+3,Meteor Falls,B1F Room 2,Barboach,10-30,good_rod
+3,Meteor Falls,1F Room 1,Golbat,5-35,surf
+3,Meteor Falls,1F Room 2,Golbat,33-40,walking
+3,Meteor Falls,1F Room 2,Golbat,5-35,surf
+3,Meteor Falls,1F Room 3,Golbat,33-40,walking
+3,Meteor Falls,B1F Room 1,Golbat,33-40,walking
+3,Meteor Falls,B1F Room 1,Golbat,5-35,surf
+3,Meteor Falls,B1F Room 2,Golbat,33-40,walking
+3,Meteor Falls,B1F Room 2,Golbat,5-35,surf
+3,Meteor Falls,1F Room 1,Goldeen,10-30,good_rod
+3,Meteor Falls,1F Room 1,Goldeen,5-10,old_rod
+3,Meteor Falls,1F Room 2,Goldeen,10-30,good_rod
+3,Meteor Falls,1F Room 2,Goldeen,5-10,old_rod
+3,Meteor Falls,B1F Room 1,Goldeen,10-30,good_rod
+3,Meteor Falls,B1F Room 1,Goldeen,5-10,old_rod
+3,Meteor Falls,B1F Room 2,Goldeen,10-30,good_rod
+3,Meteor Falls,B1F Room 2,Goldeen,5-10,old_rod
+3,Meteor Falls,1F Room 1,Magikarp,10-30,good_rod
+3,Meteor Falls,1F Room 1,Magikarp,5-10,old_rod
+3,Meteor Falls,1F Room 2,Magikarp,10-30,good_rod
+3,Meteor Falls,1F Room 2,Magikarp,5-10,old_rod
+3,Meteor Falls,B1F Room 1,Magikarp,10-30,good_rod
+3,Meteor Falls,B1F Room 1,Magikarp,5-10,old_rod
+3,Meteor Falls,B1F Room 2,Magikarp,10-30,good_rod
+3,Meteor Falls,B1F Room 2,Magikarp,5-10,old_rod
+3,Meteor Falls,1F Room 1,Solrock,14-18,walking
+3,Meteor Falls,1F Room 1,Solrock,5-35,surf
+3,Meteor Falls,1F Room 2,Solrock,33-39,walking
+3,Meteor Falls,1F Room 2,Solrock,5-35,surf
+3,Meteor Falls,1F Room 3,Solrock,33-39,walking
+3,Meteor Falls,B1F Room 1,Solrock,33-39,walking
+3,Meteor Falls,B1F Room 1,Solrock,5-35,surf
+3,Meteor Falls,B1F Room 2,Solrock,35-39,walking
+3,Meteor Falls,B1F Room 2,Solrock,5-35,surf
+3,Meteor Falls,1F Room 2,Whiscash,30-45,super_rod
+3,Meteor Falls,B1F Room 1,Whiscash,30-45,super_rod
+3,Meteor Falls,B1F Room 2,Whiscash,30-45,super_rod
+3,Meteor Falls,1F Room 1,Zubat,14-20,walking
+3,Mirage Island,,Wynaut,5-50,walking
+3,Mirage Tower,1F,Sandshrew,20-24,walking
+3,Mirage Tower,2F,Sandshrew,20-24,walking
+3,Mirage Tower,3F,Sandshrew,20-24,walking
+3,Mirage Tower,4F,Sandshrew,20-24,walking
+3,Mirage Tower,1F,Trapinch,20-24,walking
+3,Mirage Tower,2F,Trapinch,20-24,walking
+3,Mirage Tower,3F,Trapinch,20-24,walking
+3,Mirage Tower,4F,Trapinch,20-24,walking
+3,Mossdeep City,Steven's house,Beldum,5,gift
+3,Mossdeep City,Main,Magikarp,10-30,good_rod
+3,Mossdeep City,Main,Magikarp,5-10,old_rod
+3,Mossdeep City,Main,Pelipper,25-30,surf
+3,Mossdeep City,Main,Sharpedo,30-35,super_rod
+3,Mossdeep City,Main,Tentacool,5-35,surf
+3,Mossdeep City,Main,Tentacool,10-30,good_rod
+3,Mossdeep City,Main,Tentacool,5-10,old_rod
+3,Mossdeep City,Main,Wailmer,25-45,super_rod
+3,Mossdeep City,Main,Wailmer,10-30,good_rod
+3,Mossdeep City,Main,Wingull,10-30,surf
+3,Mt. Pyre,Summit,Chimecho,28,walking
+3,Mt. Pyre,4F,Duskull,25-29,walking
+3,Mt. Pyre,5F,Duskull,25-29,walking
+3,Mt. Pyre,6F,Duskull,25-29,walking
+3,Mt. Pyre,Summit,Duskull,26-30,walking
+3,Mt. Pyre,1F,Shuppet,22-29,walking
+3,Mt. Pyre,2F,Shuppet,22-29,walking
+3,Mt. Pyre,3F,Shuppet,22-29,walking
+3,Mt. Pyre,4F,Shuppet,22-29,walking
+3,Mt. Pyre,5F,Shuppet,22-29,walking
+3,Mt. Pyre,6F,Shuppet,22-29,walking
+3,Mt. Pyre,Outside,Shuppet,27-29,walking
+3,Mt. Pyre,Summit,Shuppet,24-30,walking
+3,Mt. Pyre,Outside,Vulpix,25-29,walking
+3,Mt. Pyre,Outside,Wingull,26-28,walking
+3,New Mauville,Inside,Electrode,26,walking
+3,New Mauville,Entrance,Magnemite,22-26,walking
+3,New Mauville,Inside,Magnemite,22-26,walking
+3,New Mauville,Inside,Magneton,26,walking
+3,New Mauville,Entrance,Voltorb,22-26,walking
+3,New Mauville,Inside,Voltorb,22-26,walking
+3,Pacifidlog Town,,Horsea,—,trade
+3,Pacifidlog Town,,Magikarp,10-30,good_rod
+3,Pacifidlog Town,,Magikarp,5-10,old_rod
+3,Pacifidlog Town,,Pelipper,25-30,surf
+3,Pacifidlog Town,,Sharpedo,30-35,super_rod
+3,Pacifidlog Town,,Tentacool,5-35,surf
+3,Pacifidlog Town,,Tentacool,10-30,good_rod
+3,Pacifidlog Town,,Tentacool,5-10,old_rod
+3,Pacifidlog Town,,Wailmer,30-45,super_rod
+3,Pacifidlog Town,,Wailmer,10-30,good_rod
+3,Pacifidlog Town,,Wingull,10-30,surf
+3,Petalburg City,,Corphish,20-45,super_rod
+3,Petalburg City,,Corphish,10-30,good_rod
+3,Petalburg City,,Goldeen,10-30,good_rod
+3,Petalburg City,,Goldeen,5-10,old_rod
+3,Petalburg City,,Magikarp,10-30,good_rod
+3,Petalburg City,,Magikarp,5-10,old_rod
+3,Petalburg City,,Marill,5-35,surf
+3,Petalburg Woods,,Cascoon,5,walking
+3,Petalburg Woods,,Poochyena,5-6,walking
+3,Petalburg Woods,,Shroomish,5-6,walking
+3,Petalburg Woods,,Silcoon,5,walking
+3,Petalburg Woods,,Slakoth,5-6,walking
+3,Petalburg Woods,,Taillow,5-6,walking
+3,Petalburg Woods,,Wurmple,5-6,walking
+3,Roaming Hoenn,,Latias,40,walking
+3,Roaming Hoenn,,Latias,40,surf
+3,Roaming Hoenn,,Latios,40,walking
+3,Roaming Hoenn,,Latios,40,surf
+3,Route 101,,Mudkip,5,gift
+3,Route 101,,Poochyena,2-3,walking
+3,Route 101,,Torchic,5,gift
+3,Route 101,,Treecko,5,gift
+3,Route 101,,Wurmple,2-3,walking
+3,Route 101,,Zigzagoon,2-3,walking
+3,Route 102,,Corphish,20-45,super_rod
+3,Route 102,,Corphish,10-30,good_rod
+3,Route 102,,Goldeen,20-30,surf
+3,Route 102,,Goldeen,10-30,good_rod
+3,Route 102,,Goldeen,5-10,old_rod
+3,Route 102,,Lotad,3-4,walking
+3,Route 102,,Magikarp,10-30,good_rod
+3,Route 102,,Magikarp,5-10,old_rod
+3,Route 102,,Marill,5-35,surf
+3,Route 102,,Poochyena,3-4,walking
+3,Route 102,,Ralts,4,walking
+3,Route 102,,Seedot,3,walking
+3,Route 102,,Wurmple,3-4,walking
+3,Route 102,,Zigzagoon,3-4,walking
+3,Route 103,,Magikarp,10-30,good_rod
+3,Route 103,,Magikarp,5-10,old_rod
+3,Route 103,,Pelipper,25-30,surf
+3,Route 103,,Poochyena,2-4,walking
+3,Route 103,,Sharpedo,30-35,super_rod
+3,Route 103,,Tentacool,5-35,surf
+3,Route 103,,Tentacool,10-30,good_rod
+3,Route 103,,Tentacool,5-10,old_rod
+3,Route 103,,Wailmer,25-45,super_rod
+3,Route 103,,Wailmer,10-30,good_rod
+3,Route 103,,Wingull,2-4,walking
+3,Route 103,,Wingull,10-30,surf
+3,Route 103,,Zigzagoon,2-4,walking
+3,Route 104,Main,Magikarp,20-45,super_rod
+3,Route 104,Main,Magikarp,10-30,good_rod
+3,Route 104,Main,Magikarp,5-10,old_rod
+3,Route 104,Main,Marill,4-5,walking
+3,Route 104,Main,Pelipper,25-30,surf
+3,Route 104,Main,Poochyena,4-5,walking
+3,Route 104,Main,Taillow,4-5,walking
+3,Route 104,Main,Wingull,3-5,walking
+3,Route 104,Main,Wingull,10-30,surf
+3,Route 104,Main,Wurmple,4-5,walking
+3,Route 105,Outside,Magikarp,10-30,good_rod
+3,Route 105,Outside,Magikarp,5-10,old_rod
+3,Route 105,Outside,Pelipper,25-30,surf
+3,Route 105,Island Cave,Regice,40,interact
+3,Route 105,Outside,Tentacool,5-35,surf
+3,Route 105,Outside,Tentacool,10-30,good_rod
+3,Route 105,Outside,Tentacool,5-10,old_rod
+3,Route 105,Outside,Wailmer,20-45,super_rod
+3,Route 105,Outside,Wailmer,10-30,good_rod
+3,Route 105,Outside,Wingull,10-30,surf
+3,Route 106,,Magikarp,10-30,good_rod
+3,Route 106,,Magikarp,5-10,old_rod
+3,Route 106,,Pelipper,25-30,surf
+3,Route 106,,Tentacool,5-35,surf
+3,Route 106,,Tentacool,10-30,good_rod
+3,Route 106,,Tentacool,5-10,old_rod
+3,Route 106,,Wailmer,20-45,super_rod
+3,Route 106,,Wailmer,10-30,good_rod
+3,Route 106,,Wingull,10-30,surf
+3,Route 107,Main,Magikarp,10-30,good_rod
+3,Route 107,Main,Magikarp,5-10,old_rod
+3,Route 107,Main,Pelipper,25-30,surf
+3,Route 107,Main,Tentacool,5-35,surf
+3,Route 107,Main,Tentacool,10-30,good_rod
+3,Route 107,Main,Tentacool,5-10,old_rod
+3,Route 107,Main,Wailmer,20-45,super_rod
+3,Route 107,Main,Wailmer,10-30,good_rod
+3,Route 107,Main,Wingull,10-30,surf
+3,Route 108,,Magikarp,10-30,good_rod
+3,Route 108,,Magikarp,5-10,old_rod
+3,Route 108,,Pelipper,25-30,surf
+3,Route 108,,Tentacool,5-35,surf
+3,Route 108,,Tentacool,10-30,good_rod
+3,Route 108,,Tentacool,5-10,old_rod
+3,Route 108,,Wailmer,20-45,super_rod
+3,Route 108,,Wailmer,10-30,good_rod
+3,Route 108,,Wingull,10-30,surf
+3,Route 109,,Magikarp,10-30,good_rod
+3,Route 109,,Magikarp,5-10,old_rod
+3,Route 109,,Pelipper,25-30,surf
+3,Route 109,,Tentacool,5-35,surf
+3,Route 109,,Tentacool,10-30,good_rod
+3,Route 109,,Tentacool,5-10,old_rod
+3,Route 109,,Wailmer,20-45,super_rod
+3,Route 109,,Wailmer,10-30,good_rod
+3,Route 109,,Wingull,10-30,surf
+3,Route 110,,Electrike,12-13,walking
+3,Route 110,,Gulpin,12-13,walking
+3,Route 110,,Magikarp,10-30,good_rod
+3,Route 110,,Magikarp,5-10,old_rod
+3,Route 110,,Minun,13,walking
+3,Route 110,,Oddish,13,walking
+3,Route 110,,Pelipper,25-30,surf
+3,Route 110,,Plusle,12-13,walking
+3,Route 110,,Poochyena,12,walking
+3,Route 110,,Tentacool,5-35,surf
+3,Route 110,,Tentacool,10-30,good_rod
+3,Route 110,,Tentacool,5-10,old_rod
+3,Route 110,,Wailmer,20-45,super_rod
+3,Route 110,,Wailmer,10-30,good_rod
+3,Route 110,,Wingull,12,walking
+3,Route 110,,Wingull,10-30,surf
+3,Route 111,Desert,Baltoy,19-21,walking
+3,Route 111,South,Barboach,20-45,super_rod
+3,Route 111,South,Barboach,10-30,good_rod
+3,Route 111,Desert,Cacnea,20-22,walking
+3,Route 111,South,Geodude,5-20,rock_smash
+3,Route 111,South,Goldeen,20-30,surf
+3,Route 111,South,Goldeen,10-30,good_rod
+3,Route 111,South,Goldeen,5-10,old_rod
+3,Route 111,South,Magikarp,10-30,good_rod
+3,Route 111,South,Magikarp,5-10,old_rod
+3,Route 111,South,Marill,5-35,surf
+3,Route 111,Desert Ruins,Regirock,40,interact
+3,Route 111,Desert,Sandshrew,19-21,walking
+3,Route 111,Desert,Trapinch,19-21,walking
+3,Route 112,Main,Marill,14-16,walking
+3,Route 112,Main,Numel,14-16,walking
+3,Route 113,,Skarmory,16,walking
+3,Route 113,,Slugma,14-16,walking
+3,Route 113,,Spinda,14-16,walking
+3,Route 114,,Barboach,20-45,super_rod
+3,Route 114,,Barboach,10-30,good_rod
+3,Route 114,,Geodude,5-20,rock_smash
+3,Route 114,,Goldeen,20-30,surf
+3,Route 114,,Goldeen,10-30,good_rod
+3,Route 114,,Goldeen,5-10,old_rod
+3,Route 114,,Lombre,15-16,walking
+3,Route 114,,Lotad,15-16,walking
+3,Route 114,,Magikarp,10-30,good_rod
+3,Route 114,,Magikarp,5-10,old_rod
+3,Route 114,,Marill,5-35,surf
+3,Route 114,,Nuzleaf,15,walking
+3,Route 114,,Seviper,15-17,walking
+3,Route 114,,Swablu,15-17,walking
+3,Route 115,,Jigglypuff,24-25,walking
+3,Route 115,,Magikarp,10-30,good_rod
+3,Route 115,,Magikarp,5-10,old_rod
+3,Route 115,,Pelipper,25-30,surf
+3,Route 115,,Swablu,23-25,walking
+3,Route 115,,Swellow,25,walking
+3,Route 115,,Taillow,23-25,walking
+3,Route 115,,Tentacool,5-35,surf
+3,Route 115,,Tentacool,10-30,good_rod
+3,Route 115,,Tentacool,5-10,old_rod
+3,Route 115,,Wailmer,20-45,super_rod
+3,Route 115,,Wailmer,10-30,good_rod
+3,Route 115,,Wingull,24-26,walking
+3,Route 115,,Wingull,10-30,surf
+3,Route 116,,Abra,7,walking
+3,Route 116,,Nincada,6-7,walking
+3,Route 116,,Poochyena,6-8,walking
+3,Route 116,,Skitty,7-8,walking
+3,Route 116,,Taillow,6-8,walking
+3,Route 116,,Whismur,6,walking
+3,Route 117,,Corphish,20-45,super_rod
+3,Route 117,,Corphish,10-30,good_rod
+3,Route 117,,Goldeen,20-30,surf
+3,Route 117,,Goldeen,10-30,good_rod
+3,Route 117,,Goldeen,5-10,old_rod
+3,Route 117,,Illumise,13-14,walking
+3,Route 117,,Magikarp,10-30,good_rod
+3,Route 117,,Magikarp,5-10,old_rod
+3,Route 117,,Marill,13,walking
+3,Route 117,,Marill,5-35,surf
+3,Route 117,,Oddish,13-14,walking
+3,Route 117,,Poochyena,13-14,walking
+3,Route 117,,Seedot,13,walking
+3,Route 117,,Volbeat,13,walking
+3,Route 118,,Carvanha,20-45,super_rod
+3,Route 118,,Carvanha,10-30,good_rod
+3,Route 118,,Electrike,24-26,walking
+3,Route 118,,Goldeen,5-10,old_rod
+3,Route 118,,Kecleon,25,walking
+3,Route 118,,Linoone,26,walking
+3,Route 118,,Magikarp,10-30,good_rod
+3,Route 118,,Magikarp,5-10,old_rod
+3,Route 118,,Manectric,26,walking
+3,Route 118,,Pelipper,25-30,surf
+3,Route 118,,Sharpedo,30-35,super_rod
+3,Route 118,,Tentacool,5-35,surf
+3,Route 118,,Tentacool,10-30,good_rod
+3,Route 118,,Wingull,25-27,walking
+3,Route 118,,Wingull,10-30,surf
+3,Route 118,,Zigzagoon,24-26,walking
+3,Route 119,Main,Carvanha,20-45,super_rod
+3,Route 119,Main,Carvanha,10-30,good_rod
+3,Route 119,Weather Institute,Castform,25,gift
+3,Route 119,Main,Feebas,20-25,super_rod
+3,Route 119,Main,Feebas,20-25,good_rod
+3,Route 119,Main,Feebas,20-25,old_rod
+3,Route 119,Main,Goldeen,5-10,old_rod
+3,Route 119,Main,Kecleon,25,walking
+3,Route 119,Main,Kecleon,30,interact
+3,Route 119,Main,Linoone,25-27,walking
+3,Route 119,Main,Magikarp,10-30,good_rod
+3,Route 119,Main,Magikarp,5-10,old_rod
+3,Route 119,Main,Oddish,24-27,walking
+3,Route 119,Main,Pelipper,25-30,surf
+3,Route 119,Main,Tentacool,5-35,surf
+3,Route 119,Main,Tentacool,10-30,good_rod
+3,Route 119,Main,Tropius,25-27,walking
+3,Route 119,Main,Wingull,10-30,surf
+3,Route 119,Main,Zigzagoon,25-27,walking
+3,Route 120,Main,Absol,25-27,walking
+3,Route 120,Main,Barboach,20-45,super_rod
+3,Route 120,Main,Barboach,10-30,good_rod
+3,Route 120,Main,Goldeen,20-30,surf
+3,Route 120,Main,Goldeen,10-30,good_rod
+3,Route 120,Main,Goldeen,5-10,old_rod
+3,Route 120,Main,Kecleon,25,walking
+3,Route 120,Main,Kecleon,30,interact
+3,Route 120,Main,Magikarp,10-30,good_rod
+3,Route 120,Main,Magikarp,5-10,old_rod
+3,Route 120,Main,Marill,25-27,walking
+3,Route 120,Main,Marill,5-35,surf
+3,Route 120,Main,Mightyena,25-27,walking
+3,Route 120,Main,Oddish,25-27,walking
+3,Route 120,Main,Poochyena,25,walking
+3,Route 120,Ancient Tomb,Registeel,40,interact
+3,Route 120,Main,Seedot,25,walking
+3,Route 121,,Gloom,28,walking
+3,Route 121,,Kecleon,25,walking
+3,Route 121,,Magikarp,10-30,good_rod
+3,Route 121,,Magikarp,5-10,old_rod
+3,Route 121,,Mightyena,26-28,walking
+3,Route 121,,Oddish,26-28,walking
+3,Route 121,,Pelipper,25-30,surf
+3,Route 121,,Poochyena,26,walking
+3,Route 121,,Shuppet,26-28,walking
+3,Route 121,,Tentacool,5-35,surf
+3,Route 121,,Tentacool,10-30,good_rod
+3,Route 121,,Tentacool,5-10,old_rod
+3,Route 121,,Wailmer,20-45,super_rod
+3,Route 121,,Wailmer,10-30,good_rod
+3,Route 121,,Wingull,26-28,walking
+3,Route 121,,Wingull,10-30,surf
+3,Route 122,,Magikarp,10-30,good_rod
+3,Route 122,,Magikarp,5-10,old_rod
+3,Route 122,,Pelipper,25-30,surf
+3,Route 122,,Sharpedo,30-35,super_rod
+3,Route 122,,Tentacool,5-35,surf
+3,Route 122,,Tentacool,10-30,good_rod
+3,Route 122,,Tentacool,5-10,old_rod
+3,Route 122,,Wailmer,25-45,super_rod
+3,Route 122,,Wailmer,10-30,good_rod
+3,Route 122,,Wingull,10-30,surf
+3,Route 123,,Gloom,28,walking
+3,Route 123,,Kecleon,25,walking
+3,Route 123,,Magikarp,10-30,good_rod
+3,Route 123,,Magikarp,5-10,old_rod
+3,Route 123,,Mightyena,26-28,walking
+3,Route 123,,Oddish,26-28,walking
+3,Route 123,,Pelipper,25-30,surf
+3,Route 123,,Poochyena,26,walking
+3,Route 123,,Shuppet,26-28,walking
+3,Route 123,,Tentacool,5-35,surf
+3,Route 123,,Tentacool,10-30,good_rod
+3,Route 123,,Tentacool,5-10,old_rod
+3,Route 123,,Wailmer,20-45,super_rod
+3,Route 123,,Wailmer,10-30,good_rod
+3,Route 123,,Wingull,26-28,walking
+3,Route 123,,Wingull,10-30,surf
+3,Route 124,Underwater,Chinchou,20-30,surf
+3,Route 124,Underwater,Clamperl,20-35,surf
+3,Route 124,Main,Magikarp,10-30,good_rod
+3,Route 124,Main,Magikarp,5-10,old_rod
+3,Route 124,Main,Pelipper,25-30,surf
+3,Route 124,Underwater,Relicanth,30-35,surf
+3,Route 124,Main,Sharpedo,30-35,super_rod
+3,Route 124,Main,Tentacool,5-35,surf
+3,Route 124,Main,Tentacool,10-30,good_rod
+3,Route 124,Main,Tentacool,5-10,old_rod
+3,Route 124,Main,Wailmer,25-45,super_rod
+3,Route 124,Main,Wailmer,10-30,good_rod
+3,Route 124,Main,Wingull,10-30,surf
+3,Route 125,,Magikarp,10-30,good_rod
+3,Route 125,,Magikarp,5-10,old_rod
+3,Route 125,,Pelipper,25-30,surf
+3,Route 125,,Sharpedo,30-35,super_rod
+3,Route 125,,Tentacool,5-35,surf
+3,Route 125,,Tentacool,10-30,good_rod
+3,Route 125,,Tentacool,5-10,old_rod
+3,Route 125,,Wailmer,25-45,super_rod
+3,Route 125,,Wailmer,10-30,good_rod
+3,Route 125,,Wingull,10-30,surf
+3,Route 126,Underwater,Chinchou,20-30,surf
+3,Route 126,Underwater,Clamperl,20-35,surf
+3,Route 126,Main,Magikarp,10-30,good_rod
+3,Route 126,Main,Magikarp,5-10,old_rod
+3,Route 126,Main,Pelipper,25-30,surf
+3,Route 126,Underwater,Relicanth,30-35,surf
+3,Route 126,Main,Sharpedo,30-35,super_rod
+3,Route 126,Main,Tentacool,5-35,surf
+3,Route 126,Main,Tentacool,10-30,good_rod
+3,Route 126,Main,Tentacool,5-10,old_rod
+3,Route 126,Main,Wailmer,25-45,super_rod
+3,Route 126,Main,Wailmer,10-30,good_rod
+3,Route 126,Main,Wingull,10-30,surf
+3,Route 127,,Magikarp,10-30,good_rod
+3,Route 127,,Magikarp,5-10,old_rod
+3,Route 127,,Pelipper,25-30,surf
+3,Route 127,,Sharpedo,30-35,super_rod
+3,Route 127,,Tentacool,5-35,surf
+3,Route 127,,Tentacool,10-30,good_rod
+3,Route 127,,Tentacool,5-10,old_rod
+3,Route 127,,Wailmer,25-45,super_rod
+3,Route 127,,Wailmer,10-30,good_rod
+3,Route 127,,Wingull,10-30,surf
+3,Route 128,Main,Corsola,30-35,super_rod
+3,Route 128,Main,Luvdisc,30-35,super_rod
+3,Route 128,Main,Luvdisc,10-30,good_rod
+3,Route 128,Main,Magikarp,10-30,good_rod
+3,Route 128,Main,Magikarp,5-10,old_rod
+3,Route 128,Main,Pelipper,25-30,surf
+3,Route 128,Main,Tentacool,5-35,surf
+3,Route 128,Main,Tentacool,5-10,old_rod
+3,Route 128,Main,Wailmer,30-35,super_rod
+3,Route 128,Main,Wailmer,10-30,good_rod
+3,Route 128,Main,Wingull,10-30,surf
+3,Route 129,Main,Magikarp,10-30,good_rod
+3,Route 129,Main,Magikarp,5-10,old_rod
+3,Route 129,Main,Pelipper,25-30,surf
+3,Route 129,Main,Sharpedo,30-35,super_rod
+3,Route 129,Main,Tentacool,5-35,surf
+3,Route 129,Main,Tentacool,10-30,good_rod
+3,Route 129,Main,Tentacool,5-10,old_rod
+3,Route 129,Main,Wailmer,25-45,super_rod
+3,Route 129,Main,Wailmer,10-30,good_rod
+3,Route 129,Main,Wailord,25-30,surf
+3,Route 129,Main,Wingull,10-30,surf
+3,Route 130,Main,Magikarp,10-30,good_rod
+3,Route 130,Main,Magikarp,5-10,old_rod
+3,Route 130,Main,Pelipper,25-30,surf
+3,Route 130,Main,Sharpedo,30-35,super_rod
+3,Route 130,Main,Tentacool,5-35,surf
+3,Route 130,Main,Tentacool,10-30,good_rod
+3,Route 130,Main,Tentacool,5-10,old_rod
+3,Route 130,Main,Wailmer,25-45,super_rod
+3,Route 130,Main,Wailmer,10-30,good_rod
+3,Route 130,Main,Wingull,10-30,surf
+3,Route 131,,Magikarp,10-30,good_rod
+3,Route 131,,Magikarp,5-10,old_rod
+3,Route 131,,Pelipper,25-30,surf
+3,Route 131,,Sharpedo,30-35,super_rod
+3,Route 131,,Tentacool,5-35,surf
+3,Route 131,,Tentacool,10-30,good_rod
+3,Route 131,,Tentacool,5-10,old_rod
+3,Route 131,,Wailmer,25-45,super_rod
+3,Route 131,,Wailmer,10-30,good_rod
+3,Route 131,,Wingull,10-30,surf
+3,Route 132,,Horsea,25-30,super_rod
+3,Route 132,,Magikarp,10-30,good_rod
+3,Route 132,,Magikarp,5-10,old_rod
+3,Route 132,,Pelipper,25-30,surf
+3,Route 132,,Sharpedo,30-35,super_rod
+3,Route 132,,Tentacool,5-35,surf
+3,Route 132,,Tentacool,10-30,good_rod
+3,Route 132,,Tentacool,5-10,old_rod
+3,Route 132,,Wailmer,30-45,super_rod
+3,Route 132,,Wailmer,10-30,good_rod
+3,Route 132,,Wingull,10-30,surf
+3,Route 133,,Horsea,25-30,super_rod
+3,Route 133,,Magikarp,10-30,good_rod
+3,Route 133,,Magikarp,5-10,old_rod
+3,Route 133,,Pelipper,25-30,surf
+3,Route 133,,Sharpedo,30-35,super_rod
+3,Route 133,,Tentacool,5-35,surf
+3,Route 133,,Tentacool,10-30,good_rod
+3,Route 133,,Tentacool,5-10,old_rod
+3,Route 133,,Wailmer,30-45,super_rod
+3,Route 133,,Wailmer,10-30,good_rod
+3,Route 133,,Wingull,10-30,surf
+3,Route 134,,Horsea,25-30,super_rod
+3,Route 134,,Magikarp,10-30,good_rod
+3,Route 134,,Magikarp,5-10,old_rod
+3,Route 134,,Pelipper,25-30,surf
+3,Route 134,,Sharpedo,30-35,super_rod
+3,Route 134,,Tentacool,5-35,surf
+3,Route 134,,Tentacool,10-30,good_rod
+3,Route 134,,Tentacool,5-10,old_rod
+3,Route 134,,Wailmer,30-45,super_rod
+3,Route 134,,Wailmer,10-30,good_rod
+3,Route 134,,Wingull,10-30,surf
+3,Rustboro City,Devon Corporation,Anorith,20,gift
+3,Rustboro City,Devon Corporation,Lileep,20,gift
+3,Rustboro City,House,Seedot,—,trade
+3,Rusturf Tunnel,,Whismur,5-8,walking
+3,Safari Zone,North Extension,Aipom,33-35,walking
+3,Safari Zone,South Extension,Aipom,34,walking
+3,Safari Zone,Northwest,Dodrio,29-31,walking
+3,Safari Zone,Northwest,Doduo,27-29,walking
+3,Safari Zone,Southeast,Doduo,25,walking
+3,Safari Zone,Southwest,Doduo,25,walking
+3,Safari Zone,Northeast,Geodude,5-30,rock_smash
+3,Safari Zone,Southeast,Girafarig,25-27,walking
+3,Safari Zone,Southwest,Girafarig,25-27,walking
+3,Safari Zone,South Extension,Gligar,37-40,walking
+3,Safari Zone,Northeast,Gloom,29-31,walking
+3,Safari Zone,Northwest,Gloom,29-31,walking
+3,Safari Zone,Southeast,Gloom,25,walking
+3,Safari Zone,Southwest,Gloom,25,walking
+3,Safari Zone,Northwest,Goldeen,25-35,super_rod
+3,Safari Zone,Northwest,Goldeen,10-30,good_rod
+3,Safari Zone,Northwest,Goldeen,5-10,old_rod
+3,Safari Zone,South Extension,Goldeen,25-30,super_rod
+3,Safari Zone,South Extension,Goldeen,10-30,good_rod
+3,Safari Zone,South Extension,Goldeen,5-10,old_rod
+3,Safari Zone,Southwest,Goldeen,25-35,super_rod
+3,Safari Zone,Southwest,Goldeen,10-30,good_rod
+3,Safari Zone,Southwest,Goldeen,5-10,old_rod
+3,Safari Zone,Northwest,Golduck,25-40,surf
+3,Safari Zone,Northeast,Heracross,27-29,walking
+3,Safari Zone,North Extension,Hoothoot,35,walking
+3,Safari Zone,South Extension,Hoothoot,35,walking
+3,Safari Zone,North Extension,Houndour,36-39,walking
+3,Safari Zone,North Extension,Ledyba,33,walking
+3,Safari Zone,Northwest,Magikarp,10-30,good_rod
+3,Safari Zone,Northwest,Magikarp,5-10,old_rod
+3,Safari Zone,South Extension,Magikarp,10-30,good_rod
+3,Safari Zone,South Extension,Magikarp,5-10,old_rod
+3,Safari Zone,Southwest,Magikarp,10-30,good_rod
+3,Safari Zone,Southwest,Magikarp,5-10,old_rod
+3,Safari Zone,South Extension,Mareep,34-36,walking
+3,Safari Zone,South Extension,Marill,25-35,surf
+3,Safari Zone,North Extension,Miltank,37-40,walking
+3,Safari Zone,Northeast,Natu,27-29,walking
+3,Safari Zone,Southeast,Natu,25,walking
+3,Safari Zone,Southwest,Natu,25,walking
+3,Safari Zone,South Extension,Octillery,35-40,super_rod
+3,Safari Zone,Northeast,Oddish,27-29,walking
+3,Safari Zone,Northwest,Oddish,27-29,walking
+3,Safari Zone,Southeast,Oddish,25-27,walking
+3,Safari Zone,Southwest,Oddish,25-27,walking
+3,Safari Zone,Northeast,Phanpy,27-29,walking
+3,Safari Zone,Southeast,Pikachu,25-27,walking
+3,Safari Zone,Southwest,Pikachu,25-27,walking
+3,Safari Zone,North Extension,Pineco,34,walking
+3,Safari Zone,Northwest,Pinsir,27-29,walking
+3,Safari Zone,Northwest,Psyduck,20-35,surf
+3,Safari Zone,Southwest,Psyduck,20-35,surf
+3,Safari Zone,South Extension,Quagsire,35-40,surf
+3,Safari Zone,South Extension,Remoraid,25-35,super_rod
+3,Safari Zone,South Extension,Remoraid,10-30,good_rod
+3,Safari Zone,Northwest,Rhyhorn,27-29,walking
+3,Safari Zone,Northwest,Seaking,25-40,super_rod
+3,Safari Zone,Southwest,Seaking,25-40,super_rod
+3,Safari Zone,North Extension,Shuckle,20-40,rock_smash
+3,Safari Zone,South Extension,Snubbull,34,walking
+3,Safari Zone,South Extension,Spinarak,33,walking
+3,Safari Zone,South Extension,Stantler,36-39,walking
+3,Safari Zone,North Extension,Sunkern,34,walking
+3,Safari Zone,South Extension,Sunkern,33-35,walking
+3,Safari Zone,North Extension,Teddiursa,34-36,walking
+3,Safari Zone,Southeast,Wobbuffet,27-29,walking
+3,Safari Zone,Southwest,Wobbuffet,27-29,walking
+3,Safari Zone,South Extension,Wooper,25-30,surf
+3,Safari Zone,Northeast,Xatu,29-31,walking
+3,Seafloor Cavern,Entrance,Golbat,33-36,walking
+3,Seafloor Cavern,Entrance,Golbat,30-35,surf
+3,Seafloor Cavern,Room 6,Golbat,30-35,surf
+3,Seafloor Cavern,Room 7,Golbat,30-35,surf
+3,Seafloor Cavern,Entrance,Magikarp,10-30,good_rod
+3,Seafloor Cavern,Entrance,Magikarp,5-10,old_rod
+3,Seafloor Cavern,Room 6,Magikarp,10-30,good_rod
+3,Seafloor Cavern,Room 6,Magikarp,5-10,old_rod
+3,Seafloor Cavern,Room 7,Magikarp,10-30,good_rod
+3,Seafloor Cavern,Room 7,Magikarp,5-10,old_rod
+3,Seafloor Cavern,Entrance,Tentacool,5-35,surf
+3,Seafloor Cavern,Entrance,Tentacool,10-30,good_rod
+3,Seafloor Cavern,Entrance,Tentacool,5-10,old_rod
+3,Seafloor Cavern,Room 6,Tentacool,5-35,surf
+3,Seafloor Cavern,Room 6,Tentacool,10-30,good_rod
+3,Seafloor Cavern,Room 6,Tentacool,5-10,old_rod
+3,Seafloor Cavern,Room 7,Tentacool,5-35,surf
+3,Seafloor Cavern,Room 7,Tentacool,10-30,good_rod
+3,Seafloor Cavern,Room 7,Tentacool,5-10,old_rod
+3,Seafloor Cavern,Entrance,Wailmer,20-45,super_rod
+3,Seafloor Cavern,Entrance,Wailmer,10-30,good_rod
+3,Seafloor Cavern,Room 6,Wailmer,20-45,super_rod
+3,Seafloor Cavern,Room 6,Wailmer,10-30,good_rod
+3,Seafloor Cavern,Room 7,Wailmer,20-45,super_rod
+3,Seafloor Cavern,Room 7,Wailmer,10-30,good_rod
+3,Seafloor Cavern,Entrance,Zubat,28-35,walking
+3,Seafloor Cavern,Entrance,Zubat,5-35,surf
+3,Seafloor Cavern,Room 6,Zubat,5-35,surf
+3,Seafloor Cavern,Room 7,Zubat,5-35,surf
+3,Shoal Cave,"1F Room 1, High Tide",Golbat,32,walking
+3,Shoal Cave,"1F Room 1, Low Tide",Golbat,32,walking
+3,Shoal Cave,"1F Room 2, High Tide",Golbat,32,walking
+3,Shoal Cave,"1F Room 2, Low Tide",Golbat,32,walking
+3,Shoal Cave,"B1F, Low Tide",Golbat,32,walking
+3,Shoal Cave,"B2F, Low Tide",Golbat,32,walking
+3,Shoal Cave,"B3F, Low Tide",Golbat,30-32,walking
+3,Shoal Cave,"1F Room 1, High Tide",Magikarp,10-30,good_rod
+3,Shoal Cave,"1F Room 1, High Tide",Magikarp,5-10,old_rod
+3,Shoal Cave,"1F Room 2, High Tide",Magikarp,10-30,good_rod
+3,Shoal Cave,"1F Room 2, High Tide",Magikarp,5-10,old_rod
+3,Shoal Cave,"B3F, Low Tide",Snorunt,26-30,walking
+3,Shoal Cave,"1F Room 1, High Tide",Spheal,26-32,walking
+3,Shoal Cave,"1F Room 1, High Tide",Spheal,25-35,surf
+3,Shoal Cave,"1F Room 1, Low Tide",Spheal,26-32,walking
+3,Shoal Cave,"1F Room 2, High Tide",Spheal,26-32,walking
+3,Shoal Cave,"1F Room 2, High Tide",Spheal,25-35,surf
+3,Shoal Cave,"1F Room 2, Low Tide",Spheal,26-32,walking
+3,Shoal Cave,"B1F, Low Tide",Spheal,26-32,walking
+3,Shoal Cave,"B2F, Low Tide",Spheal,26-32,walking
+3,Shoal Cave,"B3F, Low Tide",Spheal,26-32,walking
+3,Shoal Cave,"1F Room 1, High Tide",Tentacool,5-35,surf
+3,Shoal Cave,"1F Room 1, High Tide",Tentacool,10-30,good_rod
+3,Shoal Cave,"1F Room 1, High Tide",Tentacool,5-10,old_rod
+3,Shoal Cave,"1F Room 2, High Tide",Tentacool,5-35,surf
+3,Shoal Cave,"1F Room 2, High Tide",Tentacool,10-30,good_rod
+3,Shoal Cave,"1F Room 2, High Tide",Tentacool,5-10,old_rod
+3,Shoal Cave,"1F Room 1, High Tide",Wailmer,20-45,super_rod
+3,Shoal Cave,"1F Room 1, High Tide",Wailmer,10-30,good_rod
+3,Shoal Cave,"1F Room 2, High Tide",Wailmer,20-45,super_rod
+3,Shoal Cave,"1F Room 2, High Tide",Wailmer,10-30,good_rod
+3,Shoal Cave,"1F Room 1, High Tide",Zubat,26-32,walking
+3,Shoal Cave,"1F Room 1, High Tide",Zubat,5-35,surf
+3,Shoal Cave,"1F Room 1, Low Tide",Zubat,26-32,walking
+3,Shoal Cave,"1F Room 2, High Tide",Zubat,26-32,walking
+3,Shoal Cave,"1F Room 2, High Tide",Zubat,5-35,surf
+3,Shoal Cave,"1F Room 2, Low Tide",Zubat,26-32,walking
+3,Shoal Cave,"B1F, Low Tide",Zubat,26-32,walking
+3,Shoal Cave,"B2F, Low Tide",Zubat,26-32,walking
+3,Shoal Cave,"B3F, Low Tide",Zubat,26-30,walking
+3,Sky Pillar,5F,Altaria,38-39,walking
+3,Sky Pillar,1F,Banette,37-38,walking
+3,Sky Pillar,3F,Banette,37-38,walking
+3,Sky Pillar,5F,Banette,37-38,walking
+3,Sky Pillar,1F,Claydol,36-38,walking
+3,Sky Pillar,3F,Claydol,36-38,walking
+3,Sky Pillar,5F,Claydol,36-37,walking
+3,Sky Pillar,1F,Golbat,34-35,walking
+3,Sky Pillar,3F,Golbat,34-35,walking
+3,Sky Pillar,5F,Golbat,34-35,walking
+3,Sky Pillar,6F,Rayquaza,70,interact
+3,Sky Pillar,1F,Sableye,33-34,walking
+3,Sky Pillar,3F,Sableye,33-34,walking
+3,Sky Pillar,5F,Sableye,33-34,walking
+3,Slateport City,,Magikarp,10-30,good_rod
+3,Slateport City,,Magikarp,5-10,old_rod
+3,Slateport City,,Pelipper,25-30,surf
+3,Slateport City,,Tentacool,5-35,surf
+3,Slateport City,,Tentacool,10-30,good_rod
+3,Slateport City,,Tentacool,5-10,old_rod
+3,Slateport City,,Wailmer,20-45,super_rod
+3,Slateport City,,Wailmer,10-30,good_rod
+3,Slateport City,,Wingull,10-30,surf
+3,Sootopolis City,Main,Gyarados,5-45,super_rod
+3,Sootopolis City,Main,Magikarp,5-35,surf
+3,Sootopolis City,Main,Magikarp,30-35,super_rod
+3,Sootopolis City,Main,Magikarp,10-30,good_rod
+3,Sootopolis City,Main,Magikarp,5-10,old_rod
+3,Sootopolis City,Main,Tentacool,5-10,old_rod
+3,Southern Island,Forest,Latias,40,interact
+3,Southern Island,Forest,Latios,40,interact
+3,Team Magma/Aqua Hideout,,Electrode,30,interact
+3,Team Magma/Aqua Hideout,,Geodude,27-30,walking
+3,Team Magma/Aqua Hideout,,Graveler,30-33,walking
+3,Team Magma/Aqua Hideout,,Torkoal,28-30,walking
+3,Terra Cave,Room 2,Groudon,70,interact
+3,Victory Road,1F,Aron,36-40,walking
+3,Victory Road,B2F,Barboach,25-35,super_rod
+3,Victory Road,B2F,Barboach,10-30,good_rod
+3,Victory Road,B1F,Geodude,30-40,rock_smash
+3,Victory Road,1F,Golbat,38-40,walking
+3,Victory Road,B1F,Golbat,38-42,walking
+3,Victory Road,B2F,Golbat,40-44,walking
+3,Victory Road,B2F,Golbat,25-40,surf
+3,Victory Road,B2F,Goldeen,10-30,good_rod
+3,Victory Road,B2F,Goldeen,5-10,old_rod
+3,Victory Road,B1F,Graveler,30-40,rock_smash
+3,Victory Road,1F,Hariyama,38-40,walking
+3,Victory Road,B1F,Hariyama,38-42,walking
+3,Victory Road,1F,Lairon,40,walking
+3,Victory Road,B1F,Lairon,40-42,walking
+3,Victory Road,B2F,Lairon,40-44,walking
+3,Victory Road,1F,Loudred,40,walking
+3,Victory Road,B2F,Magikarp,10-30,good_rod
+3,Victory Road,B2F,Magikarp,5-10,old_rod
+3,Victory Road,1F,Makuhita,36,walking
+3,Victory Road,B1F,Mawile,38,walking
+3,Victory Road,B2F,Mawile,42-44,walking
+3,Victory Road,B2F,Sableye,40-44,walking
+3,Victory Road,B2F,Whiscash,30-45,super_rod
+3,Victory Road,1F,Whismur,36,walking
+3,Victory Road,1F,Zubat,36,walking

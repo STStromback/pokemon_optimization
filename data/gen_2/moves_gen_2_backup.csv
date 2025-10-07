@@ -1,0 +1,3848 @@
+pokemon,move_level,move_name,move_type,power,accuracy,crit,move_stage
+Bulbasaur,1.0,Tackle,Normal,35,0.95,False,
+Bulbasaur,10.0,Vine whip,Grass,35,1.0,False,
+Bulbasaur,20.0,Razor leaf,Grass,55,0.95,True,
+Bulbasaur,,Cut,Normal,50,0.95,False,10.0
+Bulbasaur,,Headbutt,Normal,70,1.0,False,10.0
+Bulbasaur,,Hidden power,Normal,60,1.0,False,29.0
+Bulbasaur,,Giga drain,Grass,60,1.0,False,65.0
+Bulbasaur,,Return,Normal,102,1.0,False,12.0
+Bulbasaur,,Mud-slap,Ground,20,1.0,False,5.0
+Bulbasaur,,Fury cutter,Bug,10,0.95,False,9.0
+Ivysaur,1.0,Tackle,Normal,35,0.95,False,
+Ivysaur,10.0,Vine whip,Grass,35,1.0,False,
+Ivysaur,22.0,Razor leaf,Grass,55,0.95,True,
+Ivysaur,,Cut,Normal,50,0.95,False,10.0
+Ivysaur,,Headbutt,Normal,70,1.0,False,10.0
+Ivysaur,,Hidden power,Normal,60,1.0,False,29.0
+Ivysaur,,Giga drain,Grass,60,1.0,False,65.0
+Ivysaur,,Return,Normal,102,1.0,False,12.0
+Ivysaur,,Mud-slap,Ground,20,1.0,False,5.0
+Ivysaur,,Fury cutter,Bug,10,0.95,False,9.0
+Venusaur,1.0,Tackle,Normal,35,0.95,False,
+Venusaur,1.0,Vine whip,Grass,35,1.0,False,
+Venusaur,22.0,Razor leaf,Grass,55,0.95,True,
+Venusaur,,Cut,Normal,50,0.95,False,10.0
+Venusaur,,Headbutt,Normal,70,1.0,False,10.0
+Venusaur,,Hidden power,Normal,60,1.0,False,29.0
+Venusaur,,Hyper beam,Normal,75,0.9,False,65.0
+Venusaur,,Giga drain,Grass,60,1.0,False,65.0
+Venusaur,,Return,Normal,102,1.0,False,12.0
+Venusaur,,Mud-slap,Ground,20,1.0,False,5.0
+Venusaur,,Fury cutter,Bug,10,0.95,False,9.0
+Charmander,1.0,Scratch,Normal,40,1.0,False,
+Charmander,7.0,Ember,Fire,40,1.0,False,
+Charmander,19.0,Rage,Normal,20,1.0,False,
+Charmander,31.0,Flamethrower,Fire,95,1.0,False,
+Charmander,37.0,Slash,Normal,70,1.0,True,
+Charmander,49.0,Fire spin,Fire,15,0.7,False,
+Charmander,,Cut,Normal,50,0.95,False,10.0
+Charmander,,Strength,Normal,80,1.0,False,
+Charmander,,Dynamicpunch,Fighting,100,0.5,False,
+Charmander,,Headbutt,Normal,70,1.0,False,10.0
+Charmander,,Rock smash,Fighting,20,1.0,False,12.0
+Charmander,,Hidden power,Normal,60,1.0,False,29.0
+Charmander,,Iron tail,Steel,100,0.75,False,20.0
+Charmander,,Dragonbreath,Dragon,60,1.0,False,
+Charmander,,Return,Normal,102,1.0,False,12.0
+Charmander,,Dig,Ground,60,1.0,False,14.0
+Charmander,,Mud-slap,Ground,20,1.0,False,5.0
+Charmander,,Fire blast,Fire,120,0.85,False,12.0
+Charmander,,Swift,Normal,60,1.0,False,7.0
+Charmander,,Fire punch,Fire,75,1.0,False,12.0
+Charmander,,Fury cutter,Bug,10,0.95,False,9.0
+Charmeleon,1.0,Ember,Fire,40,1.0,False,
+Charmeleon,1.0,Scratch,Normal,40,1.0,False,
+Charmeleon,20.0,Rage,Normal,20,1.0,False,
+Charmeleon,34.0,Flamethrower,Fire,95,1.0,False,
+Charmeleon,41.0,Slash,Normal,70,1.0,True,
+Charmeleon,55.0,Fire spin,Fire,15,0.7,False,
+Charmeleon,,Cut,Normal,50,0.95,False,10.0
+Charmeleon,,Strength,Normal,80,1.0,False,
+Charmeleon,,Dynamicpunch,Fighting,100,0.5,False,
+Charmeleon,,Headbutt,Normal,70,1.0,False,10.0
+Charmeleon,,Rock smash,Fighting,20,1.0,False,12.0
+Charmeleon,,Hidden power,Normal,60,1.0,False,29.0
+Charmeleon,,Iron tail,Steel,100,0.75,False,20.0
+Charmeleon,,Dragonbreath,Dragon,60,1.0,False,
+Charmeleon,,Return,Normal,102,1.0,False,12.0
+Charmeleon,,Dig,Ground,60,1.0,False,14.0
+Charmeleon,,Mud-slap,Ground,20,1.0,False,5.0
+Charmeleon,,Fire blast,Fire,120,0.85,False,12.0
+Charmeleon,,Swift,Normal,60,1.0,False,7.0
+Charmeleon,,Fire punch,Fire,75,1.0,False,12.0
+Charmeleon,,Fury cutter,Bug,10,0.95,False,9.0
+Charizard,1.0,Ember,Fire,40,1.0,False,
+Charizard,1.0,Scratch,Normal,40,1.0,False,
+Charizard,20.0,Rage,Normal,20,1.0,False,
+Charizard,34.0,Flamethrower,Fire,95,1.0,False,
+Charizard,36.0,Wing attack,Flying,60,1.0,False,
+Charizard,44.0,Slash,Normal,70,1.0,True,
+Charizard,64.0,Fire spin,Fire,15,0.7,False,
+Charizard,,Cut,Normal,50,0.95,False,10.0
+Charizard,,Fly,Flying,70,0.95,False,23.0
+Charizard,,Strength,Normal,80,1.0,False,
+Charizard,,Dynamicpunch,Fighting,100,0.5,False,
+Charizard,,Headbutt,Normal,70,1.0,False,10.0
+Charizard,,Rock smash,Fighting,20,1.0,False,12.0
+Charizard,,Hidden power,Normal,60,1.0,False,29.0
+Charizard,,Hyper beam,Normal,75,0.9,False,65.0
+Charizard,,Iron tail,Steel,100,0.75,False,20.0
+Charizard,,Dragonbreath,Dragon,60,1.0,False,
+Charizard,,Earthquake,Ground,100,1.0,False,47.0
+Charizard,,Return,Normal,102,1.0,False,12.0
+Charizard,,Dig,Ground,60,1.0,False,14.0
+Charizard,,Mud-slap,Ground,20,1.0,False,5.0
+Charizard,,Fire blast,Fire,120,0.85,False,12.0
+Charizard,,Swift,Normal,60,1.0,False,7.0
+Charizard,,Steel wing,Steel,70,0.9,False,
+Charizard,,Fire punch,Fire,75,1.0,False,12.0
+Charizard,,Fury cutter,Bug,10,0.95,False,9.0
+Squirtle,1.0,Tackle,Normal,35,0.95,False,
+Squirtle,7.0,Bubble,Water,20,1.0,False,
+Squirtle,13.0,Water gun,Water,40,1.0,False,
+Squirtle,18.0,Bite,Dark,60,1.0,False,
+Squirtle,23.0,Rapid spin,Normal,20,1.0,False,
+Squirtle,47.0,Hydro pump,Water,120,0.8,False,
+Squirtle,,Surf,Water,95,1.0,False,17.0
+Squirtle,,Strength,Normal,80,1.0,False,
+Squirtle,,Whirlpool,Water,15,0.7,False,27.0
+Squirtle,,Waterfall,Water,80,1.0,False,36.0
+Squirtle,,Dynamicpunch,Fighting,100,0.5,False,
+Squirtle,,Headbutt,Normal,70,1.0,False,10.0
+Squirtle,,Rollout,Rock,30,0.9,False,13.0
+Squirtle,,Rock smash,Fighting,20,1.0,False,12.0
+Squirtle,,Hidden power,Normal,60,1.0,False,29.0
+Squirtle,,Blizzard,Ice,120,0.7,False,12.0
+Squirtle,,Icy wind,Ice,55,0.95,False,27.0
+Squirtle,,Iron tail,Steel,100,0.75,False,20.0
+Squirtle,,Return,Normal,102,1.0,False,12.0
+Squirtle,,Dig,Ground,60,1.0,False,14.0
+Squirtle,,Mud-slap,Ground,20,1.0,False,5.0
+Squirtle,,Ice punch,Ice,75,1.0,False,12.0
+Wartortle,1.0,Bubble,Water,20,1.0,False,
+Wartortle,1.0,Tackle,Normal,35,0.95,False,
+Wartortle,13.0,Water gun,Water,40,1.0,False,
+Wartortle,19.0,Bite,Dark,60,1.0,False,
+Wartortle,25.0,Rapid spin,Normal,20,1.0,False,
+Wartortle,53.0,Hydro pump,Water,120,0.8,False,
+Wartortle,,Surf,Water,95,1.0,False,17.0
+Wartortle,,Strength,Normal,80,1.0,False,
+Wartortle,,Whirlpool,Water,15,0.7,False,27.0
+Wartortle,,Waterfall,Water,80,1.0,False,36.0
+Wartortle,,Dynamicpunch,Fighting,100,0.5,False,
+Wartortle,,Headbutt,Normal,70,1.0,False,10.0
+Wartortle,,Rollout,Rock,30,0.9,False,13.0
+Wartortle,,Rock smash,Fighting,20,1.0,False,12.0
+Wartortle,,Hidden power,Normal,60,1.0,False,29.0
+Wartortle,,Blizzard,Ice,120,0.7,False,12.0
+Wartortle,,Icy wind,Ice,55,0.95,False,27.0
+Wartortle,,Iron tail,Steel,100,0.75,False,20.0
+Wartortle,,Return,Normal,102,1.0,False,12.0
+Wartortle,,Dig,Ground,60,1.0,False,14.0
+Wartortle,,Mud-slap,Ground,20,1.0,False,5.0
+Wartortle,,Ice punch,Ice,75,1.0,False,12.0
+Blastoise,1.0,Bubble,Water,20,1.0,False,
+Blastoise,1.0,Tackle,Normal,35,0.95,False,
+Blastoise,13.0,Water gun,Water,40,1.0,False,
+Blastoise,19.0,Bite,Dark,60,1.0,False,
+Blastoise,25.0,Rapid spin,Normal,20,1.0,False,
+Blastoise,68.0,Hydro pump,Water,120,0.8,False,
+Blastoise,,Surf,Water,95,1.0,False,17.0
+Blastoise,,Strength,Normal,80,1.0,False,
+Blastoise,,Whirlpool,Water,15,0.7,False,27.0
+Blastoise,,Waterfall,Water,80,1.0,False,36.0
+Blastoise,,Dynamicpunch,Fighting,100,0.5,False,
+Blastoise,,Headbutt,Normal,70,1.0,False,10.0
+Blastoise,,Rollout,Rock,30,0.9,False,13.0
+Blastoise,,Rock smash,Fighting,20,1.0,False,12.0
+Blastoise,,Hidden power,Normal,60,1.0,False,29.0
+Blastoise,,Blizzard,Ice,120,0.7,False,12.0
+Blastoise,,Hyper beam,Normal,75,0.9,False,65.0
+Blastoise,,Icy wind,Ice,55,0.95,False,27.0
+Blastoise,,Iron tail,Steel,100,0.75,False,20.0
+Blastoise,,Earthquake,Ground,100,1.0,False,47.0
+Blastoise,,Return,Normal,102,1.0,False,12.0
+Blastoise,,Dig,Ground,60,1.0,False,14.0
+Blastoise,,Mud-slap,Ground,20,1.0,False,5.0
+Blastoise,,Ice punch,Ice,75,1.0,False,12.0
+Caterpie,1.0,Tackle,Normal,35,0.95,False,
+Metapod,0.0,Struggle,Normal,1,1.0,False,
+Butterfree,1.0,Confusion,Psychic,50,1.0,False,
+Butterfree,12.0,Confusion,Psychic,50,1.0,False,
+Butterfree,28.0,Gust,Flying,40,1.0,False,
+Butterfree,34.0,Psybeam,Psychic,65,1.0,False,
+Butterfree,,Hidden power,Normal,60,1.0,False,29.0
+Butterfree,,Hyper beam,Normal,75,0.9,False,65.0
+Butterfree,,Giga drain,Grass,60,1.0,False,65.0
+Butterfree,,Return,Normal,102,1.0,False,12.0
+Butterfree,,Psychic,Psychic,90,1.0,False,52.0
+Butterfree,,Swift,Normal,60,1.0,False,7.0
+Weedle,1.0,Poison sting,Poison,15,1.0,False,
+Kakuna,0.0,Struggle,Normal,1,1.0,False,
+Beedrill,1.0,Fury attack,Normal,45,0.85,False,
+Beedrill,20.0,Twineedle,Bug,50,1.0,False,
+Beedrill,25.0,Rage,Normal,20,1.0,False,
+Beedrill,30.0,Pursuit,Dark,40,1.0,False,
+Beedrill,35.0,Pin missile,Bug,42,0.85,False,
+Beedrill,,Cut,Normal,50,0.95,False,10.0
+Beedrill,,Hidden power,Normal,60,1.0,False,29.0
+Beedrill,,Hyper beam,Normal,75,0.9,False,65.0
+Beedrill,,Giga drain,Grass,60,1.0,False,65.0
+Beedrill,,Return,Normal,102,1.0,False,12.0
+Beedrill,,Sludge bomb,Poison,90,1.0,False,28.0
+Beedrill,,Swift,Normal,60,1.0,False,7.0
+Beedrill,,Fury cutter,Bug,10,0.95,False,9.0
+Pidgey,1.0,Tackle,Normal,35,0.95,False,
+Pidgey,9.0,Gust,Flying,40,1.0,False,
+Pidgey,15.0,Quick attack,Normal,40,1.0,False,
+Pidgey,29.0,Wing attack,Flying,60,1.0,False,
+Pidgey,,Fly,Flying,70,0.95,False,23.0
+Pidgey,,Hidden power,Normal,60,1.0,False,29.0
+Pidgey,,Return,Normal,102,1.0,False,12.0
+Pidgey,,Mud-slap,Ground,20,1.0,False,5.0
+Pidgey,,Swift,Normal,60,1.0,False,7.0
+Pidgey,,Thief,Dark,40,1.0,False,30.0
+Pidgey,,Steel wing,Steel,70,0.9,False,
+Pidgeotto,1.0,Gust,Flying,40,1.0,False,
+Pidgeotto,1.0,Tackle,Normal,35,0.95,False,
+Pidgeotto,15.0,Quick attack,Normal,40,1.0,False,
+Pidgeotto,33.0,Wing attack,Flying,60,1.0,False,
+Pidgeotto,,Fly,Flying,70,0.95,False,23.0
+Pidgeotto,,Hidden power,Normal,60,1.0,False,29.0
+Pidgeotto,,Return,Normal,102,1.0,False,12.0
+Pidgeotto,,Mud-slap,Ground,20,1.0,False,5.0
+Pidgeotto,,Swift,Normal,60,1.0,False,7.0
+Pidgeotto,,Thief,Dark,40,1.0,False,30.0
+Pidgeotto,,Steel wing,Steel,70,0.9,False,
+Pidgeot,1.0,Gust,Flying,40,1.0,False,
+Pidgeot,1.0,Quick attack,Normal,40,1.0,False,
+Pidgeot,1.0,Tackle,Normal,35,0.95,False,
+Pidgeot,33.0,Wing attack,Flying,60,1.0,False,
+Pidgeot,,Fly,Flying,70,0.95,False,23.0
+Pidgeot,,Hidden power,Normal,60,1.0,False,29.0
+Pidgeot,,Hyper beam,Normal,75,0.9,False,65.0
+Pidgeot,,Return,Normal,102,1.0,False,12.0
+Pidgeot,,Mud-slap,Ground,20,1.0,False,5.0
+Pidgeot,,Swift,Normal,60,1.0,False,7.0
+Pidgeot,,Thief,Dark,40,1.0,False,30.0
+Pidgeot,,Steel wing,Steel,70,0.9,False,
+Rattata,1.0,Tackle,Normal,35,0.95,False,
+Rattata,7.0,Quick attack,Normal,40,1.0,False,
+Rattata,13.0,Hyper fang,Normal,80,0.9,False,
+Rattata,27.0,Pursuit,Dark,40,1.0,False,
+Rattata,,Headbutt,Normal,70,1.0,False,10.0
+Rattata,,Rock smash,Fighting,20,1.0,False,12.0
+Rattata,,Hidden power,Normal,60,1.0,False,29.0
+Rattata,,Blizzard,Ice,120,0.7,False,12.0
+Rattata,,Icy wind,Ice,55,0.95,False,27.0
+Rattata,,Iron tail,Steel,100,0.75,False,20.0
+Rattata,,Thunder,Electric,120,0.7,False,12.0
+Rattata,,Return,Normal,102,1.0,False,12.0
+Rattata,,Dig,Ground,60,1.0,False,14.0
+Rattata,,Shadow ball,Ghost,80,1.0,False,17.0
+Rattata,,Mud-slap,Ground,20,1.0,False,5.0
+Rattata,,Swift,Normal,60,1.0,False,7.0
+Rattata,,Thief,Dark,40,1.0,False,30.0
+Raticate,1.0,Quick attack,Normal,40,1.0,False,
+Raticate,1.0,Tackle,Normal,35,0.95,False,
+Raticate,13.0,Hyper fang,Normal,80,0.9,False,
+Raticate,30.0,Pursuit,Dark,40,1.0,False,
+Raticate,,Cut,Normal,50,0.95,False,10.0
+Raticate,,Strength,Normal,80,1.0,False,
+Raticate,,Headbutt,Normal,70,1.0,False,10.0
+Raticate,,Rock smash,Fighting,20,1.0,False,12.0
+Raticate,,Hidden power,Normal,60,1.0,False,29.0
+Raticate,,Blizzard,Ice,120,0.7,False,12.0
+Raticate,,Hyper beam,Normal,75,0.9,False,65.0
+Raticate,,Icy wind,Ice,55,0.95,False,27.0
+Raticate,,Iron tail,Steel,100,0.75,False,20.0
+Raticate,,Thunder,Electric,120,0.7,False,12.0
+Raticate,,Return,Normal,102,1.0,False,12.0
+Raticate,,Dig,Ground,60,1.0,False,14.0
+Raticate,,Shadow ball,Ghost,80,1.0,False,17.0
+Raticate,,Mud-slap,Ground,20,1.0,False,5.0
+Raticate,,Swift,Normal,60,1.0,False,7.0
+Raticate,,Thief,Dark,40,1.0,False,30.0
+Spearow,1.0,Peck,Flying,35,1.0,False,
+Spearow,13.0,Fury attack,Normal,45,0.85,False,
+Spearow,25.0,Pursuit,Dark,40,1.0,False,
+Spearow,37.0,Drill peck,Flying,80,1.0,False,
+Spearow,,Fly,Flying,70,0.95,False,23.0
+Spearow,,Hidden power,Normal,60,1.0,False,29.0
+Spearow,,Return,Normal,102,1.0,False,12.0
+Spearow,,Mud-slap,Ground,20,1.0,False,5.0
+Spearow,,Swift,Normal,60,1.0,False,7.0
+Spearow,,Thief,Dark,40,1.0,False,30.0
+Spearow,,Steel wing,Steel,70,0.9,False,
+Fearow,1.0,Fury attack,Normal,45,0.85,False,
+Fearow,1.0,Peck,Flying,35,1.0,False,
+Fearow,26.0,Pursuit,Dark,40,1.0,False,
+Fearow,40.0,Drill peck,Flying,80,1.0,False,
+Fearow,,Fly,Flying,70,0.95,False,23.0
+Fearow,,Hidden power,Normal,60,1.0,False,29.0
+Fearow,,Hyper beam,Normal,75,0.9,False,65.0
+Fearow,,Return,Normal,102,1.0,False,12.0
+Fearow,,Mud-slap,Ground,20,1.0,False,5.0
+Fearow,,Swift,Normal,60,1.0,False,7.0
+Fearow,,Thief,Dark,40,1.0,False,30.0
+Fearow,,Steel wing,Steel,70,0.9,False,
+Ekans,1.0,Wrap,Normal,15,0.85,False,
+Ekans,9.0,Poison sting,Poison,15,1.0,False,
+Ekans,15.0,Bite,Dark,60,1.0,False,
+Ekans,37.0,Acid,Poison,40,1.0,False,
+Ekans,,Strength,Normal,80,1.0,False,
+Ekans,,Headbutt,Normal,70,1.0,False,10.0
+Ekans,,Hidden power,Normal,60,1.0,False,29.0
+Ekans,,Giga drain,Grass,60,1.0,False,65.0
+Ekans,,Earthquake,Ground,100,1.0,False,47.0
+Ekans,,Return,Normal,102,1.0,False,12.0
+Ekans,,Dig,Ground,60,1.0,False,14.0
+Ekans,,Sludge bomb,Poison,90,1.0,False,28.0
+Ekans,,Thief,Dark,40,1.0,False,30.0
+Arbok,1.0,Bite,Dark,60,1.0,False,
+Arbok,1.0,Poison sting,Poison,15,1.0,False,
+Arbok,1.0,Wrap,Normal,15,0.85,False,
+Arbok,43.0,Acid,Poison,40,1.0,False,
+Arbok,,Strength,Normal,80,1.0,False,
+Arbok,,Headbutt,Normal,70,1.0,False,10.0
+Arbok,,Hidden power,Normal,60,1.0,False,29.0
+Arbok,,Hyper beam,Normal,75,0.9,False,65.0
+Arbok,,Giga drain,Grass,60,1.0,False,65.0
+Arbok,,Earthquake,Ground,100,1.0,False,47.0
+Arbok,,Return,Normal,102,1.0,False,12.0
+Arbok,,Dig,Ground,60,1.0,False,14.0
+Arbok,,Sludge bomb,Poison,90,1.0,False,28.0
+Arbok,,Thief,Dark,40,1.0,False,30.0
+Pikachu,1.0,Thundershock,Electric,40,1.0,False,
+Pikachu,11.0,Quick attack,Normal,40,1.0,False,
+Pikachu,20.0,Slam,Normal,80,0.75,False,
+Pikachu,26.0,Thunderbolt,Electric,95,1.0,False,
+Pikachu,41.0,Thunder,Electric,120,0.7,False,12.0
+Pikachu,,Strength,Normal,80,1.0,False,
+Pikachu,,Dynamicpunch,Fighting,100,0.5,False,
+Pikachu,,Headbutt,Normal,70,1.0,False,10.0
+Pikachu,,Rollout,Rock,30,0.9,False,13.0
+Pikachu,,Zap cannon,Electric,100,0.5,False,58.0
+Pikachu,,Hidden power,Normal,60,1.0,False,29.0
+Pikachu,,Iron tail,Steel,100,0.75,False,20.0
+Pikachu,,Return,Normal,102,1.0,False,12.0
+Pikachu,,Mud-slap,Ground,20,1.0,False,5.0
+Pikachu,,Swift,Normal,60,1.0,False,7.0
+Pikachu,,Thunderpunch,Electric,75,1.0,False,
+Raichu,1.0,Quick attack,Normal,40,1.0,False,
+Raichu,1.0,Thundershock,Electric,40,1.0,False,
+Raichu,1.0,Thunderbolt,Electric,95,1.0,False,
+Raichu,,Strength,Normal,80,1.0,False,
+Raichu,,Dynamicpunch,Fighting,100,0.5,False,
+Raichu,,Headbutt,Normal,70,1.0,False,10.0
+Raichu,,Rollout,Rock,30,0.9,False,13.0
+Raichu,,Zap cannon,Electric,100,0.5,False,58.0
+Raichu,,Hidden power,Normal,60,1.0,False,29.0
+Raichu,,Hyper beam,Normal,75,0.9,False,65.0
+Raichu,,Iron tail,Steel,100,0.75,False,20.0
+Raichu,,Thunder,Electric,120,0.7,False,12.0
+Raichu,,Return,Normal,102,1.0,False,12.0
+Raichu,,Mud-slap,Ground,20,1.0,False,5.0
+Raichu,,Swift,Normal,60,1.0,False,7.0
+Raichu,,Thunderpunch,Electric,75,1.0,False,
+Raichu,,Thief,Dark,40,1.0,False,30.0
+Sandshrew,1.0,Scratch,Normal,40,1.0,False,
+Sandshrew,17.0,Poison sting,Poison,15,1.0,False,
+Sandshrew,23.0,Slash,Normal,70,1.0,True,
+Sandshrew,30.0,Swift,Normal,60,1.0,False,7.0
+Sandshrew,37.0,Fury swipes,Normal,54,0.8,False,
+Sandshrew,,Cut,Normal,50,0.95,False,10.0
+Sandshrew,,Strength,Normal,80,1.0,False,
+Sandshrew,,Dynamicpunch,Fighting,100,0.5,False,
+Sandshrew,,Headbutt,Normal,70,1.0,False,10.0
+Sandshrew,,Rollout,Rock,30,0.9,False,13.0
+Sandshrew,,Rock smash,Fighting,20,1.0,False,12.0
+Sandshrew,,Hidden power,Normal,60,1.0,False,29.0
+Sandshrew,,Iron tail,Steel,100,0.75,False,20.0
+Sandshrew,,Earthquake,Ground,100,1.0,False,47.0
+Sandshrew,,Return,Normal,102,1.0,False,12.0
+Sandshrew,,Dig,Ground,60,1.0,False,14.0
+Sandshrew,,Mud-slap,Ground,20,1.0,False,5.0
+Sandshrew,,Thief,Dark,40,1.0,False,30.0
+Sandshrew,,Fury cutter,Bug,10,0.95,False,9.0
+Sandslash,1.0,Scratch,Normal,40,1.0,False,
+Sandslash,17.0,Poison sting,Poison,15,1.0,False,
+Sandslash,24.0,Slash,Normal,70,1.0,True,
+Sandslash,33.0,Swift,Normal,60,1.0,False,7.0
+Sandslash,42.0,Fury swipes,Normal,54,0.8,False,
+Sandslash,,Cut,Normal,50,0.95,False,10.0
+Sandslash,,Strength,Normal,80,1.0,False,
+Sandslash,,Dynamicpunch,Fighting,100,0.5,False,
+Sandslash,,Headbutt,Normal,70,1.0,False,10.0
+Sandslash,,Rollout,Rock,30,0.9,False,13.0
+Sandslash,,Rock smash,Fighting,20,1.0,False,12.0
+Sandslash,,Hidden power,Normal,60,1.0,False,29.0
+Sandslash,,Hyper beam,Normal,75,0.9,False,65.0
+Sandslash,,Iron tail,Steel,100,0.75,False,20.0
+Sandslash,,Earthquake,Ground,100,1.0,False,47.0
+Sandslash,,Return,Normal,102,1.0,False,12.0
+Sandslash,,Dig,Ground,60,1.0,False,14.0
+Sandslash,,Mud-slap,Ground,20,1.0,False,5.0
+Sandslash,,Thief,Dark,40,1.0,False,30.0
+Sandslash,,Fury cutter,Bug,10,0.95,False,9.0
+Nidoran_f,1.0,Tackle,Normal,35,0.95,False,
+Nidoran_f,8.0,Scratch,Normal,40,1.0,False,
+Nidoran_f,12.0,Double kick,Fighting,60,1.0,False,
+Nidoran_f,17.0,Poison sting,Poison,15,1.0,False,
+Nidoran_f,30.0,Bite,Dark,60,1.0,False,
+Nidoran_f,38.0,Fury swipes,Normal,54,0.8,False,
+Nidoran_f,,Headbutt,Normal,70,1.0,False,10.0
+Nidoran_f,,Hidden power,Normal,60,1.0,False,29.0
+Nidoran_f,,Blizzard,Ice,120,0.7,False,12.0
+Nidoran_f,,Iron tail,Steel,100,0.75,False,20.0
+Nidoran_f,,Thunder,Electric,120,0.7,False,12.0
+Nidoran_f,,Return,Normal,102,1.0,False,12.0
+Nidoran_f,,Mud-slap,Ground,20,1.0,False,5.0
+Nidoran_f,,Thief,Dark,40,1.0,False,30.0
+Nidorina,1.0,Tackle,Normal,35,0.95,False,
+Nidorina,8.0,Scratch,Normal,40,1.0,False,
+Nidorina,12.0,Double kick,Fighting,60,1.0,False,
+Nidorina,19.0,Poison sting,Poison,15,1.0,False,
+Nidorina,36.0,Bite,Dark,60,1.0,False,
+Nidorina,46.0,Fury swipes,Normal,54,0.8,False,
+Nidorina,,Strength,Normal,80,1.0,False,
+Nidorina,,Headbutt,Normal,70,1.0,False,10.0
+Nidorina,,Rock smash,Fighting,20,1.0,False,12.0
+Nidorina,,Hidden power,Normal,60,1.0,False,29.0
+Nidorina,,Blizzard,Ice,120,0.7,False,12.0
+Nidorina,,Iron tail,Steel,100,0.75,False,20.0
+Nidorina,,Thunder,Electric,120,0.7,False,12.0
+Nidorina,,Return,Normal,102,1.0,False,12.0
+Nidorina,,Mud-slap,Ground,20,1.0,False,5.0
+Nidorina,,Thief,Dark,40,1.0,False,30.0
+Nidoqueen,1.0,Double kick,Fighting,60,1.0,False,
+Nidoqueen,1.0,Scratch,Normal,40,1.0,False,
+Nidoqueen,1.0,Tackle,Normal,35,0.95,False,
+Nidoqueen,23.0,Body slam,Normal,85,1.0,False,
+Nidoqueen,,Surf,Water,95,1.0,False,17.0
+Nidoqueen,,Strength,Normal,80,1.0,False,
+Nidoqueen,,Dynamicpunch,Fighting,100,0.5,False,
+Nidoqueen,,Headbutt,Normal,70,1.0,False,10.0
+Nidoqueen,,Rock smash,Fighting,20,1.0,False,12.0
+Nidoqueen,,Hidden power,Normal,60,1.0,False,29.0
+Nidoqueen,,Blizzard,Ice,120,0.7,False,12.0
+Nidoqueen,,Hyper beam,Normal,75,0.9,False,65.0
+Nidoqueen,,Icy wind,Ice,55,0.95,False,27.0
+Nidoqueen,,Iron tail,Steel,100,0.75,False,20.0
+Nidoqueen,,Thunder,Electric,120,0.7,False,12.0
+Nidoqueen,,Earthquake,Ground,100,1.0,False,47.0
+Nidoqueen,,Return,Normal,102,1.0,False,12.0
+Nidoqueen,,Shadow ball,Ghost,80,1.0,False,17.0
+Nidoqueen,,Mud-slap,Ground,20,1.0,False,5.0
+Nidoqueen,,Ice punch,Ice,75,1.0,False,12.0
+Nidoqueen,,Fire blast,Fire,120,0.85,False,12.0
+Nidoqueen,,Thunderpunch,Electric,75,1.0,False,
+Nidoqueen,,Thief,Dark,40,1.0,False,30.0
+Nidoqueen,,Fire punch,Fire,75,1.0,False,12.0
+Nidoqueen,,Fury cutter,Bug,10,0.95,False,9.0
+Nidoran_m,1.0,Tackle,Normal,35,0.95,False,
+Nidoran_m,8.0,Horn attack,Normal,65,1.0,False,
+Nidoran_m,12.0,Double kick,Fighting,60,1.0,False,
+Nidoran_m,17.0,Poison sting,Poison,15,1.0,False,
+Nidoran_m,30.0,Fury attack,Normal,45,0.85,False,
+Nidoran_m,,Headbutt,Normal,70,1.0,False,10.0
+Nidoran_m,,Hidden power,Normal,60,1.0,False,29.0
+Nidoran_m,,Blizzard,Ice,120,0.7,False,12.0
+Nidoran_m,,Iron tail,Steel,100,0.75,False,20.0
+Nidoran_m,,Thunder,Electric,120,0.7,False,12.0
+Nidoran_m,,Return,Normal,102,1.0,False,12.0
+Nidoran_m,,Mud-slap,Ground,20,1.0,False,5.0
+Nidoran_m,,Thief,Dark,40,1.0,False,30.0
+Nidorino,1.0,Tackle,Normal,35,0.95,False,
+Nidorino,8.0,Horn attack,Normal,65,1.0,False,
+Nidorino,12.0,Double kick,Fighting,60,1.0,False,
+Nidorino,19.0,Poison sting,Poison,15,1.0,False,
+Nidorino,36.0,Fury attack,Normal,45,0.85,False,
+Nidorino,,Strength,Normal,80,1.0,False,
+Nidorino,,Headbutt,Normal,70,1.0,False,10.0
+Nidorino,,Rock smash,Fighting,20,1.0,False,12.0
+Nidorino,,Hidden power,Normal,60,1.0,False,29.0
+Nidorino,,Blizzard,Ice,120,0.7,False,12.0
+Nidorino,,Iron tail,Steel,100,0.75,False,20.0
+Nidorino,,Thunder,Electric,120,0.7,False,12.0
+Nidorino,,Return,Normal,102,1.0,False,12.0
+Nidorino,,Mud-slap,Ground,20,1.0,False,5.0
+Nidorino,,Thief,Dark,40,1.0,False,30.0
+Nidoking,1.0,Double kick,Fighting,60,1.0,False,
+Nidoking,1.0,Horn attack,Normal,65,1.0,False,
+Nidoking,1.0,Poison sting,Poison,15,1.0,False,
+Nidoking,1.0,Tackle,Normal,35,0.95,False,
+Nidoking,23.0,Thrash,Normal,90,1.0,False,
+Nidoking,,Surf,Water,95,1.0,False,17.0
+Nidoking,,Strength,Normal,80,1.0,False,
+Nidoking,,Dynamicpunch,Fighting,100,0.5,False,
+Nidoking,,Headbutt,Normal,70,1.0,False,10.0
+Nidoking,,Rock smash,Fighting,20,1.0,False,12.0
+Nidoking,,Hidden power,Normal,60,1.0,False,29.0
+Nidoking,,Blizzard,Ice,120,0.7,False,12.0
+Nidoking,,Hyper beam,Normal,75,0.9,False,65.0
+Nidoking,,Icy wind,Ice,55,0.95,False,27.0
+Nidoking,,Iron tail,Steel,100,0.75,False,20.0
+Nidoking,,Thunder,Electric,120,0.7,False,12.0
+Nidoking,,Earthquake,Ground,100,1.0,False,47.0
+Nidoking,,Return,Normal,102,1.0,False,12.0
+Nidoking,,Shadow ball,Ghost,80,1.0,False,17.0
+Nidoking,,Mud-slap,Ground,20,1.0,False,5.0
+Nidoking,,Ice punch,Ice,75,1.0,False,12.0
+Nidoking,,Fire blast,Fire,120,0.85,False,12.0
+Nidoking,,Thunderpunch,Electric,75,1.0,False,
+Nidoking,,Thief,Dark,40,1.0,False,30.0
+Nidoking,,Fire punch,Fire,75,1.0,False,12.0
+Nidoking,,Fury cutter,Bug,10,0.95,False,9.0
+Clefairy,1.0,Pound,Normal,40,1.0,False,
+Clefairy,13.0,Doubleslap,Normal,45,0.85,False,
+Clefairy,,Strength,Normal,80,1.0,False,
+Clefairy,,Dynamicpunch,Fighting,100,0.5,False,
+Clefairy,,Headbutt,Normal,70,1.0,False,10.0
+Clefairy,,Rollout,Rock,30,0.9,False,13.0
+Clefairy,,Zap cannon,Electric,100,0.5,False,58.0
+Clefairy,,Hidden power,Normal,60,1.0,False,29.0
+Clefairy,,Blizzard,Ice,120,0.7,False,12.0
+Clefairy,,Iron tail,Steel,100,0.75,False,20.0
+Clefairy,,Thunder,Electric,120,0.7,False,12.0
+Clefairy,,Return,Normal,102,1.0,False,12.0
+Clefairy,,Psychic,Psychic,90,1.0,False,52.0
+Clefairy,,Shadow ball,Ghost,80,1.0,False,17.0
+Clefairy,,Mud-slap,Ground,20,1.0,False,5.0
+Clefairy,,Ice punch,Ice,75,1.0,False,12.0
+Clefairy,,Fire blast,Fire,120,0.85,False,12.0
+Clefairy,,Thunderpunch,Electric,75,1.0,False,
+Clefairy,,Fire punch,Fire,75,1.0,False,12.0
+Clefable,1.0,Doubleslap,Normal,45,0.85,False,
+Clefable,,Strength,Normal,80,1.0,False,
+Clefable,,Dynamicpunch,Fighting,100,0.5,False,
+Clefable,,Headbutt,Normal,70,1.0,False,10.0
+Clefable,,Rollout,Rock,30,0.9,False,13.0
+Clefable,,Zap cannon,Electric,100,0.5,False,58.0
+Clefable,,Hidden power,Normal,60,1.0,False,29.0
+Clefable,,Blizzard,Ice,120,0.7,False,12.0
+Clefable,,Hyper beam,Normal,75,0.9,False,65.0
+Clefable,,Iron tail,Steel,100,0.75,False,20.0
+Clefable,,Thunder,Electric,120,0.7,False,12.0
+Clefable,,Return,Normal,102,1.0,False,12.0
+Clefable,,Psychic,Psychic,90,1.0,False,52.0
+Clefable,,Shadow ball,Ghost,80,1.0,False,17.0
+Clefable,,Mud-slap,Ground,20,1.0,False,5.0
+Clefable,,Ice punch,Ice,75,1.0,False,12.0
+Clefable,,Fire blast,Fire,120,0.85,False,12.0
+Clefable,,Thunderpunch,Electric,75,1.0,False,
+Clefable,,Fire punch,Fire,75,1.0,False,12.0
+Vulpix,1.0,Ember,Fire,40,1.0,False,
+Vulpix,7.0,Quick attack,Normal,40,1.0,False,
+Vulpix,31.0,Flamethrower,Fire,95,1.0,False,
+Vulpix,37.0,Fire spin,Fire,15,0.7,False,
+Vulpix,,Headbutt,Normal,70,1.0,False,10.0
+Vulpix,,Hidden power,Normal,60,1.0,False,29.0
+Vulpix,,Iron tail,Steel,100,0.75,False,20.0
+Vulpix,,Return,Normal,102,1.0,False,12.0
+Vulpix,,Dig,Ground,60,1.0,False,14.0
+Vulpix,,Fire blast,Fire,120,0.85,False,12.0
+Vulpix,,Swift,Normal,60,1.0,False,7.0
+Ninetales,1.0,Ember,Fire,40,1.0,False,
+Ninetales,1.0,Quick attack,Normal,40,1.0,False,
+Ninetales,43.0,Fire spin,Fire,15,0.7,False,
+Ninetales,,Headbutt,Normal,70,1.0,False,10.0
+Ninetales,,Hidden power,Normal,60,1.0,False,29.0
+Ninetales,,Hyper beam,Normal,75,0.9,False,65.0
+Ninetales,,Iron tail,Steel,100,0.75,False,20.0
+Ninetales,,Return,Normal,102,1.0,False,12.0
+Ninetales,,Dig,Ground,60,1.0,False,14.0
+Ninetales,,Fire blast,Fire,120,0.85,False,12.0
+Ninetales,,Swift,Normal,60,1.0,False,7.0
+Jigglypuff,9.0,Pound,Normal,40,1.0,False,
+Jigglypuff,19.0,Rollout,Rock,30,0.9,False,13.0
+Jigglypuff,24.0,Doubleslap,Normal,45,0.85,False,
+Jigglypuff,34.0,Body slam,Normal,85,1.0,False,
+Jigglypuff,,Strength,Normal,80,1.0,False,
+Jigglypuff,,Dynamicpunch,Fighting,100,0.5,False,
+Jigglypuff,,Headbutt,Normal,70,1.0,False,10.0
+Jigglypuff,,Zap cannon,Electric,100,0.5,False,58.0
+Jigglypuff,,Hidden power,Normal,60,1.0,False,29.0
+Jigglypuff,,Blizzard,Ice,120,0.7,False,12.0
+Jigglypuff,,Thunder,Electric,120,0.7,False,12.0
+Jigglypuff,,Return,Normal,102,1.0,False,12.0
+Jigglypuff,,Psychic,Psychic,90,1.0,False,52.0
+Jigglypuff,,Shadow ball,Ghost,80,1.0,False,17.0
+Jigglypuff,,Mud-slap,Ground,20,1.0,False,5.0
+Jigglypuff,,Ice punch,Ice,75,1.0,False,12.0
+Jigglypuff,,Fire blast,Fire,120,0.85,False,12.0
+Jigglypuff,,Thunderpunch,Electric,75,1.0,False,
+Jigglypuff,,Fire punch,Fire,75,1.0,False,12.0
+Wigglytuff,1.0,Doubleslap,Normal,45,0.85,False,
+Wigglytuff,,Strength,Normal,80,1.0,False,
+Wigglytuff,,Dynamicpunch,Fighting,100,0.5,False,
+Wigglytuff,,Headbutt,Normal,70,1.0,False,10.0
+Wigglytuff,,Rollout,Rock,30,0.9,False,13.0
+Wigglytuff,,Zap cannon,Electric,100,0.5,False,58.0
+Wigglytuff,,Hidden power,Normal,60,1.0,False,29.0
+Wigglytuff,,Blizzard,Ice,120,0.7,False,12.0
+Wigglytuff,,Hyper beam,Normal,75,0.9,False,65.0
+Wigglytuff,,Thunder,Electric,120,0.7,False,12.0
+Wigglytuff,,Return,Normal,102,1.0,False,12.0
+Wigglytuff,,Psychic,Psychic,90,1.0,False,52.0
+Wigglytuff,,Shadow ball,Ghost,80,1.0,False,17.0
+Wigglytuff,,Mud-slap,Ground,20,1.0,False,5.0
+Wigglytuff,,Ice punch,Ice,75,1.0,False,12.0
+Wigglytuff,,Fire blast,Fire,120,0.85,False,12.0
+Wigglytuff,,Thunderpunch,Electric,75,1.0,False,
+Wigglytuff,,Fire punch,Fire,75,1.0,False,12.0
+Zubat,1.0,Leech life,Bug,20,1.0,False,
+Zubat,12.0,Bite,Dark,60,1.0,False,
+Zubat,27.0,Wing attack,Flying,60,1.0,False,
+Zubat,,Hidden power,Normal,60,1.0,False,29.0
+Zubat,,Giga drain,Grass,60,1.0,False,65.0
+Zubat,,Return,Normal,102,1.0,False,12.0
+Zubat,,Swift,Normal,60,1.0,False,7.0
+Zubat,,Thief,Dark,40,1.0,False,30.0
+Zubat,,Steel wing,Steel,70,0.9,False,
+Golbat,1.0,Leech life,Bug,20,1.0,False,
+Golbat,12.0,Bite,Dark,60,1.0,False,
+Golbat,30.0,Wing attack,Flying,60,1.0,False,
+Golbat,,Hidden power,Normal,60,1.0,False,29.0
+Golbat,,Hyper beam,Normal,75,0.9,False,65.0
+Golbat,,Giga drain,Grass,60,1.0,False,65.0
+Golbat,,Return,Normal,102,1.0,False,12.0
+Golbat,,Swift,Normal,60,1.0,False,7.0
+Golbat,,Thief,Dark,40,1.0,False,30.0
+Golbat,,Steel wing,Steel,70,0.9,False,
+Oddish,1.0,Absorb,Grass,20,1.0,False,
+Oddish,1.0,Absorb,Grass,20,1.0,False,
+Oddish,23.0,Acid,Poison,40,1.0,False,
+Oddish,23.0,Acid,Poison,40,1.0,False,
+Oddish,39.0,Petal dance,Grass,70,1.0,False,
+Oddish,39.0,Petal dance,Grass,70,1.0,False,
+Oddish,,Cut,Normal,50,0.95,False,10.0
+Oddish,,Cut,Normal,50,0.95,False,10.0
+Oddish,,Hidden power,Normal,60,1.0,False,29.0
+Oddish,,Hidden power,Normal,60,1.0,False,29.0
+Oddish,,Giga drain,Grass,60,1.0,False,65.0
+Oddish,,Giga drain,Grass,60,1.0,False,65.0
+Oddish,,Return,Normal,102,1.0,False,12.0
+Oddish,,Return,Normal,102,1.0,False,12.0
+Oddish,,Sludge bomb,Poison,90,1.0,False,28.0
+Oddish,,Sludge bomb,Poison,90,1.0,False,28.0
+Gloom,1.0,Absorb,Grass,20,1.0,False,
+Gloom,1.0,Absorb,Grass,20,1.0,False,
+Gloom,24.0,Acid,Poison,40,1.0,False,
+Gloom,24.0,Acid,Poison,40,1.0,False,
+Gloom,44.0,Petal dance,Grass,70,1.0,False,
+Gloom,44.0,Petal dance,Grass,70,1.0,False,
+Gloom,,Cut,Normal,50,0.95,False,10.0
+Gloom,,Cut,Normal,50,0.95,False,10.0
+Gloom,,Hidden power,Normal,60,1.0,False,29.0
+Gloom,,Hidden power,Normal,60,1.0,False,29.0
+Gloom,,Giga drain,Grass,60,1.0,False,65.0
+Gloom,,Giga drain,Grass,60,1.0,False,65.0
+Gloom,,Return,Normal,102,1.0,False,12.0
+Gloom,,Return,Normal,102,1.0,False,12.0
+Gloom,,Sludge bomb,Poison,90,1.0,False,28.0
+Gloom,,Sludge bomb,Poison,90,1.0,False,28.0
+Vileplume,1.0,Absorb,Grass,20,1.0,False,
+Vileplume,1.0,Petal dance,Grass,70,1.0,False,
+Vileplume,,Cut,Normal,50,0.95,False,10.0
+Vileplume,,Hidden power,Normal,60,1.0,False,29.0
+Vileplume,,Hyper beam,Normal,75,0.9,False,65.0
+Vileplume,,Giga drain,Grass,60,1.0,False,65.0
+Vileplume,,Return,Normal,102,1.0,False,12.0
+Vileplume,,Sludge bomb,Poison,90,1.0,False,28.0
+Paras,1.0,Scratch,Normal,40,1.0,False,
+Paras,19.0,Leech life,Bug,20,1.0,False,
+Paras,31.0,Slash,Normal,70,1.0,True,
+Paras,43.0,Giga drain,Grass,60,1.0,False,65.0
+Paras,,Cut,Normal,50,0.95,False,10.0
+Paras,,Rock smash,Fighting,20,1.0,False,12.0
+Paras,,Hidden power,Normal,60,1.0,False,29.0
+Paras,,Return,Normal,102,1.0,False,12.0
+Paras,,Dig,Ground,60,1.0,False,14.0
+Paras,,Sludge bomb,Poison,90,1.0,False,28.0
+Paras,,Thief,Dark,40,1.0,False,30.0
+Paras,,Fury cutter,Bug,10,0.95,False,9.0
+Parasect,1.0,Scratch,Normal,40,1.0,False,
+Parasect,19.0,Leech life,Bug,20,1.0,False,
+Parasect,37.0,Slash,Normal,70,1.0,True,
+Parasect,55.0,Giga drain,Grass,60,1.0,False,65.0
+Parasect,,Cut,Normal,50,0.95,False,10.0
+Parasect,,Rock smash,Fighting,20,1.0,False,12.0
+Parasect,,Hidden power,Normal,60,1.0,False,29.0
+Parasect,,Hyper beam,Normal,75,0.9,False,65.0
+Parasect,,Return,Normal,102,1.0,False,12.0
+Parasect,,Dig,Ground,60,1.0,False,14.0
+Parasect,,Sludge bomb,Poison,90,1.0,False,28.0
+Parasect,,Thief,Dark,40,1.0,False,30.0
+Parasect,,Fury cutter,Bug,10,0.95,False,9.0
+Venonat,1.0,Tackle,Normal,35,0.95,False,
+Venonat,17.0,Confusion,Psychic,50,1.0,False,
+Venonat,25.0,Leech life,Bug,20,1.0,False,
+Venonat,33.0,Psybeam,Psychic,65,1.0,False,
+Venonat,41.0,Psychic,Psychic,90,1.0,False,52.0
+Venonat,,Hidden power,Normal,60,1.0,False,29.0
+Venonat,,Giga drain,Grass,60,1.0,False,65.0
+Venonat,,Return,Normal,102,1.0,False,12.0
+Venonat,,Sludge bomb,Poison,90,1.0,False,28.0
+Venonat,,Swift,Normal,60,1.0,False,7.0
+Venonat,,Thief,Dark,40,1.0,False,30.0
+Venomoth,1.0,Tackle,Normal,35,0.95,False,
+Venomoth,17.0,Confusion,Psychic,50,1.0,False,
+Venomoth,25.0,Leech life,Bug,20,1.0,False,
+Venomoth,31.0,Gust,Flying,40,1.0,False,
+Venomoth,36.0,Psybeam,Psychic,65,1.0,False,
+Venomoth,52.0,Psychic,Psychic,90,1.0,False,52.0
+Venomoth,,Hidden power,Normal,60,1.0,False,29.0
+Venomoth,,Hyper beam,Normal,75,0.9,False,65.0
+Venomoth,,Giga drain,Grass,60,1.0,False,65.0
+Venomoth,,Return,Normal,102,1.0,False,12.0
+Venomoth,,Sludge bomb,Poison,90,1.0,False,28.0
+Venomoth,,Swift,Normal,60,1.0,False,7.0
+Venomoth,,Thief,Dark,40,1.0,False,30.0
+Diglett,1.0,Scratch,Normal,40,1.0,False,
+Diglett,9.0,Magnitude,Ground,71,1.0,False,
+Diglett,17.0,Dig,Ground,60,1.0,False,14.0
+Diglett,33.0,Slash,Normal,70,1.0,True,
+Diglett,41.0,Earthquake,Ground,100,1.0,False,47.0
+Diglett,,Cut,Normal,50,0.95,False,10.0
+Diglett,,Rock smash,Fighting,20,1.0,False,12.0
+Diglett,,Hidden power,Normal,60,1.0,False,29.0
+Diglett,,Return,Normal,102,1.0,False,12.0
+Diglett,,Mud-slap,Ground,20,1.0,False,5.0
+Diglett,,Sludge bomb,Poison,90,1.0,False,28.0
+Diglett,,Thief,Dark,40,1.0,False,30.0
+Dugtrio,1.0,Scratch,Normal,40,1.0,False,
+Dugtrio,1.0,Magnitude,Ground,71,1.0,False,
+Dugtrio,17.0,Dig,Ground,60,1.0,False,14.0
+Dugtrio,37.0,Slash,Normal,70,1.0,True,
+Dugtrio,49.0,Earthquake,Ground,100,1.0,False,47.0
+Dugtrio,,Cut,Normal,50,0.95,False,10.0
+Dugtrio,,Rock smash,Fighting,20,1.0,False,12.0
+Dugtrio,,Hidden power,Normal,60,1.0,False,29.0
+Dugtrio,,Hyper beam,Normal,75,0.9,False,65.0
+Dugtrio,,Return,Normal,102,1.0,False,12.0
+Dugtrio,,Mud-slap,Ground,20,1.0,False,5.0
+Dugtrio,,Sludge bomb,Poison,90,1.0,False,28.0
+Dugtrio,,Thief,Dark,40,1.0,False,30.0
+Dugtrio,1.0,Tri attack,Normal,80,1.0,False,
+Meowth,1.0,Scratch,Normal,40,1.0,False,
+Meowth,11.0,Bite,Dark,60,1.0,False,
+Meowth,20.0,Pay day,Normal,40,1.0,False,
+Meowth,28.0,Faint attack,Dark,60,1.0,False,
+Meowth,41.0,Fury swipes,Normal,54,0.8,False,
+Meowth,46.0,Slash,Normal,70,1.0,True,
+Meowth,,Headbutt,Normal,70,1.0,False,10.0
+Meowth,,Zap cannon,Electric,100,0.5,False,58.0
+Meowth,,Hidden power,Normal,60,1.0,False,29.0
+Meowth,,Icy wind,Ice,55,0.95,False,27.0
+Meowth,,Iron tail,Steel,100,0.75,False,20.0
+Meowth,,Thunder,Electric,120,0.7,False,12.0
+Meowth,,Return,Normal,102,1.0,False,12.0
+Meowth,,Shadow ball,Ghost,80,1.0,False,17.0
+Meowth,,Mud-slap,Ground,20,1.0,False,5.0
+Meowth,,Swift,Normal,60,1.0,False,7.0
+Meowth,,Thief,Dark,40,1.0,False,30.0
+Persian,1.0,Bite,Dark,60,1.0,False,
+Persian,1.0,Scratch,Normal,40,1.0,False,
+Persian,20.0,Pay day,Normal,40,1.0,False,
+Persian,29.0,Faint attack,Dark,60,1.0,False,
+Persian,46.0,Fury swipes,Normal,54,0.8,False,
+Persian,53.0,Slash,Normal,70,1.0,True,
+Persian,,Headbutt,Normal,70,1.0,False,10.0
+Persian,,Zap cannon,Electric,100,0.5,False,58.0
+Persian,,Hidden power,Normal,60,1.0,False,29.0
+Persian,,Hyper beam,Normal,75,0.9,False,65.0
+Persian,,Icy wind,Ice,55,0.95,False,27.0
+Persian,,Iron tail,Steel,100,0.75,False,20.0
+Persian,,Thunder,Electric,120,0.7,False,12.0
+Persian,,Return,Normal,102,1.0,False,12.0
+Persian,,Shadow ball,Ghost,80,1.0,False,17.0
+Persian,,Mud-slap,Ground,20,1.0,False,5.0
+Persian,,Swift,Normal,60,1.0,False,7.0
+Persian,,Thief,Dark,40,1.0,False,30.0
+Psyduck,1.0,Scratch,Normal,40,1.0,False,
+Psyduck,16.0,Confusion,Psychic,50,1.0,False,
+Psyduck,40.0,Fury swipes,Normal,54,0.8,False,
+Psyduck,50.0,Hydro pump,Water,120,0.8,False,
+Psyduck,,Surf,Water,95,1.0,False,17.0
+Psyduck,,Strength,Normal,80,1.0,False,
+Psyduck,,Whirlpool,Water,15,0.7,False,27.0
+Psyduck,,Waterfall,Water,80,1.0,False,36.0
+Psyduck,,Dynamicpunch,Fighting,100,0.5,False,
+Psyduck,,Headbutt,Normal,70,1.0,False,10.0
+Psyduck,,Rock smash,Fighting,20,1.0,False,12.0
+Psyduck,,Hidden power,Normal,60,1.0,False,29.0
+Psyduck,,Blizzard,Ice,120,0.7,False,12.0
+Psyduck,,Icy wind,Ice,55,0.95,False,27.0
+Psyduck,,Iron tail,Steel,100,0.75,False,20.0
+Psyduck,,Return,Normal,102,1.0,False,12.0
+Psyduck,,Dig,Ground,60,1.0,False,14.0
+Psyduck,,Mud-slap,Ground,20,1.0,False,5.0
+Psyduck,,Ice punch,Ice,75,1.0,False,12.0
+Psyduck,,Swift,Normal,60,1.0,False,7.0
+Golduck,1.0,Confusion,Psychic,50,1.0,False,
+Golduck,1.0,Scratch,Normal,40,1.0,False,
+Golduck,44.0,Fury swipes,Normal,54,0.8,False,
+Golduck,58.0,Hydro pump,Water,120,0.8,False,
+Golduck,,Surf,Water,95,1.0,False,17.0
+Golduck,,Strength,Normal,80,1.0,False,
+Golduck,,Whirlpool,Water,15,0.7,False,27.0
+Golduck,,Waterfall,Water,80,1.0,False,36.0
+Golduck,,Dynamicpunch,Fighting,100,0.5,False,
+Golduck,,Headbutt,Normal,70,1.0,False,10.0
+Golduck,,Rock smash,Fighting,20,1.0,False,12.0
+Golduck,,Hidden power,Normal,60,1.0,False,29.0
+Golduck,,Blizzard,Ice,120,0.7,False,12.0
+Golduck,,Hyper beam,Normal,75,0.9,False,65.0
+Golduck,,Icy wind,Ice,55,0.95,False,27.0
+Golduck,,Iron tail,Steel,100,0.75,False,20.0
+Golduck,,Return,Normal,102,1.0,False,12.0
+Golduck,,Dig,Ground,60,1.0,False,14.0
+Golduck,,Mud-slap,Ground,20,1.0,False,5.0
+Golduck,,Ice punch,Ice,75,1.0,False,12.0
+Golduck,,Swift,Normal,60,1.0,False,7.0
+Golduck,,Fury cutter,Bug,10,0.95,False,9.0
+Mankey,1.0,Scratch,Normal,40,1.0,False,
+Mankey,9.0,Low kick,Fighting,50,0.9,False,
+Mankey,15.0,Karate chop,Fighting,50,1.0,True,
+Mankey,21.0,Fury swipes,Normal,54,0.8,False,
+Mankey,39.0,Cross chop,Fighting,100,0.8,True,
+Mankey,51.0,Thrash,Normal,90,1.0,False,
+Mankey,,Strength,Normal,80,1.0,False,
+Mankey,,Dynamicpunch,Fighting,100,0.5,False,
+Mankey,,Headbutt,Normal,70,1.0,False,10.0
+Mankey,,Rock smash,Fighting,20,1.0,False,12.0
+Mankey,,Hidden power,Normal,60,1.0,False,29.0
+Mankey,,Iron tail,Steel,100,0.75,False,20.0
+Mankey,,Thunder,Electric,120,0.7,False,12.0
+Mankey,,Return,Normal,102,1.0,False,12.0
+Mankey,,Dig,Ground,60,1.0,False,14.0
+Mankey,,Mud-slap,Ground,20,1.0,False,5.0
+Mankey,,Ice punch,Ice,75,1.0,False,12.0
+Mankey,,Swift,Normal,60,1.0,False,7.0
+Mankey,,Thunderpunch,Electric,75,1.0,False,
+Mankey,,Thief,Dark,40,1.0,False,30.0
+Mankey,,Fire punch,Fire,75,1.0,False,12.0
+Primeape,1.0,Low kick,Fighting,50,0.9,False,
+Primeape,1.0,Rage,Normal,20,1.0,False,
+Primeape,1.0,Scratch,Normal,40,1.0,False,
+Primeape,15.0,Karate chop,Fighting,50,1.0,True,
+Primeape,21.0,Fury swipes,Normal,54,0.8,False,
+Primeape,45.0,Cross chop,Fighting,100,0.8,True,
+Primeape,63.0,Thrash,Normal,90,1.0,False,
+Primeape,,Strength,Normal,80,1.0,False,
+Primeape,,Dynamicpunch,Fighting,100,0.5,False,
+Primeape,,Headbutt,Normal,70,1.0,False,10.0
+Primeape,,Rock smash,Fighting,20,1.0,False,12.0
+Primeape,,Hidden power,Normal,60,1.0,False,29.0
+Primeape,,Hyper beam,Normal,75,0.9,False,65.0
+Primeape,,Iron tail,Steel,100,0.75,False,20.0
+Primeape,,Thunder,Electric,120,0.7,False,12.0
+Primeape,,Return,Normal,102,1.0,False,12.0
+Primeape,,Dig,Ground,60,1.0,False,14.0
+Primeape,,Mud-slap,Ground,20,1.0,False,5.0
+Primeape,,Ice punch,Ice,75,1.0,False,12.0
+Primeape,,Swift,Normal,60,1.0,False,7.0
+Primeape,,Thunderpunch,Electric,75,1.0,False,
+Primeape,,Thief,Dark,40,1.0,False,30.0
+Primeape,,Fire punch,Fire,75,1.0,False,12.0
+Growlithe,1.0,Bite,Dark,60,1.0,False,
+Growlithe,9.0,Ember,Fire,40,1.0,False,
+Growlithe,34.0,Flame wheel,Fire,60,1.0,False,
+Growlithe,50.0,Flamethrower,Fire,95,1.0,False,
+Growlithe,,Headbutt,Normal,70,1.0,False,10.0
+Growlithe,,Rock smash,Fighting,20,1.0,False,12.0
+Growlithe,,Hidden power,Normal,60,1.0,False,29.0
+Growlithe,,Iron tail,Steel,100,0.75,False,20.0
+Growlithe,,Dragonbreath,Dragon,60,1.0,False,
+Growlithe,,Return,Normal,102,1.0,False,12.0
+Growlithe,,Dig,Ground,60,1.0,False,14.0
+Growlithe,,Fire blast,Fire,120,0.85,False,12.0
+Growlithe,,Swift,Normal,60,1.0,False,7.0
+Arcanine,1.0,Flame wheel,Fire,60,1.0,False,
+Arcanine,50.0,Extremespeed,Normal,80,1.0,False,
+Arcanine,,Headbutt,Normal,70,1.0,False,10.0
+Arcanine,,Rock smash,Fighting,20,1.0,False,12.0
+Arcanine,,Hidden power,Normal,60,1.0,False,29.0
+Arcanine,,Hyper beam,Normal,75,0.9,False,65.0
+Arcanine,,Iron tail,Steel,100,0.75,False,20.0
+Arcanine,,Dragonbreath,Dragon,60,1.0,False,
+Arcanine,,Return,Normal,102,1.0,False,12.0
+Arcanine,,Dig,Ground,60,1.0,False,14.0
+Arcanine,,Fire blast,Fire,120,0.85,False,12.0
+Arcanine,,Swift,Normal,60,1.0,False,7.0
+Poliwag,1.0,Bubble,Water,20,1.0,False,
+Poliwag,1.0,Bubble,Water,20,1.0,False,
+Poliwag,13.0,Water gun,Water,40,1.0,False,
+Poliwag,13.0,Water gun,Water,40,1.0,False,
+Poliwag,19.0,Doubleslap,Normal,45,0.85,False,
+Poliwag,19.0,Doubleslap,Normal,45,0.85,False,
+Poliwag,31.0,Body slam,Normal,85,1.0,False,
+Poliwag,31.0,Body slam,Normal,85,1.0,False,
+Poliwag,43.0,Hydro pump,Water,120,0.8,False,
+Poliwag,43.0,Hydro pump,Water,120,0.8,False,
+Poliwag,,Surf,Water,95,1.0,False,17.0
+Poliwag,,Surf,Water,95,1.0,False,17.0
+Poliwag,,Whirlpool,Water,15,0.7,False,27.0
+Poliwag,,Whirlpool,Water,15,0.7,False,27.0
+Poliwag,,Waterfall,Water,80,1.0,False,36.0
+Poliwag,,Waterfall,Water,80,1.0,False,36.0
+Poliwag,,Headbutt,Normal,70,1.0,False,10.0
+Poliwag,,Headbutt,Normal,70,1.0,False,10.0
+Poliwag,,Hidden power,Normal,60,1.0,False,29.0
+Poliwag,,Hidden power,Normal,60,1.0,False,29.0
+Poliwag,,Blizzard,Ice,120,0.7,False,12.0
+Poliwag,,Blizzard,Ice,120,0.7,False,12.0
+Poliwag,,Icy wind,Ice,55,0.95,False,27.0
+Poliwag,,Icy wind,Ice,55,0.95,False,27.0
+Poliwag,,Return,Normal,102,1.0,False,12.0
+Poliwag,,Return,Normal,102,1.0,False,12.0
+Poliwag,,Psychic,Psychic,90,1.0,False,52.0
+Poliwag,,Psychic,Psychic,90,1.0,False,52.0
+Poliwag,,Thief,Dark,40,1.0,False,30.0
+Poliwag,,Thief,Dark,40,1.0,False,30.0
+Poliwhirl,1.0,Bubble,Water,20,1.0,False,
+Poliwhirl,1.0,Bubble,Water,20,1.0,False,
+Poliwhirl,1.0,Water gun,Water,40,1.0,False,
+Poliwhirl,1.0,Water gun,Water,40,1.0,False,
+Poliwhirl,19.0,Doubleslap,Normal,45,0.85,False,
+Poliwhirl,19.0,Doubleslap,Normal,45,0.85,False,
+Poliwhirl,35.0,Body slam,Normal,85,1.0,False,
+Poliwhirl,35.0,Body slam,Normal,85,1.0,False,
+Poliwhirl,51.0,Hydro pump,Water,120,0.8,False,
+Poliwhirl,51.0,Hydro pump,Water,120,0.8,False,
+Poliwhirl,,Surf,Water,95,1.0,False,17.0
+Poliwhirl,,Surf,Water,95,1.0,False,17.0
+Poliwhirl,,Strength,Normal,80,1.0,False,
+Poliwhirl,,Strength,Normal,80,1.0,False,
+Poliwhirl,,Whirlpool,Water,15,0.7,False,27.0
+Poliwhirl,,Whirlpool,Water,15,0.7,False,27.0
+Poliwhirl,,Waterfall,Water,80,1.0,False,36.0
+Poliwhirl,,Waterfall,Water,80,1.0,False,36.0
+Poliwhirl,,Headbutt,Normal,70,1.0,False,10.0
+Poliwhirl,,Headbutt,Normal,70,1.0,False,10.0
+Poliwhirl,,Rock smash,Fighting,20,1.0,False,12.0
+Poliwhirl,,Rock smash,Fighting,20,1.0,False,12.0
+Poliwhirl,,Hidden power,Normal,60,1.0,False,29.0
+Poliwhirl,,Hidden power,Normal,60,1.0,False,29.0
+Poliwhirl,,Blizzard,Ice,120,0.7,False,12.0
+Poliwhirl,,Blizzard,Ice,120,0.7,False,12.0
+Poliwhirl,,Icy wind,Ice,55,0.95,False,27.0
+Poliwhirl,,Icy wind,Ice,55,0.95,False,27.0
+Poliwhirl,,Earthquake,Ground,100,1.0,False,47.0
+Poliwhirl,,Earthquake,Ground,100,1.0,False,47.0
+Poliwhirl,,Return,Normal,102,1.0,False,12.0
+Poliwhirl,,Return,Normal,102,1.0,False,12.0
+Poliwhirl,,Psychic,Psychic,90,1.0,False,52.0
+Poliwhirl,,Psychic,Psychic,90,1.0,False,52.0
+Poliwhirl,,Mud-slap,Ground,20,1.0,False,5.0
+Poliwhirl,,Mud-slap,Ground,20,1.0,False,5.0
+Poliwhirl,,Ice punch,Ice,75,1.0,False,12.0
+Poliwhirl,,Ice punch,Ice,75,1.0,False,12.0
+Poliwhirl,,Thief,Dark,40,1.0,False,30.0
+Poliwhirl,,Thief,Dark,40,1.0,False,30.0
+Poliwrath,1.0,Doubleslap,Normal,45,0.85,False,
+Poliwrath,1.0,Water gun,Water,40,1.0,False,
+Poliwrath,,Surf,Water,95,1.0,False,17.0
+Poliwrath,,Strength,Normal,80,1.0,False,
+Poliwrath,,Whirlpool,Water,15,0.7,False,27.0
+Poliwrath,,Waterfall,Water,80,1.0,False,36.0
+Poliwrath,,Dynamicpunch,Fighting,100,0.5,False,
+Poliwrath,,Headbutt,Normal,70,1.0,False,10.0
+Poliwrath,,Rock smash,Fighting,20,1.0,False,12.0
+Poliwrath,,Hidden power,Normal,60,1.0,False,29.0
+Poliwrath,,Blizzard,Ice,120,0.7,False,12.0
+Poliwrath,,Hyper beam,Normal,75,0.9,False,65.0
+Poliwrath,,Icy wind,Ice,55,0.95,False,27.0
+Poliwrath,,Earthquake,Ground,100,1.0,False,47.0
+Poliwrath,,Return,Normal,102,1.0,False,12.0
+Poliwrath,,Psychic,Psychic,90,1.0,False,52.0
+Poliwrath,,Mud-slap,Ground,20,1.0,False,5.0
+Poliwrath,,Ice punch,Ice,75,1.0,False,12.0
+Poliwrath,,Thief,Dark,40,1.0,False,30.0
+Abra,0.0,Struggle,Normal,1,1.0,False,
+Abra,,Dynamicpunch,Fighting,100,0.5,False,
+Abra,,Headbutt,Normal,70,1.0,False,10.0
+Abra,,Zap cannon,Electric,100,0.5,False,58.0
+Abra,,Hidden power,Normal,60,1.0,False,29.0
+Abra,,Return,Normal,102,1.0,False,12.0
+Abra,,Psychic,Psychic,90,1.0,False,52.0
+Abra,,Shadow ball,Ghost,80,1.0,False,17.0
+Abra,,Ice punch,Ice,75,1.0,False,12.0
+Abra,,Thunderpunch,Electric,75,1.0,False,
+Abra,,Thief,Dark,40,1.0,False,30.0
+Abra,,Fire punch,Fire,75,1.0,False,12.0
+Kadabra,1.0,Confusion,Psychic,50,1.0,False,
+Kadabra,16.0,Confusion,Psychic,50,1.0,False,
+Kadabra,21.0,Psybeam,Psychic,65,1.0,False,
+Kadabra,31.0,Future sight,Psychic,80,0.9,False,
+Kadabra,38.0,Psychic,Psychic,90,1.0,False,52.0
+Kadabra,,Dynamicpunch,Fighting,100,0.5,False,
+Kadabra,,Headbutt,Normal,70,1.0,False,10.0
+Kadabra,,Zap cannon,Electric,100,0.5,False,58.0
+Kadabra,,Hidden power,Normal,60,1.0,False,29.0
+Kadabra,,Return,Normal,102,1.0,False,12.0
+Kadabra,,Dig,Ground,60,1.0,False,14.0
+Kadabra,,Shadow ball,Ghost,80,1.0,False,17.0
+Kadabra,,Ice punch,Ice,75,1.0,False,12.0
+Kadabra,,Thunderpunch,Electric,75,1.0,False,
+Kadabra,,Thief,Dark,40,1.0,False,30.0
+Kadabra,,Fire punch,Fire,75,1.0,False,12.0
+Alakazam,16.0,Confusion,Psychic,50,1.0,False,
+Alakazam,21.0,Psybeam,Psychic,65,1.0,False,
+Alakazam,31.0,Future sight,Psychic,80,0.9,False,
+Alakazam,38.0,Psychic,Psychic,90,1.0,False,52.0
+Alakazam,,Dynamicpunch,Fighting,100,0.5,False,
+Alakazam,,Headbutt,Normal,70,1.0,False,10.0
+Alakazam,,Zap cannon,Electric,100,0.5,False,58.0
+Alakazam,,Hidden power,Normal,60,1.0,False,29.0
+Alakazam,,Hyper beam,Normal,75,0.9,False,65.0
+Alakazam,,Return,Normal,102,1.0,False,12.0
+Alakazam,,Dig,Ground,60,1.0,False,14.0
+Alakazam,,Shadow ball,Ghost,80,1.0,False,17.0
+Alakazam,,Ice punch,Ice,75,1.0,False,12.0
+Alakazam,,Thunderpunch,Electric,75,1.0,False,
+Alakazam,,Thief,Dark,40,1.0,False,30.0
+Alakazam,,Fire punch,Fire,75,1.0,False,12.0
+Machop,1.0,Low kick,Fighting,50,0.9,False,
+Machop,13.0,Karate chop,Fighting,50,1.0,True,
+Machop,31.0,Vital throw,Fighting,70,1.0,False,
+Machop,37.0,Cross chop,Fighting,100,0.8,True,
+Machop,,Strength,Normal,80,1.0,False,
+Machop,,Dynamicpunch,Fighting,100,0.5,False,
+Machop,,Headbutt,Normal,70,1.0,False,10.0
+Machop,,Rock smash,Fighting,20,1.0,False,12.0
+Machop,,Hidden power,Normal,60,1.0,False,29.0
+Machop,,Earthquake,Ground,100,1.0,False,47.0
+Machop,,Return,Normal,102,1.0,False,12.0
+Machop,,Dig,Ground,60,1.0,False,14.0
+Machop,,Mud-slap,Ground,20,1.0,False,5.0
+Machop,,Ice punch,Ice,75,1.0,False,12.0
+Machop,,Fire blast,Fire,120,0.85,False,12.0
+Machop,,Thunderpunch,Electric,75,1.0,False,
+Machop,,Thief,Dark,40,1.0,False,30.0
+Machop,,Fire punch,Fire,75,1.0,False,12.0
+Machoke,1.0,Low kick,Fighting,50,0.9,False,
+Machoke,15.0,Karate chop,Fighting,50,1.0,True,
+Machoke,34.0,Vital throw,Fighting,70,1.0,False,
+Machoke,43.0,Cross chop,Fighting,100,0.8,True,
+Machoke,,Strength,Normal,80,1.0,False,
+Machoke,,Dynamicpunch,Fighting,100,0.5,False,
+Machoke,,Headbutt,Normal,70,1.0,False,10.0
+Machoke,,Rock smash,Fighting,20,1.0,False,12.0
+Machoke,,Hidden power,Normal,60,1.0,False,29.0
+Machoke,,Earthquake,Ground,100,1.0,False,47.0
+Machoke,,Return,Normal,102,1.0,False,12.0
+Machoke,,Dig,Ground,60,1.0,False,14.0
+Machoke,,Mud-slap,Ground,20,1.0,False,5.0
+Machoke,,Ice punch,Ice,75,1.0,False,12.0
+Machoke,,Fire blast,Fire,120,0.85,False,12.0
+Machoke,,Thunderpunch,Electric,75,1.0,False,
+Machoke,,Thief,Dark,40,1.0,False,30.0
+Machoke,,Fire punch,Fire,75,1.0,False,12.0
+Machamp,1.0,Low kick,Fighting,50,0.9,False,
+Machamp,15.0,Karate chop,Fighting,50,1.0,True,
+Machamp,34.0,Vital throw,Fighting,70,1.0,False,
+Machamp,43.0,Cross chop,Fighting,100,0.8,True,
+Machamp,,Strength,Normal,80,1.0,False,
+Machamp,,Dynamicpunch,Fighting,100,0.5,False,
+Machamp,,Headbutt,Normal,70,1.0,False,10.0
+Machamp,,Rock smash,Fighting,20,1.0,False,12.0
+Machamp,,Hidden power,Normal,60,1.0,False,29.0
+Machamp,,Hyper beam,Normal,75,0.9,False,65.0
+Machamp,,Earthquake,Ground,100,1.0,False,47.0
+Machamp,,Return,Normal,102,1.0,False,12.0
+Machamp,,Dig,Ground,60,1.0,False,14.0
+Machamp,,Mud-slap,Ground,20,1.0,False,5.0
+Machamp,,Ice punch,Ice,75,1.0,False,12.0
+Machamp,,Fire blast,Fire,120,0.85,False,12.0
+Machamp,,Thunderpunch,Electric,75,1.0,False,
+Machamp,,Thief,Dark,40,1.0,False,30.0
+Machamp,,Fire punch,Fire,75,1.0,False,12.0
+Bellsprout,1.0,Vine whip,Grass,35,1.0,False,
+Bellsprout,11.0,Wrap,Normal,15,0.85,False,
+Bellsprout,23.0,Acid,Poison,40,1.0,False,
+Bellsprout,37.0,Razor leaf,Grass,55,0.95,True,
+Bellsprout,45.0,Slam,Normal,80,0.75,False,
+Bellsprout,,Cut,Normal,50,0.95,False,10.0
+Bellsprout,,Hidden power,Normal,60,1.0,False,29.0
+Bellsprout,,Giga drain,Grass,60,1.0,False,65.0
+Bellsprout,,Return,Normal,102,1.0,False,12.0
+Bellsprout,,Sludge bomb,Poison,90,1.0,False,28.0
+Weepinbell,1.0,Vine whip,Grass,35,1.0,False,
+Weepinbell,1.0,Wrap,Normal,15,0.85,False,
+Weepinbell,24.0,Acid,Poison,40,1.0,False,
+Weepinbell,42.0,Razor leaf,Grass,55,0.95,True,
+Weepinbell,54.0,Slam,Normal,80,0.75,False,
+Weepinbell,,Cut,Normal,50,0.95,False,10.0
+Weepinbell,,Hidden power,Normal,60,1.0,False,29.0
+Weepinbell,,Giga drain,Grass,60,1.0,False,65.0
+Weepinbell,,Return,Normal,102,1.0,False,12.0
+Weepinbell,,Sludge bomb,Poison,90,1.0,False,28.0
+Victreebel,1.0,Razor leaf,Grass,55,0.95,True,
+Victreebel,1.0,Vine whip,Grass,35,1.0,False,
+Victreebel,,Cut,Normal,50,0.95,False,10.0
+Victreebel,,Hidden power,Normal,60,1.0,False,29.0
+Victreebel,,Hyper beam,Normal,75,0.9,False,65.0
+Victreebel,,Giga drain,Grass,60,1.0,False,65.0
+Victreebel,,Return,Normal,102,1.0,False,12.0
+Victreebel,,Sludge bomb,Poison,90,1.0,False,28.0
+Tentacool,1.0,Poison sting,Poison,15,1.0,False,
+Tentacool,12.0,Constrict,Normal,10,1.0,False,
+Tentacool,19.0,Acid,Poison,40,1.0,False,
+Tentacool,25.0,Bubblebeam,Water,65,1.0,False,
+Tentacool,30.0,Wrap,Normal,15,0.85,False,
+Tentacool,49.0,Hydro pump,Water,120,0.8,False,
+Tentacool,,Cut,Normal,50,0.95,False,10.0
+Tentacool,,Surf,Water,95,1.0,False,17.0
+Tentacool,,Whirlpool,Water,15,0.7,False,27.0
+Tentacool,,Hidden power,Normal,60,1.0,False,29.0
+Tentacool,,Blizzard,Ice,120,0.7,False,12.0
+Tentacool,,Icy wind,Ice,55,0.95,False,27.0
+Tentacool,,Giga drain,Grass,60,1.0,False,65.0
+Tentacool,,Return,Normal,102,1.0,False,12.0
+Tentacool,,Sludge bomb,Poison,90,1.0,False,28.0
+Tentacruel,1.0,Constrict,Normal,10,1.0,False,
+Tentacruel,1.0,Poison sting,Poison,15,1.0,False,
+Tentacruel,19.0,Acid,Poison,40,1.0,False,
+Tentacruel,25.0,Bubblebeam,Water,65,1.0,False,
+Tentacruel,30.0,Wrap,Normal,15,0.85,False,
+Tentacruel,55.0,Hydro pump,Water,120,0.8,False,
+Tentacruel,,Cut,Normal,50,0.95,False,10.0
+Tentacruel,,Surf,Water,95,1.0,False,17.0
+Tentacruel,,Whirlpool,Water,15,0.7,False,27.0
+Tentacruel,,Hidden power,Normal,60,1.0,False,29.0
+Tentacruel,,Blizzard,Ice,120,0.7,False,12.0
+Tentacruel,,Hyper beam,Normal,75,0.9,False,65.0
+Tentacruel,,Icy wind,Ice,55,0.95,False,27.0
+Tentacruel,,Giga drain,Grass,60,1.0,False,65.0
+Tentacruel,,Return,Normal,102,1.0,False,12.0
+Tentacruel,,Sludge bomb,Poison,90,1.0,False,28.0
+Geodude,1.0,Tackle,Normal,35,0.95,False,
+Geodude,11.0,Rock throw,Rock,50,0.9,False,
+Geodude,16.0,Magnitude,Ground,71,1.0,False,
+Geodude,31.0,Rollout,Rock,30,0.9,False,13.0
+Geodude,36.0,Earthquake,Ground,100,1.0,False,47.0
+Geodude,,Strength,Normal,80,1.0,False,
+Geodude,,Dynamicpunch,Fighting,100,0.5,False,
+Geodude,,Headbutt,Normal,70,1.0,False,10.0
+Geodude,,Rock smash,Fighting,20,1.0,False,12.0
+Geodude,,Hidden power,Normal,60,1.0,False,29.0
+Geodude,,Return,Normal,102,1.0,False,12.0
+Geodude,,Dig,Ground,60,1.0,False,14.0
+Geodude,,Mud-slap,Ground,20,1.0,False,5.0
+Geodude,,Fire blast,Fire,120,0.85,False,12.0
+Geodude,,Fire punch,Fire,75,1.0,False,12.0
+Graveler,1.0,Rock throw,Rock,50,0.9,False,
+Graveler,1.0,Tackle,Normal,35,0.95,False,
+Graveler,16.0,Magnitude,Ground,71,1.0,False,
+Graveler,34.0,Rollout,Rock,30,0.9,False,13.0
+Graveler,41.0,Earthquake,Ground,100,1.0,False,47.0
+Graveler,,Strength,Normal,80,1.0,False,
+Graveler,,Dynamicpunch,Fighting,100,0.5,False,
+Graveler,,Headbutt,Normal,70,1.0,False,10.0
+Graveler,,Rock smash,Fighting,20,1.0,False,12.0
+Graveler,,Hidden power,Normal,60,1.0,False,29.0
+Graveler,,Return,Normal,102,1.0,False,12.0
+Graveler,,Dig,Ground,60,1.0,False,14.0
+Graveler,,Mud-slap,Ground,20,1.0,False,5.0
+Graveler,,Fire blast,Fire,120,0.85,False,12.0
+Graveler,,Fire punch,Fire,75,1.0,False,12.0
+Golem,1.0,Rock throw,Rock,50,0.9,False,
+Golem,1.0,Tackle,Normal,35,0.95,False,
+Golem,16.0,Magnitude,Ground,71,1.0,False,
+Golem,34.0,Rollout,Rock,30,0.9,False,13.0
+Golem,41.0,Earthquake,Ground,100,1.0,False,47.0
+Golem,,Strength,Normal,80,1.0,False,
+Golem,,Dynamicpunch,Fighting,100,0.5,False,
+Golem,,Headbutt,Normal,70,1.0,False,10.0
+Golem,,Rock smash,Fighting,20,1.0,False,12.0
+Golem,,Hidden power,Normal,60,1.0,False,29.0
+Golem,,Hyper beam,Normal,75,0.9,False,65.0
+Golem,,Return,Normal,102,1.0,False,12.0
+Golem,,Dig,Ground,60,1.0,False,14.0
+Golem,,Mud-slap,Ground,20,1.0,False,5.0
+Golem,,Fire blast,Fire,120,0.85,False,12.0
+Golem,,Fire punch,Fire,75,1.0,False,12.0
+Golem,,Fury cutter,Bug,10,0.95,False,9.0
+Ponyta,1.0,Tackle,Normal,35,0.95,False,
+Ponyta,13.0,Ember,Fire,40,1.0,False,
+Ponyta,19.0,Stomp,Normal,65,1.0,False,
+Ponyta,26.0,Fire spin,Fire,15,0.7,False,
+Ponyta,53.0,Fire blast,Fire,120,0.85,False,12.0
+Ponyta,,Headbutt,Normal,70,1.0,False,10.0
+Ponyta,,Hidden power,Normal,60,1.0,False,29.0
+Ponyta,,Iron tail,Steel,100,0.75,False,20.0
+Ponyta,,Return,Normal,102,1.0,False,12.0
+Ponyta,,Swift,Normal,60,1.0,False,7.0
+Rapidash,1.0,Ember,Fire,40,1.0,False,
+Rapidash,1.0,Tackle,Normal,35,0.95,False,
+Rapidash,19.0,Stomp,Normal,65,1.0,False,
+Rapidash,26.0,Fire spin,Fire,15,0.7,False,
+Rapidash,40.0,Fury attack,Normal,45,0.85,False,
+Rapidash,61.0,Fire blast,Fire,120,0.85,False,12.0
+Rapidash,,Headbutt,Normal,70,1.0,False,10.0
+Rapidash,,Hidden power,Normal,60,1.0,False,29.0
+Rapidash,,Hyper beam,Normal,75,0.9,False,65.0
+Rapidash,,Iron tail,Steel,100,0.75,False,20.0
+Rapidash,,Return,Normal,102,1.0,False,12.0
+Rapidash,,Swift,Normal,60,1.0,False,7.0
+Slowpoke,1.0,Tackle,Normal,35,0.95,False,
+Slowpoke,1.0,Tackle,Normal,35,0.95,False,
+Slowpoke,15.0,Water gun,Water,40,1.0,False,
+Slowpoke,15.0,Water gun,Water,40,1.0,False,
+Slowpoke,20.0,Confusion,Psychic,50,1.0,False,
+Slowpoke,20.0,Confusion,Psychic,50,1.0,False,
+Slowpoke,34.0,Headbutt,Normal,70,1.0,False,10.0
+Slowpoke,34.0,Headbutt,Normal,70,1.0,False,10.0
+Slowpoke,48.0,Psychic,Psychic,90,1.0,False,52.0
+Slowpoke,48.0,Psychic,Psychic,90,1.0,False,52.0
+Slowpoke,,Surf,Water,95,1.0,False,17.0
+Slowpoke,,Surf,Water,95,1.0,False,17.0
+Slowpoke,,Strength,Normal,80,1.0,False,
+Slowpoke,,Strength,Normal,80,1.0,False,
+Slowpoke,,Zap cannon,Electric,100,0.5,False,58.0
+Slowpoke,,Zap cannon,Electric,100,0.5,False,58.0
+Slowpoke,,Hidden power,Normal,60,1.0,False,29.0
+Slowpoke,,Hidden power,Normal,60,1.0,False,29.0
+Slowpoke,,Blizzard,Ice,120,0.7,False,12.0
+Slowpoke,,Blizzard,Ice,120,0.7,False,12.0
+Slowpoke,,Icy wind,Ice,55,0.95,False,27.0
+Slowpoke,,Icy wind,Ice,55,0.95,False,27.0
+Slowpoke,,Iron tail,Steel,100,0.75,False,20.0
+Slowpoke,,Iron tail,Steel,100,0.75,False,20.0
+Slowpoke,,Earthquake,Ground,100,1.0,False,47.0
+Slowpoke,,Earthquake,Ground,100,1.0,False,47.0
+Slowpoke,,Return,Normal,102,1.0,False,12.0
+Slowpoke,,Return,Normal,102,1.0,False,12.0
+Slowpoke,,Dig,Ground,60,1.0,False,14.0
+Slowpoke,,Dig,Ground,60,1.0,False,14.0
+Slowpoke,,Shadow ball,Ghost,80,1.0,False,17.0
+Slowpoke,,Shadow ball,Ghost,80,1.0,False,17.0
+Slowpoke,,Mud-slap,Ground,20,1.0,False,5.0
+Slowpoke,,Mud-slap,Ground,20,1.0,False,5.0
+Slowpoke,,Fire blast,Fire,120,0.85,False,12.0
+Slowpoke,,Fire blast,Fire,120,0.85,False,12.0
+Slowpoke,,Swift,Normal,60,1.0,False,7.0
+Slowpoke,,Swift,Normal,60,1.0,False,7.0
+Slowbro,1.0,Tackle,Normal,35,0.95,False,
+Slowbro,1.0,Tackle,Normal,35,0.95,False,
+Slowbro,1.0,Water gun,Water,40,1.0,False,
+Slowbro,1.0,Water gun,Water,40,1.0,False,
+Slowbro,20.0,Confusion,Psychic,50,1.0,False,
+Slowbro,20.0,Confusion,Psychic,50,1.0,False,
+Slowbro,34.0,Headbutt,Normal,70,1.0,False,10.0
+Slowbro,34.0,Headbutt,Normal,70,1.0,False,10.0
+Slowbro,54.0,Psychic,Psychic,90,1.0,False,52.0
+Slowbro,54.0,Psychic,Psychic,90,1.0,False,52.0
+Slowbro,,Surf,Water,95,1.0,False,17.0
+Slowbro,,Surf,Water,95,1.0,False,17.0
+Slowbro,,Strength,Normal,80,1.0,False,
+Slowbro,,Strength,Normal,80,1.0,False,
+Slowbro,,Dynamicpunch,Fighting,100,0.5,False,
+Slowbro,,Dynamicpunch,Fighting,100,0.5,False,
+Slowbro,,Zap cannon,Electric,100,0.5,False,58.0
+Slowbro,,Zap cannon,Electric,100,0.5,False,58.0
+Slowbro,,Rock smash,Fighting,20,1.0,False,12.0
+Slowbro,,Rock smash,Fighting,20,1.0,False,12.0
+Slowbro,,Hidden power,Normal,60,1.0,False,29.0
+Slowbro,,Hidden power,Normal,60,1.0,False,29.0
+Slowbro,,Blizzard,Ice,120,0.7,False,12.0
+Slowbro,,Blizzard,Ice,120,0.7,False,12.0
+Slowbro,,Hyper beam,Normal,75,0.9,False,65.0
+Slowbro,,Hyper beam,Normal,75,0.9,False,65.0
+Slowbro,,Icy wind,Ice,55,0.95,False,27.0
+Slowbro,,Icy wind,Ice,55,0.95,False,27.0
+Slowbro,,Iron tail,Steel,100,0.75,False,20.0
+Slowbro,,Iron tail,Steel,100,0.75,False,20.0
+Slowbro,,Earthquake,Ground,100,1.0,False,47.0
+Slowbro,,Earthquake,Ground,100,1.0,False,47.0
+Slowbro,,Return,Normal,102,1.0,False,12.0
+Slowbro,,Return,Normal,102,1.0,False,12.0
+Slowbro,,Dig,Ground,60,1.0,False,14.0
+Slowbro,,Dig,Ground,60,1.0,False,14.0
+Slowbro,,Shadow ball,Ghost,80,1.0,False,17.0
+Slowbro,,Shadow ball,Ghost,80,1.0,False,17.0
+Slowbro,,Mud-slap,Ground,20,1.0,False,5.0
+Slowbro,,Mud-slap,Ground,20,1.0,False,5.0
+Slowbro,,Ice punch,Ice,75,1.0,False,12.0
+Slowbro,,Ice punch,Ice,75,1.0,False,12.0
+Slowbro,,Fire blast,Fire,120,0.85,False,12.0
+Slowbro,,Fire blast,Fire,120,0.85,False,12.0
+Slowbro,,Swift,Normal,60,1.0,False,7.0
+Slowbro,,Swift,Normal,60,1.0,False,7.0
+Slowbro,,Fury cutter,Bug,10,0.95,False,9.0
+Slowbro,,Fury cutter,Bug,10,0.95,False,9.0
+Magnemite,1.0,Tackle,Normal,35,0.95,False,
+Magnemite,6.0,Thundershock,Electric,40,1.0,False,
+Magnemite,33.0,Swift,Normal,60,1.0,False,7.0
+Magnemite,45.0,Zap cannon,Electric,100,0.5,False,58.0
+Magnemite,,Rollout,Rock,30,0.9,False,13.0
+Magnemite,,Hidden power,Normal,60,1.0,False,29.0
+Magnemite,,Thunder,Electric,120,0.7,False,12.0
+Magnemite,,Return,Normal,102,1.0,False,12.0
+Magneton,1.0,Tackle,Normal,35,0.95,False,
+Magneton,1.0,Thundershock,Electric,40,1.0,False,
+Magneton,35.0,Swift,Normal,60,1.0,False,7.0
+Magneton,53.0,Zap cannon,Electric,100,0.5,False,58.0
+Magneton,,Rollout,Rock,30,0.9,False,13.0
+Magneton,,Hidden power,Normal,60,1.0,False,29.0
+Magneton,,Hyper beam,Normal,75,0.9,False,65.0
+Magneton,,Thunder,Electric,120,0.7,False,12.0
+Magneton,,Return,Normal,102,1.0,False,12.0
+Magneton,35.0,Tri attack,Normal,80,1.0,False,
+Farfetchd,1.0,Peck,Flying,35,1.0,False,
+Farfetchd,19.0,Fury attack,Normal,45,0.85,False,
+Farfetchd,37.0,Slash,Normal,70,1.0,True,
+Farfetchd,44.0,False swipe,Normal,40,1.0,False,
+Farfetchd,,Cut,Normal,50,0.95,False,10.0
+Farfetchd,,Fly,Flying,70,0.95,False,23.0
+Farfetchd,,Headbutt,Normal,70,1.0,False,10.0
+Farfetchd,,Hidden power,Normal,60,1.0,False,29.0
+Farfetchd,,Iron tail,Steel,100,0.75,False,20.0
+Farfetchd,,Return,Normal,102,1.0,False,12.0
+Farfetchd,,Mud-slap,Ground,20,1.0,False,5.0
+Farfetchd,,Swift,Normal,60,1.0,False,7.0
+Farfetchd,,Thief,Dark,40,1.0,False,30.0
+Farfetchd,,Steel wing,Steel,70,0.9,False,
+Doduo,1.0,Peck,Flying,35,1.0,False,
+Doduo,9.0,Pursuit,Dark,40,1.0,False,
+Doduo,13.0,Fury attack,Normal,45,0.85,False,
+Doduo,21.0,Tri attack,Normal,80,1.0,False,
+Doduo,25.0,Rage,Normal,20,1.0,False,
+Doduo,33.0,Drill peck,Flying,80,1.0,False,
+Doduo,,Fly,Flying,70,0.95,False,23.0
+Doduo,,Hidden power,Normal,60,1.0,False,29.0
+Doduo,,Return,Normal,102,1.0,False,12.0
+Doduo,,Mud-slap,Ground,20,1.0,False,5.0
+Doduo,,Swift,Normal,60,1.0,False,7.0
+Doduo,,Thief,Dark,40,1.0,False,30.0
+Doduo,,Steel wing,Steel,70,0.9,False,
+Dodrio,1.0,Fury attack,Normal,45,0.85,False,
+Dodrio,1.0,Peck,Flying,35,1.0,False,
+Dodrio,1.0,Pursuit,Dark,40,1.0,False,
+Dodrio,21.0,Tri attack,Normal,80,1.0,False,
+Dodrio,25.0,Rage,Normal,20,1.0,False,
+Dodrio,38.0,Drill peck,Flying,80,1.0,False,
+Dodrio,,Fly,Flying,70,0.95,False,23.0
+Dodrio,,Hidden power,Normal,60,1.0,False,29.0
+Dodrio,,Hyper beam,Normal,75,0.9,False,65.0
+Dodrio,,Return,Normal,102,1.0,False,12.0
+Dodrio,,Mud-slap,Ground,20,1.0,False,5.0
+Dodrio,,Swift,Normal,60,1.0,False,7.0
+Dodrio,,Thief,Dark,40,1.0,False,30.0
+Dodrio,,Steel wing,Steel,70,0.9,False,
+Seel,1.0,Headbutt,Normal,70,1.0,False,10.0
+Seel,16.0,Aurora beam,Ice,65,1.0,False,
+Seel,37.0,Ice beam,Ice,95,1.0,False,
+Seel,,Surf,Water,95,1.0,False,17.0
+Seel,,Whirlpool,Water,15,0.7,False,27.0
+Seel,,Waterfall,Water,80,1.0,False,36.0
+Seel,,Hidden power,Normal,60,1.0,False,29.0
+Seel,,Blizzard,Ice,120,0.7,False,12.0
+Seel,,Icy wind,Ice,55,0.95,False,27.0
+Seel,,Return,Normal,102,1.0,False,12.0
+Dewgong,1.0,Aurora beam,Ice,65,1.0,False,
+Dewgong,1.0,Headbutt,Normal,70,1.0,False,10.0
+Dewgong,43.0,Ice beam,Ice,95,1.0,False,
+Dewgong,,Surf,Water,95,1.0,False,17.0
+Dewgong,,Whirlpool,Water,15,0.7,False,27.0
+Dewgong,,Waterfall,Water,80,1.0,False,36.0
+Dewgong,,Hidden power,Normal,60,1.0,False,29.0
+Dewgong,,Blizzard,Ice,120,0.7,False,12.0
+Dewgong,,Hyper beam,Normal,75,0.9,False,65.0
+Dewgong,,Icy wind,Ice,55,0.95,False,27.0
+Dewgong,,Return,Normal,102,1.0,False,12.0
+Grimer,1.0,Pound,Normal,40,1.0,False,
+Grimer,16.0,Sludge,Poison,65,1.0,False,
+Grimer,50.0,Sludge bomb,Poison,90,1.0,False,28.0
+Grimer,,Dynamicpunch,Fighting,100,0.5,False,
+Grimer,,Zap cannon,Electric,100,0.5,False,58.0
+Grimer,,Hidden power,Normal,60,1.0,False,29.0
+Grimer,,Giga drain,Grass,60,1.0,False,65.0
+Grimer,,Thunder,Electric,120,0.7,False,12.0
+Grimer,,Return,Normal,102,1.0,False,12.0
+Grimer,,Mud-slap,Ground,20,1.0,False,5.0
+Grimer,,Ice punch,Ice,75,1.0,False,12.0
+Grimer,,Fire blast,Fire,120,0.85,False,12.0
+Grimer,,Thunderpunch,Electric,75,1.0,False,
+Grimer,,Thief,Dark,40,1.0,False,30.0
+Grimer,,Fire punch,Fire,75,1.0,False,12.0
+Muk,1.0,Pound,Normal,40,1.0,False,
+Muk,45.0,Sludge,Poison,65,1.0,False,
+Muk,60.0,Sludge bomb,Poison,90,1.0,False,28.0
+Muk,,Dynamicpunch,Fighting,100,0.5,False,
+Muk,,Zap cannon,Electric,100,0.5,False,58.0
+Muk,,Hidden power,Normal,60,1.0,False,29.0
+Muk,,Hyper beam,Normal,75,0.9,False,65.0
+Muk,,Giga drain,Grass,60,1.0,False,65.0
+Muk,,Thunder,Electric,120,0.7,False,12.0
+Muk,,Return,Normal,102,1.0,False,12.0
+Muk,,Mud-slap,Ground,20,1.0,False,5.0
+Muk,,Ice punch,Ice,75,1.0,False,12.0
+Muk,,Fire blast,Fire,120,0.85,False,12.0
+Muk,,Thunderpunch,Electric,75,1.0,False,
+Muk,,Thief,Dark,40,1.0,False,30.0
+Muk,,Fire punch,Fire,75,1.0,False,12.0
+Shellder,1.0,Tackle,Normal,35,0.95,False,
+Shellder,17.0,Aurora beam,Ice,65,1.0,False,
+Shellder,41.0,Clamp,Water,35,0.75,False,
+Shellder,49.0,Ice beam,Ice,95,1.0,False,
+Shellder,,Surf,Water,95,1.0,False,17.0
+Shellder,,Whirlpool,Water,15,0.7,False,27.0
+Shellder,,Hidden power,Normal,60,1.0,False,29.0
+Shellder,,Blizzard,Ice,120,0.7,False,12.0
+Shellder,,Icy wind,Ice,55,0.95,False,27.0
+Shellder,,Return,Normal,102,1.0,False,12.0
+Shellder,,Swift,Normal,60,1.0,False,7.0
+Cloyster,1.0,Aurora beam,Ice,65,1.0,False,
+Cloyster,41.0,Spike cannon,Normal,60,1.0,False,
+Cloyster,,Surf,Water,95,1.0,False,17.0
+Cloyster,,Whirlpool,Water,15,0.7,False,27.0
+Cloyster,,Hidden power,Normal,60,1.0,False,29.0
+Cloyster,,Blizzard,Ice,120,0.7,False,12.0
+Cloyster,,Hyper beam,Normal,75,0.9,False,65.0
+Cloyster,,Icy wind,Ice,55,0.95,False,27.0
+Cloyster,,Return,Normal,102,1.0,False,12.0
+Cloyster,,Swift,Normal,60,1.0,False,7.0
+Gastly,1.0,Lick,Ghost,20,1.0,False,
+Gastly,,Zap cannon,Electric,100,0.5,False,58.0
+Gastly,,Hidden power,Normal,60,1.0,False,29.0
+Gastly,,Giga drain,Grass,60,1.0,False,65.0
+Gastly,,Thunder,Electric,120,0.7,False,12.0
+Gastly,,Return,Normal,102,1.0,False,12.0
+Gastly,,Psychic,Psychic,90,1.0,False,52.0
+Gastly,,Shadow ball,Ghost,80,1.0,False,17.0
+Gastly,,Thief,Dark,40,1.0,False,30.0
+Haunter,1.0,Lick,Ghost,20,1.0,False,
+Haunter,,Zap cannon,Electric,100,0.5,False,58.0
+Haunter,,Hidden power,Normal,60,1.0,False,29.0
+Haunter,,Giga drain,Grass,60,1.0,False,65.0
+Haunter,,Thunder,Electric,120,0.7,False,12.0
+Haunter,,Return,Normal,102,1.0,False,12.0
+Haunter,,Psychic,Psychic,90,1.0,False,52.0
+Haunter,,Shadow ball,Ghost,80,1.0,False,17.0
+Haunter,,Thief,Dark,40,1.0,False,30.0
+Gengar,1.0,Lick,Ghost,20,1.0,False,
+Gengar,,Strength,Normal,80,1.0,False,
+Gengar,,Dynamicpunch,Fighting,100,0.5,False,
+Gengar,,Headbutt,Normal,70,1.0,False,10.0
+Gengar,,Zap cannon,Electric,100,0.5,False,58.0
+Gengar,,Rock smash,Fighting,20,1.0,False,12.0
+Gengar,,Hidden power,Normal,60,1.0,False,29.0
+Gengar,,Hyper beam,Normal,75,0.9,False,65.0
+Gengar,,Giga drain,Grass,60,1.0,False,65.0
+Gengar,,Thunder,Electric,120,0.7,False,12.0
+Gengar,,Return,Normal,102,1.0,False,12.0
+Gengar,,Psychic,Psychic,90,1.0,False,52.0
+Gengar,,Shadow ball,Ghost,80,1.0,False,17.0
+Gengar,,Ice punch,Ice,75,1.0,False,12.0
+Gengar,,Thunderpunch,Electric,75,1.0,False,
+Gengar,,Thief,Dark,40,1.0,False,30.0
+Gengar,,Fire punch,Fire,75,1.0,False,12.0
+Onix,1.0,Tackle,Normal,35,0.95,False,
+Onix,10.0,Bind,Normal,15,0.75,False,
+Onix,14.0,Rock throw,Rock,50,0.9,False,
+Onix,27.0,Rage,Normal,20,1.0,False,
+Onix,40.0,Slam,Normal,80,0.75,False,
+Onix,,Strength,Normal,80,1.0,False,
+Onix,,Headbutt,Normal,70,1.0,False,10.0
+Onix,,Rock smash,Fighting,20,1.0,False,12.0
+Onix,,Hidden power,Normal,60,1.0,False,29.0
+Onix,,Iron tail,Steel,100,0.75,False,20.0
+Onix,,Earthquake,Ground,100,1.0,False,47.0
+Onix,,Return,Normal,102,1.0,False,12.0
+Onix,,Dig,Ground,60,1.0,False,14.0
+Onix,,Mud-slap,Ground,20,1.0,False,5.0
+Drowzee,1.0,Pound,Normal,40,1.0,False,
+Drowzee,18.0,Confusion,Psychic,50,1.0,False,
+Drowzee,25.0,Headbutt,Normal,70,1.0,False,10.0
+Drowzee,40.0,Psychic,Psychic,90,1.0,False,52.0
+Drowzee,45.0,Future sight,Psychic,80,0.9,False,
+Drowzee,,Dynamicpunch,Fighting,100,0.5,False,
+Drowzee,,Zap cannon,Electric,100,0.5,False,58.0
+Drowzee,,Hidden power,Normal,60,1.0,False,29.0
+Drowzee,,Return,Normal,102,1.0,False,12.0
+Drowzee,,Shadow ball,Ghost,80,1.0,False,17.0
+Drowzee,,Ice punch,Ice,75,1.0,False,12.0
+Drowzee,,Thunderpunch,Electric,75,1.0,False,
+Drowzee,,Fire punch,Fire,75,1.0,False,12.0
+Hypno,1.0,Confusion,Psychic,50,1.0,False,
+Hypno,1.0,Pound,Normal,40,1.0,False,
+Hypno,25.0,Headbutt,Normal,70,1.0,False,10.0
+Hypno,49.0,Psychic,Psychic,90,1.0,False,52.0
+Hypno,60.0,Future sight,Psychic,80,0.9,False,
+Hypno,,Dynamicpunch,Fighting,100,0.5,False,
+Hypno,,Zap cannon,Electric,100,0.5,False,58.0
+Hypno,,Hidden power,Normal,60,1.0,False,29.0
+Hypno,,Hyper beam,Normal,75,0.9,False,65.0
+Hypno,,Return,Normal,102,1.0,False,12.0
+Hypno,,Shadow ball,Ghost,80,1.0,False,17.0
+Hypno,,Ice punch,Ice,75,1.0,False,12.0
+Hypno,,Thunderpunch,Electric,75,1.0,False,
+Hypno,,Fire punch,Fire,75,1.0,False,12.0
+Krabby,1.0,Bubble,Water,20,1.0,False,
+Krabby,12.0,Vicegrip,Normal,55,1.0,False,
+Krabby,23.0,Stomp,Normal,65,1.0,False,
+Krabby,41.0,Crabhammer,Water,90,0.85,True,
+Krabby,,Cut,Normal,50,0.95,False,10.0
+Krabby,,Surf,Water,95,1.0,False,17.0
+Krabby,,Strength,Normal,80,1.0,False,
+Krabby,,Whirlpool,Water,15,0.7,False,27.0
+Krabby,,Rock smash,Fighting,20,1.0,False,12.0
+Krabby,,Hidden power,Normal,60,1.0,False,29.0
+Krabby,,Blizzard,Ice,120,0.7,False,12.0
+Krabby,,Icy wind,Ice,55,0.95,False,27.0
+Krabby,,Return,Normal,102,1.0,False,12.0
+Krabby,,Mud-slap,Ground,20,1.0,False,5.0
+Krabby,,Thief,Dark,40,1.0,False,30.0
+Krabby,,Fury cutter,Bug,10,0.95,False,9.0
+Kingler,1.0,Bubble,Water,20,1.0,False,
+Kingler,1.0,Vicegrip,Normal,55,1.0,False,
+Kingler,23.0,Stomp,Normal,65,1.0,False,
+Kingler,49.0,Crabhammer,Water,90,0.85,True,
+Kingler,,Cut,Normal,50,0.95,False,10.0
+Kingler,,Surf,Water,95,1.0,False,17.0
+Kingler,,Strength,Normal,80,1.0,False,
+Kingler,,Whirlpool,Water,15,0.7,False,27.0
+Kingler,,Rock smash,Fighting,20,1.0,False,12.0
+Kingler,,Hidden power,Normal,60,1.0,False,29.0
+Kingler,,Blizzard,Ice,120,0.7,False,12.0
+Kingler,,Hyper beam,Normal,75,0.9,False,65.0
+Kingler,,Icy wind,Ice,55,0.95,False,27.0
+Kingler,,Return,Normal,102,1.0,False,12.0
+Kingler,,Mud-slap,Ground,20,1.0,False,5.0
+Kingler,,Thief,Dark,40,1.0,False,30.0
+Kingler,,Fury cutter,Bug,10,0.95,False,9.0
+Voltorb,1.0,Tackle,Normal,35,0.95,False,
+Voltorb,29.0,Rollout,Rock,30,0.9,False,13.0
+Voltorb,37.0,Swift,Normal,60,1.0,False,7.0
+Voltorb,,Headbutt,Normal,70,1.0,False,10.0
+Voltorb,,Zap cannon,Electric,100,0.5,False,58.0
+Voltorb,,Hidden power,Normal,60,1.0,False,29.0
+Voltorb,,Thunder,Electric,120,0.7,False,12.0
+Voltorb,,Return,Normal,102,1.0,False,12.0
+Electrode,1.0,Tackle,Normal,35,0.95,False,
+Electrode,29.0,Rollout,Rock,30,0.9,False,13.0
+Electrode,40.0,Swift,Normal,60,1.0,False,7.0
+Electrode,,Headbutt,Normal,70,1.0,False,10.0
+Electrode,,Zap cannon,Electric,100,0.5,False,58.0
+Electrode,,Hidden power,Normal,60,1.0,False,29.0
+Electrode,,Hyper beam,Normal,75,0.9,False,65.0
+Electrode,,Thunder,Electric,120,0.7,False,12.0
+Electrode,,Return,Normal,102,1.0,False,12.0
+Exeggcute,1.0,Barrage,Normal,45,0.85,False,
+Exeggcute,19.0,Confusion,Psychic,50,1.0,False,
+Exeggcute,,Strength,Normal,80,1.0,False,
+Exeggcute,,Rollout,Rock,30,0.9,False,13.0
+Exeggcute,,Hidden power,Normal,60,1.0,False,29.0
+Exeggcute,,Giga drain,Grass,60,1.0,False,65.0
+Exeggcute,,Return,Normal,102,1.0,False,12.0
+Exeggcute,,Psychic,Psychic,90,1.0,False,52.0
+Exeggcute,,Sludge bomb,Poison,90,1.0,False,28.0
+Exeggcute,,Thief,Dark,40,1.0,False,30.0
+Exeggutor,1.0,Barrage,Normal,45,0.85,False,
+Exeggutor,1.0,Confusion,Psychic,50,1.0,False,
+Exeggutor,19.0,Stomp,Normal,65,1.0,False,
+Exeggutor,31.0,Egg bomb,Normal,100,0.75,False,
+Exeggutor,,Strength,Normal,80,1.0,False,
+Exeggutor,,Headbutt,Normal,70,1.0,False,10.0
+Exeggutor,,Rollout,Rock,30,0.9,False,13.0
+Exeggutor,,Hidden power,Normal,60,1.0,False,29.0
+Exeggutor,,Hyper beam,Normal,75,0.9,False,65.0
+Exeggutor,,Giga drain,Grass,60,1.0,False,65.0
+Exeggutor,,Return,Normal,102,1.0,False,12.0
+Exeggutor,,Psychic,Psychic,90,1.0,False,52.0
+Exeggutor,,Sludge bomb,Poison,90,1.0,False,28.0
+Exeggutor,,Thief,Dark,40,1.0,False,30.0
+Cubone,9.0,Bone club,Ground,65,0.85,False,
+Cubone,13.0,Headbutt,Normal,70,1.0,False,10.0
+Cubone,25.0,Bonemerang,Ground,100,0.9,False,
+Cubone,29.0,Rage,Normal,20,1.0,False,
+Cubone,33.0,False swipe,Normal,40,1.0,False,
+Cubone,37.0,Thrash,Normal,90,1.0,False,
+Cubone,41.0,Bone rush,Ground,75,0.8,False,
+Cubone,,Strength,Normal,80,1.0,False,
+Cubone,,Dynamicpunch,Fighting,100,0.5,False,
+Cubone,,Rock smash,Fighting,20,1.0,False,12.0
+Cubone,,Hidden power,Normal,60,1.0,False,29.0
+Cubone,,Blizzard,Ice,120,0.7,False,12.0
+Cubone,,Icy wind,Ice,55,0.95,False,27.0
+Cubone,,Iron tail,Steel,100,0.75,False,20.0
+Cubone,,Earthquake,Ground,100,1.0,False,47.0
+Cubone,,Return,Normal,102,1.0,False,12.0
+Cubone,,Dig,Ground,60,1.0,False,14.0
+Cubone,,Mud-slap,Ground,20,1.0,False,5.0
+Cubone,,Fire blast,Fire,120,0.85,False,12.0
+Cubone,,Thunderpunch,Electric,75,1.0,False,
+Cubone,,Thief,Dark,40,1.0,False,30.0
+Cubone,,Fire punch,Fire,75,1.0,False,12.0
+Marowak,1.0,Bone club,Ground,65,0.85,False,
+Marowak,1.0,Headbutt,Normal,70,1.0,False,10.0
+Marowak,25.0,Bonemerang,Ground,100,0.9,False,
+Marowak,32.0,Rage,Normal,20,1.0,False,
+Marowak,39.0,False swipe,Normal,40,1.0,False,
+Marowak,46.0,Thrash,Normal,90,1.0,False,
+Marowak,53.0,Bone rush,Ground,75,0.8,False,
+Marowak,,Strength,Normal,80,1.0,False,
+Marowak,,Dynamicpunch,Fighting,100,0.5,False,
+Marowak,,Rock smash,Fighting,20,1.0,False,12.0
+Marowak,,Hidden power,Normal,60,1.0,False,29.0
+Marowak,,Blizzard,Ice,120,0.7,False,12.0
+Marowak,,Hyper beam,Normal,75,0.9,False,65.0
+Marowak,,Icy wind,Ice,55,0.95,False,27.0
+Marowak,,Iron tail,Steel,100,0.75,False,20.0
+Marowak,,Earthquake,Ground,100,1.0,False,47.0
+Marowak,,Return,Normal,102,1.0,False,12.0
+Marowak,,Dig,Ground,60,1.0,False,14.0
+Marowak,,Mud-slap,Ground,20,1.0,False,5.0
+Marowak,,Fire blast,Fire,120,0.85,False,12.0
+Marowak,,Thunderpunch,Electric,75,1.0,False,
+Marowak,,Thief,Dark,40,1.0,False,30.0
+Marowak,,Fire punch,Fire,75,1.0,False,12.0
+Hitmonlee,1.0,Double kick,Fighting,60,1.0,False,
+Hitmonlee,11.0,Rolling kick,Fighting,60,0.85,False,
+Hitmonlee,16.0,Jump kick,Fighting,70,0.95,False,
+Hitmonlee,26.0,Hi jump kick,Fighting,85,0.9,False,
+Hitmonlee,46.0,Mega kick,Normal,120,0.75,False,
+Hitmonlee,,Strength,Normal,80,1.0,False,
+Hitmonlee,,Dynamicpunch,Fighting,100,0.5,False,
+Hitmonlee,,Headbutt,Normal,70,1.0,False,10.0
+Hitmonlee,,Rock smash,Fighting,20,1.0,False,12.0
+Hitmonlee,,Hidden power,Normal,60,1.0,False,29.0
+Hitmonlee,,Return,Normal,102,1.0,False,12.0
+Hitmonlee,,Mud-slap,Ground,20,1.0,False,5.0
+Hitmonlee,,Swift,Normal,60,1.0,False,7.0
+Hitmonlee,,Thief,Dark,40,1.0,False,30.0
+Hitmonchan,1.0,Comet punch,Normal,54,0.85,False,
+Hitmonchan,13.0,Pursuit,Dark,40,1.0,False,
+Hitmonchan,26.0,Fire punch,Fire,75,1.0,False,12.0
+Hitmonchan,26.0,Ice punch,Ice,75,1.0,False,12.0
+Hitmonchan,26.0,Thunderpunch,Electric,75,1.0,False,
+Hitmonchan,32.0,Mach punch,Fighting,40,1.0,False,
+Hitmonchan,38.0,Mega punch,Normal,80,0.85,False,
+Hitmonchan,,Strength,Normal,80,1.0,False,
+Hitmonchan,,Dynamicpunch,Fighting,100,0.5,False,
+Hitmonchan,,Headbutt,Normal,70,1.0,False,10.0
+Hitmonchan,,Rock smash,Fighting,20,1.0,False,12.0
+Hitmonchan,,Hidden power,Normal,60,1.0,False,29.0
+Hitmonchan,,Return,Normal,102,1.0,False,12.0
+Hitmonchan,,Mud-slap,Ground,20,1.0,False,5.0
+Hitmonchan,,Swift,Normal,60,1.0,False,7.0
+Hitmonchan,,Thief,Dark,40,1.0,False,30.0
+Lickitung,1.0,Lick,Ghost,20,1.0,False,
+Lickitung,19.0,Stomp,Normal,65,1.0,False,
+Lickitung,25.0,Wrap,Normal,15,0.85,False,
+Lickitung,37.0,Slam,Normal,80,0.75,False,
+Lickitung,,Cut,Normal,50,0.95,False,10.0
+Lickitung,,Surf,Water,95,1.0,False,17.0
+Lickitung,,Strength,Normal,80,1.0,False,
+Lickitung,,Dynamicpunch,Fighting,100,0.5,False,
+Lickitung,,Headbutt,Normal,70,1.0,False,10.0
+Lickitung,,Rollout,Rock,30,0.9,False,13.0
+Lickitung,,Rock smash,Fighting,20,1.0,False,12.0
+Lickitung,,Hidden power,Normal,60,1.0,False,29.0
+Lickitung,,Blizzard,Ice,120,0.7,False,12.0
+Lickitung,,Hyper beam,Normal,75,0.9,False,65.0
+Lickitung,,Icy wind,Ice,55,0.95,False,27.0
+Lickitung,,Iron tail,Steel,100,0.75,False,20.0
+Lickitung,,Thunder,Electric,120,0.7,False,12.0
+Lickitung,,Earthquake,Ground,100,1.0,False,47.0
+Lickitung,,Return,Normal,102,1.0,False,12.0
+Lickitung,,Shadow ball,Ghost,80,1.0,False,17.0
+Lickitung,,Mud-slap,Ground,20,1.0,False,5.0
+Lickitung,,Ice punch,Ice,75,1.0,False,12.0
+Lickitung,,Fire blast,Fire,120,0.85,False,12.0
+Lickitung,,Thunderpunch,Electric,75,1.0,False,
+Lickitung,,Thief,Dark,40,1.0,False,30.0
+Lickitung,,Fire punch,Fire,75,1.0,False,12.0
+Koffing,1.0,Tackle,Normal,35,0.95,False,
+Koffing,9.0,Smog,Poison,20,0.7,False,
+Koffing,21.0,Sludge,Poison,65,1.0,False,
+Koffing,,Rollout,Rock,30,0.9,False,13.0
+Koffing,,Zap cannon,Electric,100,0.5,False,58.0
+Koffing,,Hidden power,Normal,60,1.0,False,29.0
+Koffing,,Thunder,Electric,120,0.7,False,12.0
+Koffing,,Return,Normal,102,1.0,False,12.0
+Koffing,,Sludge bomb,Poison,90,1.0,False,28.0
+Koffing,,Fire blast,Fire,120,0.85,False,12.0
+Koffing,,Thief,Dark,40,1.0,False,30.0
+Weezing,1.0,Smog,Poison,20,0.7,False,
+Weezing,1.0,Tackle,Normal,35,0.95,False,
+Weezing,21.0,Sludge,Poison,65,1.0,False,
+Weezing,,Rollout,Rock,30,0.9,False,13.0
+Weezing,,Zap cannon,Electric,100,0.5,False,58.0
+Weezing,,Hidden power,Normal,60,1.0,False,29.0
+Weezing,,Hyper beam,Normal,75,0.9,False,65.0
+Weezing,,Thunder,Electric,120,0.7,False,12.0
+Weezing,,Return,Normal,102,1.0,False,12.0
+Weezing,,Sludge bomb,Poison,90,1.0,False,28.0
+Weezing,,Fire blast,Fire,120,0.85,False,12.0
+Weezing,,Thief,Dark,40,1.0,False,30.0
+Rhyhorn,1.0,Horn attack,Normal,65,1.0,False,
+Rhyhorn,13.0,Stomp,Normal,65,1.0,False,
+Rhyhorn,19.0,Fury attack,Normal,45,0.85,False,
+Rhyhorn,55.0,Earthquake,Ground,100,1.0,False,47.0
+Rhyhorn,,Strength,Normal,80,1.0,False,
+Rhyhorn,,Headbutt,Normal,70,1.0,False,10.0
+Rhyhorn,,Rollout,Rock,30,0.9,False,13.0
+Rhyhorn,,Zap cannon,Electric,100,0.5,False,58.0
+Rhyhorn,,Rock smash,Fighting,20,1.0,False,12.0
+Rhyhorn,,Hidden power,Normal,60,1.0,False,29.0
+Rhyhorn,,Blizzard,Ice,120,0.7,False,12.0
+Rhyhorn,,Icy wind,Ice,55,0.95,False,27.0
+Rhyhorn,,Iron tail,Steel,100,0.75,False,20.0
+Rhyhorn,,Thunder,Electric,120,0.7,False,12.0
+Rhyhorn,,Return,Normal,102,1.0,False,12.0
+Rhyhorn,,Dig,Ground,60,1.0,False,14.0
+Rhyhorn,,Mud-slap,Ground,20,1.0,False,5.0
+Rhyhorn,,Fire blast,Fire,120,0.85,False,12.0
+Rhydon,1.0,Fury attack,Normal,45,0.85,False,
+Rhydon,1.0,Horn attack,Normal,65,1.0,False,
+Rhydon,1.0,Stomp,Normal,65,1.0,False,
+Rhydon,65.0,Earthquake,Ground,100,1.0,False,47.0
+Rhydon,,Surf,Water,95,1.0,False,17.0
+Rhydon,,Strength,Normal,80,1.0,False,
+Rhydon,,Dynamicpunch,Fighting,100,0.5,False,
+Rhydon,,Headbutt,Normal,70,1.0,False,10.0
+Rhydon,,Rollout,Rock,30,0.9,False,13.0
+Rhydon,,Zap cannon,Electric,100,0.5,False,58.0
+Rhydon,,Rock smash,Fighting,20,1.0,False,12.0
+Rhydon,,Hidden power,Normal,60,1.0,False,29.0
+Rhydon,,Blizzard,Ice,120,0.7,False,12.0
+Rhydon,,Hyper beam,Normal,75,0.9,False,65.0
+Rhydon,,Icy wind,Ice,55,0.95,False,27.0
+Rhydon,,Iron tail,Steel,100,0.75,False,20.0
+Rhydon,,Thunder,Electric,120,0.7,False,12.0
+Rhydon,,Return,Normal,102,1.0,False,12.0
+Rhydon,,Dig,Ground,60,1.0,False,14.0
+Rhydon,,Mud-slap,Ground,20,1.0,False,5.0
+Rhydon,,Fire blast,Fire,120,0.85,False,12.0
+Rhydon,,Thunderpunch,Electric,75,1.0,False,
+Rhydon,,Fire punch,Fire,75,1.0,False,12.0
+Rhydon,,Fury cutter,Bug,10,0.95,False,9.0
+Chansey,1.0,Pound,Normal,40,1.0,False,
+Chansey,17.0,Doubleslap,Normal,45,0.85,False,
+Chansey,35.0,Egg bomb,Normal,100,0.75,False,
+Chansey,,Strength,Normal,80,1.0,False,
+Chansey,,Dynamicpunch,Fighting,100,0.5,False,
+Chansey,,Headbutt,Normal,70,1.0,False,10.0
+Chansey,,Rollout,Rock,30,0.9,False,13.0
+Chansey,,Zap cannon,Electric,100,0.5,False,58.0
+Chansey,,Rock smash,Fighting,20,1.0,False,12.0
+Chansey,,Hidden power,Normal,60,1.0,False,29.0
+Chansey,,Blizzard,Ice,120,0.7,False,12.0
+Chansey,,Hyper beam,Normal,75,0.9,False,65.0
+Chansey,,Icy wind,Ice,55,0.95,False,27.0
+Chansey,,Iron tail,Steel,100,0.75,False,20.0
+Chansey,,Thunder,Electric,120,0.7,False,12.0
+Chansey,,Return,Normal,102,1.0,False,12.0
+Chansey,,Psychic,Psychic,90,1.0,False,52.0
+Chansey,,Shadow ball,Ghost,80,1.0,False,17.0
+Chansey,,Mud-slap,Ground,20,1.0,False,5.0
+Chansey,,Fire blast,Fire,120,0.85,False,12.0
+Tangela,1.0,Constrict,Normal,10,1.0,False,
+Tangela,10.0,Absorb,Grass,20,1.0,False,
+Tangela,19.0,Vine whip,Grass,35,1.0,False,
+Tangela,25.0,Bind,Normal,15,0.75,False,
+Tangela,31.0,Mega drain,Grass,40,1.0,False,
+Tangela,40.0,Slam,Normal,80,0.75,False,
+Tangela,,Cut,Normal,50,0.95,False,10.0
+Tangela,,Headbutt,Normal,70,1.0,False,10.0
+Tangela,,Hidden power,Normal,60,1.0,False,29.0
+Tangela,,Hyper beam,Normal,75,0.9,False,65.0
+Tangela,,Giga drain,Grass,60,1.0,False,65.0
+Tangela,,Return,Normal,102,1.0,False,12.0
+Tangela,,Sludge bomb,Poison,90,1.0,False,28.0
+Tangela,,Thief,Dark,40,1.0,False,30.0
+Kangaskhan,1.0,Comet punch,Normal,54,0.85,False,
+Kangaskhan,13.0,Bite,Dark,60,1.0,False,
+Kangaskhan,25.0,Mega punch,Normal,80,0.85,False,
+Kangaskhan,31.0,Rage,Normal,20,1.0,False,
+Kangaskhan,43.0,Dizzy punch,Normal,70,1.0,False,
+Kangaskhan,,Surf,Water,95,1.0,False,17.0
+Kangaskhan,,Strength,Normal,80,1.0,False,
+Kangaskhan,,Dynamicpunch,Fighting,100,0.5,False,
+Kangaskhan,,Headbutt,Normal,70,1.0,False,10.0
+Kangaskhan,,Zap cannon,Electric,100,0.5,False,58.0
+Kangaskhan,,Rock smash,Fighting,20,1.0,False,12.0
+Kangaskhan,,Hidden power,Normal,60,1.0,False,29.0
+Kangaskhan,,Blizzard,Ice,120,0.7,False,12.0
+Kangaskhan,,Hyper beam,Normal,75,0.9,False,65.0
+Kangaskhan,,Icy wind,Ice,55,0.95,False,27.0
+Kangaskhan,,Iron tail,Steel,100,0.75,False,20.0
+Kangaskhan,,Thunder,Electric,120,0.7,False,12.0
+Kangaskhan,,Earthquake,Ground,100,1.0,False,47.0
+Kangaskhan,,Return,Normal,102,1.0,False,12.0
+Kangaskhan,,Shadow ball,Ghost,80,1.0,False,17.0
+Kangaskhan,,Mud-slap,Ground,20,1.0,False,5.0
+Kangaskhan,,Ice punch,Ice,75,1.0,False,12.0
+Kangaskhan,,Fire blast,Fire,120,0.85,False,12.0
+Kangaskhan,,Thunderpunch,Electric,75,1.0,False,
+Kangaskhan,,Fire punch,Fire,75,1.0,False,12.0
+Kangaskhan,,Fury cutter,Bug,10,0.95,False,9.0
+Horsea,1.0,Bubble,Water,20,1.0,False,
+Horsea,22.0,Water gun,Water,40,1.0,False,
+Horsea,29.0,Twister,Dragon,40,1.0,False,
+Horsea,43.0,Hydro pump,Water,120,0.8,False,
+Horsea,,Surf,Water,95,1.0,False,17.0
+Horsea,,Whirlpool,Water,15,0.7,False,27.0
+Horsea,,Waterfall,Water,80,1.0,False,36.0
+Horsea,,Headbutt,Normal,70,1.0,False,10.0
+Horsea,,Hidden power,Normal,60,1.0,False,29.0
+Horsea,,Blizzard,Ice,120,0.7,False,12.0
+Horsea,,Icy wind,Ice,55,0.95,False,27.0
+Horsea,,Dragonbreath,Dragon,60,1.0,False,
+Horsea,,Return,Normal,102,1.0,False,12.0
+Horsea,,Swift,Normal,60,1.0,False,7.0
+Seadra,1.0,Bubble,Water,20,1.0,False,
+Seadra,1.0,Water gun,Water,40,1.0,False,
+Seadra,29.0,Twister,Dragon,40,1.0,False,
+Seadra,51.0,Hydro pump,Water,120,0.8,False,
+Seadra,,Surf,Water,95,1.0,False,17.0
+Seadra,,Whirlpool,Water,15,0.7,False,27.0
+Seadra,,Waterfall,Water,80,1.0,False,36.0
+Seadra,,Headbutt,Normal,70,1.0,False,10.0
+Seadra,,Hidden power,Normal,60,1.0,False,29.0
+Seadra,,Blizzard,Ice,120,0.7,False,12.0
+Seadra,,Hyper beam,Normal,75,0.9,False,65.0
+Seadra,,Icy wind,Ice,55,0.95,False,27.0
+Seadra,,Dragonbreath,Dragon,60,1.0,False,
+Seadra,,Return,Normal,102,1.0,False,12.0
+Seadra,,Swift,Normal,60,1.0,False,7.0
+Goldeen,1.0,Peck,Flying,35,1.0,False,
+Goldeen,15.0,Horn attack,Normal,65,1.0,False,
+Goldeen,29.0,Fury attack,Normal,45,0.85,False,
+Goldeen,38.0,Waterfall,Water,80,1.0,False,36.0
+Goldeen,,Surf,Water,95,1.0,False,17.0
+Goldeen,,Hidden power,Normal,60,1.0,False,29.0
+Goldeen,,Blizzard,Ice,120,0.7,False,12.0
+Goldeen,,Icy wind,Ice,55,0.95,False,27.0
+Goldeen,,Return,Normal,102,1.0,False,12.0
+Goldeen,,Swift,Normal,60,1.0,False,7.0
+Seaking,1.0,Peck,Flying,35,1.0,False,
+Seaking,15.0,Horn attack,Normal,65,1.0,False,
+Seaking,29.0,Fury attack,Normal,45,0.85,False,
+Seaking,41.0,Waterfall,Water,80,1.0,False,36.0
+Seaking,,Surf,Water,95,1.0,False,17.0
+Seaking,,Hidden power,Normal,60,1.0,False,29.0
+Seaking,,Blizzard,Ice,120,0.7,False,12.0
+Seaking,,Hyper beam,Normal,75,0.9,False,65.0
+Seaking,,Icy wind,Ice,55,0.95,False,27.0
+Seaking,,Return,Normal,102,1.0,False,12.0
+Seaking,,Swift,Normal,60,1.0,False,7.0
+Staryu,1.0,Tackle,Normal,35,0.95,False,
+Staryu,7.0,Water gun,Water,40,1.0,False,
+Staryu,13.0,Rapid spin,Normal,20,1.0,False,
+Staryu,25.0,Swift,Normal,60,1.0,False,7.0
+Staryu,31.0,Bubblebeam,Water,65,1.0,False,
+Staryu,50.0,Hydro pump,Water,120,0.8,False,
+Staryu,,Surf,Water,95,1.0,False,17.0
+Staryu,,Whirlpool,Water,15,0.7,False,27.0
+Staryu,,Waterfall,Water,80,1.0,False,36.0
+Staryu,,Zap cannon,Electric,100,0.5,False,58.0
+Staryu,,Hidden power,Normal,60,1.0,False,29.0
+Staryu,,Blizzard,Ice,120,0.7,False,12.0
+Staryu,,Icy wind,Ice,55,0.95,False,27.0
+Staryu,,Thunder,Electric,120,0.7,False,12.0
+Staryu,,Return,Normal,102,1.0,False,12.0
+Staryu,,Psychic,Psychic,90,1.0,False,52.0
+Starmie,1.0,Bubblebeam,Water,65,1.0,False,
+Starmie,1.0,Rapid spin,Normal,20,1.0,False,
+Starmie,1.0,Tackle,Normal,35,0.95,False,
+Starmie,,Surf,Water,95,1.0,False,17.0
+Starmie,,Whirlpool,Water,15,0.7,False,27.0
+Starmie,,Waterfall,Water,80,1.0,False,36.0
+Starmie,,Zap cannon,Electric,100,0.5,False,58.0
+Starmie,,Hidden power,Normal,60,1.0,False,29.0
+Starmie,,Blizzard,Ice,120,0.7,False,12.0
+Starmie,,Hyper beam,Normal,75,0.9,False,65.0
+Starmie,,Icy wind,Ice,55,0.95,False,27.0
+Starmie,,Thunder,Electric,120,0.7,False,12.0
+Starmie,,Return,Normal,102,1.0,False,12.0
+Starmie,,Psychic,Psychic,90,1.0,False,52.0
+Starmie,,Swift,Normal,60,1.0,False,7.0
+Mr_Mime,6.0,Confusion,Psychic,50,1.0,False,
+Mr_Mime,21.0,Doubleslap,Normal,45,0.85,False,
+Mr_Mime,36.0,Psybeam,Psychic,65,1.0,False,
+Mr_Mime,,Dynamicpunch,Fighting,100,0.5,False,
+Mr_Mime,,Headbutt,Normal,70,1.0,False,10.0
+Mr_Mime,,Zap cannon,Electric,100,0.5,False,58.0
+Mr_Mime,,Hidden power,Normal,60,1.0,False,29.0
+Mr_Mime,,Hyper beam,Normal,75,0.9,False,65.0
+Mr_Mime,,Thunder,Electric,120,0.7,False,12.0
+Mr_Mime,,Return,Normal,102,1.0,False,12.0
+Mr_Mime,,Psychic,Psychic,90,1.0,False,52.0
+Mr_Mime,,Shadow ball,Ghost,80,1.0,False,17.0
+Mr_Mime,,Mud-slap,Ground,20,1.0,False,5.0
+Mr_Mime,,Ice punch,Ice,75,1.0,False,12.0
+Mr_Mime,,Thunderpunch,Electric,75,1.0,False,
+Mr_Mime,,Thief,Dark,40,1.0,False,30.0
+Mr_Mime,,Fire punch,Fire,75,1.0,False,12.0
+Scyther,1.0,Quick attack,Normal,40,1.0,False,
+Scyther,12.0,Pursuit,Dark,40,1.0,False,
+Scyther,18.0,False swipe,Normal,40,1.0,False,
+Scyther,30.0,Wing attack,Flying,60,1.0,False,
+Scyther,36.0,Slash,Normal,70,1.0,True,
+Scyther,,Cut,Normal,50,0.95,False,10.0
+Scyther,,Headbutt,Normal,70,1.0,False,10.0
+Scyther,,Rock smash,Fighting,20,1.0,False,12.0
+Scyther,,Hidden power,Normal,60,1.0,False,29.0
+Scyther,,Hyper beam,Normal,75,0.9,False,65.0
+Scyther,,Return,Normal,102,1.0,False,12.0
+Scyther,,Swift,Normal,60,1.0,False,7.0
+Scyther,,Thief,Dark,40,1.0,False,30.0
+Scyther,,Steel wing,Steel,70,0.9,False,
+Scyther,,Fury cutter,Bug,10,0.95,False,9.0
+Jynx,1.0,Lick,Ghost,20,1.0,False,
+Jynx,1.0,Pound,Normal,40,1.0,False,
+Jynx,1.0,Powder snow,Ice,40,1.0,False,
+Jynx,21.0,Doubleslap,Normal,45,0.85,False,
+Jynx,25.0,Ice punch,Ice,75,1.0,False,12.0
+Jynx,41.0,Body slam,Normal,85,1.0,False,
+Jynx,57.0,Blizzard,Ice,120,0.7,False,12.0
+Jynx,,Dynamicpunch,Fighting,100,0.5,False,
+Jynx,,Headbutt,Normal,70,1.0,False,10.0
+Jynx,,Hidden power,Normal,60,1.0,False,29.0
+Jynx,,Hyper beam,Normal,75,0.9,False,65.0
+Jynx,,Icy wind,Ice,55,0.95,False,27.0
+Jynx,,Return,Normal,102,1.0,False,12.0
+Jynx,,Psychic,Psychic,90,1.0,False,52.0
+Jynx,,Shadow ball,Ghost,80,1.0,False,17.0
+Jynx,,Mud-slap,Ground,20,1.0,False,5.0
+Jynx,,Thief,Dark,40,1.0,False,30.0
+Electabuzz,1.0,Quick attack,Normal,40,1.0,False,
+Electabuzz,1.0,Thunderpunch,Electric,75,1.0,False,
+Electabuzz,25.0,Swift,Normal,60,1.0,False,7.0
+Electabuzz,47.0,Thunderbolt,Electric,95,1.0,False,
+Electabuzz,58.0,Thunder,Electric,120,0.7,False,12.0
+Electabuzz,,Strength,Normal,80,1.0,False,
+Electabuzz,,Dynamicpunch,Fighting,100,0.5,False,
+Electabuzz,,Headbutt,Normal,70,1.0,False,10.0
+Electabuzz,,Zap cannon,Electric,100,0.5,False,58.0
+Electabuzz,,Rock smash,Fighting,20,1.0,False,12.0
+Electabuzz,,Hidden power,Normal,60,1.0,False,29.0
+Electabuzz,,Hyper beam,Normal,75,0.9,False,65.0
+Electabuzz,,Iron tail,Steel,100,0.75,False,20.0
+Electabuzz,,Return,Normal,102,1.0,False,12.0
+Electabuzz,,Psychic,Psychic,90,1.0,False,52.0
+Electabuzz,,Mud-slap,Ground,20,1.0,False,5.0
+Electabuzz,,Ice punch,Ice,75,1.0,False,12.0
+Electabuzz,,Thief,Dark,40,1.0,False,30.0
+Electabuzz,,Fire punch,Fire,75,1.0,False,12.0
+Magmar,1.0,Ember,Fire,40,1.0,False,
+Magmar,1.0,Fire punch,Fire,75,1.0,False,12.0
+Magmar,1.0,Smog,Poison,20,0.7,False,
+Magmar,41.0,Flamethrower,Fire,95,1.0,False,
+Magmar,57.0,Fire blast,Fire,120,0.85,False,12.0
+Magmar,,Strength,Normal,80,1.0,False,
+Magmar,,Dynamicpunch,Fighting,100,0.5,False,
+Magmar,,Headbutt,Normal,70,1.0,False,10.0
+Magmar,,Rock smash,Fighting,20,1.0,False,12.0
+Magmar,,Hidden power,Normal,60,1.0,False,29.0
+Magmar,,Hyper beam,Normal,75,0.9,False,65.0
+Magmar,,Iron tail,Steel,100,0.75,False,20.0
+Magmar,,Return,Normal,102,1.0,False,12.0
+Magmar,,Psychic,Psychic,90,1.0,False,52.0
+Magmar,,Mud-slap,Ground,20,1.0,False,5.0
+Magmar,,Thunderpunch,Electric,75,1.0,False,
+Magmar,,Thief,Dark,40,1.0,False,30.0
+Pinsir,1.0,Vicegrip,Normal,55,1.0,False,
+Pinsir,13.0,Bind,Normal,15,0.75,False,
+Pinsir,,Cut,Normal,50,0.95,False,10.0
+Pinsir,,Strength,Normal,80,1.0,False,
+Pinsir,,Headbutt,Normal,70,1.0,False,10.0
+Pinsir,,Rock smash,Fighting,20,1.0,False,12.0
+Pinsir,,Hidden power,Normal,60,1.0,False,29.0
+Pinsir,,Hyper beam,Normal,75,0.9,False,65.0
+Pinsir,,Return,Normal,102,1.0,False,12.0
+Pinsir,,Thief,Dark,40,1.0,False,30.0
+Pinsir,,Fury cutter,Bug,10,0.95,False,9.0
+Tauros,1.0,Tackle,Normal,35,0.95,False,
+Tauros,8.0,Rage,Normal,20,1.0,False,
+Tauros,13.0,Horn attack,Normal,65,1.0,False,
+Tauros,26.0,Pursuit,Dark,40,1.0,False,
+Tauros,43.0,Thrash,Normal,90,1.0,False,
+Tauros,,Surf,Water,95,1.0,False,17.0
+Tauros,,Strength,Normal,80,1.0,False,
+Tauros,,Headbutt,Normal,70,1.0,False,10.0
+Tauros,,Zap cannon,Electric,100,0.5,False,58.0
+Tauros,,Rock smash,Fighting,20,1.0,False,12.0
+Tauros,,Hidden power,Normal,60,1.0,False,29.0
+Tauros,,Blizzard,Ice,120,0.7,False,12.0
+Tauros,,Hyper beam,Normal,75,0.9,False,65.0
+Tauros,,Icy wind,Ice,55,0.95,False,27.0
+Tauros,,Iron tail,Steel,100,0.75,False,20.0
+Tauros,,Thunder,Electric,120,0.7,False,12.0
+Tauros,,Earthquake,Ground,100,1.0,False,47.0
+Tauros,,Return,Normal,102,1.0,False,12.0
+Tauros,,Fire blast,Fire,120,0.85,False,12.0
+Magikarp,0.0,Struggle,Normal,1,1.0,False,
+Magikarp,15.0,Tackle,Normal,35,0.95,False,
+Gyarados,1.0,Thrash,Normal,90,1.0,False,
+Gyarados,20.0,Bite,Dark,60,1.0,False,
+Gyarados,35.0,Twister,Dragon,40,1.0,False,
+Gyarados,40.0,Hydro pump,Water,120,0.8,False,
+Gyarados,50.0,Hyper beam,Normal,75,0.9,False,65.0
+Gyarados,,Surf,Water,95,1.0,False,17.0
+Gyarados,,Strength,Normal,80,1.0,False,
+Gyarados,,Whirlpool,Water,15,0.7,False,27.0
+Gyarados,,Waterfall,Water,80,1.0,False,36.0
+Gyarados,,Headbutt,Normal,70,1.0,False,10.0
+Gyarados,,Zap cannon,Electric,100,0.5,False,58.0
+Gyarados,,Rock smash,Fighting,20,1.0,False,12.0
+Gyarados,,Hidden power,Normal,60,1.0,False,29.0
+Gyarados,,Blizzard,Ice,120,0.7,False,12.0
+Gyarados,,Icy wind,Ice,55,0.95,False,27.0
+Gyarados,,Dragonbreath,Dragon,60,1.0,False,
+Gyarados,,Thunder,Electric,120,0.7,False,12.0
+Gyarados,,Return,Normal,102,1.0,False,12.0
+Gyarados,,Fire blast,Fire,120,0.85,False,12.0
+Lapras,1.0,Water gun,Water,40,1.0,False,
+Lapras,15.0,Body slam,Normal,85,1.0,False,
+Lapras,36.0,Ice beam,Ice,95,1.0,False,
+Lapras,57.0,Hydro pump,Water,120,0.8,False,
+Lapras,,Surf,Water,95,1.0,False,17.0
+Lapras,,Strength,Normal,80,1.0,False,
+Lapras,,Whirlpool,Water,15,0.7,False,27.0
+Lapras,,Headbutt,Normal,70,1.0,False,10.0
+Lapras,,Zap cannon,Electric,100,0.5,False,58.0
+Lapras,,Rock smash,Fighting,20,1.0,False,12.0
+Lapras,,Hidden power,Normal,60,1.0,False,29.0
+Lapras,,Blizzard,Ice,120,0.7,False,12.0
+Lapras,,Hyper beam,Normal,75,0.9,False,65.0
+Lapras,,Icy wind,Ice,55,0.95,False,27.0
+Lapras,,Iron tail,Steel,100,0.75,False,20.0
+Lapras,,Dragonbreath,Dragon,60,1.0,False,
+Lapras,,Thunder,Electric,120,0.7,False,12.0
+Lapras,,Return,Normal,102,1.0,False,12.0
+Lapras,,Psychic,Psychic,90,1.0,False,52.0
+Ditto,0.0,Struggle,Normal,1,1.0,False,
+Eevee,1.0,Tackle,Normal,35,0.95,False,
+Eevee,1.0,Tackle,Normal,35,0.95,False,
+Eevee,1.0,Tackle,Normal,35,0.95,False,
+Eevee,1.0,Tackle,Normal,35,0.95,False,
+Eevee,1.0,Tackle,Normal,35,0.95,False,
+Eevee,23.0,Quick attack,Normal,40,1.0,False,
+Eevee,23.0,Quick attack,Normal,40,1.0,False,
+Eevee,23.0,Quick attack,Normal,40,1.0,False,
+Eevee,23.0,Quick attack,Normal,40,1.0,False,
+Eevee,23.0,Quick attack,Normal,40,1.0,False,
+Eevee,30.0,Bite,Dark,60,1.0,False,
+Eevee,30.0,Bite,Dark,60,1.0,False,
+Eevee,30.0,Bite,Dark,60,1.0,False,
+Eevee,30.0,Bite,Dark,60,1.0,False,
+Eevee,30.0,Bite,Dark,60,1.0,False,
+Eevee,,Headbutt,Normal,70,1.0,False,10.0
+Eevee,,Headbutt,Normal,70,1.0,False,10.0
+Eevee,,Headbutt,Normal,70,1.0,False,10.0
+Eevee,,Headbutt,Normal,70,1.0,False,10.0
+Eevee,,Headbutt,Normal,70,1.0,False,10.0
+Eevee,,Hidden power,Normal,60,1.0,False,29.0
+Eevee,,Hidden power,Normal,60,1.0,False,29.0
+Eevee,,Hidden power,Normal,60,1.0,False,29.0
+Eevee,,Hidden power,Normal,60,1.0,False,29.0
+Eevee,,Hidden power,Normal,60,1.0,False,29.0
+Eevee,,Iron tail,Steel,100,0.75,False,20.0
+Eevee,,Iron tail,Steel,100,0.75,False,20.0
+Eevee,,Iron tail,Steel,100,0.75,False,20.0
+Eevee,,Iron tail,Steel,100,0.75,False,20.0
+Eevee,,Iron tail,Steel,100,0.75,False,20.0
+Eevee,,Return,Normal,102,1.0,False,12.0
+Eevee,,Return,Normal,102,1.0,False,12.0
+Eevee,,Return,Normal,102,1.0,False,12.0
+Eevee,,Return,Normal,102,1.0,False,12.0
+Eevee,,Return,Normal,102,1.0,False,12.0
+Eevee,,Shadow ball,Ghost,80,1.0,False,17.0
+Eevee,,Shadow ball,Ghost,80,1.0,False,17.0
+Eevee,,Shadow ball,Ghost,80,1.0,False,17.0
+Eevee,,Shadow ball,Ghost,80,1.0,False,17.0
+Eevee,,Shadow ball,Ghost,80,1.0,False,17.0
+Eevee,,Mud-slap,Ground,20,1.0,False,5.0
+Eevee,,Mud-slap,Ground,20,1.0,False,5.0
+Eevee,,Mud-slap,Ground,20,1.0,False,5.0
+Eevee,,Mud-slap,Ground,20,1.0,False,5.0
+Eevee,,Mud-slap,Ground,20,1.0,False,5.0
+Eevee,,Swift,Normal,60,1.0,False,7.0
+Eevee,,Swift,Normal,60,1.0,False,7.0
+Eevee,,Swift,Normal,60,1.0,False,7.0
+Eevee,,Swift,Normal,60,1.0,False,7.0
+Eevee,,Swift,Normal,60,1.0,False,7.0
+Vaporeon,1.0,Tackle,Normal,35,0.95,False,
+Vaporeon,16.0,Water gun,Water,40,1.0,False,
+Vaporeon,23.0,Quick attack,Normal,40,1.0,False,
+Vaporeon,30.0,Bite,Dark,60,1.0,False,
+Vaporeon,36.0,Aurora beam,Ice,65,1.0,False,
+Vaporeon,52.0,Hydro pump,Water,120,0.8,False,
+Vaporeon,,Surf,Water,95,1.0,False,17.0
+Vaporeon,,Whirlpool,Water,15,0.7,False,27.0
+Vaporeon,,Waterfall,Water,80,1.0,False,36.0
+Vaporeon,,Headbutt,Normal,70,1.0,False,10.0
+Vaporeon,,Hidden power,Normal,60,1.0,False,29.0
+Vaporeon,,Blizzard,Ice,120,0.7,False,12.0
+Vaporeon,,Hyper beam,Normal,75,0.9,False,65.0
+Vaporeon,,Icy wind,Ice,55,0.95,False,27.0
+Vaporeon,,Iron tail,Steel,100,0.75,False,20.0
+Vaporeon,,Return,Normal,102,1.0,False,12.0
+Vaporeon,,Shadow ball,Ghost,80,1.0,False,17.0
+Vaporeon,,Mud-slap,Ground,20,1.0,False,5.0
+Vaporeon,,Swift,Normal,60,1.0,False,7.0
+Jolteon,1.0,Tackle,Normal,35,0.95,False,
+Jolteon,16.0,Thundershock,Electric,40,1.0,False,
+Jolteon,23.0,Quick attack,Normal,40,1.0,False,
+Jolteon,30.0,Double kick,Fighting,60,1.0,False,
+Jolteon,36.0,Pin missile,Bug,42,0.85,False,
+Jolteon,52.0,Thunder,Electric,120,0.7,False,12.0
+Jolteon,,Headbutt,Normal,70,1.0,False,10.0
+Jolteon,,Zap cannon,Electric,100,0.5,False,58.0
+Jolteon,,Hidden power,Normal,60,1.0,False,29.0
+Jolteon,,Hyper beam,Normal,75,0.9,False,65.0
+Jolteon,,Iron tail,Steel,100,0.75,False,20.0
+Jolteon,,Return,Normal,102,1.0,False,12.0
+Jolteon,,Shadow ball,Ghost,80,1.0,False,17.0
+Jolteon,,Mud-slap,Ground,20,1.0,False,5.0
+Jolteon,,Swift,Normal,60,1.0,False,7.0
+Flareon,1.0,Tackle,Normal,35,0.95,False,
+Flareon,16.0,Ember,Fire,40,1.0,False,
+Flareon,23.0,Quick attack,Normal,40,1.0,False,
+Flareon,30.0,Bite,Dark,60,1.0,False,
+Flareon,36.0,Fire spin,Fire,15,0.7,False,
+Flareon,42.0,Smog,Poison,20,0.7,False,
+Flareon,52.0,Flamethrower,Fire,95,1.0,False,
+Flareon,,Headbutt,Normal,70,1.0,False,10.0
+Flareon,,Zap cannon,Electric,100,0.5,False,58.0
+Flareon,,Hidden power,Normal,60,1.0,False,29.0
+Flareon,,Hyper beam,Normal,75,0.9,False,65.0
+Flareon,,Iron tail,Steel,100,0.75,False,20.0
+Flareon,,Return,Normal,102,1.0,False,12.0
+Flareon,,Shadow ball,Ghost,80,1.0,False,17.0
+Flareon,,Mud-slap,Ground,20,1.0,False,5.0
+Flareon,,Fire blast,Fire,120,0.85,False,12.0
+Flareon,,Swift,Normal,60,1.0,False,7.0
+Porygon,1.0,Tackle,Normal,35,0.95,False,
+Porygon,12.0,Psybeam,Psychic,65,1.0,False,
+Porygon,36.0,Tri attack,Normal,80,1.0,False,
+Porygon,44.0,Zap cannon,Electric,100,0.5,False,58.0
+Porygon,,Hidden power,Normal,60,1.0,False,29.0
+Porygon,,Blizzard,Ice,120,0.7,False,12.0
+Porygon,,Hyper beam,Normal,75,0.9,False,65.0
+Porygon,,Icy wind,Ice,55,0.95,False,27.0
+Porygon,,Iron tail,Steel,100,0.75,False,20.0
+Porygon,,Thunder,Electric,120,0.7,False,12.0
+Porygon,,Return,Normal,102,1.0,False,12.0
+Porygon,,Psychic,Psychic,90,1.0,False,52.0
+Porygon,,Swift,Normal,60,1.0,False,7.0
+Porygon,,Thief,Dark,40,1.0,False,30.0
+Omanyte,1.0,Constrict,Normal,10,1.0,False,
+Omanyte,13.0,Bite,Dark,60,1.0,False,
+Omanyte,19.0,Water gun,Water,40,1.0,False,
+Omanyte,49.0,Ancientpower,Rock,60,1.0,False,
+Omanyte,55.0,Hydro pump,Water,120,0.8,False,
+Omanyte,,Surf,Water,95,1.0,False,17.0
+Omanyte,,Whirlpool,Water,15,0.7,False,27.0
+Omanyte,,Headbutt,Normal,70,1.0,False,10.0
+Omanyte,,Rollout,Rock,30,0.9,False,13.0
+Omanyte,,Rock smash,Fighting,20,1.0,False,12.0
+Omanyte,,Hidden power,Normal,60,1.0,False,29.0
+Omanyte,,Blizzard,Ice,120,0.7,False,12.0
+Omanyte,,Icy wind,Ice,55,0.95,False,27.0
+Omanyte,,Return,Normal,102,1.0,False,12.0
+Omanyte,,Thief,Dark,40,1.0,False,30.0
+Omastar,1.0,Bite,Dark,60,1.0,False,
+Omastar,1.0,Constrict,Normal,10,1.0,False,
+Omastar,19.0,Water gun,Water,40,1.0,False,
+Omastar,40.0,Spike cannon,Normal,60,1.0,False,
+Omastar,54.0,Ancientpower,Rock,60,1.0,False,
+Omastar,65.0,Hydro pump,Water,120,0.8,False,
+Omastar,,Surf,Water,95,1.0,False,17.0
+Omastar,,Whirlpool,Water,15,0.7,False,27.0
+Omastar,,Headbutt,Normal,70,1.0,False,10.0
+Omastar,,Rollout,Rock,30,0.9,False,13.0
+Omastar,,Rock smash,Fighting,20,1.0,False,12.0
+Omastar,,Hidden power,Normal,60,1.0,False,29.0
+Omastar,,Blizzard,Ice,120,0.7,False,12.0
+Omastar,,Hyper beam,Normal,75,0.9,False,65.0
+Omastar,,Icy wind,Ice,55,0.95,False,27.0
+Omastar,,Return,Normal,102,1.0,False,12.0
+Omastar,,Thief,Dark,40,1.0,False,30.0
+Kabuto,1.0,Scratch,Normal,40,1.0,False,
+Kabuto,10.0,Absorb,Grass,20,1.0,False,
+Kabuto,46.0,Mega drain,Grass,40,1.0,False,
+Kabuto,55.0,Ancientpower,Rock,60,1.0,False,
+Kabuto,,Rollout,Rock,30,0.9,False,13.0
+Kabuto,,Rock smash,Fighting,20,1.0,False,12.0
+Kabuto,,Hidden power,Normal,60,1.0,False,29.0
+Kabuto,,Blizzard,Ice,120,0.7,False,12.0
+Kabuto,,Icy wind,Ice,55,0.95,False,27.0
+Kabuto,,Giga drain,Grass,60,1.0,False,65.0
+Kabuto,,Return,Normal,102,1.0,False,12.0
+Kabuto,,Thief,Dark,40,1.0,False,30.0
+Kabutops,1.0,Absorb,Grass,20,1.0,False,
+Kabutops,1.0,Scratch,Normal,40,1.0,False,
+Kabutops,40.0,Slash,Normal,70,1.0,True,
+Kabutops,51.0,Mega drain,Grass,40,1.0,False,
+Kabutops,65.0,Ancientpower,Rock,60,1.0,False,
+Kabutops,,Cut,Normal,50,0.95,False,10.0
+Kabutops,,Surf,Water,95,1.0,False,17.0
+Kabutops,,Whirlpool,Water,15,0.7,False,27.0
+Kabutops,,Headbutt,Normal,70,1.0,False,10.0
+Kabutops,,Rollout,Rock,30,0.9,False,13.0
+Kabutops,,Rock smash,Fighting,20,1.0,False,12.0
+Kabutops,,Hidden power,Normal,60,1.0,False,29.0
+Kabutops,,Blizzard,Ice,120,0.7,False,12.0
+Kabutops,,Hyper beam,Normal,75,0.9,False,65.0
+Kabutops,,Icy wind,Ice,55,0.95,False,27.0
+Kabutops,,Giga drain,Grass,60,1.0,False,65.0
+Kabutops,,Return,Normal,102,1.0,False,12.0
+Kabutops,,Thief,Dark,40,1.0,False,30.0
+Kabutops,,Fury cutter,Bug,10,0.95,False,9.0
+Aerodactyl,1.0,Wing attack,Flying,60,1.0,False,
+Aerodactyl,15.0,Bite,Dark,60,1.0,False,
+Aerodactyl,29.0,Ancientpower,Rock,60,1.0,False,
+Aerodactyl,50.0,Hyper beam,Normal,75,0.9,False,65.0
+Aerodactyl,,Fly,Flying,70,0.95,False,23.0
+Aerodactyl,,Headbutt,Normal,70,1.0,False,10.0
+Aerodactyl,,Rock smash,Fighting,20,1.0,False,12.0
+Aerodactyl,,Hidden power,Normal,60,1.0,False,29.0
+Aerodactyl,,Iron tail,Steel,100,0.75,False,20.0
+Aerodactyl,,Dragonbreath,Dragon,60,1.0,False,
+Aerodactyl,,Earthquake,Ground,100,1.0,False,47.0
+Aerodactyl,,Return,Normal,102,1.0,False,12.0
+Aerodactyl,,Fire blast,Fire,120,0.85,False,12.0
+Aerodactyl,,Swift,Normal,60,1.0,False,7.0
+Aerodactyl,,Steel wing,Steel,70,0.9,False,
+Snorlax,1.0,Tackle,Normal,35,0.95,False,
+Snorlax,29.0,Headbutt,Normal,70,1.0,False,10.0
+Snorlax,43.0,Body slam,Normal,85,1.0,False,
+Snorlax,50.0,Rollout,Rock,30,0.9,False,13.0
+Snorlax,57.0,Hyper beam,Normal,75,0.9,False,65.0
+Snorlax,,Surf,Water,95,1.0,False,17.0
+Snorlax,,Strength,Normal,80,1.0,False,
+Snorlax,,Dynamicpunch,Fighting,100,0.5,False,
+Snorlax,,Zap cannon,Electric,100,0.5,False,58.0
+Snorlax,,Rock smash,Fighting,20,1.0,False,12.0
+Snorlax,,Hidden power,Normal,60,1.0,False,29.0
+Snorlax,,Blizzard,Ice,120,0.7,False,12.0
+Snorlax,,Icy wind,Ice,55,0.95,False,27.0
+Snorlax,,Thunder,Electric,120,0.7,False,12.0
+Snorlax,,Earthquake,Ground,100,1.0,False,47.0
+Snorlax,,Return,Normal,102,1.0,False,12.0
+Snorlax,,Psychic,Psychic,90,1.0,False,52.0
+Snorlax,,Shadow ball,Ghost,80,1.0,False,17.0
+Snorlax,,Mud-slap,Ground,20,1.0,False,5.0
+Snorlax,,Ice punch,Ice,75,1.0,False,12.0
+Snorlax,,Fire blast,Fire,120,0.85,False,12.0
+Snorlax,,Thunderpunch,Electric,75,1.0,False,
+Snorlax,,Fire punch,Fire,75,1.0,False,12.0
+Articuno,1.0,Gust,Flying,40,1.0,False,
+Articuno,1.0,Powder snow,Ice,40,1.0,False,
+Articuno,49.0,Ice beam,Ice,95,1.0,False,
+Articuno,73.0,Blizzard,Ice,120,0.7,False,12.0
+Articuno,,Fly,Flying,70,0.95,False,23.0
+Articuno,,Rock smash,Fighting,20,1.0,False,12.0
+Articuno,,Hidden power,Normal,60,1.0,False,29.0
+Articuno,,Hyper beam,Normal,75,0.9,False,65.0
+Articuno,,Icy wind,Ice,55,0.95,False,27.0
+Articuno,,Return,Normal,102,1.0,False,12.0
+Articuno,,Mud-slap,Ground,20,1.0,False,5.0
+Articuno,,Swift,Normal,60,1.0,False,7.0
+Articuno,,Steel wing,Steel,70,0.9,False,
+Zapdos,1.0,Peck,Flying,35,1.0,False,
+Zapdos,1.0,Thundershock,Electric,40,1.0,False,
+Zapdos,49.0,Drill peck,Flying,80,1.0,False,
+Zapdos,73.0,Thunder,Electric,120,0.7,False,12.0
+Zapdos,,Fly,Flying,70,0.95,False,23.0
+Zapdos,,Zap cannon,Electric,100,0.5,False,58.0
+Zapdos,,Rock smash,Fighting,20,1.0,False,12.0
+Zapdos,,Hidden power,Normal,60,1.0,False,29.0
+Zapdos,,Hyper beam,Normal,75,0.9,False,65.0
+Zapdos,,Return,Normal,102,1.0,False,12.0
+Zapdos,,Mud-slap,Ground,20,1.0,False,5.0
+Zapdos,,Swift,Normal,60,1.0,False,7.0
+Zapdos,,Steel wing,Steel,70,0.9,False,
+Moltres,1.0,Ember,Fire,40,1.0,False,
+Moltres,1.0,Wing attack,Flying,60,1.0,False,
+Moltres,13.0,Fire spin,Fire,15,0.7,False,
+Moltres,49.0,Flamethrower,Fire,95,1.0,False,
+Moltres,,Fly,Flying,70,0.95,False,23.0
+Moltres,,Rock smash,Fighting,20,1.0,False,12.0
+Moltres,,Hidden power,Normal,60,1.0,False,29.0
+Moltres,,Hyper beam,Normal,75,0.9,False,65.0
+Moltres,,Return,Normal,102,1.0,False,12.0
+Moltres,,Mud-slap,Ground,20,1.0,False,5.0
+Moltres,,Fire blast,Fire,120,0.85,False,12.0
+Moltres,,Swift,Normal,60,1.0,False,7.0
+Moltres,,Steel wing,Steel,70,0.9,False,
+Dratini,1.0,Wrap,Normal,15,0.85,False,
+Dratini,15.0,Twister,Dragon,40,1.0,False,
+Dratini,29.0,Slam,Normal,80,0.75,False,
+Dratini,50.0,Outrage,Dragon,90,1.0,False,
+Dratini,57.0,Hyper beam,Normal,75,0.9,False,65.0
+Dratini,,Surf,Water,95,1.0,False,17.0
+Dratini,,Waterfall,Water,80,1.0,False,36.0
+Dratini,,Headbutt,Normal,70,1.0,False,10.0
+Dratini,,Zap cannon,Electric,100,0.5,False,58.0
+Dratini,,Hidden power,Normal,60,1.0,False,29.0
+Dratini,,Blizzard,Ice,120,0.7,False,12.0
+Dratini,,Icy wind,Ice,55,0.95,False,27.0
+Dratini,,Iron tail,Steel,100,0.75,False,20.0
+Dratini,,Dragonbreath,Dragon,60,1.0,False,
+Dratini,,Thunder,Electric,120,0.7,False,12.0
+Dratini,,Return,Normal,102,1.0,False,12.0
+Dratini,,Fire blast,Fire,120,0.85,False,12.0
+Dratini,,Swift,Normal,60,1.0,False,7.0
+Dragonair,1.0,Twister,Dragon,40,1.0,False,
+Dragonair,1.0,Wrap,Normal,15,0.85,False,
+Dragonair,29.0,Slam,Normal,80,0.75,False,
+Dragonair,56.0,Outrage,Dragon,90,1.0,False,
+Dragonair,65.0,Hyper beam,Normal,75,0.9,False,65.0
+Dragonair,,Surf,Water,95,1.0,False,17.0
+Dragonair,,Waterfall,Water,80,1.0,False,36.0
+Dragonair,,Headbutt,Normal,70,1.0,False,10.0
+Dragonair,,Zap cannon,Electric,100,0.5,False,58.0
+Dragonair,,Hidden power,Normal,60,1.0,False,29.0
+Dragonair,,Blizzard,Ice,120,0.7,False,12.0
+Dragonair,,Icy wind,Ice,55,0.95,False,27.0
+Dragonair,,Iron tail,Steel,100,0.75,False,20.0
+Dragonair,,Dragonbreath,Dragon,60,1.0,False,
+Dragonair,,Thunder,Electric,120,0.7,False,12.0
+Dragonair,,Return,Normal,102,1.0,False,12.0
+Dragonair,,Fire blast,Fire,120,0.85,False,12.0
+Dragonair,,Swift,Normal,60,1.0,False,7.0
+Dragonite,1.0,Twister,Dragon,40,1.0,False,
+Dragonite,1.0,Wrap,Normal,15,0.85,False,
+Dragonite,29.0,Slam,Normal,80,0.75,False,
+Dragonite,55.0,Wing attack,Flying,60,1.0,False,
+Dragonite,61.0,Outrage,Dragon,90,1.0,False,
+Dragonite,75.0,Hyper beam,Normal,75,0.9,False,65.0
+Dragonite,,Fly,Flying,70,0.95,False,23.0
+Dragonite,,Surf,Water,95,1.0,False,17.0
+Dragonite,,Strength,Normal,80,1.0,False,
+Dragonite,,Whirlpool,Water,15,0.7,False,27.0
+Dragonite,,Waterfall,Water,80,1.0,False,36.0
+Dragonite,,Dynamicpunch,Fighting,100,0.5,False,
+Dragonite,,Headbutt,Normal,70,1.0,False,10.0
+Dragonite,,Zap cannon,Electric,100,0.5,False,58.0
+Dragonite,,Rock smash,Fighting,20,1.0,False,12.0
+Dragonite,,Hidden power,Normal,60,1.0,False,29.0
+Dragonite,,Blizzard,Ice,120,0.7,False,12.0
+Dragonite,,Icy wind,Ice,55,0.95,False,27.0
+Dragonite,,Iron tail,Steel,100,0.75,False,20.0
+Dragonite,,Dragonbreath,Dragon,60,1.0,False,
+Dragonite,,Thunder,Electric,120,0.7,False,12.0
+Dragonite,,Return,Normal,102,1.0,False,12.0
+Dragonite,,Mud-slap,Ground,20,1.0,False,5.0
+Dragonite,,Ice punch,Ice,75,1.0,False,12.0
+Dragonite,,Fire blast,Fire,120,0.85,False,12.0
+Dragonite,,Swift,Normal,60,1.0,False,7.0
+Dragonite,,Thunderpunch,Electric,75,1.0,False,
+Dragonite,,Steel wing,Steel,70,0.9,False,
+Dragonite,,Fire punch,Fire,75,1.0,False,12.0
+Dragonite,,Fury cutter,Bug,10,0.95,False,9.0
+Mewtwo,1.0,Confusion,Psychic,50,1.0,False,
+Mewtwo,22.0,Swift,Normal,60,1.0,False,7.0
+Mewtwo,44.0,Future sight,Psychic,80,0.9,False,
+Mewtwo,66.0,Psychic,Psychic,90,1.0,False,52.0
+Mewtwo,,Strength,Normal,80,1.0,False,
+Mewtwo,,Dynamicpunch,Fighting,100,0.5,False,
+Mewtwo,,Headbutt,Normal,70,1.0,False,10.0
+Mewtwo,,Zap cannon,Electric,100,0.5,False,58.0
+Mewtwo,,Rock smash,Fighting,20,1.0,False,12.0
+Mewtwo,,Hidden power,Normal,60,1.0,False,29.0
+Mewtwo,,Blizzard,Ice,120,0.7,False,12.0
+Mewtwo,,Hyper beam,Normal,75,0.9,False,65.0
+Mewtwo,,Icy wind,Ice,55,0.95,False,27.0
+Mewtwo,,Iron tail,Steel,100,0.75,False,20.0
+Mewtwo,,Thunder,Electric,120,0.7,False,12.0
+Mewtwo,,Return,Normal,102,1.0,False,12.0
+Mewtwo,,Shadow ball,Ghost,80,1.0,False,17.0
+Mewtwo,,Mud-slap,Ground,20,1.0,False,5.0
+Mewtwo,,Ice punch,Ice,75,1.0,False,12.0
+Mewtwo,,Fire blast,Fire,120,0.85,False,12.0
+Mewtwo,,Thunderpunch,Electric,75,1.0,False,
+Mewtwo,,Fire punch,Fire,75,1.0,False,12.0
+Mew,1.0,Pound,Normal,40,1.0,False,
+Mew,20.0,Mega punch,Normal,80,0.85,False,
+Mew,40.0,Psychic,Psychic,90,1.0,False,52.0
+Mew,50.0,Ancientpower,Rock,60,1.0,False,
+Mew,,Cut,Normal,50,0.95,False,10.0
+Mew,,Fly,Flying,70,0.95,False,23.0
+Mew,,Surf,Water,95,1.0,False,17.0
+Mew,,Strength,Normal,80,1.0,False,
+Mew,,Whirlpool,Water,15,0.7,False,27.0
+Mew,,Waterfall,Water,80,1.0,False,36.0
+Mew,,Dynamicpunch,Fighting,100,0.5,False,
+Mew,,Headbutt,Normal,70,1.0,False,10.0
+Mew,,Rollout,Rock,30,0.9,False,13.0
+Mew,,Zap cannon,Electric,100,0.5,False,58.0
+Mew,,Rock smash,Fighting,20,1.0,False,12.0
+Mew,,Hidden power,Normal,60,1.0,False,29.0
+Mew,,Blizzard,Ice,120,0.7,False,12.0
+Mew,,Hyper beam,Normal,75,0.9,False,65.0
+Mew,,Icy wind,Ice,55,0.95,False,27.0
+Mew,,Giga drain,Grass,60,1.0,False,65.0
+Mew,,Iron tail,Steel,100,0.75,False,20.0
+Mew,,Dragonbreath,Dragon,60,1.0,False,
+Mew,,Thunder,Electric,120,0.7,False,12.0
+Mew,,Earthquake,Ground,100,1.0,False,47.0
+Mew,,Return,Normal,102,1.0,False,12.0
+Mew,,Dig,Ground,60,1.0,False,14.0
+Mew,,Shadow ball,Ghost,80,1.0,False,17.0
+Mew,,Mud-slap,Ground,20,1.0,False,5.0
+Mew,,Ice punch,Ice,75,1.0,False,12.0
+Mew,,Sludge bomb,Poison,90,1.0,False,28.0
+Mew,,Fire blast,Fire,120,0.85,False,12.0
+Mew,,Swift,Normal,60,1.0,False,7.0
+Mew,,Thunderpunch,Electric,75,1.0,False,
+Mew,,Thief,Dark,40,1.0,False,30.0
+Mew,,Steel wing,Steel,70,0.9,False,
+Mew,,Fire punch,Fire,75,1.0,False,12.0
+Mew,,Fury cutter,Bug,10,0.95,False,9.0
+Chikorita,1.0,Tackle,Normal,35,0.95,False,
+Chikorita,8.0,Razor leaf,Grass,55,0.95,True,
+Chikorita,29.0,Body slam,Normal,85,1.0,False,
+Chikorita,,Cut,Normal,50,0.95,False,10.0
+Chikorita,,Headbutt,Normal,70,1.0,False,10.0
+Chikorita,,Hidden power,Normal,60,1.0,False,29.0
+Chikorita,,Giga drain,Grass,60,1.0,False,65.0
+Chikorita,,Iron tail,Steel,100,0.75,False,20.0
+Chikorita,,Return,Normal,102,1.0,False,12.0
+Chikorita,,Mud-slap,Ground,20,1.0,False,5.0
+Bayleef,1.0,Razor leaf,Grass,55,0.95,True,
+Bayleef,1.0,Tackle,Normal,35,0.95,False,
+Bayleef,31.0,Body slam,Normal,85,1.0,False,
+Bayleef,,Cut,Normal,50,0.95,False,10.0
+Bayleef,,Strength,Normal,80,1.0,False,
+Bayleef,,Headbutt,Normal,70,1.0,False,10.0
+Bayleef,,Rock smash,Fighting,20,1.0,False,12.0
+Bayleef,,Hidden power,Normal,60,1.0,False,29.0
+Bayleef,,Giga drain,Grass,60,1.0,False,65.0
+Bayleef,,Iron tail,Steel,100,0.75,False,20.0
+Bayleef,,Return,Normal,102,1.0,False,12.0
+Bayleef,,Mud-slap,Ground,20,1.0,False,5.0
+Bayleef,,Fury cutter,Bug,10,0.95,False,9.0
+Meganium,1.0,Razor leaf,Grass,55,0.95,True,
+Meganium,1.0,Tackle,Normal,35,0.95,False,
+Meganium,31.0,Body slam,Normal,85,1.0,False,
+Meganium,,Cut,Normal,50,0.95,False,10.0
+Meganium,,Strength,Normal,80,1.0,False,
+Meganium,,Headbutt,Normal,70,1.0,False,10.0
+Meganium,,Rock smash,Fighting,20,1.0,False,12.0
+Meganium,,Hidden power,Normal,60,1.0,False,29.0
+Meganium,,Hyper beam,Normal,75,0.9,False,65.0
+Meganium,,Giga drain,Grass,60,1.0,False,65.0
+Meganium,,Iron tail,Steel,100,0.75,False,20.0
+Meganium,,Earthquake,Ground,100,1.0,False,47.0
+Meganium,,Return,Normal,102,1.0,False,12.0
+Meganium,,Mud-slap,Ground,20,1.0,False,5.0
+Meganium,,Fury cutter,Bug,10,0.95,False,9.0
+Cyndaquil,1.0,Tackle,Normal,35,0.95,False,
+Cyndaquil,12.0,Ember,Fire,40,1.0,False,
+Cyndaquil,19.0,Quick attack,Normal,40,1.0,False,
+Cyndaquil,27.0,Flame wheel,Fire,60,1.0,False,
+Cyndaquil,36.0,Swift,Normal,60,1.0,False,7.0
+Cyndaquil,46.0,Flamethrower,Fire,95,1.0,False,
+Cyndaquil,,Cut,Normal,50,0.95,False,10.0
+Cyndaquil,,Headbutt,Normal,70,1.0,False,10.0
+Cyndaquil,,Rollout,Rock,30,0.9,False,13.0
+Cyndaquil,,Hidden power,Normal,60,1.0,False,29.0
+Cyndaquil,,Iron tail,Steel,100,0.75,False,20.0
+Cyndaquil,,Return,Normal,102,1.0,False,12.0
+Cyndaquil,,Dig,Ground,60,1.0,False,14.0
+Cyndaquil,,Mud-slap,Ground,20,1.0,False,5.0
+Cyndaquil,,Fire blast,Fire,120,0.85,False,12.0
+Quilava,1.0,Tackle,Normal,35,0.95,False,
+Quilava,12.0,Ember,Fire,40,1.0,False,
+Quilava,21.0,Quick attack,Normal,40,1.0,False,
+Quilava,31.0,Flame wheel,Fire,60,1.0,False,
+Quilava,42.0,Swift,Normal,60,1.0,False,7.0
+Quilava,54.0,Flamethrower,Fire,95,1.0,False,
+Quilava,,Cut,Normal,50,0.95,False,10.0
+Quilava,,Strength,Normal,80,1.0,False,
+Quilava,,Headbutt,Normal,70,1.0,False,10.0
+Quilava,,Rollout,Rock,30,0.9,False,13.0
+Quilava,,Rock smash,Fighting,20,1.0,False,12.0
+Quilava,,Hidden power,Normal,60,1.0,False,29.0
+Quilava,,Iron tail,Steel,100,0.75,False,20.0
+Quilava,,Return,Normal,102,1.0,False,12.0
+Quilava,,Dig,Ground,60,1.0,False,14.0
+Quilava,,Mud-slap,Ground,20,1.0,False,5.0
+Quilava,,Fire blast,Fire,120,0.85,False,12.0
+Quilava,,Fury cutter,Bug,10,0.95,False,9.0
+Typhlosion,1.0,Ember,Fire,40,1.0,False,
+Typhlosion,1.0,Tackle,Normal,35,0.95,False,
+Typhlosion,21.0,Quick attack,Normal,40,1.0,False,
+Typhlosion,31.0,Flame wheel,Fire,60,1.0,False,
+Typhlosion,45.0,Swift,Normal,60,1.0,False,7.0
+Typhlosion,60.0,Flamethrower,Fire,95,1.0,False,
+Typhlosion,,Cut,Normal,50,0.95,False,10.0
+Typhlosion,,Strength,Normal,80,1.0,False,
+Typhlosion,,Dynamicpunch,Fighting,100,0.5,False,
+Typhlosion,,Headbutt,Normal,70,1.0,False,10.0
+Typhlosion,,Rollout,Rock,30,0.9,False,13.0
+Typhlosion,,Rock smash,Fighting,20,1.0,False,12.0
+Typhlosion,,Hidden power,Normal,60,1.0,False,29.0
+Typhlosion,,Hyper beam,Normal,75,0.9,False,65.0
+Typhlosion,,Iron tail,Steel,100,0.75,False,20.0
+Typhlosion,,Earthquake,Ground,100,1.0,False,47.0
+Typhlosion,,Return,Normal,102,1.0,False,12.0
+Typhlosion,,Dig,Ground,60,1.0,False,14.0
+Typhlosion,,Mud-slap,Ground,20,1.0,False,5.0
+Typhlosion,,Fire blast,Fire,120,0.85,False,12.0
+Typhlosion,,Thunderpunch,Electric,75,1.0,False,
+Typhlosion,,Fire punch,Fire,75,1.0,False,12.0
+Typhlosion,,Fury cutter,Bug,10,0.95,False,9.0
+Totodile,1.0,Scratch,Normal,40,1.0,False,
+Totodile,7.0,Rage,Normal,20,1.0,False,
+Totodile,13.0,Water gun,Water,40,1.0,False,
+Totodile,20.0,Bite,Dark,60,1.0,False,
+Totodile,35.0,Slash,Normal,70,1.0,True,
+Totodile,52.0,Hydro pump,Water,120,0.8,False,
+Totodile,,Cut,Normal,50,0.95,False,10.0
+Totodile,,Surf,Water,95,1.0,False,17.0
+Totodile,,Whirlpool,Water,15,0.7,False,27.0
+Totodile,,Dynamicpunch,Fighting,100,0.5,False,
+Totodile,,Headbutt,Normal,70,1.0,False,10.0
+Totodile,,Hidden power,Normal,60,1.0,False,29.0
+Totodile,,Blizzard,Ice,120,0.7,False,12.0
+Totodile,,Icy wind,Ice,55,0.95,False,27.0
+Totodile,,Iron tail,Steel,100,0.75,False,20.0
+Totodile,,Return,Normal,102,1.0,False,12.0
+Totodile,,Dig,Ground,60,1.0,False,14.0
+Totodile,,Mud-slap,Ground,20,1.0,False,5.0
+Totodile,,Ice punch,Ice,75,1.0,False,12.0
+Croconaw,1.0,Rage,Normal,20,1.0,False,
+Croconaw,1.0,Scratch,Normal,40,1.0,False,
+Croconaw,13.0,Water gun,Water,40,1.0,False,
+Croconaw,21.0,Bite,Dark,60,1.0,False,
+Croconaw,37.0,Slash,Normal,70,1.0,True,
+Croconaw,55.0,Hydro pump,Water,120,0.8,False,
+Croconaw,,Cut,Normal,50,0.95,False,10.0
+Croconaw,,Surf,Water,95,1.0,False,17.0
+Croconaw,,Strength,Normal,80,1.0,False,
+Croconaw,,Whirlpool,Water,15,0.7,False,27.0
+Croconaw,,Dynamicpunch,Fighting,100,0.5,False,
+Croconaw,,Headbutt,Normal,70,1.0,False,10.0
+Croconaw,,Rock smash,Fighting,20,1.0,False,12.0
+Croconaw,,Hidden power,Normal,60,1.0,False,29.0
+Croconaw,,Blizzard,Ice,120,0.7,False,12.0
+Croconaw,,Icy wind,Ice,55,0.95,False,27.0
+Croconaw,,Iron tail,Steel,100,0.75,False,20.0
+Croconaw,,Return,Normal,102,1.0,False,12.0
+Croconaw,,Dig,Ground,60,1.0,False,14.0
+Croconaw,,Mud-slap,Ground,20,1.0,False,5.0
+Croconaw,,Ice punch,Ice,75,1.0,False,12.0
+Croconaw,,Fury cutter,Bug,10,0.95,False,9.0
+Feraligatr,1.0,Rage,Normal,20,1.0,False,
+Feraligatr,1.0,Scratch,Normal,40,1.0,False,
+Feraligatr,1.0,Water gun,Water,40,1.0,False,
+Feraligatr,21.0,Bite,Dark,60,1.0,False,
+Feraligatr,38.0,Slash,Normal,70,1.0,True,
+Feraligatr,58.0,Hydro pump,Water,120,0.8,False,
+Feraligatr,,Cut,Normal,50,0.95,False,10.0
+Feraligatr,,Surf,Water,95,1.0,False,17.0
+Feraligatr,,Strength,Normal,80,1.0,False,
+Feraligatr,,Whirlpool,Water,15,0.7,False,27.0
+Feraligatr,,Dynamicpunch,Fighting,100,0.5,False,
+Feraligatr,,Headbutt,Normal,70,1.0,False,10.0
+Feraligatr,,Rock smash,Fighting,20,1.0,False,12.0
+Feraligatr,,Hidden power,Normal,60,1.0,False,29.0
+Feraligatr,,Blizzard,Ice,120,0.7,False,12.0
+Feraligatr,,Hyper beam,Normal,75,0.9,False,65.0
+Feraligatr,,Icy wind,Ice,55,0.95,False,27.0
+Feraligatr,,Iron tail,Steel,100,0.75,False,20.0
+Feraligatr,,Earthquake,Ground,100,1.0,False,47.0
+Feraligatr,,Return,Normal,102,1.0,False,12.0
+Feraligatr,,Dig,Ground,60,1.0,False,14.0
+Feraligatr,,Mud-slap,Ground,20,1.0,False,5.0
+Feraligatr,,Ice punch,Ice,75,1.0,False,12.0
+Feraligatr,,Fury cutter,Bug,10,0.95,False,9.0
+Sentret,1.0,Tackle,Normal,35,0.95,False,
+Sentret,11.0,Quick attack,Normal,40,1.0,False,
+Sentret,17.0,Fury swipes,Normal,54,0.8,False,
+Sentret,25.0,Slam,Normal,80,0.75,False,
+Sentret,,Cut,Normal,50,0.95,False,10.0
+Sentret,,Surf,Water,95,1.0,False,17.0
+Sentret,,Dynamicpunch,Fighting,100,0.5,False,
+Sentret,,Headbutt,Normal,70,1.0,False,10.0
+Sentret,,Rollout,Rock,30,0.9,False,13.0
+Sentret,,Hidden power,Normal,60,1.0,False,29.0
+Sentret,,Iron tail,Steel,100,0.75,False,20.0
+Sentret,,Return,Normal,102,1.0,False,12.0
+Sentret,,Dig,Ground,60,1.0,False,14.0
+Sentret,,Shadow ball,Ghost,80,1.0,False,17.0
+Sentret,,Mud-slap,Ground,20,1.0,False,5.0
+Sentret,,Ice punch,Ice,75,1.0,False,12.0
+Sentret,,Swift,Normal,60,1.0,False,7.0
+Sentret,,Thunderpunch,Electric,75,1.0,False,
+Sentret,,Thief,Dark,40,1.0,False,30.0
+Sentret,,Fire punch,Fire,75,1.0,False,12.0
+Sentret,,Fury cutter,Bug,10,0.95,False,9.0
+Furret,1.0,Quick attack,Normal,40,1.0,False,
+Furret,1.0,Scratch,Normal,40,1.0,False,
+Furret,18.0,Fury swipes,Normal,54,0.8,False,
+Furret,28.0,Slam,Normal,80,0.75,False,
+Furret,,Cut,Normal,50,0.95,False,10.0
+Furret,,Surf,Water,95,1.0,False,17.0
+Furret,,Strength,Normal,80,1.0,False,
+Furret,,Dynamicpunch,Fighting,100,0.5,False,
+Furret,,Headbutt,Normal,70,1.0,False,10.0
+Furret,,Rollout,Rock,30,0.9,False,13.0
+Furret,,Hidden power,Normal,60,1.0,False,29.0
+Furret,,Hyper beam,Normal,75,0.9,False,65.0
+Furret,,Iron tail,Steel,100,0.75,False,20.0
+Furret,,Return,Normal,102,1.0,False,12.0
+Furret,,Dig,Ground,60,1.0,False,14.0
+Furret,,Shadow ball,Ghost,80,1.0,False,17.0
+Furret,,Mud-slap,Ground,20,1.0,False,5.0
+Furret,,Ice punch,Ice,75,1.0,False,12.0
+Furret,,Swift,Normal,60,1.0,False,7.0
+Furret,,Thunderpunch,Electric,75,1.0,False,
+Furret,,Thief,Dark,40,1.0,False,30.0
+Furret,,Fire punch,Fire,75,1.0,False,12.0
+Furret,,Fury cutter,Bug,10,0.95,False,9.0
+Hoothoot,1.0,Tackle,Normal,35,0.95,False,
+Hoothoot,11.0,Peck,Flying,35,1.0,False,
+Hoothoot,34.0,Confusion,Psychic,50,1.0,False,
+Hoothoot,,Fly,Flying,70,0.95,False,23.0
+Hoothoot,,Hidden power,Normal,60,1.0,False,29.0
+Hoothoot,,Return,Normal,102,1.0,False,12.0
+Hoothoot,,Mud-slap,Ground,20,1.0,False,5.0
+Hoothoot,,Swift,Normal,60,1.0,False,7.0
+Hoothoot,,Thief,Dark,40,1.0,False,30.0
+Hoothoot,,Steel wing,Steel,70,0.9,False,
+Noctowl,1.0,Peck,Flying,35,1.0,False,
+Noctowl,1.0,Tackle,Normal,35,0.95,False,
+Noctowl,41.0,Confusion,Psychic,50,1.0,False,
+Noctowl,,Fly,Flying,70,0.95,False,23.0
+Noctowl,,Hidden power,Normal,60,1.0,False,29.0
+Noctowl,,Hyper beam,Normal,75,0.9,False,65.0
+Noctowl,,Return,Normal,102,1.0,False,12.0
+Noctowl,,Mud-slap,Ground,20,1.0,False,5.0
+Noctowl,,Swift,Normal,60,1.0,False,7.0
+Noctowl,,Thief,Dark,40,1.0,False,30.0
+Noctowl,,Steel wing,Steel,70,0.9,False,
+Ledyba,1.0,Tackle,Normal,35,0.95,False,
+Ledyba,15.0,Comet punch,Normal,54,0.85,False,
+Ledyba,36.0,Swift,Normal,60,1.0,False,7.0
+Ledyba,,Dynamicpunch,Fighting,100,0.5,False,
+Ledyba,,Headbutt,Normal,70,1.0,False,10.0
+Ledyba,,Rollout,Rock,30,0.9,False,13.0
+Ledyba,,Hidden power,Normal,60,1.0,False,29.0
+Ledyba,,Giga drain,Grass,60,1.0,False,65.0
+Ledyba,,Return,Normal,102,1.0,False,12.0
+Ledyba,,Dig,Ground,60,1.0,False,14.0
+Ledyba,,Ice punch,Ice,75,1.0,False,12.0
+Ledyba,,Thunderpunch,Electric,75,1.0,False,
+Ledyba,,Thief,Dark,40,1.0,False,30.0
+Ledian,1.0,Tackle,Normal,35,0.95,False,
+Ledian,15.0,Comet punch,Normal,54,0.85,False,
+Ledian,42.0,Swift,Normal,60,1.0,False,7.0
+Ledian,,Dynamicpunch,Fighting,100,0.5,False,
+Ledian,,Headbutt,Normal,70,1.0,False,10.0
+Ledian,,Rollout,Rock,30,0.9,False,13.0
+Ledian,,Hidden power,Normal,60,1.0,False,29.0
+Ledian,,Hyper beam,Normal,75,0.9,False,65.0
+Ledian,,Giga drain,Grass,60,1.0,False,65.0
+Ledian,,Return,Normal,102,1.0,False,12.0
+Ledian,,Dig,Ground,60,1.0,False,14.0
+Ledian,,Ice punch,Ice,75,1.0,False,12.0
+Ledian,,Thunderpunch,Electric,75,1.0,False,
+Ledian,,Thief,Dark,40,1.0,False,30.0
+Spinarak,1.0,Poison sting,Poison,15,1.0,False,
+Spinarak,11.0,Constrict,Normal,10,1.0,False,
+Spinarak,23.0,Leech life,Bug,20,1.0,False,
+Spinarak,30.0,Fury swipes,Normal,54,0.8,False,
+Spinarak,53.0,Psychic,Psychic,90,1.0,False,52.0
+Spinarak,,Hidden power,Normal,60,1.0,False,29.0
+Spinarak,,Giga drain,Grass,60,1.0,False,65.0
+Spinarak,,Return,Normal,102,1.0,False,12.0
+Spinarak,,Dig,Ground,60,1.0,False,14.0
+Spinarak,,Sludge bomb,Poison,90,1.0,False,28.0
+Spinarak,,Thief,Dark,40,1.0,False,30.0
+Ariados,1.0,Constrict,Normal,10,1.0,False,
+Ariados,1.0,Poison sting,Poison,15,1.0,False,
+Ariados,25.0,Leech life,Bug,20,1.0,False,
+Ariados,34.0,Fury swipes,Normal,54,0.8,False,
+Ariados,63.0,Psychic,Psychic,90,1.0,False,52.0
+Ariados,,Hidden power,Normal,60,1.0,False,29.0
+Ariados,,Hyper beam,Normal,75,0.9,False,65.0
+Ariados,,Giga drain,Grass,60,1.0,False,65.0
+Ariados,,Return,Normal,102,1.0,False,12.0
+Ariados,,Dig,Ground,60,1.0,False,14.0
+Ariados,,Sludge bomb,Poison,90,1.0,False,28.0
+Ariados,,Thief,Dark,40,1.0,False,30.0
+Crobat,1.0,Leech life,Bug,20,1.0,False,
+Crobat,12.0,Bite,Dark,60,1.0,False,
+Crobat,30.0,Wing attack,Flying,60,1.0,False,
+Crobat,,Fly,Flying,70,0.95,False,23.0
+Crobat,,Hidden power,Normal,60,1.0,False,29.0
+Crobat,,Hyper beam,Normal,75,0.9,False,65.0
+Crobat,,Giga drain,Grass,60,1.0,False,65.0
+Crobat,,Return,Normal,102,1.0,False,12.0
+Crobat,,Swift,Normal,60,1.0,False,7.0
+Crobat,,Thief,Dark,40,1.0,False,30.0
+Crobat,,Steel wing,Steel,70,0.9,False,
+Chinchou,1.0,Bubble,Water,20,1.0,False,
+Chinchou,17.0,Water gun,Water,40,1.0,False,
+Chinchou,25.0,Spark,Electric,65,1.0,False,
+Chinchou,41.0,Hydro pump,Water,120,0.8,False,
+Chinchou,,Surf,Water,95,1.0,False,17.0
+Chinchou,,Whirlpool,Water,15,0.7,False,27.0
+Chinchou,,Waterfall,Water,80,1.0,False,36.0
+Chinchou,,Zap cannon,Electric,100,0.5,False,58.0
+Chinchou,,Hidden power,Normal,60,1.0,False,29.0
+Chinchou,,Thunder,Electric,120,0.7,False,12.0
+Chinchou,,Return,Normal,102,1.0,False,12.0
+Lanturn,1.0,Bubble,Water,20,1.0,False,
+Lanturn,17.0,Water gun,Water,40,1.0,False,
+Lanturn,25.0,Spark,Electric,65,1.0,False,
+Lanturn,53.0,Hydro pump,Water,120,0.8,False,
+Lanturn,,Surf,Water,95,1.0,False,17.0
+Lanturn,,Whirlpool,Water,15,0.7,False,27.0
+Lanturn,,Waterfall,Water,80,1.0,False,36.0
+Lanturn,,Zap cannon,Electric,100,0.5,False,58.0
+Lanturn,,Hidden power,Normal,60,1.0,False,29.0
+Lanturn,,Hyper beam,Normal,75,0.9,False,65.0
+Lanturn,,Thunder,Electric,120,0.7,False,12.0
+Lanturn,,Return,Normal,102,1.0,False,12.0
+Pichu,1.0,Thundershock,Electric,40,1.0,False,
+Pichu,,Headbutt,Normal,70,1.0,False,10.0
+Pichu,,Rollout,Rock,30,0.9,False,13.0
+Pichu,,Zap cannon,Electric,100,0.5,False,58.0
+Pichu,,Hidden power,Normal,60,1.0,False,29.0
+Pichu,,Iron tail,Steel,100,0.75,False,20.0
+Pichu,,Thunder,Electric,120,0.7,False,12.0
+Pichu,,Return,Normal,102,1.0,False,12.0
+Pichu,,Mud-slap,Ground,20,1.0,False,5.0
+Pichu,,Swift,Normal,60,1.0,False,7.0
+Cleffa,1.0,Pound,Normal,40,1.0,False,
+Cleffa,,Headbutt,Normal,70,1.0,False,10.0
+Cleffa,,Rollout,Rock,30,0.9,False,13.0
+Cleffa,,Zap cannon,Electric,100,0.5,False,58.0
+Cleffa,,Hidden power,Normal,60,1.0,False,29.0
+Cleffa,,Icy wind,Ice,55,0.95,False,27.0
+Cleffa,,Iron tail,Steel,100,0.75,False,20.0
+Cleffa,,Return,Normal,102,1.0,False,12.0
+Cleffa,,Psychic,Psychic,90,1.0,False,52.0
+Cleffa,,Shadow ball,Ghost,80,1.0,False,17.0
+Cleffa,,Mud-slap,Ground,20,1.0,False,5.0
+Cleffa,,Fire blast,Fire,120,0.85,False,12.0
+Igglybuff,9.0,Pound,Normal,40,1.0,False,
+Igglybuff,,Headbutt,Normal,70,1.0,False,10.0
+Igglybuff,,Rollout,Rock,30,0.9,False,13.0
+Igglybuff,,Zap cannon,Electric,100,0.5,False,58.0
+Igglybuff,,Hidden power,Normal,60,1.0,False,29.0
+Igglybuff,,Icy wind,Ice,55,0.95,False,27.0
+Igglybuff,,Return,Normal,102,1.0,False,12.0
+Igglybuff,,Psychic,Psychic,90,1.0,False,52.0
+Igglybuff,,Shadow ball,Ghost,80,1.0,False,17.0
+Igglybuff,,Mud-slap,Ground,20,1.0,False,5.0
+Igglybuff,,Fire blast,Fire,120,0.85,False,12.0
+Togepi,,Headbutt,Normal,70,1.0,False,10.0
+Togepi,,Rollout,Rock,30,0.9,False,13.0
+Togepi,,Zap cannon,Electric,100,0.5,False,58.0
+Togepi,,Rock smash,Fighting,20,1.0,False,12.0
+Togepi,,Hidden power,Normal,60,1.0,False,29.0
+Togepi,,Return,Normal,102,1.0,False,12.0
+Togepi,,Psychic,Psychic,90,1.0,False,52.0
+Togepi,,Shadow ball,Ghost,80,1.0,False,17.0
+Togepi,,Mud-slap,Ground,20,1.0,False,5.0
+Togepi,,Fire blast,Fire,120,0.85,False,12.0
+Togepi,,Swift,Normal,60,1.0,False,7.0
+Togetic,,Fly,Flying,70,0.95,False,23.0
+Togetic,,Headbutt,Normal,70,1.0,False,10.0
+Togetic,,Rollout,Rock,30,0.9,False,13.0
+Togetic,,Zap cannon,Electric,100,0.5,False,58.0
+Togetic,,Rock smash,Fighting,20,1.0,False,12.0
+Togetic,,Hidden power,Normal,60,1.0,False,29.0
+Togetic,,Hyper beam,Normal,75,0.9,False,65.0
+Togetic,,Return,Normal,102,1.0,False,12.0
+Togetic,,Psychic,Psychic,90,1.0,False,52.0
+Togetic,,Shadow ball,Ghost,80,1.0,False,17.0
+Togetic,,Mud-slap,Ground,20,1.0,False,5.0
+Togetic,,Fire blast,Fire,120,0.85,False,12.0
+Togetic,,Swift,Normal,60,1.0,False,7.0
+Togetic,,Steel wing,Steel,70,0.9,False,
+Natu,1.0,Peck,Flying,35,1.0,False,
+Natu,30.0,Future sight,Psychic,80,0.9,False,
+Natu,50.0,Psychic,Psychic,90,1.0,False,52.0
+Natu,,Hidden power,Normal,60,1.0,False,29.0
+Natu,,Giga drain,Grass,60,1.0,False,65.0
+Natu,,Return,Normal,102,1.0,False,12.0
+Natu,,Swift,Normal,60,1.0,False,7.0
+Natu,,Thief,Dark,40,1.0,False,30.0
+Xatu,1.0,Peck,Flying,35,1.0,False,
+Xatu,35.0,Future sight,Psychic,80,0.9,False,
+Xatu,65.0,Psychic,Psychic,90,1.0,False,52.0
+Xatu,,Fly,Flying,70,0.95,False,23.0
+Xatu,,Hidden power,Normal,60,1.0,False,29.0
+Xatu,,Hyper beam,Normal,75,0.9,False,65.0
+Xatu,,Giga drain,Grass,60,1.0,False,65.0
+Xatu,,Return,Normal,102,1.0,False,12.0
+Xatu,,Swift,Normal,60,1.0,False,7.0
+Xatu,,Thief,Dark,40,1.0,False,30.0
+Mareep,1.0,Tackle,Normal,35,0.95,False,
+Mareep,9.0,Thundershock,Electric,40,1.0,False,
+Mareep,37.0,Thunder,Electric,120,0.7,False,12.0
+Mareep,,Headbutt,Normal,70,1.0,False,10.0
+Mareep,,Zap cannon,Electric,100,0.5,False,58.0
+Mareep,,Hidden power,Normal,60,1.0,False,29.0
+Mareep,,Iron tail,Steel,100,0.75,False,20.0
+Mareep,,Return,Normal,102,1.0,False,12.0
+Mareep,,Swift,Normal,60,1.0,False,7.0
+Flaaffy,1.0,Tackle,Normal,35,0.95,False,
+Flaaffy,1.0,Thundershock,Electric,40,1.0,False,
+Flaaffy,45.0,Thunder,Electric,120,0.7,False,12.0
+Flaaffy,,Strength,Normal,80,1.0,False,
+Flaaffy,,Dynamicpunch,Fighting,100,0.5,False,
+Flaaffy,,Headbutt,Normal,70,1.0,False,10.0
+Flaaffy,,Zap cannon,Electric,100,0.5,False,58.0
+Flaaffy,,Rock smash,Fighting,20,1.0,False,12.0
+Flaaffy,,Hidden power,Normal,60,1.0,False,29.0
+Flaaffy,,Iron tail,Steel,100,0.75,False,20.0
+Flaaffy,,Return,Normal,102,1.0,False,12.0
+Flaaffy,,Swift,Normal,60,1.0,False,7.0
+Flaaffy,,Thunderpunch,Electric,75,1.0,False,
+Flaaffy,,Fire punch,Fire,75,1.0,False,12.0
+Ampharos,1.0,Tackle,Normal,35,0.95,False,
+Ampharos,1.0,Thundershock,Electric,40,1.0,False,
+Ampharos,30.0,Thunderpunch,Electric,75,1.0,False,
+Ampharos,57.0,Thunder,Electric,120,0.7,False,12.0
+Ampharos,,Strength,Normal,80,1.0,False,
+Ampharos,,Dynamicpunch,Fighting,100,0.5,False,
+Ampharos,,Headbutt,Normal,70,1.0,False,10.0
+Ampharos,,Zap cannon,Electric,100,0.5,False,58.0
+Ampharos,,Rock smash,Fighting,20,1.0,False,12.0
+Ampharos,,Hidden power,Normal,60,1.0,False,29.0
+Ampharos,,Hyper beam,Normal,75,0.9,False,65.0
+Ampharos,,Iron tail,Steel,100,0.75,False,20.0
+Ampharos,,Return,Normal,102,1.0,False,12.0
+Ampharos,,Swift,Normal,60,1.0,False,7.0
+Ampharos,,Fire punch,Fire,75,1.0,False,12.0
+Bellossom,1.0,Absorb,Grass,20,1.0,False,
+Bellossom,1.0,Petal dance,Grass,70,1.0,False,
+Bellossom,,Cut,Normal,50,0.95,False,10.0
+Bellossom,,Hidden power,Normal,60,1.0,False,29.0
+Bellossom,,Hyper beam,Normal,75,0.9,False,65.0
+Bellossom,,Giga drain,Grass,60,1.0,False,65.0
+Bellossom,,Return,Normal,102,1.0,False,12.0
+Marill,1.0,Tackle,Normal,35,0.95,False,
+Marill,10.0,Water gun,Water,40,1.0,False,
+Marill,15.0,Rollout,Rock,30,0.9,False,13.0
+Marill,21.0,Bubblebeam,Water,65,1.0,False,
+Marill,,Surf,Water,95,1.0,False,17.0
+Marill,,Whirlpool,Water,15,0.7,False,27.0
+Marill,,Waterfall,Water,80,1.0,False,36.0
+Marill,,Dynamicpunch,Fighting,100,0.5,False,
+Marill,,Headbutt,Normal,70,1.0,False,10.0
+Marill,,Hidden power,Normal,60,1.0,False,29.0
+Marill,,Blizzard,Ice,120,0.7,False,12.0
+Marill,,Icy wind,Ice,55,0.95,False,27.0
+Marill,,Iron tail,Steel,100,0.75,False,20.0
+Marill,,Return,Normal,102,1.0,False,12.0
+Marill,,Mud-slap,Ground,20,1.0,False,5.0
+Marill,,Ice punch,Ice,75,1.0,False,12.0
+Marill,,Swift,Normal,60,1.0,False,7.0
+Azumarill,1.0,Tackle,Normal,35,0.95,False,
+Azumarill,1.0,Water gun,Water,40,1.0,False,
+Azumarill,15.0,Rollout,Rock,30,0.9,False,13.0
+Azumarill,25.0,Bubblebeam,Water,65,1.0,False,
+Azumarill,,Surf,Water,95,1.0,False,17.0
+Azumarill,,Strength,Normal,80,1.0,False,
+Azumarill,,Whirlpool,Water,15,0.7,False,27.0
+Azumarill,,Waterfall,Water,80,1.0,False,36.0
+Azumarill,,Dynamicpunch,Fighting,100,0.5,False,
+Azumarill,,Headbutt,Normal,70,1.0,False,10.0
+Azumarill,,Rock smash,Fighting,20,1.0,False,12.0
+Azumarill,,Hidden power,Normal,60,1.0,False,29.0
+Azumarill,,Blizzard,Ice,120,0.7,False,12.0
+Azumarill,,Hyper beam,Normal,75,0.9,False,65.0
+Azumarill,,Icy wind,Ice,55,0.95,False,27.0
+Azumarill,,Iron tail,Steel,100,0.75,False,20.0
+Azumarill,,Return,Normal,102,1.0,False,12.0
+Azumarill,,Mud-slap,Ground,20,1.0,False,5.0
+Azumarill,,Ice punch,Ice,75,1.0,False,12.0
+Azumarill,,Swift,Normal,60,1.0,False,7.0
+Sudowoodo,1.0,Rock throw,Rock,50,0.9,False,
+Sudowoodo,19.0,Low kick,Fighting,50,0.9,False,
+Sudowoodo,28.0,Rock slide,Rock,75,0.9,False,
+Sudowoodo,37.0,Faint attack,Dark,60,1.0,False,
+Sudowoodo,46.0,Slam,Normal,80,0.75,False,
+Sudowoodo,,Strength,Normal,80,1.0,False,
+Sudowoodo,,Dynamicpunch,Fighting,100,0.5,False,
+Sudowoodo,,Headbutt,Normal,70,1.0,False,10.0
+Sudowoodo,,Rollout,Rock,30,0.9,False,13.0
+Sudowoodo,,Rock smash,Fighting,20,1.0,False,12.0
+Sudowoodo,,Hidden power,Normal,60,1.0,False,29.0
+Sudowoodo,,Earthquake,Ground,100,1.0,False,47.0
+Sudowoodo,,Return,Normal,102,1.0,False,12.0
+Sudowoodo,,Dig,Ground,60,1.0,False,14.0
+Sudowoodo,,Mud-slap,Ground,20,1.0,False,5.0
+Sudowoodo,,Ice punch,Ice,75,1.0,False,12.0
+Sudowoodo,,Thunderpunch,Electric,75,1.0,False,
+Sudowoodo,,Thief,Dark,40,1.0,False,30.0
+Sudowoodo,,Fire punch,Fire,75,1.0,False,12.0
+Politoed,1.0,Doubleslap,Normal,45,0.85,False,
+Politoed,1.0,Water gun,Water,40,1.0,False,
+Politoed,,Surf,Water,95,1.0,False,17.0
+Politoed,,Strength,Normal,80,1.0,False,
+Politoed,,Whirlpool,Water,15,0.7,False,27.0
+Politoed,,Waterfall,Water,80,1.0,False,36.0
+Politoed,,Dynamicpunch,Fighting,100,0.5,False,
+Politoed,,Headbutt,Normal,70,1.0,False,10.0
+Politoed,,Rock smash,Fighting,20,1.0,False,12.0
+Politoed,,Hidden power,Normal,60,1.0,False,29.0
+Politoed,,Blizzard,Ice,120,0.7,False,12.0
+Politoed,,Hyper beam,Normal,75,0.9,False,65.0
+Politoed,,Icy wind,Ice,55,0.95,False,27.0
+Politoed,,Earthquake,Ground,100,1.0,False,47.0
+Politoed,,Return,Normal,102,1.0,False,12.0
+Politoed,,Psychic,Psychic,90,1.0,False,52.0
+Politoed,,Mud-slap,Ground,20,1.0,False,5.0
+Politoed,,Ice punch,Ice,75,1.0,False,12.0
+Politoed,,Thief,Dark,40,1.0,False,30.0
+Hoppip,10.0,Tackle,Normal,35,0.95,False,
+Hoppip,30.0,Mega drain,Grass,40,1.0,False,
+Hoppip,,Headbutt,Normal,70,1.0,False,10.0
+Hoppip,,Hidden power,Normal,60,1.0,False,29.0
+Hoppip,,Giga drain,Grass,60,1.0,False,65.0
+Hoppip,,Return,Normal,102,1.0,False,12.0
+Skiploom,1.0,Tackle,Normal,35,0.95,False,
+Skiploom,36.0,Mega drain,Grass,40,1.0,False,
+Skiploom,,Headbutt,Normal,70,1.0,False,10.0
+Skiploom,,Hidden power,Normal,60,1.0,False,29.0
+Skiploom,,Giga drain,Grass,60,1.0,False,65.0
+Skiploom,,Return,Normal,102,1.0,False,12.0
+Jumpluff,1.0,Tackle,Normal,35,0.95,False,
+Jumpluff,44.0,Mega drain,Grass,40,1.0,False,
+Jumpluff,,Headbutt,Normal,70,1.0,False,10.0
+Jumpluff,,Hidden power,Normal,60,1.0,False,29.0
+Jumpluff,,Hyper beam,Normal,75,0.9,False,65.0
+Jumpluff,,Giga drain,Grass,60,1.0,False,65.0
+Jumpluff,,Return,Normal,102,1.0,False,12.0
+Aipom,1.0,Scratch,Normal,40,1.0,False,
+Aipom,19.0,Fury swipes,Normal,54,0.8,False,
+Aipom,27.0,Swift,Normal,60,1.0,False,7.0
+Aipom,,Cut,Normal,50,0.95,False,10.0
+Aipom,,Strength,Normal,80,1.0,False,
+Aipom,,Dynamicpunch,Fighting,100,0.5,False,
+Aipom,,Headbutt,Normal,70,1.0,False,10.0
+Aipom,,Zap cannon,Electric,100,0.5,False,58.0
+Aipom,,Rock smash,Fighting,20,1.0,False,12.0
+Aipom,,Hidden power,Normal,60,1.0,False,29.0
+Aipom,,Iron tail,Steel,100,0.75,False,20.0
+Aipom,,Thunder,Electric,120,0.7,False,12.0
+Aipom,,Return,Normal,102,1.0,False,12.0
+Aipom,,Shadow ball,Ghost,80,1.0,False,17.0
+Aipom,,Mud-slap,Ground,20,1.0,False,5.0
+Aipom,,Ice punch,Ice,75,1.0,False,12.0
+Aipom,,Thunderpunch,Electric,75,1.0,False,
+Aipom,,Thief,Dark,40,1.0,False,30.0
+Aipom,,Fire punch,Fire,75,1.0,False,12.0
+Aipom,,Fury cutter,Bug,10,0.95,False,9.0
+Sunkern,1.0,Absorb,Grass,20,1.0,False,
+Sunkern,10.0,Mega drain,Grass,40,1.0,False,
+Sunkern,46.0,Giga drain,Grass,60,1.0,False,65.0
+Sunkern,,Cut,Normal,50,0.95,False,10.0
+Sunkern,,Hidden power,Normal,60,1.0,False,29.0
+Sunkern,,Return,Normal,102,1.0,False,12.0
+Sunkern,,Sludge bomb,Poison,90,1.0,False,28.0
+Sunflora,1.0,Absorb,Grass,20,1.0,False,
+Sunflora,1.0,Pound,Normal,40,1.0,False,
+Sunflora,10.0,Razor leaf,Grass,55,0.95,True,
+Sunflora,31.0,Petal dance,Grass,70,1.0,False,
+Sunflora,,Cut,Normal,50,0.95,False,10.0
+Sunflora,,Hidden power,Normal,60,1.0,False,29.0
+Sunflora,,Hyper beam,Normal,75,0.9,False,65.0
+Sunflora,,Giga drain,Grass,60,1.0,False,65.0
+Sunflora,,Return,Normal,102,1.0,False,12.0
+Sunflora,,Sludge bomb,Poison,90,1.0,False,28.0
+Yanma,1.0,Tackle,Normal,35,0.95,False,
+Yanma,7.0,Quick attack,Normal,40,1.0,False,
+Yanma,37.0,Swift,Normal,60,1.0,False,7.0
+Yanma,,Headbutt,Normal,70,1.0,False,10.0
+Yanma,,Hidden power,Normal,60,1.0,False,29.0
+Yanma,,Giga drain,Grass,60,1.0,False,65.0
+Yanma,,Return,Normal,102,1.0,False,12.0
+Yanma,,Thief,Dark,40,1.0,False,30.0
+Yanma,37.0,Wing attack,Flying,60,1.0,False,
+Wooper,1.0,Water gun,Water,40,1.0,False,
+Wooper,11.0,Slam,Normal,80,0.75,False,
+Wooper,31.0,Earthquake,Ground,100,1.0,False,47.0
+Wooper,,Surf,Water,95,1.0,False,17.0
+Wooper,,Whirlpool,Water,15,0.7,False,27.0
+Wooper,,Dynamicpunch,Fighting,100,0.5,False,
+Wooper,,Headbutt,Normal,70,1.0,False,10.0
+Wooper,,Rollout,Rock,30,0.9,False,13.0
+Wooper,,Rock smash,Fighting,20,1.0,False,12.0
+Wooper,,Hidden power,Normal,60,1.0,False,29.0
+Wooper,,Iron tail,Steel,100,0.75,False,20.0
+Wooper,,Return,Normal,102,1.0,False,12.0
+Wooper,,Dig,Ground,60,1.0,False,14.0
+Wooper,,Mud-slap,Ground,20,1.0,False,5.0
+Wooper,,Ice punch,Ice,75,1.0,False,12.0
+Wooper,,Sludge bomb,Poison,90,1.0,False,28.0
+Quagsire,1.0,Water gun,Water,40,1.0,False,
+Quagsire,11.0,Slam,Normal,80,0.75,False,
+Quagsire,35.0,Earthquake,Ground,100,1.0,False,47.0
+Quagsire,,Surf,Water,95,1.0,False,17.0
+Quagsire,,Strength,Normal,80,1.0,False,
+Quagsire,,Whirlpool,Water,15,0.7,False,27.0
+Quagsire,,Dynamicpunch,Fighting,100,0.5,False,
+Quagsire,,Headbutt,Normal,70,1.0,False,10.0
+Quagsire,,Rollout,Rock,30,0.9,False,13.0
+Quagsire,,Rock smash,Fighting,20,1.0,False,12.0
+Quagsire,,Hidden power,Normal,60,1.0,False,29.0
+Quagsire,,Hyper beam,Normal,75,0.9,False,65.0
+Quagsire,,Iron tail,Steel,100,0.75,False,20.0
+Quagsire,,Return,Normal,102,1.0,False,12.0
+Quagsire,,Dig,Ground,60,1.0,False,14.0
+Quagsire,,Mud-slap,Ground,20,1.0,False,5.0
+Quagsire,,Ice punch,Ice,75,1.0,False,12.0
+Quagsire,,Sludge bomb,Poison,90,1.0,False,28.0
+Espeon,1.0,Tackle,Normal,35,0.95,False,
+Espeon,16.0,Confusion,Psychic,50,1.0,False,
+Espeon,23.0,Quick attack,Normal,40,1.0,False,
+Espeon,30.0,Swift,Normal,60,1.0,False,7.0
+Espeon,36.0,Psybeam,Psychic,65,1.0,False,
+Espeon,47.0,Psychic,Psychic,90,1.0,False,52.0
+Espeon,,Cut,Normal,50,0.95,False,10.0
+Espeon,,Headbutt,Normal,70,1.0,False,10.0
+Espeon,,Zap cannon,Electric,100,0.5,False,58.0
+Espeon,,Hidden power,Normal,60,1.0,False,29.0
+Espeon,,Hyper beam,Normal,75,0.9,False,65.0
+Espeon,,Iron tail,Steel,100,0.75,False,20.0
+Espeon,,Return,Normal,102,1.0,False,12.0
+Espeon,,Shadow ball,Ghost,80,1.0,False,17.0
+Espeon,,Mud-slap,Ground,20,1.0,False,5.0
+Umbreon,1.0,Tackle,Normal,35,0.95,False,
+Umbreon,16.0,Pursuit,Dark,40,1.0,False,
+Umbreon,23.0,Quick attack,Normal,40,1.0,False,
+Umbreon,36.0,Faint attack,Dark,60,1.0,False,
+Umbreon,,Cut,Normal,50,0.95,False,10.0
+Umbreon,,Headbutt,Normal,70,1.0,False,10.0
+Umbreon,,Zap cannon,Electric,100,0.5,False,58.0
+Umbreon,,Hidden power,Normal,60,1.0,False,29.0
+Umbreon,,Hyper beam,Normal,75,0.9,False,65.0
+Umbreon,,Iron tail,Steel,100,0.75,False,20.0
+Umbreon,,Return,Normal,102,1.0,False,12.0
+Umbreon,,Psychic,Psychic,90,1.0,False,52.0
+Umbreon,,Shadow ball,Ghost,80,1.0,False,17.0
+Umbreon,,Mud-slap,Ground,20,1.0,False,5.0
+Umbreon,,Swift,Normal,60,1.0,False,7.0
+Murkrow,1.0,Peck,Flying,35,1.0,False,
+Murkrow,11.0,Pursuit,Dark,40,1.0,False,
+Murkrow,31.0,Faint attack,Dark,60,1.0,False,
+Murkrow,,Fly,Flying,70,0.95,False,23.0
+Murkrow,,Hidden power,Normal,60,1.0,False,29.0
+Murkrow,,Icy wind,Ice,55,0.95,False,27.0
+Murkrow,,Return,Normal,102,1.0,False,12.0
+Murkrow,,Shadow ball,Ghost,80,1.0,False,17.0
+Murkrow,,Mud-slap,Ground,20,1.0,False,5.0
+Murkrow,,Swift,Normal,60,1.0,False,7.0
+Murkrow,,Thief,Dark,40,1.0,False,30.0
+Murkrow,,Steel wing,Steel,70,0.9,False,
+Slowking,1.0,Tackle,Normal,35,0.95,False,
+Slowking,15.0,Water gun,Water,40,1.0,False,
+Slowking,20.0,Confusion,Psychic,50,1.0,False,
+Slowking,34.0,Headbutt,Normal,70,1.0,False,10.0
+Slowking,48.0,Psychic,Psychic,90,1.0,False,52.0
+Slowking,,Surf,Water,95,1.0,False,17.0
+Slowking,,Strength,Normal,80,1.0,False,
+Slowking,,Whirlpool,Water,15,0.7,False,27.0
+Slowking,,Dynamicpunch,Fighting,100,0.5,False,
+Slowking,,Zap cannon,Electric,100,0.5,False,58.0
+Slowking,,Rock smash,Fighting,20,1.0,False,12.0
+Slowking,,Hidden power,Normal,60,1.0,False,29.0
+Slowking,,Blizzard,Ice,120,0.7,False,12.0
+Slowking,,Hyper beam,Normal,75,0.9,False,65.0
+Slowking,,Icy wind,Ice,55,0.95,False,27.0
+Slowking,,Iron tail,Steel,100,0.75,False,20.0
+Slowking,,Earthquake,Ground,100,1.0,False,47.0
+Slowking,,Return,Normal,102,1.0,False,12.0
+Slowking,,Dig,Ground,60,1.0,False,14.0
+Slowking,,Shadow ball,Ghost,80,1.0,False,17.0
+Slowking,,Mud-slap,Ground,20,1.0,False,5.0
+Slowking,,Ice punch,Ice,75,1.0,False,12.0
+Slowking,,Fire blast,Fire,120,0.85,False,12.0
+Slowking,,Swift,Normal,60,1.0,False,7.0
+Slowking,,Fury cutter,Bug,10,0.95,False,9.0
+Misdreavus,27.0,Psybeam,Psychic,65,1.0,False,
+Misdreavus,,Headbutt,Normal,70,1.0,False,10.0
+Misdreavus,,Zap cannon,Electric,100,0.5,False,58.0
+Misdreavus,,Hidden power,Normal,60,1.0,False,29.0
+Misdreavus,,Thunder,Electric,120,0.7,False,12.0
+Misdreavus,,Return,Normal,102,1.0,False,12.0
+Misdreavus,,Psychic,Psychic,90,1.0,False,52.0
+Misdreavus,,Shadow ball,Ghost,80,1.0,False,17.0
+Misdreavus,,Swift,Normal,60,1.0,False,7.0
+Misdreavus,,Thief,Dark,40,1.0,False,30.0
+Unown,1.0,Hidden power,Normal,60,1.0,False,29.0
+Wobbuffet,0.0,Struggle,Normal,1,1.0,False,
+Girafarig,1.0,Confusion,Psychic,50,1.0,False,
+Girafarig,1.0,Stomp,Normal,65,1.0,False,
+Girafarig,1.0,Tackle,Normal,35,0.95,False,
+Girafarig,41.0,Psybeam,Psychic,65,1.0,False,
+Girafarig,54.0,Crunch,Dark,80,1.0,False,
+Girafarig,,Strength,Normal,80,1.0,False,
+Girafarig,,Headbutt,Normal,70,1.0,False,10.0
+Girafarig,,Zap cannon,Electric,100,0.5,False,58.0
+Girafarig,,Rock smash,Fighting,20,1.0,False,12.0
+Girafarig,,Hidden power,Normal,60,1.0,False,29.0
+Girafarig,,Iron tail,Steel,100,0.75,False,20.0
+Girafarig,,Thunder,Electric,120,0.7,False,12.0
+Girafarig,,Earthquake,Ground,100,1.0,False,47.0
+Girafarig,,Return,Normal,102,1.0,False,12.0
+Girafarig,,Psychic,Psychic,90,1.0,False,52.0
+Girafarig,,Shadow ball,Ghost,80,1.0,False,17.0
+Girafarig,,Mud-slap,Ground,20,1.0,False,5.0
+Girafarig,,Swift,Normal,60,1.0,False,7.0
+Girafarig,,Thief,Dark,40,1.0,False,30.0
+Pineco,1.0,Tackle,Normal,35,0.95,False,
+Pineco,22.0,Rapid spin,Normal,20,1.0,False,
+Pineco,,Strength,Normal,80,1.0,False,
+Pineco,,Headbutt,Normal,70,1.0,False,10.0
+Pineco,,Rollout,Rock,30,0.9,False,13.0
+Pineco,,Rock smash,Fighting,20,1.0,False,12.0
+Pineco,,Hidden power,Normal,60,1.0,False,29.0
+Pineco,,Giga drain,Grass,60,1.0,False,65.0
+Pineco,,Return,Normal,102,1.0,False,12.0
+Forretress,1.0,Tackle,Normal,35,0.95,False,
+Forretress,22.0,Rapid spin,Normal,20,1.0,False,
+Forretress,,Strength,Normal,80,1.0,False,
+Forretress,,Headbutt,Normal,70,1.0,False,10.0
+Forretress,,Rollout,Rock,30,0.9,False,13.0
+Forretress,,Rock smash,Fighting,20,1.0,False,12.0
+Forretress,,Hidden power,Normal,60,1.0,False,29.0
+Forretress,,Hyper beam,Normal,75,0.9,False,65.0
+Forretress,,Giga drain,Grass,60,1.0,False,65.0
+Forretress,,Return,Normal,102,1.0,False,12.0
+Dunsparce,1.0,Rage,Normal,20,1.0,False,
+Dunsparce,26.0,Pursuit,Dark,40,1.0,False,
+Dunsparce,,Strength,Normal,80,1.0,False,
+Dunsparce,,Headbutt,Normal,70,1.0,False,10.0
+Dunsparce,,Rollout,Rock,30,0.9,False,13.0
+Dunsparce,,Zap cannon,Electric,100,0.5,False,58.0
+Dunsparce,,Rock smash,Fighting,20,1.0,False,12.0
+Dunsparce,,Hidden power,Normal,60,1.0,False,29.0
+Dunsparce,,Iron tail,Steel,100,0.75,False,20.0
+Dunsparce,,Thunder,Electric,120,0.7,False,12.0
+Dunsparce,,Return,Normal,102,1.0,False,12.0
+Dunsparce,,Dig,Ground,60,1.0,False,14.0
+Dunsparce,,Mud-slap,Ground,20,1.0,False,5.0
+Dunsparce,,Thief,Dark,40,1.0,False,30.0
+Gligar,1.0,Poison sting,Poison,15,1.0,False,
+Gligar,20.0,Quick attack,Normal,40,1.0,False,
+Gligar,28.0,Faint attack,Dark,60,1.0,False,
+Gligar,36.0,Slash,Normal,70,1.0,True,
+Gligar,,Cut,Normal,50,0.95,False,10.0
+Gligar,,Strength,Normal,80,1.0,False,
+Gligar,,Headbutt,Normal,70,1.0,False,10.0
+Gligar,,Rock smash,Fighting,20,1.0,False,12.0
+Gligar,,Hidden power,Normal,60,1.0,False,29.0
+Gligar,,Iron tail,Steel,100,0.75,False,20.0
+Gligar,,Return,Normal,102,1.0,False,12.0
+Gligar,,Sludge bomb,Poison,90,1.0,False,28.0
+Gligar,,Swift,Normal,60,1.0,False,7.0
+Gligar,,Thief,Dark,40,1.0,False,30.0
+Gligar,,Fury cutter,Bug,10,0.95,False,9.0
+Steelix,1.0,Tackle,Normal,35,0.95,False,
+Steelix,10.0,Bind,Normal,15,0.75,False,
+Steelix,14.0,Rock throw,Rock,50,0.9,False,
+Steelix,27.0,Rage,Normal,20,1.0,False,
+Steelix,40.0,Slam,Normal,80,0.75,False,
+Steelix,49.0,Crunch,Dark,80,1.0,False,
+Steelix,,Cut,Normal,50,0.95,False,10.0
+Steelix,,Strength,Normal,80,1.0,False,
+Steelix,,Headbutt,Normal,70,1.0,False,10.0
+Steelix,,Rollout,Rock,30,0.9,False,13.0
+Steelix,,Rock smash,Fighting,20,1.0,False,12.0
+Steelix,,Hidden power,Normal,60,1.0,False,29.0
+Steelix,,Hyper beam,Normal,75,0.9,False,65.0
+Steelix,,Iron tail,Steel,100,0.75,False,20.0
+Steelix,,Dragonbreath,Dragon,60,1.0,False,
+Steelix,,Earthquake,Ground,100,1.0,False,47.0
+Steelix,,Return,Normal,102,1.0,False,12.0
+Steelix,,Dig,Ground,60,1.0,False,14.0
+Steelix,,Mud-slap,Ground,20,1.0,False,5.0
+Snubbull,1.0,Tackle,Normal,35,0.95,False,
+Snubbull,13.0,Bite,Dark,60,1.0,False,
+Snubbull,19.0,Lick,Ghost,20,1.0,False,
+Snubbull,34.0,Rage,Normal,20,1.0,False,
+Snubbull,,Strength,Normal,80,1.0,False,
+Snubbull,,Dynamicpunch,Fighting,100,0.5,False,
+Snubbull,,Headbutt,Normal,70,1.0,False,10.0
+Snubbull,,Zap cannon,Electric,100,0.5,False,58.0
+Snubbull,,Rock smash,Fighting,20,1.0,False,12.0
+Snubbull,,Hidden power,Normal,60,1.0,False,29.0
+Snubbull,,Thunder,Electric,120,0.7,False,12.0
+Snubbull,,Return,Normal,102,1.0,False,12.0
+Snubbull,,Shadow ball,Ghost,80,1.0,False,17.0
+Snubbull,,Mud-slap,Ground,20,1.0,False,5.0
+Snubbull,,Ice punch,Ice,75,1.0,False,12.0
+Snubbull,,Sludge bomb,Poison,90,1.0,False,28.0
+Snubbull,,Thunderpunch,Electric,75,1.0,False,
+Snubbull,,Thief,Dark,40,1.0,False,30.0
+Snubbull,,Fire punch,Fire,75,1.0,False,12.0
+Granbull,1.0,Tackle,Normal,35,0.95,False,
+Granbull,13.0,Bite,Dark,60,1.0,False,
+Granbull,19.0,Lick,Ghost,20,1.0,False,
+Granbull,38.0,Rage,Normal,20,1.0,False,
+Granbull,,Strength,Normal,80,1.0,False,
+Granbull,,Dynamicpunch,Fighting,100,0.5,False,
+Granbull,,Headbutt,Normal,70,1.0,False,10.0
+Granbull,,Zap cannon,Electric,100,0.5,False,58.0
+Granbull,,Rock smash,Fighting,20,1.0,False,12.0
+Granbull,,Hidden power,Normal,60,1.0,False,29.0
+Granbull,,Hyper beam,Normal,75,0.9,False,65.0
+Granbull,,Thunder,Electric,120,0.7,False,12.0
+Granbull,,Return,Normal,102,1.0,False,12.0
+Granbull,,Shadow ball,Ghost,80,1.0,False,17.0
+Granbull,,Mud-slap,Ground,20,1.0,False,5.0
+Granbull,,Ice punch,Ice,75,1.0,False,12.0
+Granbull,,Sludge bomb,Poison,90,1.0,False,28.0
+Granbull,,Thunderpunch,Electric,75,1.0,False,
+Granbull,,Thief,Dark,40,1.0,False,30.0
+Granbull,,Fire punch,Fire,75,1.0,False,12.0
+Qwilfish,1.0,Poison sting,Poison,15,1.0,False,
+Qwilfish,1.0,Tackle,Normal,35,0.95,False,
+Qwilfish,19.0,Water gun,Water,40,1.0,False,
+Qwilfish,28.0,Pin missile,Bug,42,0.85,False,
+Qwilfish,46.0,Hydro pump,Water,120,0.8,False,
+Qwilfish,,Surf,Water,95,1.0,False,17.0
+Qwilfish,,Whirlpool,Water,15,0.7,False,27.0
+Qwilfish,,Waterfall,Water,80,1.0,False,36.0
+Qwilfish,,Headbutt,Normal,70,1.0,False,10.0
+Qwilfish,,Rollout,Rock,30,0.9,False,13.0
+Qwilfish,,Hidden power,Normal,60,1.0,False,29.0
+Qwilfish,,Blizzard,Ice,120,0.7,False,12.0
+Qwilfish,,Icy wind,Ice,55,0.95,False,27.0
+Qwilfish,,Return,Normal,102,1.0,False,12.0
+Qwilfish,,Sludge bomb,Poison,90,1.0,False,28.0
+Qwilfish,,Swift,Normal,60,1.0,False,7.0
+Scizor,1.0,Quick attack,Normal,40,1.0,False,
+Scizor,12.0,Pursuit,Dark,40,1.0,False,
+Scizor,18.0,False swipe,Normal,40,1.0,False,
+Scizor,30.0,Metal claw,Steel,50,0.95,False,
+Scizor,36.0,Slash,Normal,70,1.0,True,
+Scizor,,Cut,Normal,50,0.95,False,10.0
+Scizor,,Strength,Normal,80,1.0,False,
+Scizor,,Headbutt,Normal,70,1.0,False,10.0
+Scizor,,Rock smash,Fighting,20,1.0,False,12.0
+Scizor,,Hidden power,Normal,60,1.0,False,29.0
+Scizor,,Hyper beam,Normal,75,0.9,False,65.0
+Scizor,,Return,Normal,102,1.0,False,12.0
+Scizor,,Swift,Normal,60,1.0,False,7.0
+Scizor,,Thief,Dark,40,1.0,False,30.0
+Scizor,,Steel wing,Steel,70,0.9,False,
+Scizor,,Fury cutter,Bug,10,0.95,False,9.0
+Shuckle,1.0,Constrict,Normal,10,1.0,False,
+Shuckle,9.0,Wrap,Normal,15,0.85,False,
+Shuckle,,Strength,Normal,80,1.0,False,
+Shuckle,,Headbutt,Normal,70,1.0,False,10.0
+Shuckle,,Rollout,Rock,30,0.9,False,13.0
+Shuckle,,Rock smash,Fighting,20,1.0,False,12.0
+Shuckle,,Hidden power,Normal,60,1.0,False,29.0
+Shuckle,,Earthquake,Ground,100,1.0,False,47.0
+Shuckle,,Return,Normal,102,1.0,False,12.0
+Shuckle,,Dig,Ground,60,1.0,False,14.0
+Shuckle,,Mud-slap,Ground,20,1.0,False,5.0
+Shuckle,,Sludge bomb,Poison,90,1.0,False,28.0
+Heracross,1.0,Tackle,Normal,35,0.95,False,
+Heracross,6.0,Horn attack,Normal,65,1.0,False,
+Heracross,19.0,Fury attack,Normal,45,0.85,False,
+Heracross,54.0,Megahorn,Bug,120,0.85,False,
+Heracross,,Cut,Normal,50,0.95,False,10.0
+Heracross,,Strength,Normal,80,1.0,False,
+Heracross,,Headbutt,Normal,70,1.0,False,10.0
+Heracross,,Rock smash,Fighting,20,1.0,False,12.0
+Heracross,,Hidden power,Normal,60,1.0,False,29.0
+Heracross,,Earthquake,Ground,100,1.0,False,47.0
+Heracross,,Return,Normal,102,1.0,False,12.0
+Heracross,,Thief,Dark,40,1.0,False,30.0
+Heracross,,Fury cutter,Bug,10,0.95,False,9.0
+Sneasel,1.0,Scratch,Normal,40,1.0,False,
+Sneasel,9.0,Quick attack,Normal,40,1.0,False,
+Sneasel,25.0,Faint attack,Dark,60,1.0,False,
+Sneasel,33.0,Fury swipes,Normal,54,0.8,False,
+Sneasel,49.0,Slash,Normal,70,1.0,True,
+Sneasel,,Cut,Normal,50,0.95,False,10.0
+Sneasel,,Surf,Water,95,1.0,False,17.0
+Sneasel,,Strength,Normal,80,1.0,False,
+Sneasel,,Dynamicpunch,Fighting,100,0.5,False,
+Sneasel,,Headbutt,Normal,70,1.0,False,10.0
+Sneasel,,Rock smash,Fighting,20,1.0,False,12.0
+Sneasel,,Hidden power,Normal,60,1.0,False,29.0
+Sneasel,,Blizzard,Ice,120,0.7,False,12.0
+Sneasel,,Icy wind,Ice,55,0.95,False,27.0
+Sneasel,,Iron tail,Steel,100,0.75,False,20.0
+Sneasel,,Return,Normal,102,1.0,False,12.0
+Sneasel,,Dig,Ground,60,1.0,False,14.0
+Sneasel,,Shadow ball,Ghost,80,1.0,False,17.0
+Sneasel,,Mud-slap,Ground,20,1.0,False,5.0
+Sneasel,,Ice punch,Ice,75,1.0,False,12.0
+Sneasel,,Swift,Normal,60,1.0,False,7.0
+Sneasel,,Thief,Dark,40,1.0,False,30.0
+Sneasel,,Fury cutter,Bug,10,0.95,False,9.0
+Sneasel,65.0,Metal claw,Steel,50,0.95,False,
+Teddiursa,1.0,Scratch,Normal,40,1.0,False,
+Teddiursa,8.0,Lick,Ghost,20,1.0,False,
+Teddiursa,15.0,Fury swipes,Normal,54,0.8,False,
+Teddiursa,22.0,Faint attack,Dark,60,1.0,False,
+Teddiursa,36.0,Slash,Normal,70,1.0,True,
+Teddiursa,50.0,Thrash,Normal,90,1.0,False,
+Teddiursa,,Cut,Normal,50,0.95,False,10.0
+Teddiursa,,Strength,Normal,80,1.0,False,
+Teddiursa,,Dynamicpunch,Fighting,100,0.5,False,
+Teddiursa,,Headbutt,Normal,70,1.0,False,10.0
+Teddiursa,,Rollout,Rock,30,0.9,False,13.0
+Teddiursa,,Zap cannon,Electric,100,0.5,False,58.0
+Teddiursa,,Rock smash,Fighting,20,1.0,False,12.0
+Teddiursa,,Hidden power,Normal,60,1.0,False,29.0
+Teddiursa,,Earthquake,Ground,100,1.0,False,47.0
+Teddiursa,,Return,Normal,102,1.0,False,12.0
+Teddiursa,,Dig,Ground,60,1.0,False,14.0
+Teddiursa,,Mud-slap,Ground,20,1.0,False,5.0
+Teddiursa,,Ice punch,Ice,75,1.0,False,12.0
+Teddiursa,,Swift,Normal,60,1.0,False,7.0
+Teddiursa,,Thunderpunch,Electric,75,1.0,False,
+Teddiursa,,Thief,Dark,40,1.0,False,30.0
+Teddiursa,,Fire punch,Fire,75,1.0,False,12.0
+Teddiursa,,Fury cutter,Bug,10,0.95,False,9.0
+Ursaring,1.0,Fury swipes,Normal,54,0.8,False,
+Ursaring,1.0,Lick,Ghost,20,1.0,False,
+Ursaring,1.0,Scratch,Normal,40,1.0,False,
+Ursaring,22.0,Faint attack,Dark,60,1.0,False,
+Ursaring,39.0,Slash,Normal,70,1.0,True,
+Ursaring,59.0,Thrash,Normal,90,1.0,False,
+Ursaring,,Cut,Normal,50,0.95,False,10.0
+Ursaring,,Strength,Normal,80,1.0,False,
+Ursaring,,Dynamicpunch,Fighting,100,0.5,False,
+Ursaring,,Headbutt,Normal,70,1.0,False,10.0
+Ursaring,,Rollout,Rock,30,0.9,False,13.0
+Ursaring,,Zap cannon,Electric,100,0.5,False,58.0
+Ursaring,,Rock smash,Fighting,20,1.0,False,12.0
+Ursaring,,Hidden power,Normal,60,1.0,False,29.0
+Ursaring,,Hyper beam,Normal,75,0.9,False,65.0
+Ursaring,,Earthquake,Ground,100,1.0,False,47.0
+Ursaring,,Return,Normal,102,1.0,False,12.0
+Ursaring,,Dig,Ground,60,1.0,False,14.0
+Ursaring,,Mud-slap,Ground,20,1.0,False,5.0
+Ursaring,,Ice punch,Ice,75,1.0,False,12.0
+Ursaring,,Swift,Normal,60,1.0,False,7.0
+Ursaring,,Thunderpunch,Electric,75,1.0,False,
+Ursaring,,Thief,Dark,40,1.0,False,30.0
+Ursaring,,Fire punch,Fire,75,1.0,False,12.0
+Ursaring,,Fury cutter,Bug,10,0.95,False,9.0
+Slugma,1.0,Smog,Poison,20,0.7,False,
+Slugma,8.0,Ember,Fire,40,1.0,False,
+Slugma,15.0,Rock throw,Rock,50,0.9,False,
+Slugma,36.0,Flamethrower,Fire,95,1.0,False,
+Slugma,43.0,Rock slide,Rock,75,0.9,False,
+Slugma,50.0,Body slam,Normal,85,1.0,False,
+Slugma,,Rollout,Rock,30,0.9,False,13.0
+Slugma,,Rock smash,Fighting,20,1.0,False,12.0
+Slugma,,Hidden power,Normal,60,1.0,False,29.0
+Slugma,,Return,Normal,102,1.0,False,12.0
+Slugma,,Mud-slap,Ground,20,1.0,False,5.0
+Slugma,,Fire blast,Fire,120,0.85,False,12.0
+Magcargo,1.0,Ember,Fire,40,1.0,False,
+Magcargo,1.0,Rock throw,Rock,50,0.9,False,
+Magcargo,1.0,Smog,Poison,20,0.7,False,
+Magcargo,36.0,Flamethrower,Fire,95,1.0,False,
+Magcargo,48.0,Rock slide,Rock,75,0.9,False,
+Magcargo,60.0,Body slam,Normal,85,1.0,False,
+Magcargo,,Strength,Normal,80,1.0,False,
+Magcargo,,Rollout,Rock,30,0.9,False,13.0
+Magcargo,,Rock smash,Fighting,20,1.0,False,12.0
+Magcargo,,Hidden power,Normal,60,1.0,False,29.0
+Magcargo,,Hyper beam,Normal,75,0.9,False,65.0
+Magcargo,,Earthquake,Ground,100,1.0,False,47.0
+Magcargo,,Return,Normal,102,1.0,False,12.0
+Magcargo,,Mud-slap,Ground,20,1.0,False,5.0
+Magcargo,,Fire blast,Fire,120,0.85,False,12.0
+Swinub,1.0,Tackle,Normal,35,0.95,False,
+Swinub,10.0,Powder snow,Ice,40,1.0,False,
+Swinub,46.0,Blizzard,Ice,120,0.7,False,12.0
+Swinub,,Strength,Normal,80,1.0,False,
+Swinub,,Headbutt,Normal,70,1.0,False,10.0
+Swinub,,Rock smash,Fighting,20,1.0,False,12.0
+Swinub,,Hidden power,Normal,60,1.0,False,29.0
+Swinub,,Icy wind,Ice,55,0.95,False,27.0
+Swinub,,Earthquake,Ground,100,1.0,False,47.0
+Swinub,,Return,Normal,102,1.0,False,12.0
+Swinub,,Mud-slap,Ground,20,1.0,False,5.0
+Piloswine,1.0,Horn attack,Normal,65,1.0,False,
+Piloswine,1.0,Powder snow,Ice,40,1.0,False,
+Piloswine,33.0,Fury attack,Normal,45,0.85,False,
+Piloswine,56.0,Blizzard,Ice,120,0.7,False,12.0
+Piloswine,,Strength,Normal,80,1.0,False,
+Piloswine,,Headbutt,Normal,70,1.0,False,10.0
+Piloswine,,Rock smash,Fighting,20,1.0,False,12.0
+Piloswine,,Hidden power,Normal,60,1.0,False,29.0
+Piloswine,,Hyper beam,Normal,75,0.9,False,65.0
+Piloswine,,Icy wind,Ice,55,0.95,False,27.0
+Piloswine,,Earthquake,Ground,100,1.0,False,47.0
+Piloswine,,Return,Normal,102,1.0,False,12.0
+Piloswine,,Mud-slap,Ground,20,1.0,False,5.0
+Corsola,1.0,Tackle,Normal,35,0.95,False,
+Corsola,13.0,Bubble,Water,20,1.0,False,
+Corsola,25.0,Bubblebeam,Water,65,1.0,False,
+Corsola,31.0,Spike cannon,Normal,60,1.0,False,
+Corsola,43.0,Ancientpower,Rock,60,1.0,False,
+Corsola,,Surf,Water,95,1.0,False,17.0
+Corsola,,Strength,Normal,80,1.0,False,
+Corsola,,Whirlpool,Water,15,0.7,False,27.0
+Corsola,,Headbutt,Normal,70,1.0,False,10.0
+Corsola,,Rollout,Rock,30,0.9,False,13.0
+Corsola,,Rock smash,Fighting,20,1.0,False,12.0
+Corsola,,Hidden power,Normal,60,1.0,False,29.0
+Corsola,,Earthquake,Ground,100,1.0,False,47.0
+Corsola,,Return,Normal,102,1.0,False,12.0
+Corsola,,Psychic,Psychic,90,1.0,False,52.0
+Corsola,,Mud-slap,Ground,20,1.0,False,5.0
+Remoraid,1.0,Water gun,Water,40,1.0,False,
+Remoraid,22.0,Aurora beam,Ice,65,1.0,False,
+Remoraid,22.0,Bubblebeam,Water,65,1.0,False,
+Remoraid,22.0,Psybeam,Psychic,65,1.0,False,
+Remoraid,44.0,Ice beam,Ice,95,1.0,False,
+Remoraid,55.0,Hyper beam,Normal,75,0.9,False,65.0
+Remoraid,,Surf,Water,95,1.0,False,17.0
+Remoraid,,Whirlpool,Water,15,0.7,False,27.0
+Remoraid,,Hidden power,Normal,60,1.0,False,29.0
+Remoraid,,Return,Normal,102,1.0,False,12.0
+Remoraid,,Mud-slap,Ground,20,1.0,False,5.0
+Remoraid,,Swift,Normal,60,1.0,False,7.0
+Remoraid,,Thief,Dark,40,1.0,False,30.0
+Octillery,1.0,Water gun,Water,40,1.0,False,
+Octillery,11.0,Constrict,Normal,10,1.0,False,
+Octillery,22.0,Aurora beam,Ice,65,1.0,False,
+Octillery,22.0,Bubblebeam,Water,65,1.0,False,
+Octillery,22.0,Psybeam,Psychic,65,1.0,False,
+Octillery,25.0,Octazooka,Water,65,0.85,False,
+Octillery,54.0,Ice beam,Ice,95,1.0,False,
+Octillery,70.0,Hyper beam,Normal,75,0.9,False,65.0
+Octillery,,Surf,Water,95,1.0,False,17.0
+Octillery,,Whirlpool,Water,15,0.7,False,27.0
+Octillery,,Hidden power,Normal,60,1.0,False,29.0
+Octillery,,Return,Normal,102,1.0,False,12.0
+Octillery,,Mud-slap,Ground,20,1.0,False,5.0
+Octillery,,Swift,Normal,60,1.0,False,7.0
+Octillery,,Thief,Dark,40,1.0,False,30.0
+Delibird,,Fly,Flying,70,0.95,False,23.0
+Delibird,,Headbutt,Normal,70,1.0,False,10.0
+Delibird,,Hidden power,Normal,60,1.0,False,29.0
+Delibird,,Blizzard,Ice,120,0.7,False,12.0
+Delibird,,Icy wind,Ice,55,0.95,False,27.0
+Delibird,,Return,Normal,102,1.0,False,12.0
+Delibird,,Mud-slap,Ground,20,1.0,False,5.0
+Delibird,,Swift,Normal,60,1.0,False,7.0
+Delibird,,Thief,Dark,40,1.0,False,30.0
+Mantine,1.0,Bubble,Water,20,1.0,False,
+Mantine,1.0,Tackle,Normal,35,0.95,False,
+Mantine,18.0,Bubblebeam,Water,65,1.0,False,
+Mantine,40.0,Wing attack,Flying,60,1.0,False,
+Mantine,,Surf,Water,95,1.0,False,17.0
+Mantine,,Whirlpool,Water,15,0.7,False,27.0
+Mantine,,Waterfall,Water,80,1.0,False,36.0
+Mantine,,Headbutt,Normal,70,1.0,False,10.0
+Mantine,,Hidden power,Normal,60,1.0,False,29.0
+Mantine,,Blizzard,Ice,120,0.7,False,12.0
+Mantine,,Icy wind,Ice,55,0.95,False,27.0
+Mantine,,Return,Normal,102,1.0,False,12.0
+Mantine,,Mud-slap,Ground,20,1.0,False,5.0
+Mantine,,Swift,Normal,60,1.0,False,7.0
+Skarmory,1.0,Peck,Flying,35,1.0,False,
+Skarmory,19.0,Swift,Normal,60,1.0,False,7.0
+Skarmory,37.0,Fury attack,Normal,45,0.85,False,
+Skarmory,49.0,Steel wing,Steel,70,0.9,False,
+Skarmory,,Cut,Normal,50,0.95,False,10.0
+Skarmory,,Fly,Flying,70,0.95,False,23.0
+Skarmory,,Hidden power,Normal,60,1.0,False,29.0
+Skarmory,,Return,Normal,102,1.0,False,12.0
+Skarmory,,Mud-slap,Ground,20,1.0,False,5.0
+Skarmory,,Thief,Dark,40,1.0,False,30.0
+Houndour,1.0,Ember,Fire,40,1.0,False,
+Houndour,13.0,Smog,Poison,20,0.7,False,
+Houndour,20.0,Bite,Dark,60,1.0,False,
+Houndour,27.0,Faint attack,Dark,60,1.0,False,
+Houndour,35.0,Flamethrower,Fire,95,1.0,False,
+Houndour,43.0,Crunch,Dark,80,1.0,False,
+Houndour,,Headbutt,Normal,70,1.0,False,10.0
+Houndour,,Rock smash,Fighting,20,1.0,False,12.0
+Houndour,,Hidden power,Normal,60,1.0,False,29.0
+Houndour,,Iron tail,Steel,100,0.75,False,20.0
+Houndour,,Return,Normal,102,1.0,False,12.0
+Houndour,,Shadow ball,Ghost,80,1.0,False,17.0
+Houndour,,Mud-slap,Ground,20,1.0,False,5.0
+Houndour,,Sludge bomb,Poison,90,1.0,False,28.0
+Houndour,,Fire blast,Fire,120,0.85,False,12.0
+Houndour,,Swift,Normal,60,1.0,False,7.0
+Houndour,,Thief,Dark,40,1.0,False,30.0
+Houndoom,1.0,Ember,Fire,40,1.0,False,
+Houndoom,13.0,Smog,Poison,20,0.7,False,
+Houndoom,20.0,Bite,Dark,60,1.0,False,
+Houndoom,30.0,Faint attack,Dark,60,1.0,False,
+Houndoom,41.0,Flamethrower,Fire,95,1.0,False,
+Houndoom,52.0,Crunch,Dark,80,1.0,False,
+Houndoom,,Strength,Normal,80,1.0,False,
+Houndoom,,Headbutt,Normal,70,1.0,False,10.0
+Houndoom,,Rock smash,Fighting,20,1.0,False,12.0
+Houndoom,,Hidden power,Normal,60,1.0,False,29.0
+Houndoom,,Hyper beam,Normal,75,0.9,False,65.0
+Houndoom,,Iron tail,Steel,100,0.75,False,20.0
+Houndoom,,Return,Normal,102,1.0,False,12.0
+Houndoom,,Shadow ball,Ghost,80,1.0,False,17.0
+Houndoom,,Mud-slap,Ground,20,1.0,False,5.0
+Houndoom,,Sludge bomb,Poison,90,1.0,False,28.0
+Houndoom,,Fire blast,Fire,120,0.85,False,12.0
+Houndoom,,Swift,Normal,60,1.0,False,7.0
+Houndoom,,Thief,Dark,40,1.0,False,30.0
+Kingdra,1.0,Bubble,Water,20,1.0,False,
+Kingdra,1.0,Water gun,Water,40,1.0,False,
+Kingdra,29.0,Twister,Dragon,40,1.0,False,
+Kingdra,51.0,Hydro pump,Water,120,0.8,False,
+Kingdra,,Surf,Water,95,1.0,False,17.0
+Kingdra,,Whirlpool,Water,15,0.7,False,27.0
+Kingdra,,Waterfall,Water,80,1.0,False,36.0
+Kingdra,,Headbutt,Normal,70,1.0,False,10.0
+Kingdra,,Hidden power,Normal,60,1.0,False,29.0
+Kingdra,,Blizzard,Ice,120,0.7,False,12.0
+Kingdra,,Hyper beam,Normal,75,0.9,False,65.0
+Kingdra,,Icy wind,Ice,55,0.95,False,27.0
+Kingdra,,Dragonbreath,Dragon,60,1.0,False,
+Kingdra,,Return,Normal,102,1.0,False,12.0
+Kingdra,,Swift,Normal,60,1.0,False,7.0
+Phanpy,1.0,Tackle,Normal,35,0.95,False,
+Phanpy,33.0,Rollout,Rock,30,0.9,False,13.0
+Phanpy,,Strength,Normal,80,1.0,False,
+Phanpy,,Headbutt,Normal,70,1.0,False,10.0
+Phanpy,,Rock smash,Fighting,20,1.0,False,12.0
+Phanpy,,Hidden power,Normal,60,1.0,False,29.0
+Phanpy,,Earthquake,Ground,100,1.0,False,47.0
+Phanpy,,Return,Normal,102,1.0,False,12.0
+Phanpy,,Mud-slap,Ground,20,1.0,False,5.0
+Donphan,1.0,Horn attack,Normal,65,1.0,False,
+Donphan,25.0,Fury attack,Normal,45,0.85,False,
+Donphan,33.0,Rollout,Rock,30,0.9,False,13.0
+Donphan,41.0,Rapid spin,Normal,20,1.0,False,
+Donphan,49.0,Earthquake,Ground,100,1.0,False,47.0
+Donphan,,Strength,Normal,80,1.0,False,
+Donphan,,Headbutt,Normal,70,1.0,False,10.0
+Donphan,,Rock smash,Fighting,20,1.0,False,12.0
+Donphan,,Hidden power,Normal,60,1.0,False,29.0
+Donphan,,Hyper beam,Normal,75,0.9,False,65.0
+Donphan,,Return,Normal,102,1.0,False,12.0
+Donphan,,Mud-slap,Ground,20,1.0,False,5.0
+Porygon2,1.0,Tackle,Normal,35,0.95,False,
+Porygon2,12.0,Psybeam,Psychic,65,1.0,False,
+Porygon2,36.0,Tri attack,Normal,80,1.0,False,
+Porygon2,44.0,Zap cannon,Electric,100,0.5,False,58.0
+Porygon2,,Hidden power,Normal,60,1.0,False,29.0
+Porygon2,,Blizzard,Ice,120,0.7,False,12.0
+Porygon2,,Hyper beam,Normal,75,0.9,False,65.0
+Porygon2,,Icy wind,Ice,55,0.95,False,27.0
+Porygon2,,Iron tail,Steel,100,0.75,False,20.0
+Porygon2,,Thunder,Electric,120,0.7,False,12.0
+Porygon2,,Return,Normal,102,1.0,False,12.0
+Porygon2,,Psychic,Psychic,90,1.0,False,52.0
+Porygon2,,Swift,Normal,60,1.0,False,7.0
+Porygon2,,Thief,Dark,40,1.0,False,30.0
+Stantler,1.0,Tackle,Normal,35,0.95,False,
+Stantler,23.0,Stomp,Normal,65,1.0,False,
+Stantler,,Headbutt,Normal,70,1.0,False,10.0
+Stantler,,Hidden power,Normal,60,1.0,False,29.0
+Stantler,,Earthquake,Ground,100,1.0,False,47.0
+Stantler,,Return,Normal,102,1.0,False,12.0
+Stantler,,Psychic,Psychic,90,1.0,False,52.0
+Stantler,,Mud-slap,Ground,20,1.0,False,5.0
+Stantler,,Swift,Normal,60,1.0,False,7.0
+Stantler,,Thief,Dark,40,1.0,False,30.0
+Smeargle,0.0,Struggle,Normal,1,1.0,False,
+Tyrogue,1.0,Tackle,Normal,35,0.95,False,
+Tyrogue,1.0,Tackle,Normal,35,0.95,False,
+Tyrogue,1.0,Tackle,Normal,35,0.95,False,
+Tyrogue,,Strength,Normal,80,1.0,False,
+Tyrogue,,Strength,Normal,80,1.0,False,
+Tyrogue,,Strength,Normal,80,1.0,False,
+Tyrogue,,Headbutt,Normal,70,1.0,False,10.0
+Tyrogue,,Headbutt,Normal,70,1.0,False,10.0
+Tyrogue,,Headbutt,Normal,70,1.0,False,10.0
+Tyrogue,,Rock smash,Fighting,20,1.0,False,12.0
+Tyrogue,,Rock smash,Fighting,20,1.0,False,12.0
+Tyrogue,,Rock smash,Fighting,20,1.0,False,12.0
+Tyrogue,,Hidden power,Normal,60,1.0,False,29.0
+Tyrogue,,Hidden power,Normal,60,1.0,False,29.0
+Tyrogue,,Hidden power,Normal,60,1.0,False,29.0
+Tyrogue,,Return,Normal,102,1.0,False,12.0
+Tyrogue,,Return,Normal,102,1.0,False,12.0
+Tyrogue,,Return,Normal,102,1.0,False,12.0
+Tyrogue,,Mud-slap,Ground,20,1.0,False,5.0
+Tyrogue,,Mud-slap,Ground,20,1.0,False,5.0
+Tyrogue,,Mud-slap,Ground,20,1.0,False,5.0
+Tyrogue,,Swift,Normal,60,1.0,False,7.0
+Tyrogue,,Swift,Normal,60,1.0,False,7.0
+Tyrogue,,Swift,Normal,60,1.0,False,7.0
+Tyrogue,,Thief,Dark,40,1.0,False,30.0
+Tyrogue,,Thief,Dark,40,1.0,False,30.0
+Tyrogue,,Thief,Dark,40,1.0,False,30.0
+Hitmontop,1.0,Rolling kick,Fighting,60,0.85,False,
+Hitmontop,13.0,Pursuit,Dark,40,1.0,False,
+Hitmontop,19.0,Quick attack,Normal,40,1.0,False,
+Hitmontop,25.0,Rapid spin,Normal,20,1.0,False,
+Hitmontop,49.0,Triple kick,Fighting,10,0.9,False,
+Hitmontop,,Strength,Normal,80,1.0,False,
+Hitmontop,,Headbutt,Normal,70,1.0,False,10.0
+Hitmontop,,Rock smash,Fighting,20,1.0,False,12.0
+Hitmontop,,Hidden power,Normal,60,1.0,False,29.0
+Hitmontop,,Return,Normal,102,1.0,False,12.0
+Hitmontop,,Dig,Ground,60,1.0,False,14.0
+Hitmontop,,Mud-slap,Ground,20,1.0,False,5.0
+Hitmontop,,Swift,Normal,60,1.0,False,7.0
+Hitmontop,,Thief,Dark,40,1.0,False,30.0
+Smoochum,1.0,Lick,Ghost,20,1.0,False,
+Smoochum,1.0,Pound,Normal,40,1.0,False,
+Smoochum,13.0,Powder snow,Ice,40,1.0,False,
+Smoochum,21.0,Confusion,Psychic,50,1.0,False,
+Smoochum,37.0,Psychic,Psychic,90,1.0,False,52.0
+Smoochum,49.0,Blizzard,Ice,120,0.7,False,12.0
+Smoochum,,Dynamicpunch,Fighting,100,0.5,False,
+Smoochum,,Hidden power,Normal,60,1.0,False,29.0
+Smoochum,,Icy wind,Ice,55,0.95,False,27.0
+Smoochum,,Return,Normal,102,1.0,False,12.0
+Smoochum,,Shadow ball,Ghost,80,1.0,False,17.0
+Smoochum,,Mud-slap,Ground,20,1.0,False,5.0
+Smoochum,,Ice punch,Ice,75,1.0,False,12.0
+Smoochum,,Thief,Dark,40,1.0,False,30.0
+Elekid,1.0,Quick attack,Normal,40,1.0,False,
+Elekid,9.0,Thunderpunch,Electric,75,1.0,False,
+Elekid,25.0,Swift,Normal,60,1.0,False,7.0
+Elekid,41.0,Thunderbolt,Electric,95,1.0,False,
+Elekid,49.0,Thunder,Electric,120,0.7,False,12.0
+Elekid,,Dynamicpunch,Fighting,100,0.5,False,
+Elekid,,Headbutt,Normal,70,1.0,False,10.0
+Elekid,,Zap cannon,Electric,100,0.5,False,58.0
+Elekid,,Hidden power,Normal,60,1.0,False,29.0
+Elekid,,Return,Normal,102,1.0,False,12.0
+Elekid,,Psychic,Psychic,90,1.0,False,52.0
+Elekid,,Mud-slap,Ground,20,1.0,False,5.0
+Elekid,,Ice punch,Ice,75,1.0,False,12.0
+Elekid,,Thief,Dark,40,1.0,False,30.0
+Elekid,,Fire punch,Fire,75,1.0,False,12.0
+Magby,1.0,Ember,Fire,40,1.0,False,
+Magby,13.0,Smog,Poison,20,0.7,False,
+Magby,19.0,Fire punch,Fire,75,1.0,False,12.0
+Magby,37.0,Flamethrower,Fire,95,1.0,False,
+Magby,49.0,Fire blast,Fire,120,0.85,False,12.0
+Magby,,Dynamicpunch,Fighting,100,0.5,False,
+Magby,,Headbutt,Normal,70,1.0,False,10.0
+Magby,,Hidden power,Normal,60,1.0,False,29.0
+Magby,,Iron tail,Steel,100,0.75,False,20.0
+Magby,,Return,Normal,102,1.0,False,12.0
+Magby,,Psychic,Psychic,90,1.0,False,52.0
+Magby,,Mud-slap,Ground,20,1.0,False,5.0
+Magby,,Thunderpunch,Electric,75,1.0,False,
+Magby,,Thief,Dark,40,1.0,False,30.0
+Miltank,1.0,Tackle,Normal,35,0.95,False,
+Miltank,13.0,Stomp,Normal,65,1.0,False,
+Miltank,34.0,Rollout,Rock,30,0.9,False,13.0
+Miltank,43.0,Body slam,Normal,85,1.0,False,
+Miltank,,Surf,Water,95,1.0,False,17.0
+Miltank,,Strength,Normal,80,1.0,False,
+Miltank,,Dynamicpunch,Fighting,100,0.5,False,
+Miltank,,Headbutt,Normal,70,1.0,False,10.0
+Miltank,,Zap cannon,Electric,100,0.5,False,58.0
+Miltank,,Rock smash,Fighting,20,1.0,False,12.0
+Miltank,,Hidden power,Normal,60,1.0,False,29.0
+Miltank,,Blizzard,Ice,120,0.7,False,12.0
+Miltank,,Hyper beam,Normal,75,0.9,False,65.0
+Miltank,,Icy wind,Ice,55,0.95,False,27.0
+Miltank,,Iron tail,Steel,100,0.75,False,20.0
+Miltank,,Thunder,Electric,120,0.7,False,12.0
+Miltank,,Earthquake,Ground,100,1.0,False,47.0
+Miltank,,Return,Normal,102,1.0,False,12.0
+Miltank,,Shadow ball,Ghost,80,1.0,False,17.0
+Miltank,,Mud-slap,Ground,20,1.0,False,5.0
+Miltank,,Ice punch,Ice,75,1.0,False,12.0
+Miltank,,Thunderpunch,Electric,75,1.0,False,
+Miltank,,Fire punch,Fire,75,1.0,False,12.0
+Blissey,1.0,Pound,Normal,40,1.0,False,
+Blissey,13.0,Doubleslap,Normal,45,0.85,False,
+Blissey,28.0,Egg bomb,Normal,100,0.75,False,
+Blissey,,Strength,Normal,80,1.0,False,
+Blissey,,Dynamicpunch,Fighting,100,0.5,False,
+Blissey,,Headbutt,Normal,70,1.0,False,10.0
+Blissey,,Rollout,Rock,30,0.9,False,13.0
+Blissey,,Zap cannon,Electric,100,0.5,False,58.0
+Blissey,,Rock smash,Fighting,20,1.0,False,12.0
+Blissey,,Hidden power,Normal,60,1.0,False,29.0
+Blissey,,Blizzard,Ice,120,0.7,False,12.0
+Blissey,,Hyper beam,Normal,75,0.9,False,65.0
+Blissey,,Icy wind,Ice,55,0.95,False,27.0
+Blissey,,Thunder,Electric,120,0.7,False,12.0
+Blissey,,Return,Normal,102,1.0,False,12.0
+Blissey,,Psychic,Psychic,90,1.0,False,52.0
+Blissey,,Shadow ball,Ghost,80,1.0,False,17.0
+Blissey,,Mud-slap,Ground,20,1.0,False,5.0
+Blissey,,Fire blast,Fire,120,0.85,False,12.0
+Raikou,1.0,Bite,Dark,60,1.0,False,
+Raikou,11.0,Thundershock,Electric,40,1.0,False,
+Raikou,31.0,Quick attack,Normal,40,1.0,False,
+Raikou,41.0,Spark,Electric,65,1.0,False,
+Raikou,61.0,Crunch,Dark,80,1.0,False,
+Raikou,71.0,Thunder,Electric,120,0.7,False,12.0
+Raikou,,Cut,Normal,50,0.95,False,10.0
+Raikou,,Strength,Normal,80,1.0,False,
+Raikou,,Headbutt,Normal,70,1.0,False,10.0
+Raikou,,Zap cannon,Electric,100,0.5,False,58.0
+Raikou,,Rock smash,Fighting,20,1.0,False,12.0
+Raikou,,Hidden power,Normal,60,1.0,False,29.0
+Raikou,,Hyper beam,Normal,75,0.9,False,65.0
+Raikou,,Iron tail,Steel,100,0.75,False,20.0
+Raikou,,Return,Normal,102,1.0,False,12.0
+Raikou,,Dig,Ground,60,1.0,False,14.0
+Raikou,,Mud-slap,Ground,20,1.0,False,5.0
+Raikou,,Swift,Normal,60,1.0,False,7.0
+Entei,1.0,Bite,Dark,60,1.0,False,
+Entei,11.0,Ember,Fire,40,1.0,False,
+Entei,31.0,Fire spin,Fire,15,0.7,False,
+Entei,41.0,Stomp,Normal,65,1.0,False,
+Entei,51.0,Flamethrower,Fire,95,1.0,False,
+Entei,71.0,Fire blast,Fire,120,0.85,False,12.0
+Entei,,Cut,Normal,50,0.95,False,10.0
+Entei,,Strength,Normal,80,1.0,False,
+Entei,,Headbutt,Normal,70,1.0,False,10.0
+Entei,,Rock smash,Fighting,20,1.0,False,12.0
+Entei,,Hidden power,Normal,60,1.0,False,29.0
+Entei,,Hyper beam,Normal,75,0.9,False,65.0
+Entei,,Iron tail,Steel,100,0.75,False,20.0
+Entei,,Return,Normal,102,1.0,False,12.0
+Entei,,Dig,Ground,60,1.0,False,14.0
+Entei,,Mud-slap,Ground,20,1.0,False,5.0
+Entei,,Swift,Normal,60,1.0,False,7.0
+Suicune,1.0,Bite,Dark,60,1.0,False,
+Suicune,11.0,Water gun,Water,40,1.0,False,
+Suicune,31.0,Gust,Flying,40,1.0,False,
+Suicune,41.0,Bubblebeam,Water,65,1.0,False,
+Suicune,71.0,Hydro pump,Water,120,0.8,False,
+Suicune,,Cut,Normal,50,0.95,False,10.0
+Suicune,,Surf,Water,95,1.0,False,17.0
+Suicune,,Whirlpool,Water,15,0.7,False,27.0
+Suicune,,Waterfall,Water,80,1.0,False,36.0
+Suicune,,Headbutt,Normal,70,1.0,False,10.0
+Suicune,,Rock smash,Fighting,20,1.0,False,12.0
+Suicune,,Hidden power,Normal,60,1.0,False,29.0
+Suicune,,Blizzard,Ice,120,0.7,False,12.0
+Suicune,,Hyper beam,Normal,75,0.9,False,65.0
+Suicune,,Icy wind,Ice,55,0.95,False,27.0
+Suicune,,Iron tail,Steel,100,0.75,False,20.0
+Suicune,,Return,Normal,102,1.0,False,12.0
+Suicune,,Dig,Ground,60,1.0,False,14.0
+Suicune,,Mud-slap,Ground,20,1.0,False,5.0
+Suicune,,Swift,Normal,60,1.0,False,7.0
+Suicune,41.0,Aurora beam,Ice,65,1.0,False,
+Larvitar,1.0,Bite,Dark,60,1.0,False,
+Larvitar,22.0,Rock slide,Rock,75,0.9,False,
+Larvitar,29.0,Thrash,Normal,90,1.0,False,
+Larvitar,43.0,Crunch,Dark,80,1.0,False,
+Larvitar,50.0,Earthquake,Ground,100,1.0,False,47.0
+Larvitar,57.0,Hyper beam,Normal,75,0.9,False,65.0
+Larvitar,,Headbutt,Normal,70,1.0,False,10.0
+Larvitar,,Hidden power,Normal,60,1.0,False,29.0
+Larvitar,,Return,Normal,102,1.0,False,12.0
+Larvitar,,Dig,Ground,60,1.0,False,14.0
+Larvitar,,Mud-slap,Ground,20,1.0,False,5.0
+Pupitar,1.0,Bite,Dark,60,1.0,False,
+Pupitar,22.0,Rock slide,Rock,75,0.9,False,
+Pupitar,29.0,Thrash,Normal,90,1.0,False,
+Pupitar,47.0,Crunch,Dark,80,1.0,False,
+Pupitar,56.0,Earthquake,Ground,100,1.0,False,47.0
+Pupitar,65.0,Hyper beam,Normal,75,0.9,False,65.0
+Pupitar,,Headbutt,Normal,70,1.0,False,10.0
+Pupitar,,Hidden power,Normal,60,1.0,False,29.0
+Pupitar,,Return,Normal,102,1.0,False,12.0
+Pupitar,,Dig,Ground,60,1.0,False,14.0
+Pupitar,,Mud-slap,Ground,20,1.0,False,5.0
+Tyranitar,1.0,Bite,Dark,60,1.0,False,
+Tyranitar,22.0,Rock slide,Rock,75,0.9,False,
+Tyranitar,29.0,Thrash,Normal,90,1.0,False,
+Tyranitar,47.0,Crunch,Dark,80,1.0,False,
+Tyranitar,61.0,Earthquake,Ground,100,1.0,False,47.0
+Tyranitar,75.0,Hyper beam,Normal,75,0.9,False,65.0
+Tyranitar,,Cut,Normal,50,0.95,False,10.0
+Tyranitar,,Surf,Water,95,1.0,False,17.0
+Tyranitar,,Strength,Normal,80,1.0,False,
+Tyranitar,,Dynamicpunch,Fighting,100,0.5,False,
+Tyranitar,,Headbutt,Normal,70,1.0,False,10.0
+Tyranitar,,Rock smash,Fighting,20,1.0,False,12.0
+Tyranitar,,Hidden power,Normal,60,1.0,False,29.0
+Tyranitar,,Iron tail,Steel,100,0.75,False,20.0
+Tyranitar,,Dragonbreath,Dragon,60,1.0,False,
+Tyranitar,,Return,Normal,102,1.0,False,12.0
+Tyranitar,,Dig,Ground,60,1.0,False,14.0
+Tyranitar,,Mud-slap,Ground,20,1.0,False,5.0
+Tyranitar,,Fire blast,Fire,120,0.85,False,12.0
+Tyranitar,,Fire punch,Fire,75,1.0,False,12.0
+Tyranitar,,Fury cutter,Bug,10,0.95,False,9.0
+Lugia,1.0,Aeroblast,Flying,100,0.95,True,
+Lugia,22.0,Gust,Flying,40,1.0,False,
+Lugia,44.0,Hydro pump,Water,120,0.8,False,
+Lugia,66.0,Swift,Normal,60,1.0,False,7.0
+Lugia,88.0,Ancientpower,Rock,60,1.0,False,
+Lugia,99.0,Future sight,Psychic,80,0.9,False,
+Lugia,,Fly,Flying,70,0.95,False,23.0
+Lugia,,Surf,Water,95,1.0,False,17.0
+Lugia,,Strength,Normal,80,1.0,False,
+Lugia,,Whirlpool,Water,15,0.7,False,27.0
+Lugia,,Waterfall,Water,80,1.0,False,36.0
+Lugia,,Headbutt,Normal,70,1.0,False,10.0
+Lugia,,Zap cannon,Electric,100,0.5,False,58.0
+Lugia,,Rock smash,Fighting,20,1.0,False,12.0
+Lugia,,Hidden power,Normal,60,1.0,False,29.0
+Lugia,,Blizzard,Ice,120,0.7,False,12.0
+Lugia,,Hyper beam,Normal,75,0.9,False,65.0
+Lugia,,Icy wind,Ice,55,0.95,False,27.0
+Lugia,,Giga drain,Grass,60,1.0,False,65.0
+Lugia,,Iron tail,Steel,100,0.75,False,20.0
+Lugia,,Dragonbreath,Dragon,60,1.0,False,
+Lugia,,Thunder,Electric,120,0.7,False,12.0
+Lugia,,Earthquake,Ground,100,1.0,False,47.0
+Lugia,,Return,Normal,102,1.0,False,12.0
+Lugia,,Psychic,Psychic,90,1.0,False,52.0
+Lugia,,Shadow ball,Ghost,80,1.0,False,17.0
+Lugia,,Mud-slap,Ground,20,1.0,False,5.0
+Lugia,,Steel wing,Steel,70,0.9,False,
+Ho_Oh,1.0,Sacred fire,Fire,100,0.95,False,
+Ho_Oh,22.0,Gust,Flying,40,1.0,False,
+Ho_Oh,44.0,Fire blast,Fire,120,0.85,False,12.0
+Ho_Oh,66.0,Swift,Normal,60,1.0,False,7.0
+Ho_Oh,88.0,Ancientpower,Rock,60,1.0,False,
+Ho_Oh,99.0,Future sight,Psychic,80,0.9,False,
+Ho_Oh,,Fly,Flying,70,0.95,False,23.0
+Ho_Oh,,Strength,Normal,80,1.0,False,
+Ho_Oh,,Zap cannon,Electric,100,0.5,False,58.0
+Ho_Oh,,Rock smash,Fighting,20,1.0,False,12.0
+Ho_Oh,,Hidden power,Normal,60,1.0,False,29.0
+Ho_Oh,,Hyper beam,Normal,75,0.9,False,65.0
+Ho_Oh,,Giga drain,Grass,60,1.0,False,65.0
+Ho_Oh,,Dragonbreath,Dragon,60,1.0,False,
+Ho_Oh,,Thunder,Electric,120,0.7,False,12.0
+Ho_Oh,,Earthquake,Ground,100,1.0,False,47.0
+Ho_Oh,,Return,Normal,102,1.0,False,12.0
+Ho_Oh,,Psychic,Psychic,90,1.0,False,52.0
+Ho_Oh,,Shadow ball,Ghost,80,1.0,False,17.0
+Ho_Oh,,Mud-slap,Ground,20,1.0,False,5.0
+Ho_Oh,,Steel wing,Steel,70,0.9,False,
+Celebi,1.0,Confusion,Psychic,50,1.0,False,
+Celebi,20.0,Ancientpower,Rock,60,1.0,False,
+Celebi,30.0,Future sight,Psychic,80,0.9,False,
+Celebi,,Hidden power,Normal,60,1.0,False,29.0
+Celebi,,Hyper beam,Normal,75,0.9,False,65.0
+Celebi,,Giga drain,Grass,60,1.0,False,65.0
+Celebi,,Return,Normal,102,1.0,False,12.0
+Celebi,,Psychic,Psychic,90,1.0,False,52.0
+Celebi,,Shadow ball,Ghost,80,1.0,False,17.0
+Celebi,,Mud-slap,Ground,20,1.0,False,5.0
+Celebi,,Swift,Normal,60,1.0,False,7.0
