@@ -426,7 +426,7 @@ pytest tests/ --cov=source --cov-report=html
 
 ### Test Coverage
 
-- ✅ **148 tests passing** (100% pass rate)
+- **148 tests passing** (100% pass rate)
 - `test_damage_calculations.py`: 61 tests
 - `test_simulate_battles.py`: 33 tests
 - `test_calculate_best_party.py`: 29 tests
