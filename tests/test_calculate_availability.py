@@ -17,7 +17,7 @@ from pathlib import Path
 source_dir = Path(__file__).parent.parent / "source"
 sys.path.insert(0, str(source_dir))
 
-from calculate_availability import PokemonAvailabilityCalculator
+from pipeline.calculate_availability import PokemonAvailabilityCalculator
 
 
 class TestTextNormalization:

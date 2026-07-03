@@ -3,23 +3,28 @@
 ## Overview
 This directory contains comprehensive unit tests for the Pokemon optimization pipeline, covering damage calculations, battle simulation, party optimization, and Pokemon availability filtering.
 
-**Test Suite Expansion:** Grew from 61 to 148 tests (+143% increase) across four test files, providing extensive coverage of the pipeline's core functionality.
+**Test Suite:** 165 tests across five files, covering the pipeline's core functionality and the shared utility modules.
 
 ## Test Statistics
 
 ### Current Coverage
-- **Total Tests:** 148 (100% pass rate)
-- **Test Files:** 4
-- **Coverage Areas:** Damage calculations, battle simulation, party optimization, availability filtering
-- **Execution Time:** < 1 second for all tests
+- **Total Tests:** 165 (100% pass rate)
+- **Test Files:** 5
+- **Coverage Areas:** Damage calculations, battle simulation, party optimization, availability filtering, shared utilities
+- **Execution Time:** < 2 seconds for all tests
 
 ### Breakdown by File
 | Test File | Tests | Main Focus |
 |-----------|-------|------------|
 | `test_damage_calculations.py` | 61 | Stat formulas, abilities, damage modifiers |
-| `test_simulate_battles.py` | 33 | Battle logic, dominance filtering |
+| `test_simulate_battles.py` | 32 | Battle logic, dominance filtering |
 | `test_calculate_best_party.py` | 29 | Optimization algorithm, restrictions |
 | `test_calculate_availability.py` | 26 | Data filtering, text normalization |
+| `test_common.py` | 17 | Shared paths, config loading, text normalization |
+
+Imports are bootstrapped once via `tests/conftest.py` (which adds `source/` to the
+path), so individual test files no longer need their own path setup. The optimizer
+tests import from `optimize.milp`.
 
 ## Test Files
 

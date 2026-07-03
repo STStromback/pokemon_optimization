@@ -1,6 +1,6 @@
 # Pokemon In-Game Party Optimization (Generations 1-3)
 
-[![Tests](https://img.shields.io/badge/tests-148%20passing-brightgreen)]()
+[![Tests](https://img.shields.io/badge/tests-165%20passing-brightgreen)]()
 [![Python](https://img.shields.io/badge/python-3.12-blue)]()
 [![Generation Coverage](https://img.shields.io/badge/gens-1--3-orange)]()
 
@@ -188,23 +188,27 @@ Modify `config/config.json` to customize behavior:
 }
 ```
 
-### Running Individual Components
+### Command-line options
 
 ```bash
-# Generate encounter data
-python run/functions/generate_encounters.py
+python run/main.py --gen 1 2      # process specific generations
+python run/main.py --gen all      # process all three generations
+python run/main.py --debug        # also save intermediate CSVs to intermediate_files/
+python run/main.py --initialize   # scrape fresh source data first
+python run/main.py --config path/to/config.json
+```
 
-# Generate player Pokemon variants
-python run/functions/generate_player_pokemon.py
+### Running individual stages
 
-# Calculate damage values
-python source/calculate_player_pokemon.py
+Pipeline modules live under `source/` as importable packages. Run a stage with
+the `source/` directory on `PYTHONPATH`:
 
-# Simulate battles
-python source/simulate_battles.py
+```bash
+# PowerShell
+$env:PYTHONPATH = "source"; python -m pipeline.generate_encounters
 
-# Run optimization
-python source/calculate_best_party_v2.py
+# bash
+PYTHONPATH=source python -m pipeline.simulate_battles
 ```
 
 ---
@@ -240,35 +244,41 @@ Prevents multiple Pokemon from the same group in the optimal party:
 ## Project Structure
 
 ```
-pokemon_optimization_revised_v2/
+pokemon_optimization/
 ├── config/
 │   └── config.json                      # Configuration settings
-├── data/
-│   ├── gen_1/                           # Generation 1 data files
-│   ├── gen_2/                           # Generation 2 data files
-│   ├── gen_3/                           # Generation 3 data files
+├── data/                                # Input data (see data/README.md)
+│   ├── gen_1/ gen_2/ gen_3/             # Per-generation inputs
 │   └── gen_all/                         # Cross-generation data
 ├── source/
-│   ├── calculate_player_pokemon.py      # Damage calculation engine
-│   ├── simulate_battles.py              # Battle simulation & scoring
-│   ├── calculate_best_party_v2.py       # MILP optimization
-│   ├── calculate_availability.py        # Pokemon availability filtering
-│   └── ...                              # Other source modules
+│   ├── common/                          # Shared utilities
+│   │   ├── paths.py                     # Centralized path resolution
+│   │   ├── config.py                    # Config loading + generation selection
+│   │   └── text_utils.py                # Canonical text normalization
+│   ├── pipeline/                        # Pipeline stages
+│   │   ├── generate_encounters.py
+│   │   ├── generate_player_pokemon.py
+│   │   ├── pair_player_pokemon_encounters.py
+│   │   ├── calculate_player_pokemon.py  # Damage calculation engine
+│   │   ├── calculate_availability.py    # Availability filtering
+│   │   └── simulate_battles.py          # Battle simulation & scoring
+│   ├── optimize/
+│   │   ├── milp.py                      # MILP optimization (active)
+│   │   └── legacy/genetic_algorithm.py  # Deprecated GA (kept for reference)
+│   ├── scrapers/                        # Data scrapers (PokeAPI, PokemonDB)
+│   └── viz/                             # Plotting utilities
 ├── run/
-│   ├── main.py                          # Main pipeline executor
-│   └── functions/
-│       ├── generate_encounters.py       # Encounter data generation
-│       ├── generate_player_pokemon.py   # Player Pokemon generation
-│       └── ...                          # Other pipeline functions
+│   └── main.py                          # Pipeline CLI entry point
 ├── tests/
-│   ├── test_damage_calculations.py      # Damage calculation tests
-│   ├── test_simulate_battles.py         # Battle simulation tests
-│   ├── test_calculate_best_party.py     # Optimization tests
-│   └── test_calculate_availability.py   # Availability tests
-├── results/                             # Optimization output files
-├── intermediate_files/                  # Debug/intermediate CSVs
+│   ├── conftest.py                      # Shared test import bootstrap
+│   ├── test_common.py                   # Shared-utility tests
+│   ├── test_damage_calculations.py
+│   ├── test_simulate_battles.py
+│   ├── test_calculate_best_party.py
+│   └── test_calculate_availability.py
+├── results/                             # Final outputs (parties, plots)
+├── intermediate_files/                  # Debug/intermediate CSVs (opt-in via --debug)
 ├── report/                              # Detailed analysis report
-├── .gitignore                           # Git ignore rules
 ├── requirements.txt                     # Python dependencies
 └── README.md                            # This file
 ```
@@ -426,11 +436,12 @@ pytest tests/ --cov=source --cov-report=html
 
 ### Test Coverage
 
-- **148 tests passing** (100% pass rate)
-- `test_damage_calculations.py`: 61 tests
-- `test_simulate_battles.py`: 33 tests
-- `test_calculate_best_party.py`: 29 tests
-- `test_calculate_availability.py`: 26 tests
+- **165 tests passing** (100% pass rate)
+- `test_damage_calculations.py`: damage/stat formulas, abilities, modifiers
+- `test_simulate_battles.py`: battle logic, dominance filtering
+- `test_calculate_best_party.py`: optimization, restriction processing
+- `test_calculate_availability.py`: availability filtering, normalization
+- `test_common.py`: shared paths/config/text-normalization utilities
 
 ### Tested Components
 
@@ -574,4 +585,4 @@ GitHub repository: https://github.com/yourusername/pokemon_optimization_revised_
 
 **For detailed methodology and analysis, see the [full report](report/pokemon_optimization_report.md).**
 
-**For test documentation, see [tests/README_TEST.md](tests/README_TEST.md).**
+**For test documentation, see [tests/README_TESTS.md](tests/README_TESTS.md).**
