@@ -29,7 +29,66 @@ except ImportError:
     def tqdm(iterable, desc=None, total=None):
         return iterable
 
-def simulate_battles(gen: int, player_pokemon_encounters_df: pd.DataFrame) -> pd.DataFrame:
+def filter_unwinnable_columns_pivot(pivot_df: pd.DataFrame, verbose: bool = True) -> pd.DataFrame:
+    """
+    Remove columns (encounters) that have no winning combination (a value in [0, 1)) for any row.
+
+    This is the pivot-table equivalent of ``optimize.milp.filter_unwinnable_columns``, adapted to
+    operate directly on a DataFrame indexed by ``evo_id_pp`` with ``enc_id`` columns, so it can run
+    in ``simulate_battles`` *before* dominance filtering (see module docstring / plan notes on why
+    column pruning must happen before dominance filtering rather than after).
+    """
+    if pivot_df.empty or len(pivot_df.columns) == 0:
+        return pivot_df
+
+    cols_to_drop = []
+    for col in pivot_df.columns:
+        col_values = pivot_df[col].values
+        has_winning_combination = np.any((col_values >= 0) & (col_values < 1))
+        if not has_winning_combination:
+            cols_to_drop.append(col)
+
+    if cols_to_drop:
+        if verbose:
+            logger.debug(f"Removed {len(cols_to_drop)} unwinnable columns (no values between 0 and 1)")
+        return pivot_df.drop(columns=cols_to_drop)
+
+    if verbose:
+        logger.debug("No unwinnable columns found (all columns have at least one value between 0 and 1)")
+    return pivot_df
+
+
+def apply_drop_first_rival_encounter(pivot_df: pd.DataFrame, config: dict = None, verbose: bool = True) -> pd.DataFrame:
+    """
+    Drop the first 3 (sorted by enc_id) columns if ``drop_first_rival_encounter`` is enabled in config.
+
+    Pivot-table equivalent of the same-named logic in ``optimize.milp.calculate_best_party_milp``,
+    moved here so it runs before dominance filtering.
+    """
+    config = config or {}
+    if str(config.get('drop_first_rival_encounter', 'n')).lower() != 'y':
+        return pivot_df
+
+    if len(pivot_df.columns) < 3:
+        return pivot_df
+
+    try:
+        sorted_cols = sorted(pivot_df.columns, key=lambda x: int(x))
+    except (ValueError, TypeError):
+        sorted_cols = sorted(pivot_df.columns, key=lambda x: str(x))
+
+    cols_to_drop = sorted_cols[:3]
+    if verbose:
+        logger.info(f"Dropped first 3 rival encounter columns: {cols_to_drop}")
+    return pivot_df.drop(columns=cols_to_drop)
+
+
+def simulate_battles(
+    gen: int,
+    player_pokemon_encounters_df: pd.DataFrame,
+    config: dict = None,
+    party_size: int = None,
+) -> pd.DataFrame:
     """
     Simulate Pokemon battles between variants and encounters to calculate performance scores.
     
@@ -37,10 +96,17 @@ def simulate_battles(gen: int, player_pokemon_encounters_df: pd.DataFrame) -> pd
         gen (int): Pokemon generation (1, 2, or 3)
         player_pokemon_encounters_df (pd.DataFrame): DataFrame with variant-encounter pairs, damage calculations,
                                                     and pre-calculated HP/speed stats (hp_out, speed_out, hp_in, speed_in)
+        config (dict, optional): Loaded config dict (used for ``drop_first_rival_encounter``). Loaded
+            from disk if not provided.
+        party_size (int, optional): Party size this batch of rows belongs to. Only used to namespace
+            debug/summary artifact filenames so multiple party-size runs for the same generation don't
+            overwrite each other.
         
     Returns:
         pd.DataFrame: Pivot table with evo_id_pp as rows, enc_id as columns, and scores as values
     """
+    if config is None:
+        config = load_config()
     if TQDM_AVAILABLE:
         logger.info(f"Simulating Battles for Generation {gen}")
         logger.info(f"Processing {len(player_pokemon_encounters_df)} variant-encounter pairs...")
@@ -255,7 +321,17 @@ def simulate_battles(gen: int, player_pokemon_encounters_df: pd.DataFrame) -> pd
         except Exception:
             sorted_cols = sorted(pivot_df.columns, key=lambda x: str(x))
         pivot_df = pivot_df.reindex(columns=sorted_cols)
-        
+
+        if TQDM_AVAILABLE:
+            logger.debug("Pruning unwinnable columns and rival-encounter columns before dominance filtering...")
+
+        # Column pruning MUST happen before dominance/equivalence filtering: dominance depends on
+        # the full set of columns being compared, and pruning columns first can reveal additional
+        # dominated/equivalent rows that would otherwise be missed (or incorrectly kept) if dominance
+        # were computed on the larger, unpruned column set.
+        pivot_df = filter_unwinnable_columns_pivot(pivot_df, verbose=TQDM_AVAILABLE)
+        pivot_df = apply_drop_first_rival_encounter(pivot_df, config=config, verbose=TQDM_AVAILABLE)
+
         if TQDM_AVAILABLE:
             logger.debug("Applying dominance filtering (removing strictly worse rows)...")
         
@@ -277,8 +353,11 @@ def simulate_battles(gen: int, player_pokemon_encounters_df: pd.DataFrame) -> pd
 
         evo_id_pp_to_name = _build_evo_id_pp_to_name_map(battles_df)
 
-        # Prepare a shared summary file in intermediate_files for this generation
-        summary_file = paths.intermediate_dir() / f"dominated_and_equivalent_gen{gen}.txt"
+        # Prepare a shared summary file in intermediate_files for this generation (and party size,
+        # when running the multi-party-size pipeline, to avoid different party sizes overwriting
+        # each other's summaries for the same generation).
+        ps_suffix = f"_ps{party_size}" if party_size is not None else ""
+        summary_file = paths.intermediate_dir() / f"dominated_and_equivalent_gen{gen}{ps_suffix}.txt"
 
         # Apply dominance filtering to remove strictly worse rows and write dominance summary
         pivot_df = filter_dominated_rows(pivot_df, gen=gen, evo_id_pp_to_name=evo_id_pp_to_name, summary_file=summary_file)
@@ -287,7 +366,7 @@ def simulate_battles(gen: int, player_pokemon_encounters_df: pd.DataFrame) -> pd
             logger.debug("Identifying equivalent rows...")
         
         # Identify equivalent rows and append to the same summary file
-        pivot_df = identify_and_remove_equivalent_rows(pivot_df, gen, evo_id_pp_to_name=evo_id_pp_to_name, summary_file=summary_file)
+        pivot_df = identify_and_remove_equivalent_rows(pivot_df, gen, evo_id_pp_to_name=evo_id_pp_to_name, summary_file=summary_file, party_size=party_size)
         
         if TQDM_AVAILABLE:
             logger.debug("Filling null values with additive unavailable score...")
@@ -401,7 +480,7 @@ def filter_dominated_rows(pivot_df: pd.DataFrame, gen: int = None, evo_id_pp_to_
     return filtered_df
 
 
-def identify_and_remove_equivalent_rows(pivot_df: pd.DataFrame, gen: int, evo_id_pp_to_name: dict = None, summary_file: Path = None) -> pd.DataFrame:
+def identify_and_remove_equivalent_rows(pivot_df: pd.DataFrame, gen: int, evo_id_pp_to_name: dict = None, summary_file: Path = None, party_size: int = None) -> pd.DataFrame:
     """
     Identify rows with identical values across all columns, save equivalent groups to file,
     and remove duplicates keeping only one representative from each group.
@@ -411,6 +490,7 @@ def identify_and_remove_equivalent_rows(pivot_df: pd.DataFrame, gen: int, evo_id
         gen (int): Pokemon generation number
         evo_id_pp_to_name (dict, optional): Mapping from evo_id_pp to pokemon display name
         summary_file (Path, optional): Path to append equivalent groups summary
+        party_size (int, optional): Party size, used only to namespace the equivalent-rows filename
         
     Returns:
         pd.DataFrame: Pivot table with duplicate equivalent rows removed
@@ -442,7 +522,8 @@ def identify_and_remove_equivalent_rows(pivot_df: pd.DataFrame, gen: int, evo_id
     
     if equivalent_groups:
         # Save equivalent groups to an intermediate artifact (not into data/).
-        equivalent_file = paths.intermediate_dir() / f"equivalent_rows_gen{gen}.txt"
+        ps_suffix = f"_ps{party_size}" if party_size is not None else ""
+        equivalent_file = paths.intermediate_dir() / f"equivalent_rows_gen{gen}{ps_suffix}.txt"
         
         with open(equivalent_file, 'w') as f:
             f.write(f"Equivalent Variant Groups for Generation {gen}\n")

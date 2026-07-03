@@ -14,5 +14,7 @@
     },
     "exclusions": [155],
     "easy_dog_catch": "n",
-    "drop_first_rival_encounter": "y"
+    "drop_first_rival_encounter": "y",
+    "min_party_size": 1,
+    "max_party_size": 6
 }

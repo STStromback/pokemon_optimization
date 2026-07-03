@@ -380,6 +380,9 @@ def calculate_best_party_milp(
     player_pokemon_df: pd.DataFrame = None,
     time_limit: int = 300,
     apply_dominance_filter: bool = True,
+    party_size: int = 6,
+    skip_prefilter: bool = False,
+    save_results: bool = True,
     verbose: bool = True,
     **kwargs
 ) -> Dict[str, Any]:
@@ -389,14 +392,30 @@ def calculate_best_party_milp(
     Args:
         battle_results_df: DataFrame with battle results (pivot table format)
         battle_results_path: Path to battle results CSV file
-        player_pokemon_df: Optional DataFrame with detailed player Pokemon data for encounter analysis
+        player_pokemon_df: Optional DataFrame with detailed player Pokemon data for encounter analysis.
+            Should already be filtered to ``party_size`` when running the multi-party-size pipeline,
+            since ``evo_id_pp`` + ``enc_id`` no longer uniquely identifies a row across party sizes.
         config_path: Path to config.json file
         time_limit: Solver time limit in seconds (default 300)
-        apply_dominance_filter: Whether to pre-filter dominated rows (default True)
+        apply_dominance_filter: Whether to pre-filter dominated rows (default True). Ignored when
+            ``skip_prefilter`` is True.
+        party_size: Number of Pokemon to select for the party (default 6). Also used as ``k`` in the
+            underlying MILP formulation.
+        skip_prefilter: When True, skip unwinnable-column filtering, drop_first_rival_encounter, and
+            dominance filtering entirely, because the caller (e.g. ``simulate_battles.py`` in the main
+            pipeline) has already applied them upstream in the correct order. Standalone/direct usage
+            (e.g. loading straight from ``battle_results_path``) should leave this False.
+        save_results: Whether to write the results report/visualizations/CSVs to disk immediately
+            (default True). When running the multi-party-size pipeline, callers typically pass False
+            here and instead call ``save_results_to_file`` explicitly once the winning party size
+            across all sizes has been determined, to avoid writing full result artifacts for every
+            candidate party size.
         verbose: Whether to print progress
     
     Returns:
-        Dictionary with optimization results
+        Dictionary with optimization results. Includes ``battle_df``, the deterministically
+        ordered battle results DataFrame used for solving, which callers can pass to
+        ``save_results_to_file`` later without needing to reconstruct it.
     """
     if not PULP_AVAILABLE:
         raise ImportError("PuLP library is required. Install with: pip install pulp")
@@ -421,8 +440,9 @@ def calculate_best_party_milp(
     # Load config
     config = load_config(config_path)
     
-    # Apply drop_first_rival_encounter if enabled
-    drop_first_rival_encounter = config.get('drop_first_rival_encounter', 'n').lower() == 'y'
+    # Apply drop_first_rival_encounter if enabled (skipped when the caller, e.g. simulate_battles.py
+    # in the main pipeline, has already applied this upstream before dominance filtering)
+    drop_first_rival_encounter = (not skip_prefilter) and config.get('drop_first_rival_encounter', 'n').lower() == 'y'
     if drop_first_rival_encounter:
         battle_cols = [c for c in df.columns if c != 'evo_id_pp']
         if len(battle_cols) >= 3:
@@ -447,24 +467,29 @@ def calculate_best_party_milp(
         print(f"\n=== MILP-based Pokemon Party Optimization ===")
         print(f"Dataset: {len(df)} Pokemon variants, {len(sorted_cols)} battle scenarios")
     
-    # Filter unwinnable columns (those without any winning combinations)
-    if verbose:
-        print(f"\nFiltering unwinnable columns...")
-    df, unwinnable_info = filter_unwinnable_columns(df, verbose=verbose)
+    # Filter unwinnable columns (those without any winning combinations). Skipped when the caller
+    # has already pruned columns upstream (see skip_prefilter docstring above).
+    unwinnable_info = {'removed_columns': [], 'removed_count': 0}
+    if not skip_prefilter:
+        if verbose:
+            print(f"\nFiltering unwinnable columns...")
+        df, unwinnable_info = filter_unwinnable_columns(df, verbose=verbose)
+        
+        # Update sorted_cols after filtering
+        battle_cols = [c for c in df.columns if c != 'evo_id_pp']
+        try:
+            sorted_cols = sorted(battle_cols, key=lambda x: int(x))
+        except (ValueError, TypeError):
+            sorted_cols = sorted(battle_cols, key=lambda x: str(x))
+        df = df[['evo_id_pp'] + sorted_cols]
+        
+        if verbose and unwinnable_info['removed_count'] > 0:
+            print(f"  Remaining battle scenarios: {len(sorted_cols)}")
     
-    # Update sorted_cols after filtering
-    battle_cols = [c for c in df.columns if c != 'evo_id_pp']
-    try:
-        sorted_cols = sorted(battle_cols, key=lambda x: int(x))
-    except (ValueError, TypeError):
-        sorted_cols = sorted(battle_cols, key=lambda x: str(x))
-    df = df[['evo_id_pp'] + sorted_cols]
-    
-    if verbose and unwinnable_info['removed_count'] > 0:
-        print(f"  Remaining battle scenarios: {len(sorted_cols)}")
-    
-    # Apply dominance filtering
-    if apply_dominance_filter:
+    # Apply dominance filtering (skipped when the caller already dominance-filtered upstream, e.g.
+    # simulate_battles.py in the main pipeline, which filters AFTER column pruning -- doing it again
+    # here on the same data would be a redundant no-op at best)
+    if apply_dominance_filter and not skip_prefilter:
         if verbose:
             print(f"\nApplying dominance filtering...")
         original_size = len(df)
@@ -495,7 +520,7 @@ def calculate_best_party_milp(
         cost_matrix=cost_matrix,
         row_ids=row_ids,
         col_ids=col_ids,
-        k=6,
+        k=party_size,
         exclusions=exclusions,
         restriction_groups=restriction_groups,
         time_limit=time_limit,
@@ -514,7 +539,8 @@ def calculate_best_party_milp(
             'invalid_combinations': 0,
             'method': 'milp',
             'solver_status': solution['status'],
-            'unwinnable_columns': unwinnable_info
+            'unwinnable_columns': unwinnable_info,
+            'party_size': party_size
         }
     
     # Extract results
@@ -530,7 +556,7 @@ def calculate_best_party_milp(
     
     # Calculate statistics
     n_pokemon = len(df)
-    total_combinations = math.comb(n_pokemon, 6) if n_pokemon >= 6 else 0
+    total_combinations = math.comb(n_pokemon, party_size) if n_pokemon >= party_size else 0
     
     results = {
         'best_party_indices': best_party_indices,
@@ -543,7 +569,9 @@ def calculate_best_party_milp(
         'method': 'milp',
         'solver_status': solution['status'],
         'original_search_space': total_combinations,
-        'unwinnable_columns': unwinnable_info
+        'unwinnable_columns': unwinnable_info,
+        'party_size': party_size,
+        'battle_df': df
     }
     
     if verbose:
@@ -553,7 +581,8 @@ def calculate_best_party_milp(
         print(f"Original search space: {total_combinations:,}")
     
     # Save results
-    _save_results_to_file(results, config_path, df, player_pokemon_df)
+    if save_results:
+        save_results_to_file(results, config_path, df, player_pokemon_df, party_size=party_size)
     
     return results
 
@@ -634,13 +663,16 @@ def _get_display_pokemon_name(base_evo_id: int, evo_id_pp: str, config_settings:
         return matching.iloc[0]['pokemon']
 
 
-def _save_results_to_file(results: Dict[str, Any], config_path: str = None, df: pd.DataFrame = None, player_pokemon_df: pd.DataFrame = None):
-    """Save results to file in the standard format."""
+def save_results_to_file(results: Dict[str, Any], config_path: str = None, df: pd.DataFrame = None, player_pokemon_df: pd.DataFrame = None, party_size: int = None):
+    """Save results to file in the standard format. Public so callers (e.g. the multi-party-size
+    pipeline in run/main.py) can defer saving until the winning party size is known, rather than
+    having every candidate party size write its own full report/visualizations/CSVs."""
     try:
         timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
         results_dir = paths.results_dir()
 
-        filename = f"best_party_milp_{timestamp}.txt"
+        ps_suffix = f"_ps{party_size}" if party_size is not None else ""
+        filename = f"best_party_milp_{timestamp}{ps_suffix}.txt"
         filepath = results_dir / filename
 
         config_settings = load_config(config_path)
@@ -664,6 +696,7 @@ def _save_results_to_file(results: Dict[str, Any], config_path: str = None, df: 
             f.write("="*60 + "\n\n")
 
             f.write(f"OPTIMIZATION METHOD: Mixed Integer Linear Programming (MILP)\n")
+            f.write(f"PARTY SIZE: {party_size if party_size is not None else results.get('party_size', 6)}\n")
             f.write(f"SOLVER STATUS: {results.get('solver_status', 'Unknown')}\n")
             f.write(f"FINAL FITNESS SCORE: {results['best_fitness']:.6f}\n")
             f.write(f"GUARANTEED GLOBAL OPTIMUM: YES\n\n")
@@ -942,11 +975,13 @@ def _create_party_performance_visualization(results: Dict[str, Any], df: pd.Data
             return (ratio, 0, 1 - ratio)
         return 'blue'
 
-    fig, axes = plt.subplots(7, 1, figsize=(16, 12), sharex=True)
+    n_party = len(best_party_indices)
+    fig, axes = plt.subplots(n_party + 1, 1, figsize=(16, 2 * (n_party + 1)), sharex=True, squeeze=False)
+    axes = axes.flatten()
     n_encounters = len(min_values)
     x_positions = np.arange(n_encounters)
 
-    for i in range(6):
+    for i in range(n_party):
         vals = individual_pokemon_data[i, :]
         colors = [value_to_color(v) for v in vals]
         axes[i].bar(x_positions, height=1, width=1.0, color=colors, edgecolor='none')
@@ -958,13 +993,13 @@ def _create_party_performance_visualization(results: Dict[str, Any], df: pd.Data
         axes[i].set_xticks([])
 
     min_colors = [value_to_color(v) for v in min_values]
-    axes[6].bar(x_positions, height=1, width=1.0, color=min_colors, edgecolor='none')
-    axes[6].set_xlim(-0.5, n_encounters - 0.5)
-    axes[6].set_ylim(0, 1)
-    axes[6].set_ylabel('Party Min', fontsize=10, rotation=0, ha='right', va='center')
-    axes[6].set_yticks([])
-    axes[6].set_xticks(np.arange(0, n_encounters, max(1, n_encounters // 10)))
-    axes[6].set_xlabel('Encounter ID', fontsize=12)
+    axes[n_party].bar(x_positions, height=1, width=1.0, color=min_colors, edgecolor='none')
+    axes[n_party].set_xlim(-0.5, n_encounters - 0.5)
+    axes[n_party].set_ylim(0, 1)
+    axes[n_party].set_ylabel('Party Min', fontsize=10, rotation=0, ha='right', va='center')
+    axes[n_party].set_yticks([])
+    axes[n_party].set_xticks(np.arange(0, n_encounters, max(1, n_encounters // 10)))
+    axes[n_party].set_xlabel('Encounter ID', fontsize=12)
 
     fig.suptitle('Party Performance Across Encounters (MILP - Global Optimum)', fontsize=14, y=0.95)
     plt.tight_layout(rect=[0, 0, 1, 0.92])
@@ -1031,10 +1066,12 @@ def _create_unique_best_performance_visualization(results: Dict[str, Any], df: p
             return (ratio, 0, 1 - ratio)
         return 'blue'
 
-    fig, axes = plt.subplots(6, 1, figsize=(16, 10), sharex=True)
+    n_party = len(best_party_indices)
+    fig, axes = plt.subplots(n_party, 1, figsize=(16, max(2, n_party) * 1.7), sharex=True, squeeze=False)
+    axes = axes.flatten()
     x_positions = np.arange(n_encounters)
 
-    for i in range(6):
+    for i in range(n_party):
         vals = unique_best_data[i, :]
         # Only draw bars where we have non-NaN values
         for j, val in enumerate(vals):
@@ -1047,8 +1084,8 @@ def _create_unique_best_performance_visualization(results: Dict[str, Any], df: p
         axes[i].set_yticks([])
         axes[i].set_xticks([])
 
-    axes[5].set_xticks(np.arange(0, n_encounters, max(1, n_encounters // 10)))
-    axes[5].set_xlabel('Encounter ID', fontsize=12)
+    axes[n_party - 1].set_xticks(np.arange(0, n_encounters, max(1, n_encounters // 10)))
+    axes[n_party - 1].set_xlabel('Encounter ID', fontsize=12)
 
     fig.suptitle('Unique Best Performance Across Encounters (MILP - Global Optimum)\n(Only showing bars where one Pokemon uniquely outperforms all others)', fontsize=14, y=0.95)
     plt.tight_layout(rect=[0, 0, 1, 0.92])
