@@ -410,36 +410,39 @@ def filter_dominated_rows(pivot_df: pd.DataFrame, gen: int = None, evo_id_pp_to_
     
     # Convert to numpy for faster computation
     values = pivot_df.values
+    n_rows = len(pivot_df)
+    index_arr = pivot_df.index.to_numpy()
     indices_to_keep = []
     # Track dominance relationships: dominator -> set(dominated)
     dominates_map = {}
     
-    # Use tqdm for progress bar if available
-    row_range = tqdm(range(len(pivot_df)), desc="Checking dominance") if TQDM_AVAILABLE else range(len(pivot_df))
+    # Vectorized dominance check: for each row i, compare it against *all* other rows
+    # j in a single NumPy broadcast instead of an inner Python for-loop. This preserves
+    # the exact same O(n^2) comparison semantics (and NaN behavior) as the original
+    # nested-loop implementation, but replaces n^2 individual Python-level np.all/np.any
+    # calls with n vectorized O(n * m) array operations evaluated in C, which is a large
+    # constant-factor speedup without changing what gets filtered.
+    #
+    # Dominance rule (unchanged): row_j dominates row_i if every value in row_j is <=
+    # the corresponding value in row_i, and at least one value is strictly less.
+    # When multiple rows dominate row_i, the lowest-index dominator is recorded, matching
+    # the original loop's "break on first match" (j iterating 0..n-1, skipping i).
+    row_range = tqdm(range(n_rows), desc="Checking dominance") if TQDM_AVAILABLE else range(n_rows)
     
     for i in row_range:
-        is_dominated = False
         row_i = values[i]
         
-        # Check if this row is dominated by any other row
-        for j in range(len(pivot_df)):
-            if i == j:
-                continue
-            
-            row_j = values[j]
-            
-            # Check if row_j dominates row_i
-            # row_j dominates row_i if all values in row_j <= row_i and at least one is strictly less
-            # (remember: lower scores are better, so we want to keep rows with lower scores)
-            if np.all(row_j <= row_i) and np.any(row_j < row_i):
-                is_dominated = True
-                # Record dominance relationship
-                dom_idx = pivot_df.index[j]
-                sub_idx = pivot_df.index[i]
-                dominates_map.setdefault(dom_idx, set()).add(sub_idx)
-                break
+        all_le = np.all(values <= row_i, axis=1)
+        any_lt = np.any(values < row_i, axis=1)
+        dominators = all_le & any_lt
+        dominators[i] = False
         
-        if not is_dominated:
+        if dominators.any():
+            j = int(np.argmax(dominators))  # first (lowest-index) dominator, matches original break order
+            dom_idx = index_arr[j]
+            sub_idx = index_arr[i]
+            dominates_map.setdefault(dom_idx, set()).add(sub_idx)
+        else:
             indices_to_keep.append(i)
     
     filtered_df = pivot_df.iloc[indices_to_keep].copy()

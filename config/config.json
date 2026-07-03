@@ -2,8 +2,8 @@
     "initialize_repo": "n",
     "gen": [1,2,3],
     "level_calc_method (sequential_max/independent)": "sequential_max",
-    "trade_evolutions": "y",
-    "legendaries": "y",
+    "trade_evolutions": "n",
+    "legendaries": "n",
     "all_starters": "n",
     "restrictions":
     {
@@ -15,6 +15,6 @@
     "exclusions": [155],
     "easy_dog_catch": "n",
     "drop_first_rival_encounter": "y",
-    "min_party_size": 1,
+    "min_party_size": 3,
     "max_party_size": 6
 }

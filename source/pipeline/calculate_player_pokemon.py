@@ -1495,9 +1495,6 @@ def calculate_player_pokemons(gen: int, player_pokemon_encounter_pairs_df: pd.Da
         if TQDM_AVAILABLE:
             logger.debug("Identifying Pokemon species (fully optimized)...")
         
-        # Build comprehensive pokemon identification lookup table
-        pokemon_id_cache = {}
-        
         # Pre-build evolution chain lookup if not exists
         local_evo_chain_lookup = {}
         for evo_id in stats['evo_id'].dropna().unique():
@@ -1532,87 +1529,61 @@ def calculate_player_pokemons(gen: int, player_pokemon_encounter_pairs_df: pd.Da
             local_evo_chain_lookup[evo_id] = chain_data
             
         
-        # Pre-compute pokemon identification for all unique (evo_id, level, stage_enc) combinations
+        # Pre-compute pokemon identification for all unique (evo_id, level, stage_enc) combinations.
+        # This loop is bounded by the number of *distinct* keys, not by the number of rows in
+        # valid_combo (which has already been multiplied by the party-size expansion), so its
+        # cost does not grow with party_size range.
         unique_id_combinations = valid_combo[['evo_id_pp', 'level', 'stage_enc']].dropna().drop_duplicates()
         
+        combo_iter = unique_id_combinations.itertuples(index=False)
         if TQDM_AVAILABLE:
-            for _, row in tqdm(unique_id_combinations.iterrows(), total=len(unique_id_combinations), desc="Identifying Pokemon"):
-                evo_id = row['evo_id_pp']
-                level = int(row['level'])
-                stage_enc = int(row['stage_enc'])
-                
-                chain_data = local_evo_chain_lookup.get(evo_id, [])
-                if not chain_data:
-                    pokemon_id_cache[(evo_id, level, stage_enc)] = pd.NA
+            combo_iter = tqdm(combo_iter, total=len(unique_id_combinations), desc="Identifying Pokemon")
+        
+        computed_pokemon = []
+        for row in combo_iter:
+            evo_id = row.evo_id_pp
+            level = int(row.level)
+            stage_enc = int(row.stage_enc)
+            
+            chain_data = local_evo_chain_lookup.get(evo_id, [])
+            if not chain_data:
+                computed_pokemon.append(pd.NA)
+                continue
+            
+            # Find the highest valid evolution
+            best_pokemon = None
+            best_evo_lvl = -1
+            
+            for poke_data in chain_data:
+                # Check level requirement
+                if poke_data['evo_lvl'] > level:
                     continue
                 
-                # Find the highest valid evolution
-                best_pokemon = None
-                best_evo_lvl = -1
-                
-                for poke_data in chain_data:
-                    # Check level requirement
-                    if poke_data['evo_lvl'] > level:
-                        continue
-                    
-                    # Check evolution item stage requirement
-                    if poke_data['required_stage'] > stage_enc:
-                        continue
-                    
-                    # This Pokemon is valid, update if it's better than current best
-                    if poke_data['evo_lvl'] >= best_evo_lvl:
-                        best_pokemon = poke_data['pokemon']
-                        best_evo_lvl = poke_data['evo_lvl']
-                
-                final_pokemon = best_pokemon if best_pokemon else pd.NA
-                pokemon_id_cache[(evo_id, level, stage_enc)] = final_pokemon
-                
-        else:
-            for _, row in unique_id_combinations.iterrows():
-                evo_id = row['evo_id_pp']
-                level = int(row['level'])
-                stage_enc = int(row['stage_enc'])
-                
-                chain_data = local_evo_chain_lookup.get(evo_id, [])
-                if not chain_data:
-                    pokemon_id_cache[(evo_id, level, stage_enc)] = pd.NA
+                # Check evolution item stage requirement
+                if poke_data['required_stage'] > stage_enc:
                     continue
                 
-                # Find the highest valid evolution
-                best_pokemon = None
-                best_evo_lvl = -1
-                
-                for poke_data in chain_data:
-                    # Check level requirement
-                    if poke_data['evo_lvl'] > level:
-                        continue
-                    
-                    # Check evolution item stage requirement
-                    if poke_data['required_stage'] > stage_enc:
-                        continue
-                    
-                    # This Pokemon is valid, update if it's better than current best
-                    if poke_data['evo_lvl'] >= best_evo_lvl:
-                        best_pokemon = poke_data['pokemon']
-                        best_evo_lvl = poke_data['evo_lvl']
-                
-                final_pokemon = best_pokemon if best_pokemon else pd.NA
-                pokemon_id_cache[(evo_id, level, stage_enc)] = final_pokemon
-                
+                # This Pokemon is valid, update if it's better than current best
+                if poke_data['evo_lvl'] >= best_evo_lvl:
+                    best_pokemon = poke_data['pokemon']
+                    best_evo_lvl = poke_data['evo_lvl']
+            
+            computed_pokemon.append(best_pokemon if best_pokemon else pd.NA)
         
-        # Vectorized pokemon identification using cached results
-        def get_pokemon_from_cache(row):
-            if pd.isna(row['level']) or pd.isna(row['evo_id_pp']):
-                return pd.NA
-            try:
-                level = int(row['level'])
-                stage_enc = int(row['stage_enc'])
-                result = pokemon_id_cache.get((row['evo_id_pp'], level, stage_enc), pd.NA)
-                return result
-            except (ValueError, TypeError):
-                return pd.NA
+        unique_id_combinations = unique_id_combinations.copy()
+        unique_id_combinations['pokemon'] = computed_pokemon
         
-        valid_combo['pokemon'] = valid_combo.apply(get_pokemon_from_cache, axis=1)
+        # Broadcast the per-unique-key result back onto every row that shares that key via a
+        # single vectorized merge, instead of re-deriving it with a row-wise Python .apply()
+        # (previously `get_pokemon_from_cache`) over every row of the party-size-expanded
+        # valid_combo. This is what collapses the cost from O(valid_rows) Python-level function
+        # calls + dict lookups down to O(unique_combinations) Python work (above) plus one
+        # vectorized join.
+        original_valid_index = valid_combo.index
+        valid_combo = valid_combo.drop(columns=['pokemon']).merge(
+            unique_id_combinations, on=['evo_id_pp', 'level', 'stage_enc'], how='left'
+        )
+        valid_combo.index = original_valid_index
         
         # Update original dataframe
         combo.loc[valid_mask, 'pokemon'] = valid_combo['pokemon']
@@ -1975,6 +1946,20 @@ def calculate_player_pokemons(gen: int, player_pokemon_encounter_pairs_df: pd.Da
         
         return pokemon_stats, types, types_set
 
+    # get_move_type_boost_multiplier's result depends only on (gen, stage_enc, move_type) -- it does
+    # NOT depend on any per-row/per-move data beyond that -- but it does a pandas boolean-mask filter
+    # + itertuples() scan over `stages` on every call. Since it's invoked once per candidate move for
+    # every unique damage-calc key (potentially millions of calls for gen 2/3), and `stages` is fixed
+    # for the lifetime of this calculate_player_pokemons() call, we memoize it here to turn a repeated
+    # DataFrame scan into an O(1) dict lookup after the first occurrence of each (stage_enc, move_type).
+    _move_type_boost_cache: Dict[Tuple[int, int, str], float] = {}
+
+    def _cached_move_type_boost_multiplier(gen_in, stage_enc_in, move_type_in):
+        key = (gen_in, stage_enc_in, move_type_in)
+        if key not in _move_type_boost_cache:
+            _move_type_boost_cache[key] = get_move_type_boost_multiplier(gen_in, stage_enc_in, move_type_in, stages)
+        return _move_type_boost_cache[key]
+
     def _calculate_move_damage(move_name, attacker_stats, defender_stats, attacker_types_set, defender_types, 
                               attacker_level, attacker_base_speed, gen, stage_enc=None, ability_attacker=None, 
                               ability_defender=None, include_badge_boost=False, attacker_pokemon_name=None):
@@ -2084,7 +2069,7 @@ def calculate_player_pokemons(gen: int, player_pokemon_encounter_pairs_df: pd.Da
         
         # Apply badge type boost (only for player_pokemon attacks)
         if include_badge_boost and stage_enc is not None:
-            badge_type_boost = get_move_type_boost_multiplier(gen, stage_enc, move_type, stages)
+            badge_type_boost = _cached_move_type_boost_multiplier(gen, stage_enc, move_type)
             damage = damage * badge_type_boost
         
         # Apply ability accuracy modifiers for Gen 3
@@ -2131,36 +2116,33 @@ def calculate_player_pokemons(gen: int, player_pokemon_encounter_pairs_df: pd.Da
     )
     
     # Apply player_pokemon damage calculation (move_out, damage_out) with pre-filtering
-    # Pre-filter to separate available vs unavailable player_pokemons
-    def is_player_pokemon_available(row):
-        evo_id = row['evo_id_pp']
-        stage_enc = row['stage_enc']
-        pokemon = row.get('pokemon', '')
-        
-        # Exclude specific Pokemon that should never have damage calculations
-        if not pd.isna(pokemon) and pokemon and str(pokemon).lower() in _EXCLUDED_PP_POKEMON:
-            return False
-            
-        # player_pokemon is available only if all conditions are met:
-        # 1. evo_id is not missing
-        # 2. evo_id is tracked in min_stage_lookup
-        # 3. stage_enc is not missing  
-        # 4. current stage >= minimum required stage for evo_id
-        # Note: We do NOT check individual Pokemon availability here
-        # because evolved forms can be obtained through evolution
-        evo_id_available = (not pd.isna(evo_id) and 
-                           evo_id in min_stage_lookup and 
-                           not pd.isna(stage_enc) and
-                           stage_enc >= min_stage_lookup[evo_id])
-        
-        return evo_id_available
-    
+    # Pre-filter to separate available vs unavailable player_pokemons.
+    #
+    # Vectorized equivalent of the row-wise "is_player_pokemon_available" check: rather than
+    # invoking a Python function once per row (which re-pays dict-lookup + isna overhead for
+    # every one of the party-size-expanded rows), compute the same boolean logic as whole-column
+    # numpy/pandas operations once.
     if TQDM_AVAILABLE:
-        logger.info("Pre-filtering player_pokemons by availability...")
-        tqdm.pandas(desc="Filtering player_pokemons")
-        available_mask = combo.progress_apply(is_player_pokemon_available, axis=1)
+        logger.info("Pre-filtering player_pokemons by availability (vectorized)...")
+    
+    evo_id_series = combo['evo_id_pp']
+    stage_enc_numeric = pd.to_numeric(combo['stage_enc'], errors='coerce')
+    min_stage_series = evo_id_series.map(min_stage_lookup)  # NaN where evo_id missing from lookup
+    
+    evo_id_available_mask = (
+        evo_id_series.notna()
+        & min_stage_series.notna()
+        & stage_enc_numeric.notna()
+        & (stage_enc_numeric >= min_stage_series)
+    )
+    
+    pokemon_series = combo.get('pokemon')
+    if pokemon_series is not None:
+        excluded_mask = pokemon_series.notna() & pokemon_series.astype(str).str.lower().isin(_EXCLUDED_PP_POKEMON)
     else:
-        available_mask = combo.apply(is_player_pokemon_available, axis=1)
+        excluded_mask = pd.Series(False, index=combo.index)
+    
+    available_mask = evo_id_available_mask & ~excluded_mask
     
     # Use views to avoid unnecessary copying
     available_df = combo.loc[available_mask]

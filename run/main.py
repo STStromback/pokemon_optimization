@@ -12,6 +12,8 @@ Usage:
 import argparse
 import math
 import sys
+import time
+from contextlib import contextmanager
 from pathlib import Path
 
 # Bootstrap: make the source/ package root importable (single place, no per-module hacks).
@@ -38,6 +40,18 @@ from optimize.milp import calculate_best_party_milp, save_results_to_file
 from scrapers import scrape_availability, scrape_learnsets_pokeapi
 
 MILP_TIME_LIMIT = 300
+
+
+@contextmanager
+def timed_step(label: str):
+    """Print elapsed wall-clock time for a pipeline step, for perf tracking/regression checks."""
+    start = time.perf_counter()
+    print(f"[timing] {label}: starting...")
+    try:
+        yield
+    finally:
+        elapsed = time.perf_counter() - start
+        print(f"[timing] {label}: {elapsed:.2f}s")
 
 
 def parse_args(argv=None) -> argparse.Namespace:
@@ -123,20 +137,24 @@ def process_generation(gen: int, config: dict, config_path: str, debug: bool) ->
     print(f"\n=== Processing Generation {gen} ===")
 
     print(f"Step 1: Generating encounters for gen {gen}...")
-    encounters_df = generate_encounters(gen)
+    with timed_step(f"gen{gen} Step 1 (generate_encounters)"):
+        encounters_df = generate_encounters(gen)
     print(f"Generated {len(encounters_df)} encounters")
 
     print(f"Step 2: Generating player_pokemon for gen {gen}...")
-    player_pokemon_df = generate_player_pokemon(config_path)
-    player_pokemon_df = player_pokemon_df[player_pokemon_df["generation"] == gen]
+    with timed_step(f"gen{gen} Step 2 (generate_player_pokemon)"):
+        player_pokemon_df = generate_player_pokemon(config_path)
+        player_pokemon_df = player_pokemon_df[player_pokemon_df["generation"] == gen]
     print(f"Generated {len(player_pokemon_df)} player_pokemon")
 
     print(f"Step 3: Creating player_pokemon-encounter pairs for gen {gen}...")
-    pairs_df = generate_player_pokemon_x_encounters(gen, player_pokemon_df, encounters_df)
+    with timed_step(f"gen{gen} Step 3 (pair_player_pokemon_encounters)"):
+        pairs_df = generate_player_pokemon_x_encounters(gen, player_pokemon_df, encounters_df)
     print(f"Generated {len(pairs_df)} player_pokemon-encounter pairs")
 
     print(f"Step 4: Calculating player_pokemon for gen {gen}...")
-    final_df = calculate_player_pokemons(gen, pairs_df, config=config)
+    with timed_step(f"gen{gen} Step 4 (calculate_player_pokemons / damage calc)"):
+        final_df = calculate_player_pokemons(gen, pairs_df, config=config)
     print(f"Final dataset has {len(final_df)} records")
     if debug:
         debug_path = paths.intermediate_dir() / f"player_pokemon_gen{gen}.csv"
@@ -160,7 +178,8 @@ def process_generation(gen: int, config: dict, config_path: str, debug: bool) ->
             continue
 
         print(f"Step 5 (ps={ps}): Simulating battles for gen {gen}...")
-        battle_results = simulate_battles(gen, ps_df, config=config, party_size=ps)
+        with timed_step(f"gen{gen} ps{ps} Step 5 (simulate_battles + dominance filter)"):
+            battle_results = simulate_battles(gen, ps_df, config=config, party_size=ps)
         print(f"Battle simulation complete! Results shape: {battle_results.shape}")
         if debug:
             debug_path = paths.intermediate_dir() / f"battle_results_gen{gen}_ps{ps}.csv"
@@ -169,16 +188,17 @@ def process_generation(gen: int, config: dict, config_path: str, debug: bool) ->
 
         print(f"Step 6 (ps={ps}): Calculating optimal party of {ps} for gen {gen} using MILP optimization...")
         try:
-            results = calculate_best_party_milp(
-                battle_results_df=battle_results,
-                config_path=config_path,
-                player_pokemon_df=ps_df,
-                time_limit=MILP_TIME_LIMIT,
-                party_size=ps,
-                skip_prefilter=True,
-                save_results=False,
-                verbose=True,
-            )
+            with timed_step(f"gen{gen} ps{ps} Step 6 (MILP optimization)"):
+                results = calculate_best_party_milp(
+                    battle_results_df=battle_results,
+                    config_path=config_path,
+                    player_pokemon_df=ps_df,
+                    time_limit=MILP_TIME_LIMIT,
+                    party_size=ps,
+                    skip_prefilter=True,
+                    save_results=False,
+                    verbose=True,
+                )
             print(f"\nOptimization Results for Generation {gen}, Party Size {ps}:")
             print(f"Best Fitness Score: {results['best_fitness']:.4f}")
             print(f"Best Party (evo_id_pp): {results['best_evo_id_pp']}")
