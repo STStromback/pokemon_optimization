@@ -21,7 +21,7 @@ import sys
 source_dir = Path(__file__).parent.parent / "source"
 sys.path.insert(0, str(source_dir))
 
-from calculate_player_pokemon import (
+from pipeline.calculate_player_pokemon import (
     _norm,
     calculate_pokemon_stats,
     calculate_critical_hit_rate,

@@ -18,7 +18,7 @@ from pathlib import Path
 source_dir = Path(__file__).parent.parent / "source"
 sys.path.insert(0, str(source_dir))
 
-from calculate_best_party import (
+from optimize.milp import (
     _process_restrictions,
     _violates_restrictions,
     load_battle_results,

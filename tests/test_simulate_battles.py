@@ -20,7 +20,7 @@ from pathlib import Path
 source_dir = Path(__file__).parent.parent / "source"
 sys.path.insert(0, str(source_dir))
 
-from simulate_battles import (
+from pipeline.simulate_battles import (
     filter_dominated_rows,
     identify_and_remove_equivalent_rows,
 )
