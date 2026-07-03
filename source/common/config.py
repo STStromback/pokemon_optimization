@@ -24,6 +24,8 @@ _DEFAULT_CONFIG: Dict[str, Any] = {
     "exclusions": [],
     "easy_dog_catch": "n",
     "drop_first_rival_encounter": "y",
+    "min_party_size": 1,
+    "max_party_size": 6,
 }
 
 # Legacy/renamed keys mapped to their canonical names for backwards compatibility.
@@ -92,3 +94,36 @@ def get_generations(config: Dict[str, Any] = None) -> List[int]:
 def get_level_calc_method(config: Dict[str, Any]) -> str:
     """Return the configured level calculation method (default ``sequential_max``)."""
     return config.get("level_calc_method", "sequential_max")
+
+
+def get_party_size_range(config: Dict[str, Any] = None) -> List[int]:
+    """Resolve the list of party sizes to evaluate from a config dict.
+
+    Validates ``min_party_size``/``max_party_size`` against the standard
+    1-6 party range, clamping and warning on invalid values instead of
+    raising, so a bad config never aborts the whole pipeline.
+    """
+    if config is None:
+        config = load_config()
+
+    min_ps = config.get("min_party_size", 1)
+    max_ps = config.get("max_party_size", 6)
+
+    try:
+        min_ps = int(min_ps)
+        max_ps = int(max_ps)
+    except (TypeError, ValueError):
+        print(f"Warning: invalid min/max_party_size ({min_ps!r}, {max_ps!r}); using 1-6.")
+        return list(range(1, 7))
+
+    clamped_min = max(1, min(min_ps, 6))
+    clamped_max = max(1, min(max_ps, 6))
+
+    if clamped_min != min_ps or clamped_max != max_ps:
+        print(f"Warning: min/max_party_size out of [1,6] range; clamped to {clamped_min}-{clamped_max}.")
+
+    if clamped_min > clamped_max:
+        print(f"Warning: min_party_size ({clamped_min}) > max_party_size ({clamped_max}); swapping.")
+        clamped_min, clamped_max = clamped_max, clamped_min
+
+    return list(range(clamped_min, clamped_max + 1))

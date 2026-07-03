@@ -8,7 +8,7 @@ from typing import Dict, Tuple, Set, Optional, Any, Callable, List, Iterable
 import warnings
 
 from common import paths
-from common.config import load_config
+from common.config import load_config, get_party_size_range
 from common.generations import (
     BADGE_TYPE_BOOST_MULTIPLIER,
     ITEM_TYPE_BOOST_MULTIPLIER,
@@ -1112,6 +1112,26 @@ def calculate_player_pokemons(gen: int, player_pokemon_encounter_pairs_df: pd.Da
     for col in categorical_cols:
         if col in combo.columns:
             combo[col] = combo[col].astype('category')
+
+    # Expand into one copy per configured party size, scaling exp_enc by 6/party_size
+    # so smaller parties get a proportional experience bonus. Party size 6 keeps the
+    # multiplier at 1.0 (identical to pre-party-size-aware behavior). This must happen
+    # before level/pokemon identification below, since everything downstream keys off
+    # the resulting 'level' (which depends on 'exp_enc').
+    party_sizes = get_party_size_range(config) if config is not None else get_party_size_range()
+    if 'exp_enc' in combo.columns:
+        party_copies = []
+        for ps in party_sizes:
+            copy_df = combo.copy()
+            copy_df['exp_enc'] = copy_df['exp_enc'] * (6.0 / ps)
+            copy_df['party_size'] = ps
+            party_copies.append(copy_df)
+        combo = pd.concat(party_copies, ignore_index=True)
+        if TQDM_AVAILABLE:
+            logger.info(f"Expanded to {len(party_sizes)} party size(s) {party_sizes}: {len(combo)} total rows")
+    else:
+        logger.warning("'exp_enc' column not found; skipping party-size expansion")
+        combo['party_size'] = 6
     
     # Load generation-specific data - Load raw first for parsing comma-separated fields
     stats_raw = pd.read_csv(base_path / f"data/gen_{gen}/stats_gen_{gen}.csv")
@@ -1632,10 +1652,13 @@ def calculate_player_pokemons(gen: int, player_pokemon_encounter_pairs_df: pd.Da
     # Apply evolution requirements filter
     combo = combo.loc[evolution_mask].copy()
     
-    # Step 2: For duplicate evo_id_pp + enc_id combinations, keep only the one with highest evo_index_pp
+    # Step 2: For duplicate evo_id_pp + enc_id (+ party_size) combinations, keep only the one with highest evo_index_pp
     if 'evo_id_pp' in combo.columns and 'enc_id' in combo.columns and 'evo_index_pp' in combo.columns:
-        # Group by evo_id_pp and enc_id, then keep the row with maximum evo_index_pp
-        combo = combo.loc[combo.groupby(['evo_id_pp', 'enc_id'])['evo_index_pp'].idxmax()]
+        # Group by evo_id_pp, enc_id, and party_size, then keep the row with maximum evo_index_pp.
+        # party_size must be included here so rows for different party sizes (which have
+        # different exp_enc-derived levels) are never collapsed against each other.
+        group_keys = ['evo_id_pp', 'enc_id', 'party_size'] if 'party_size' in combo.columns else ['evo_id_pp', 'enc_id']
+        combo = combo.loc[combo.groupby(group_keys)['evo_index_pp'].idxmax()]
     
     filtered_count = len(combo)
     if TQDM_AVAILABLE:
